@@ -1,0 +1,60 @@
+name: daily-snapshot
+
+on:
+  schedule:
+    - cron: "23 6 * * *"   # odd minute, off the congested top-of-hour (A.1)
+  workflow_dispatch: {}      # manual backfill for missed crons (A.1)
+
+concurrency:
+  group: snapshot            # a delayed run can't race the next day's push (A.1)
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0     # diff/extract walk git history for last-ok snapshots
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Snapshot
+        run: node scripts/snapshot.js
+
+      - name: Diff
+        run: node scripts/diff.js
+
+      - name: Extract claims
+        run: node scripts/extract.js
+
+      - name: Commit & push
+        run: |
+          git config user.name "fitgraph-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Backfill the real snapshot commit hash into today's claims (spec §3 evidence).
+          # Must be a SECOND commit, not an amend: amending would change the hash and
+          # invalidate the very value just written.
+          HASH=$(git rev-parse HEAD)
+          TODAY=$(date -u +%Y-%m-%d)
+          if [ -d "claims/$TODAY" ] && grep -rq PENDING_COMMIT "claims/$TODAY"; then
+            grep -rl PENDING_COMMIT "claims/$TODAY" | xargs -r sed -i "s/PENDING_COMMIT/$HASH/g"
+            git add "claims/$TODAY"
+            git commit -m "claims: link snapshot commit $HASH"
+          fi
+          git push
