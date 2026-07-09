@@ -1,0 +1,15 @@
+{
+  "name": "fitgraph-spike",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Freshness feasibility spike: automated change detection across ~50 fitness apps. Spec frozen at v0.",
+  "scripts": {
+    "snapshot": "node scripts/snapshot.js",
+    "diff": "node scripts/diff.js",
+    "extract": "node scripts/extract.js"
+  },
+  "dependencies": {
+    "google-play-scraper": "^10.0.0"
+  }
+}
