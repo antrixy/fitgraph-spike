@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T21:38:06.005Z",
+  "fetched_at": "2026-07-10T09:58:18.008Z",
   "source": "google_play_scraper",
   "appId": "com.weightwatchers.mobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 17252584,
-    "score": 4.364932,
+    "score": 4.3639264,
     "scoreText": "4.4",
-    "ratings": 603142,
-    "reviews": 117403,
+    "ratings": 603128,
+    "reviews": 117400,
     "histogram": {
-      "1": 53621,
-      "2": 19953,
-      "3": 21082,
-      "4": 66516,
-      "5": 441963
+      "1": 53717,
+      "2": 19990,
+      "3": 21121,
+      "4": 66539,
+      "5": 441754
     },
     "price": 0,
     "free": true,

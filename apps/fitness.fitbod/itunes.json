@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-07-09T21:39:04.955Z",
+  "fetched_at": "2026-07-10T09:59:14.133Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1041517543&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/fitbod-inc/id980399690?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6b/f0/976bf012-bf32-3253-93a6-9744c6b55a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6b/f0/976bf012-bf32-3253-93a6-9744c6b55a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/83/4b/e0834b03-efef-a419-82cb-8ae76132539d/41b79018-e13d-4d60-94bf-5c77bdb8d205_Page_1_5_SIZE.png/392x696bb.png",
@@ -20,7 +23,6 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6b/f0/976bf012-bf32-3253-93a6-9744c6b55a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "features": [],
-    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -151,14 +153,14 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6b/f0/976bf012-bf32-3253-93a6-9744c6b55a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/6b/f0/976bf012-bf32-3253-93a6-9744c6b55a5d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/fitbod-inc/id980399690?uo=4",
-    "trackId": 1041517543,
-    "trackName": "Fitbod: Gym & Fitness Planner",
-    "averageUserRatingForCurrentVersion": 4.81091,
-    "sellerUrl": "http://fitbod.me/",
+    "bundleId": "com.fitbod",
+    "trackCensoredName": "Fitbod: Gym & Fitness Planner",
+    "trackViewUrl": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.8109,
+    "minimumOsVersion": "18.0",
     "languageCodesISO2A": [
       "EN",
       "PT",
@@ -166,36 +168,34 @@
     ],
     "fileSizeBytes": "195726336",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 276316,
+    "userRatingCountForCurrentVersion": 276395,
     "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.8109,
+    "sellerUrl": "http://fitbod.me/",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "sellerName": "Fitbod Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "artistId": 980399690,
+    "artistName": "Fitbod Inc.",
     "price": 0,
+    "currentVersionReleaseDate": "2026-07-06T16:07:31Z",
+    "releaseDate": "2015-09-26T20:05:57Z",
+    "trackId": 1041517543,
+    "trackName": "Fitbod: Gym & Fitness Planner",
     "genreIds": [
       "6013",
       "6004"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Fitbod Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "releaseNotes": "Release Notes for 8.24.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me",
-    "currentVersionReleaseDate": "2026-07-06T16:07:31Z",
     "version": "8.24.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your strength training and endurance through personalized AI workouts. You won’t just get stronger—you’ll do it on your terms. Get optimized weight lifting routines with a workout planner made to help you reach your fitness goals. No gym? No problem. Fitbod adapts to you with home training with no equipment needed. Each training session is custom-built for your fitness level and equipment so you can make the most of every workout. Make lasting progress with Fitbod – your own AI trainer guiding you to your strongest self\n\n\nGet everything from recovery and exercise tracking to AI-generated recommendations tailored to your fitness objectives. Need access to a trainer? Shoot a quick email and get all your strength training questions answered easily. Fitbod lets you save and build your own strength training & endurance routines based on your preferences. Change up sessions, choose your favorite exercises, and maximize gains with the help of our AI workouts.\n\n\nMonitor your progress across multiple devices with integrations that make fitness tracking easy. Build customized workouts that integrate with Apple Health. Hit your next session with Strava, Fitbit, and Apple Watch integration. Fitbod does it all.\n\n\nExplore over 1000 exercises and let Fitbod create a customized workout plan for you. With easy-to-follow instructions and hi-res video walkthroughs you can hit each exercise the right way. Cardio, mobility, or strength training and endurance – Fitbod was made for you.\n\n\nDownload today and discover a better way to achieve your fitness goals.\n\n\nFitbod Features\n\nAI-Generated Workouts\n◆ Customized workout plan built around you and your fitness goals\n◆ AI workouts maximize fitness gains by varying and balancing exercises\n◆ Adaptive AI learns from your edits to its workout recommendations\n◆ Non-linear periodization to optimize your workouts for sustained progress\n◆ Fitness for everyone with advanced, intermediate, and beginner levels\n◆ Wide variety of workout modifiers to change up single sessions\n◆ Ability to save, build, or use your favorite strength training workouts\n◆ Pro fitness trainers available via email for all strength training questions\n\n1000+ Exercises\n◆ Hi-res, multi-angle videos of each exercise\n◆ Easy-to-understand, detailed exercise instructions with hi-res, multi-angle videos\n◆ Search exercises by muscle group, equipment type or keyword\n◆ Cardio, mobility, pregnancy-safe exercises and more are available\n◆ Consistent updates made to optimize the exercise library\n\nIntegrations\n◆ Integrated with Apple Health to build customized workouts\n◆ Integrated with Strava and Fitbit\n◆ Available for iOS and Apple Watch\n\nAfter your free trial has ended, this app includes an auto-renewing subscription, which unlocks all premium workouts and features.\n\n◆ Subscription options are either monthly or yearly.\n◆ Payment will be charged to your iTunes Account at confirmation of purchase.\n◆ Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period\n◆ Account will be charged for renewal within 24 hours of the end of the current period, and identify the cost of the renewal\n◆ The account will be charged for renewal within 24 hours before the end of the current period.\n◆ Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.\n\nPrivacy Policy: https://www.fitbod.me/privacy-policy\nTerms of Use: https://www.fitbod.me/terms-conditions\nCalifornia Privacy Rights: https://www.fitbod.me/ccpa-privacy-policy\nSupport: http://fitbod.me/support\n\nJoin the Fitbod Community:\nInstagram: instagram.com/fitbodapp/\nTwitter: twitter.com/fitbodApp\nFacebook: facebook.com/fitbodapp\nStrava: strava.com/clubs/fitbod",
-    "minimumOsVersion": "18.0",
-    "averageUserRating": 4.81091,
-    "trackViewUrl": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4",
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Fitbod: Gym & Fitness Planner",
-    "artistId": 980399690,
-    "artistName": "Fitbod Inc.",
-    "releaseDate": "2015-09-26T20:05:57Z",
-    "bundleId": "com.fitbod",
-    "userRatingCount": 276316
+    "userRatingCount": 276395
   }
 }
