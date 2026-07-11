@@ -54,6 +54,20 @@ Mon + Thu, ~30 min, browser only: open each claim JSON in `claims/`, check again
 - Failure taxonomy from `status.json` reasons + missed-cron count
 - Known follow-ups: Sleep Cycle pricing-page re-probe post-Aug 2026; Gymaholic/Freeletics campaign-churn diff volume (normalization-tuning candidates)
 
+## Implementation decision log
+
+Spec v0 is frozen; per its freeze note, implementation-level decisions are made here with a documented reason. Log of those decisions:
+
+- **2026-07-09 — `npm install` instead of `npm ci`**: web-UI-only workflow means no lockfile can be generated locally.
+- **2026-07-09 — snapshot-commit hash backfilled into claims as a second commit, not an amend**: amending would change the hash being recorded.
+- **2026-07-09 — `.gitignore` for node_modules; Mapbox token in Oura's pricing HTML allowlisted in push protection**: vendor pages embed public client-side tokens; secret scanning can't tell. If more vendors trip this, revisit with a redaction pass in snapshot.js (documented deviation from raw-HTML storage).
+- **2026-07-10 — pricing URLs resolved from day-1 census**: all 14 failures were stale-URL 404s (3 vendor domain moves, 2 www/bare-host strictness, 0 bot-walls). 8 fixed, 6 null (app-only pricing). Lesson: vendor marketing sites rot far faster than store listings.
+- **2026-07-11 — pricing diffs moved from word-level to sentence-level, dual `.md` + `.json` output**: word-set diffs were unreadable in review (2026-07-10 Fitbit diff); JSON artifact lets future extractors and the scorecard consume diffs without reparsing markdown.
+- **2026-07-11 — sentence diffs deduplicated with occurrence counts; MD output switched from blockquotes to bullets**: the same sentence renders 2-5× per page (desktop/mobile/footer/accordion DOM copies), and consecutive `>` lines merge into a single paragraph in GitHub's renderer — both made the 2026-07-11 WHOOP diff hard to review.
+- **2026-07-11 — extract.js now scans pricing-page sentence diffs for the integration lexicon**: spec §3.2 lists pricing/feature pages as an integration_changed source, but the initial implementation only scanned store text fields — a silent coverage gap found while reviewing the first WHOOP diff JSON. Reads the diff JSON artifact (its first internal consumer), so extract must keep running after diff in the workflow.
+
+Post-spike ideas parked (would violate the two-claim-type freeze or need per-vendor work): `version_changed` claim type; "(beta) removed → feature graduated" extraction rule; per-page `section` context on sentence diffs. Store-field data for the first two is already captured in diff JSONs, so both can be extracted retroactively over the full corpus.
+
 ## Protect the observation history
 
 Schemas can change, extractors can improve, the claim model can be redesigned — all derived layers are disposable. The one unrecoverable asset is the observation history: never rewrite commits on `main`, never force-push, never "clean up" old snapshots. A missed observation is recorded honestly as missed; a rewritten one is silently lost forever.
