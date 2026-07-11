@@ -2,7 +2,7 @@
 
 A four-week experiment to determine whether software changes can be automatically observed and converted into trustworthy, evidence-cited claims — run against ~50 fitness apps as the feasibility spike for a fitness-software knowledge graph.
 
-Spec is **frozen at v0** (2026-07-09); this repo is implementation only. Deviations require a documented reason here.
+The product spec is **frozen at v0** (2026-07-09). Implementation may evolve only when required to execute or measure the experiment, with each deviation documented in the decision log below.
 
 **Status:** collecting daily since 2026-07-09; gate measurement window to be declared after the first clean run of the finished pipeline.
 
@@ -16,7 +16,7 @@ Daily GitHub Actions run: `snapshot.js` → `diff.js` → `extract.js` → commi
 
 ## Design principles
 
-- The observation history is the only unrecoverable asset: never rewrite commits on `main`, never force-push, never "clean up" old snapshots. Everything else is disposable.
+- The observation history is the only unrecoverable asset: never rewrite commits on `main`, never force-push, never "clean up" old snapshots. A missed observation is recorded honestly as missed; a rewritten one is silently lost forever. Everything else — schemas, extractors, the claim model — is disposable and regenerable.
 - Raw observations are immutable; derived artifacts (diffs, claims) can always be regenerated from them.
 - Missing observations are never interpreted as "no change." `changed`, `unchanged`, and `didn't observe` are three different states.
 - Human-readable evidence over opaque scores: evidence tiers and source counts, no decimal confidence values.
@@ -57,6 +57,17 @@ Mon + Thu, ~30 min, browser only: open each claim JSON in `claims/`, check again
 - Failure taxonomy from `status.json` reasons + missed-cron count
 - Known follow-ups: Sleep Cycle pricing-page re-probe post-Aug 2026; Gymaholic/Freeletics campaign-churn diff volume (normalization-tuning candidates)
 
+## Current findings (ongoing)
+
+Observations the experiment has produced so far — not conclusions, and each cites its evidence:
+
+- Store metadata is far more stable than vendor marketing sites: day-1 census had 0 store failures vs 14 pricing-page failures, and all 14 were stale URLs — 3 vendor domain moves, 2 www/bare-host strictness, 0 bot-walls (2026-07-09/10).
+- Roughly 1 in 5 apps has no public web pricing at all (9 of 50): pricing lives only in store IAP flows (registry, 2026-07-10).
+- Same-name lookalike apps are common enough to be a standing hazard: three encountered in one week (FitNotes iOS, Gymaholic Play candidate, Down Dog Yoga studios) — developer-identity cross-checks caught all three.
+- Vendor pages duplicate the same sentence 2-5× in the DOM (desktop/mobile/footer/accordion copies), so text diffs require deduplication (WHOOP diff, 2026-07-11).
+- Meaningful product events surface fast: within 48h of collection, WHOOP shipped a version bump, a beta graduation, and a marketing repositioning — all captured, none over-claimed (2026-07-11).
+- GitHub Actions cron drift measured at ~2-3.7h past schedule in the first two scheduled runs (A.1 confirmed).
+
 ## Implementation decision log
 
 Spec v0 is frozen; per its freeze note, implementation-level decisions are made here with a documented reason. Log of those decisions (splits to `IMPLEMENTATION_LOG.md` at ~20 entries):
@@ -71,6 +82,3 @@ Spec v0 is frozen; per its freeze note, implementation-level decisions are made 
 
 Post-spike ideas parked (would violate the two-claim-type freeze or need per-vendor work): `version_changed` claim type; "(beta) removed → feature graduated" extraction rule; per-page `section` context on sentence diffs. Store-field data for the first two is already captured in diff JSONs, so both can be extracted retroactively over the full corpus.
 
-## Protect the observation history
-
-Schemas can change, extractors can improve, the claim model can be redesigned — all derived layers are disposable. The one unrecoverable asset is the observation history: never rewrite commits on `main`, never force-push, never "clean up" old snapshots. A missed observation is recorded honestly as missed; a rewritten one is silently lost forever.
