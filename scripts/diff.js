@@ -65,15 +65,22 @@ function toSentences(text) {
 
 // Set-difference at sentence level. Order-insensitive by design: page sections
 // move around constantly; we care about appearance/disappearance of statements.
+// Deduplicated with occurrence counts: the same sentence often renders 2-5x per
+// page (desktop/mobile/footer/accordion DOM copies) and duplicates add review
+// noise without information (observed: WHOOP diff 2026-07-11).
+function countUnique(arr) {
+  const m = new Map();
+  for (const s of arr) m.set(s, (m.get(s) || 0) + 1);
+  return m;
+}
 function sentenceDiff(oldText, newText) {
-  const oldS = toSentences(oldText);
-  const newS = toSentences(newText);
-  const oldSet = new Set(oldS);
-  const newSet = new Set(newS);
-  const added = newS.filter((s) => !oldSet.has(s));
-  const removed = oldS.filter((s) => !newSet.has(s));
+  const oldCounts = countUnique(toSentences(oldText));
+  const newCounts = countUnique(toSentences(newText));
+  const added = [], removed = [];
+  for (const [s, n] of newCounts) if (!oldCounts.has(s)) added.push({ text: s, occurrences: n });
+  for (const [s, n] of oldCounts) if (!newCounts.has(s)) removed.push({ text: s, occurrences: n });
   if (!added.length && !removed.length) return null;
-  const CAP = 80; // review sanity cap; JSON records truncation explicitly
+  const CAP = 80; // review sanity cap (unique sentences); JSON records truncation explicitly
   return {
     added: added.slice(0, CAP),
     removed: removed.slice(0, CAP),
@@ -158,7 +165,11 @@ for (const app of registry.apps) {
           granularity: "sentence",
           ...d,
         };
-        const fmt = (arr) => arr.length ? arr.map((s) => `> ${s}`).join("\n") : "> (none)";
+        // Bullets, not blockquotes: consecutive "> " lines merge into one paragraph
+        // in GitHub's renderer (observed 2026-07-11 WHOOP md).
+        const fmt = (arr) => arr.length
+          ? arr.map((e) => `- ${e.text}${e.occurrences > 1 ? ` _(×${e.occurrences})_` : ""}`).join("\n")
+          : "- (none)";
         mdSections.push(
           `## pricing_page (sentence-level)\n` +
           `**Added (${d.added_total}):**\n${fmt(d.added)}\n\n` +
