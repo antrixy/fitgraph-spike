@@ -105,6 +105,40 @@ for (const app of registry.apps) {
       }
     }
   }
+
+  // --- integration_changed via lexicon on pricing-page sentence diffs (spec §3.2) ---
+  // Consumes today's machine-readable diff artifact written by diff.js.
+  const diffJsonPath = path.join(ROOT, "diffs", today, `${app.product_id}.json`);
+  if (fs.existsSync(diffJsonPath)) {
+    const rec = JSON.parse(fs.readFileSync(diffJsonPath, "utf8"));
+    const pp = rec.sources?.pricing_page;
+    if (pp) {
+      const norm = (e) => (typeof e === "string" ? { text: e, occurrences: 1 } : e); // tolerate pre-dedup shape
+      const sides = [["added", (pp.added || []).map(norm)], ["removed", (pp.removed || []).map(norm)]];
+      for (const kw of LEXICON) {
+        const inAdded = sides[0][1].some((e) => e.text.toLowerCase().includes(kw));
+        const inRemoved = sides[1][1].some((e) => e.text.toLowerCase().includes(kw));
+        if (inAdded === inRemoved) continue; // keyword in both sides = rewording, not add/remove; in neither = no signal
+        const pool = inAdded ? sides[0][1] : sides[1][1];
+        const hit = pool.find((e) => e.text.toLowerCase().includes(kw));
+        claims.push({
+          claim_type: "integration_changed",
+          product: app.product_id,
+          integration: kw.replace(/\s+/g, "_"),
+          direction: inAdded ? "added" : "removed",
+          observed_at: pp.curr_fetched_at,
+          evidence: [{
+            tier: "vendor_asserted",
+            source: "pricing_page",
+            excerpt: hit.text.slice(0, 300),
+            snapshot_commit: "PENDING_COMMIT",
+            prev_ok_commit: pp.prev_ok_commit,
+          }],
+          source_count: 1,
+        });
+      }
+    }
+  }
 }
 
 if (claims.length) {
