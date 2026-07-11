@@ -4,6 +4,8 @@ A four-week experiment to determine whether software changes can be automaticall
 
 Spec is **frozen at v0** (2026-07-09); this repo is implementation only. Deviations require a documented reason here.
 
+**Status:** collecting daily since 2026-07-09; gate measurement window to be declared after the first clean run of the finished pipeline.
+
 **Question:** Can pricing/feature changes across ~50 fitness apps be detected automatically, turned into evidence-cited claims, and reliably enough to justify building the platform?
 
 **Success means having enough evidence to decide — including deciding *not* to build the platform.** A spike isn't trying to prove the idea right; it's trying to make the go/no-go decision cheap and honest.
@@ -14,6 +16,7 @@ Daily GitHub Actions run: `snapshot.js` → `diff.js` → `extract.js` → commi
 
 ## Design principles
 
+- The observation history is the only unrecoverable asset: never rewrite commits on `main`, never force-push, never "clean up" old snapshots. Everything else is disposable.
 - Raw observations are immutable; derived artifacts (diffs, claims) can always be regenerated from them.
 - Missing observations are never interpreted as "no change." `changed`, `unchanged`, and `didn't observe` are three different states.
 - Human-readable evidence over opaque scores: evidence tiers and source counts, no decimal confidence values.
@@ -56,7 +59,7 @@ Mon + Thu, ~30 min, browser only: open each claim JSON in `claims/`, check again
 
 ## Implementation decision log
 
-Spec v0 is frozen; per its freeze note, implementation-level decisions are made here with a documented reason. Log of those decisions:
+Spec v0 is frozen; per its freeze note, implementation-level decisions are made here with a documented reason. Log of those decisions (splits to `IMPLEMENTATION_LOG.md` at ~20 entries):
 
 - **2026-07-09 — `npm install` instead of `npm ci`**: web-UI-only workflow means no lockfile can be generated locally.
 - **2026-07-09 — snapshot-commit hash backfilled into claims as a second commit, not an amend**: amending would change the hash being recorded.
