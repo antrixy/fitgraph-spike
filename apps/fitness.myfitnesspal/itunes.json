@@ -1,12 +1,11 @@
 {
-  "fetched_at": "2026-07-10T09:56:48.446Z",
+  "fetched_at": "2026-07-11T08:17:01.308Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=341232718&country=us",
   "result": {
-    "isGameCenterEnabled": false,
-    "advisories": [
-      "Frequent/Intense Medical/Treatment Information"
-    ],
+    "artistViewUrl": "https://apps.apple.com/us/developer/myfitnesspal-inc/id341232721?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/bb/bf/b8bbbfec-7de4-d607-190a-e249673ba919/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/bb/bf/b8bbbfec-7de4-d607-190a-e249673ba919/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,48 +136,35 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
-    "features": [
-      "iosUniversal"
-    ],
-    "artistViewUrl": "https://apps.apple.com/us/developer/myfitnesspal-inc/id341232721?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/bb/bf/b8bbbfec-7de4-d607-190a-e249673ba919/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/bb/bf/b8bbbfec-7de4-d607-190a-e249673ba919/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/bb/bf/b8bbbfec-7de4-d607-190a-e249673ba919/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "artistId": 341232721,
-    "artistName": "MyFitnessPal, Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Food & Drink"
+    "features": [
+      "iosUniversal"
     ],
-    "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2009-12-08T02:04:45Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "MyFitnessPal, Inc.",
-    "trackId": 341232718,
-    "trackName": "MyFitnessPal: Calorie Counter",
-    "currentVersionReleaseDate": "2026-07-07T18:27:02Z",
-    "version": "26.27.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Achieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goals, build better habits around food, nutrition & calorie tracking and monitor your water intake. Download the app & start your free Premium trial today. With MyFitnessPal, you get food inspiration, an intermittent fasting tracker, science backed nutrition, and powerful fitness logging tools. MyFitnessPal is the #1 nutrition, macro & calorie tracking app in the U.S. – as featured in the New York Times, Forbes, the Today Show & U.S. News & World Report.\n\nMore than a calorie tracker & food journal – MyFitnessPal is an AI-powered health, nutrition & fitness platform built to help you track macros, monitor nutrition progress & crush your fitness goals.\n\nNEW FEATURE: AI COACH \n■ Nutrition insights tailored to your goals, habits, and logging history \n■ Guidance to find what you need in the app, faster\n\nNEW FEATURE: GLP-1 TRACKING\n■ Log & track how you feel on your GLP-1 medications to spot patterns in your symptoms & side effects.\n■ Stick to your schedule with custom reminders for your GLP-1 medication\n■ Build healthy habits that actually stick with simple, effective nutrition & medication for tracking your GLP-1 journey\n\nTRACK FOOD, CALORIES & MACROS WITH AI \n■ Log meals effortlessly from 20.5M+ foods, including restaurant dishes – nutrition & calorie tracking made simple \n■ Full nutrition & macro tracker breakdown – carbs, fat & protein – with custom targets for macros, protein, sodium, fiber & more \n■ Stay hydrated with the built-in water tracker\n\nFITNESS TRACKING, WORKOUTS & PROGRESS \n■ Log workouts & steps to monitor health, nutrition & calorie burn \n■ Track calories, macros, nutrition stats & health insights at a glance or dive deep into the details \n■ See how fitness activity, nutrition & diet affect your daily calorie goals \n■ Wear OS support – calorie tracker, water tracker & macro tracker on your wrist. Add complications to the home screen for faster logging and the tile for tracking nutrients at a glance\n\nPERSONALIZED FITNESS PLANS & NUTRITION TOOLS \n■ Customize calorie, nutrition & fitness goals – weight loss, gain, maintenance, or performance \n■ Personalized nutrition & health dashboard – stats all in one place \n■ Save meals & recipes for quick calorie, nutrition & macro logging \n■ Streamlined meal planner to simplify nutrition tracking & hit your calorie & macro targets \n■ Connect 40+ fitness trackers, smartwatches & health apps via one unified nutrition & fitness ecosystem \n■ Find friends & motivation in the MyFitnessPal community\n\nPREMIUM \n■ Faster nutrition, calorie & macro tracking with barcode scan, meal scan & voice logging \n■ Customized macro, calorie & nutrition goals tailored to your fitness targets \n■ Ad-free logging with built-in nutrition insights & calorie & macro progress comparisons \n■ Net Carbs Mode – track net carbs across all food, nutrition & macro logs for keto and low-carb diets\n\nPREMIUM PLUS \n■ All Premium features, including barcode scanning, now paired with full nutrition-focused meal planning \n■ Personalized meal plans, integrated grocery delivery & smart calorie, nutrition & macro tracking tools \n■ 1500+ healthy recipes tailored to your calorie, macro, nutrition & fitness goals\n\nMyFitnessPal is the leading health and fitness tracking app to help you conquer your calorie, nutrition & fitness goals.\n\nDownload today & start your free Premium trial.\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service \nhttps://www.myfitnesspal.com/privacy-policy",
-    "bundleId": "com.myfitnesspal.mfp",
-    "minimumOsVersion": "17.0",
+    "advisories": [
+      "Frequent/Intense Medical/Treatment Information"
+    ],
+    "kind": "software",
     "trackCensoredName": "MyFitnessPal: Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
     "contentAdvisoryRating": "17+",
     "averageUserRating": 4.7127,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-07-07T18:27:02Z",
+    "genreIds": [
+      "6013",
+      "6023"
+    ],
+    "trackId": 341232718,
+    "trackName": "MyFitnessPal: Calorie Counter",
+    "releaseNotes": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
     "averageUserRatingForCurrentVersion": 4.7127,
     "sellerUrl": "http://www.myfitnesspal.com/",
-    "fileSizeBytes": "511007744",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 2342389,
-    "trackContentRating": "17+",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -200,11 +186,25 @@
       "ZH",
       "TR"
     ],
-    "genreIds": [
-      "6013",
-      "6023"
+    "fileSizeBytes": "511007744",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 2342522,
+    "trackContentRating": "17+",
+    "minimumOsVersion": "17.0",
+    "artistId": 341232721,
+    "artistName": "MyFitnessPal, Inc.",
+    "genres": [
+      "Health & Fitness",
+      "Food & Drink"
     ],
-    "releaseNotes": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
-    "userRatingCount": 2342389
+    "price": 0,
+    "bundleId": "com.myfitnesspal.mfp",
+    "sellerName": "MyFitnessPal, Inc.",
+    "releaseDate": "2009-12-08T02:04:45Z",
+    "version": "26.27.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Achieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goals, build better habits around food, nutrition & calorie tracking and monitor your water intake. Download the app & start your free Premium trial today. With MyFitnessPal, you get food inspiration, an intermittent fasting tracker, science backed nutrition, and powerful fitness logging tools. MyFitnessPal is the #1 nutrition, macro & calorie tracking app in the U.S. – as featured in the New York Times, Forbes, the Today Show & U.S. News & World Report.\n\nMore than a calorie tracker & food journal – MyFitnessPal is an AI-powered health, nutrition & fitness platform built to help you track macros, monitor nutrition progress & crush your fitness goals.\n\nNEW FEATURE: AI COACH \n■ Nutrition insights tailored to your goals, habits, and logging history \n■ Guidance to find what you need in the app, faster\n\nNEW FEATURE: GLP-1 TRACKING\n■ Log & track how you feel on your GLP-1 medications to spot patterns in your symptoms & side effects.\n■ Stick to your schedule with custom reminders for your GLP-1 medication\n■ Build healthy habits that actually stick with simple, effective nutrition & medication for tracking your GLP-1 journey\n\nTRACK FOOD, CALORIES & MACROS WITH AI \n■ Log meals effortlessly from 20.5M+ foods, including restaurant dishes – nutrition & calorie tracking made simple \n■ Full nutrition & macro tracker breakdown – carbs, fat & protein – with custom targets for macros, protein, sodium, fiber & more \n■ Stay hydrated with the built-in water tracker\n\nFITNESS TRACKING, WORKOUTS & PROGRESS \n■ Log workouts & steps to monitor health, nutrition & calorie burn \n■ Track calories, macros, nutrition stats & health insights at a glance or dive deep into the details \n■ See how fitness activity, nutrition & diet affect your daily calorie goals \n■ Wear OS support – calorie tracker, water tracker & macro tracker on your wrist. Add complications to the home screen for faster logging and the tile for tracking nutrients at a glance\n\nPERSONALIZED FITNESS PLANS & NUTRITION TOOLS \n■ Customize calorie, nutrition & fitness goals – weight loss, gain, maintenance, or performance \n■ Personalized nutrition & health dashboard – stats all in one place \n■ Save meals & recipes for quick calorie, nutrition & macro logging \n■ Streamlined meal planner to simplify nutrition tracking & hit your calorie & macro targets \n■ Connect 40+ fitness trackers, smartwatches & health apps via one unified nutrition & fitness ecosystem \n■ Find friends & motivation in the MyFitnessPal community\n\nPREMIUM \n■ Faster nutrition, calorie & macro tracking with barcode scan, meal scan & voice logging \n■ Customized macro, calorie & nutrition goals tailored to your fitness targets \n■ Ad-free logging with built-in nutrition insights & calorie & macro progress comparisons \n■ Net Carbs Mode – track net carbs across all food, nutrition & macro logs for keto and low-carb diets\n\nPREMIUM PLUS \n■ All Premium features, including barcode scanning, now paired with full nutrition-focused meal planning \n■ Personalized meal plans, integrated grocery delivery & smart calorie, nutrition & macro tracking tools \n■ 1500+ healthy recipes tailored to your calorie, macro, nutrition & fitness goals\n\nMyFitnessPal is the leading health and fitness tracking app to help you conquer your calorie, nutrition & fitness goals.\n\nDownload today & start your free Premium trial.\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service \nhttps://www.myfitnesspal.com/privacy-policy",
+    "userRatingCount": 2342522
   }
 }

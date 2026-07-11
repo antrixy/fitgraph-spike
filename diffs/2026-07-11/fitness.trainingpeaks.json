@@ -1,0 +1,24 @@
+{
+  "product": "fitness.trainingpeaks",
+  "name": "TrainingPeaks",
+  "date": "2026-07-11",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c91df6de4cd6c8e7f1b18d4159df19b89eb74a42",
+      "prev_fetched_at": "2026-07-10T10:01:50.771Z",
+      "curr_fetched_at": "2026-07-11T08:22:09.180Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "12.109.0",
+          "new": "12.110.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "This release includes new social sharing along with performance and stability improvements.\n\n- Share your hard work with new social sharing overlays.\n- Squashed a bug that caused exercise videos to load slow.\n- Fixed a bug where the Done button was hidden after rating your effort (RPE) on a strength workout.\n- Stability improvements and groundwork for upcoming features.\n\nThanks for training with TrainingPeaks.",
+          "new": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We've been working as hard as you train to fix bugs and improve your experience."
+        }
+      ]
+    }
+  }
+}

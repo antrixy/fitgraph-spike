@@ -1,0 +1,21 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-11",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "c91df6de4cd6c8e7f1b18d4159df19b89eb74a42",
+      "curr_fetched_at": "2026-07-11T08:22:29.265Z",
+      "granularity": "sentence",
+      "added": [
+        "Cookies Settings Your Privacy Choices"
+      ],
+      "removed": [
+        "Cookies Settings"
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

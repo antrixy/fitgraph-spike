@@ -1,8 +1,12 @@
 {
-  "fetched_at": "2026-07-10T09:59:46.092Z",
+  "fetched_at": "2026-07-11T08:20:09.773Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=488580022&country=us",
   "result": {
+    "screenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/47/08fc47e2-c5d3-f4b6-1e8c-c06e6ffdfe69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+    "ipadScreenshotUrls": [],
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -142,40 +146,8 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/47/08fc47e2-c5d3-f4b6-1e8c-c06e6ffdfe69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/47/08fc47e2-c5d3-f4b6-1e8c-c06e6ffdfe69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/47/08fc47e2-c5d3-f4b6-1e8c-c06e6ffdfe69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-    "sellerName": "Stronglifts Limited",
-    "artistId": 916468093,
-    "artistName": "StrongLifts",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "bundleId": "com.StrongLifts",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "releaseDate": "2011-12-22T20:51:34Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 488580022,
-    "trackName": "Stronglifts 5x5 Workout Plan",
-    "currentVersionReleaseDate": "2026-07-02T23:57:22Z",
-    "version": "4.2.7",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "userRatingCountForCurrentVersion": 76411,
-    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
-    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.8634,
-    "minimumOsVersion": "17.0",
-    "averageUserRatingForCurrentVersion": 4.8634,
+    "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.86329,
     "sellerUrl": "https://stronglifts.com/",
     "languageCodesISO2A": [
       "DA",
@@ -200,9 +172,37 @@
     ],
     "fileSizeBytes": "92261376",
     "formattedPrice": "Free",
-    "trackContentRating": "4+",
+    "userRatingCountForCurrentVersion": 76419,
+    "minimumOsVersion": "17.0",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "artistId": 916468093,
+    "artistName": "StrongLifts",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Stronglifts Limited",
+    "isVppDeviceBasedLicensingEnabled": true,
     "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
+    "bundleId": "com.StrongLifts",
+    "trackId": 488580022,
+    "trackName": "Stronglifts 5x5 Workout Plan",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "currentVersionReleaseDate": "2026-07-02T23:57:22Z",
+    "version": "4.2.7",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
+    "averageUserRating": 4.86329,
+    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
+    "contentAdvisoryRating": "4+",
+    "releaseDate": "2011-12-22T20:51:34Z",
     "price": 0,
-    "userRatingCount": 76411
+    "userRatingCount": 76419
   }
 }

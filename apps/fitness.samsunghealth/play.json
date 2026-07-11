@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T10:03:42.209Z",
+  "fetched_at": "2026-07-11T08:23:50.433Z",
   "source": "google_play_scraper",
   "appId": "com.sec.android.app.shealth",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000,000+",
     "minInstalls": 1000000000,
     "maxInstalls": 2255917568,
-    "score": 3.286664,
+    "score": 3.2829187,
     "scoreText": "3.3",
-    "ratings": 1569617,
-    "reviews": 78306,
+    "ratings": 1569852,
+    "reviews": 78326,
     "histogram": {
-      "1": 419352,
-      "2": 165146,
-      "3": 176285,
-      "4": 163823,
-      "5": 644984
+      "1": 420334,
+      "2": 165814,
+      "3": 176693,
+      "4": 163366,
+      "5": 643625
     },
     "price": 0,
     "free": true,

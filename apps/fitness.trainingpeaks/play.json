@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T10:01:54.485Z",
+  "fetched_at": "2026-07-11T08:22:13.397Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1837062,
-    "score": 4.2,
+    "score": 4.2009687,
     "scoreText": "4.2",
-    "ratings": 33176,
+    "ratings": 33175,
     "reviews": 2013,
     "histogram": {
-      "1": 3356,
-      "2": 1517,
-      "3": 2237,
-      "4": 4076,
-      "5": 21982
+      "1": 3373,
+      "2": 1523,
+      "3": 2164,
+      "4": 4092,
+      "5": 22004
     },
     "price": 0,
     "free": true,
@@ -62,7 +62,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 4, 2011",
-    "updated": 1782875324000,
+    "updated": 1783657553000,
     "version": "12.109.1",
     "recentChanges": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We&#39;ve been working as hard as you train to fix bugs and improve your experience.<br>",
     "comments": [],

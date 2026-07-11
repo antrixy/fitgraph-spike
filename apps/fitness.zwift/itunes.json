@@ -1,15 +1,30 @@
 {
-  "fetched_at": "2026-07-10T10:02:11.774Z",
+  "fetched_at": "2026-07-11T08:22:31.837Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1134655040&country=us",
   "result": {
-    "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
-    "features": [
-      "iosUniversal"
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/24/b39d2492-a579-c8ba-931f-759a2dd099a4/_U005bEN_U005d_iPhone_5.5__U0026_Android_01.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/88/5f/ef885f5d-bd6d-1da9-05c4-a6cc0ea00680/_U005bEN_U005d_iPhone_5.5__U0026_Android_02.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/72/36/8672369b-f2bc-aae4-c0f8-9ea7e3bb9e08/_U005bEN_U005d_iPhone_5.5__U0026_Android_03.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/3e/52/db3e52ee-c6f9-4764-5bb7-469241f45248/_U005bEN_U005d_iPhone_5.5__U0026_Android_04.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/02/6c/f7026c2d-148b-4df0-95a0-62492ed38194/_U005bEN_U005d_iPhone_5.5__U0026_Android_05.jpg/406x228bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/74/ea/4c74eada-a72a-9809-40b5-94ac10cdd24d/_U005bEN_U005d_iPhone_5.5__U0026_Android_06.jpg/406x228bb.jpg"
     ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/dd/ad/8eddade4-f0a5-e4de-a9d6-2635671194a2/_U005bEN_U005d_iPad_12.9_01.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/cc/4b/8ccc4b6e-e342-a9fc-7370-ad0e3a8b7dfc/_U005bEN_U005d_iPad_12.9_02.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/44/e0/a344e0c7-bf13-15bd-9aca-80812d3b3da0/_U005bEN_U005d_iPad_12.9_03.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/8a/aa/428aaaf5-f1c5-c173-cf4c-269a72f50589/_U005bEN_U005d_iPad_12.9_04.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/14/9a/74149a28-8dcc-132c-7188-3bc5586cd78f/_U005bEN_U005d_iPad_12.9_05.jpg/552x414bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/2f/75/562f7589-3782-930d-66be-3e5cec93d617/_U005bEN_U005d_iPad_12.9_06.jpg/552x414bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
     "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -142,48 +157,14 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/24/b39d2492-a579-c8ba-931f-759a2dd099a4/_U005bEN_U005d_iPhone_5.5__U0026_Android_01.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/88/5f/ef885f5d-bd6d-1da9-05c4-a6cc0ea00680/_U005bEN_U005d_iPhone_5.5__U0026_Android_02.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/72/36/8672369b-f2bc-aae4-c0f8-9ea7e3bb9e08/_U005bEN_U005d_iPhone_5.5__U0026_Android_03.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/3e/52/db3e52ee-c6f9-4764-5bb7-469241f45248/_U005bEN_U005d_iPhone_5.5__U0026_Android_04.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/02/6c/f7026c2d-148b-4df0-95a0-62492ed38194/_U005bEN_U005d_iPhone_5.5__U0026_Android_05.jpg/406x228bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/74/ea/4c74eada-a72a-9809-40b5-94ac10cdd24d/_U005bEN_U005d_iPhone_5.5__U0026_Android_06.jpg/406x228bb.jpg"
+    "features": [
+      "iosUniversal"
     ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/dd/ad/8eddade4-f0a5-e4de-a9d6-2635671194a2/_U005bEN_U005d_iPad_12.9_01.jpg/552x414bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/cc/4b/8ccc4b6e-e342-a9fc-7370-ad0e3a8b7dfc/_U005bEN_U005d_iPad_12.9_02.jpg/552x414bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/44/e0/a344e0c7-bf13-15bd-9aca-80812d3b3da0/_U005bEN_U005d_iPad_12.9_03.jpg/552x414bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/8a/aa/428aaaf5-f1c5-c173-cf4c-269a72f50589/_U005bEN_U005d_iPad_12.9_04.jpg/552x414bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/14/9a/74149a28-8dcc-132c-7188-3bc5586cd78f/_U005bEN_U005d_iPad_12.9_05.jpg/552x414bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/2f/75/562f7589-3782-930d-66be-3e5cec93d617/_U005bEN_U005d_iPad_12.9_06.jpg/552x414bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
-    "minimumOsVersion": "13.0",
-    "releaseNotes": "• The Challenges section in the Home Screen is now renamed to \"This Week on Zwift\". \n• After completing a Challenge, it will move to the end of the This Week on Zwift section in the Home Screen.\n• Challenges on the Home screen now show the number of remaining days until the Challenge ends when within one week of ending.\n• Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.\n• Increased the size of the Target Watts field in the Workout HUD.\n• Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
-    "averageUserRating": 4.73616,
     "trackCensoredName": "Zwift: Indoor Cycling Fitness",
     "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
     "contentAdvisoryRating": "4+",
-    "artistId": 934083689,
-    "artistName": "Zwift, Inc",
-    "price": 0,
-    "releaseDate": "2016-12-10T04:14:55Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-08T15:17:28Z",
-    "trackId": 1134655040,
-    "trackName": "Zwift: Indoor Cycling Fitness",
-    "sellerName": "Zwift, Inc",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "genreIds": [
-      "6013"
-    ],
-    "version": "1.117.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Zwift: Indoor cycling made fun\n\nJoin millions of people on the app that makes indoor cycling fun for everyone.  Whether you’re a seasoned athlete or just starting, jump into virtual bike rides in immersive 3D worlds, challenge yourself on epic climbs, and explore endless roads. With racing, group rides, cycling workouts, and structured training plans, Zwift can deliver serious fitness results.\n\nConnect Your Bike\n\nSeamlessly connect your smart bike, like Zwift Ride, or your bike and smart trainer – including ones from Zwift, Wahoo, Garmin, and more – to your smartphone, tablet, or AppleTV, and start chasing your fitness goals from the comfort of your home.\n\nImmersive Virtual Worlds\n\nExplore over a hundred routes in 12 immersive, virtual worlds. Whether it's the epic climbs in Watopia or the serene beauty of the Scottish highlands, every ride is a new chance to explore.\n\nJoin a Global Community\n\nJoin a global community pulsing with energy and enthusiasm. Connect with friends, make new ones, and immerse yourself in group rides, races, and events. Track your stats and stay connected with friends, clubs, and the community—on and off the bike— with the Zwift Companion app. Zwift even connects to Strava, ensuring a seamless fitness tracking experience. \n\nIndoor Training Plans, Tailored to You\n\nOur world-class coaches and champion cyclists have crafted plans and workouts for every level. Whether you’re starting out or stepping it up, find your perfect plan. With flexible options, from quick 30-minute burns to long endurance rides, Zwift also has 1000s of on-demand workouts that fit your schedule and goals.\n\nRace Any Time Of Day\n\nRacing riders from around the world is one of the most effective ways to get fit. But don’t be intimidated! Zwift is home to the world’s largest community of competitors—from first-time racers to elite athletes—guaranteeing there’s a friendly challenge for everyone.\n\nRide and Run!\n\nNot just for cyclists, Zwift welcomes runners too. Sync your smart treadmill or footpod device — you can get our RunPod directly from Zwift—and step into the worlds of Zwift, where every walk or run gets you one step closer to your goals.\n\nJoin Zwift Today\n\nThere’s never been a better time to combine fun with real results. Download Zwift now and start from wherever you are with a free trial for first-time users.\n\nDownload today\nPlease see the Terms of Use at zwift.com/terms, and EULA at support.zwift.com/en_us/end-user-license-agreement-rymuiTZr",
+    "averageUserRating": 4.73616,
+    "sellerUrl": "http://www.zwift.com",
     "languageCodesISO2A": [
       "EN"
     ],
@@ -191,12 +172,31 @@
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 21331,
     "trackContentRating": "4+",
-    "sellerUrl": "http://www.zwift.com",
     "averageUserRatingForCurrentVersion": 4.73616,
-    "bundleId": "com.zwift.ZwiftGame",
+    "artistId": 934083689,
+    "artistName": "Zwift, Inc",
+    "price": 0,
+    "releaseDate": "2016-12-10T04:14:55Z",
+    "currentVersionReleaseDate": "2026-07-08T15:17:28Z",
+    "genreIds": [
+      "6013"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Zwift, Inc",
+    "releaseNotes": "• The Challenges section in the Home Screen is now renamed to \"This Week on Zwift\". \n• After completing a Challenge, it will move to the end of the This Week on Zwift section in the Home Screen.\n• Challenges on the Home screen now show the number of remaining days until the Challenge ends when within one week of ending.\n• Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.\n• Increased the size of the Target Watts field in the Workout HUD.\n• Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
+    "trackId": 1134655040,
+    "trackName": "Zwift: Indoor Cycling Fitness",
+    "version": "1.117.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Zwift: Indoor cycling made fun\n\nJoin millions of people on the app that makes indoor cycling fun for everyone.  Whether you’re a seasoned athlete or just starting, jump into virtual bike rides in immersive 3D worlds, challenge yourself on epic climbs, and explore endless roads. With racing, group rides, cycling workouts, and structured training plans, Zwift can deliver serious fitness results.\n\nConnect Your Bike\n\nSeamlessly connect your smart bike, like Zwift Ride, or your bike and smart trainer – including ones from Zwift, Wahoo, Garmin, and more – to your smartphone, tablet, or AppleTV, and start chasing your fitness goals from the comfort of your home.\n\nImmersive Virtual Worlds\n\nExplore over a hundred routes in 12 immersive, virtual worlds. Whether it's the epic climbs in Watopia or the serene beauty of the Scottish highlands, every ride is a new chance to explore.\n\nJoin a Global Community\n\nJoin a global community pulsing with energy and enthusiasm. Connect with friends, make new ones, and immerse yourself in group rides, races, and events. Track your stats and stay connected with friends, clubs, and the community—on and off the bike— with the Zwift Companion app. Zwift even connects to Strava, ensuring a seamless fitness tracking experience. \n\nIndoor Training Plans, Tailored to You\n\nOur world-class coaches and champion cyclists have crafted plans and workouts for every level. Whether you’re starting out or stepping it up, find your perfect plan. With flexible options, from quick 30-minute burns to long endurance rides, Zwift also has 1000s of on-demand workouts that fit your schedule and goals.\n\nRace Any Time Of Day\n\nRacing riders from around the world is one of the most effective ways to get fit. But don’t be intimidated! Zwift is home to the world’s largest community of competitors—from first-time racers to elite athletes—guaranteeing there’s a friendly challenge for everyone.\n\nRide and Run!\n\nNot just for cyclists, Zwift welcomes runners too. Sync your smart treadmill or footpod device — you can get our RunPod directly from Zwift—and step into the worlds of Zwift, where every walk or run gets you one step closer to your goals.\n\nJoin Zwift Today\n\nThere’s never been a better time to combine fun with real results. Download Zwift now and start from wherever you are with a free trial for first-time users.\n\nDownload today\nPlease see the Terms of Use at zwift.com/terms, and EULA at support.zwift.com/en_us/end-user-license-agreement-rymuiTZr",
+    "minimumOsVersion": "13.0",
     "genres": [
       "Health & Fitness"
     ],
+    "bundleId": "com.zwift.ZwiftGame",
     "userRatingCount": 21331
   }
 }

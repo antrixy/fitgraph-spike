@@ -1,0 +1,47 @@
+{
+  "product": "fitness.whoop",
+  "name": "Whoop",
+  "date": "2026-07-11",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "c91df6de4cd6c8e7f1b18d4159df19b89eb74a42",
+      "prev_fetched_at": "2026-07-10T10:03:03.519Z",
+      "curr_fetched_at": "2026-07-11T08:23:23.476Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.458.0",
+          "new": "5.459.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "c91df6de4cd6c8e7f1b18d4159df19b89eb74a42",
+      "curr_fetched_at": "2026-07-11T08:23:26.761Z",
+      "granularity": "sentence",
+      "added": [
+        "The most powerful WHOOP ever, with medical-grade heart screener technology.",
+        "The most powerful WHOOP ever, with medical-grade heart screener technology.",
+        "Daily Blood Pressure Insights",
+        "Blood Pressure Insights",
+        "Blood Pressure Insights",
+        "Blood Pressure Insights",
+        "Blood Pressure Insights",
+        "Blood Pressure Insights : Blood Pressure Insights is not a medical device and cannot diagnose or manage medical conditions."
+      ],
+      "removed": [
+        "The most powerful WHOOP ever, medical-grade health & performance insights.",
+        "The most powerful WHOOP ever, medical-grade health & performance insights.",
+        "Daily Blood Pressure Insights (beta)",
+        "Blood Pressure Insights (beta)",
+        "Blood Pressure Insights (beta)",
+        "Blood Pressure Insights (beta)",
+        "Blood Pressure Insights (beta)",
+        "Blood Pressure Insights (Beta) : Blood Pressure Insights is not a medical device and cannot diagnose or manage medical conditions."
+      ],
+      "truncated": false,
+      "added_total": 8,
+      "removed_total": 8
+    }
+  }
+}
