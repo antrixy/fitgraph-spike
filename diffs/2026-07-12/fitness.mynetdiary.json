@@ -1,0 +1,35 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-12",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "376426a62f7dcd37154301422d9b266989daa9d4",
+      "curr_fetched_at": "2026-07-12T08:35:22.514Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How We Analyze Calorie Tracking App Reviews: Our Methodology",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Diet App Scorecard April 2026: 10 Apps, 2,995 Reviews Analyzed",
+          "occurrences": 1
+        },
+        {
+          "text": "Diet App Scorecard: Monthly User Ratings for Popular Calorie Trackers",
+          "occurrences": 1
+        },
+        {
+          "text": "Why Food Database Quality Matters More Than Size: Choosing the Right Calorie Tracker",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 3
+    }
+  }
+}

@@ -1,12 +1,10 @@
 {
-  "fetched_at": "2026-07-11T08:24:04.664Z",
+  "fetched_at": "2026-07-12T08:41:43.320Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1208224953&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,31 +135,31 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
+    "features": [
+      "iosUniversal"
+    ],
     "kind": "software",
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/a0/9361a04d-3951-ec4b-4566-65ba69afc4fc/fitness-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/a0/9361a04d-3951-ec4b-4566-65ba69afc4fc/fitness-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/a0/9361a04d-3951-ec4b-4566-65ba69afc4fc/fitness-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/61/a0/9361a04d-3951-ec4b-4566-65ba69afc4fc/fitness-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
     "artistId": 284417353,
     "artistName": "Apple",
     "genres": [
       "Health & Fitness"
     ],
-    "price": 0,
     "bundleId": "com.apple.Fitness",
-    "sellerName": "Apple Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013"
     ],
-    "releaseDate": "2017-04-10T23:30:13Z",
-    "trackId": 1208224953,
     "trackName": "Apple Fitness",
+    "trackId": 1208224953,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Apple Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-03-17T21:41:25Z",
     "releaseNotes": "Bug Fixes and Feature Enhancements",
@@ -170,7 +168,8 @@
     "currency": "USD",
     "description": "Apple Fitness and Apple Fitness+\nGet a comprehensive view of your fitness including Activity details, training load, Trends, and Awards. Track workouts and share with friends. Subscribe to Apple Fitness+ for workouts and meditations that help you stay active and mindful.\n\nAPPLE FITNESS\n\nSUMMARY TAB\n• Personalize the Summary tab in the Fitness app to see what matters to you including your Activity and workout details, Awards, and more.\n• Set goals and check your progress.\n• See estimated active calories toward your move goal with the Move ring.\n• Customize your rings by the day of the week or pause them for a rest day or more.\n• See data from each workout, like pace, route map, and more.\n\nWith Apple Watch\n• See total exercise minutes toward your Exercise ring and stand hours toward your Stand ring.\n• Review your training load which uses the intensity and duration of your workouts to help you understand the impact of your training over time.\n\nWORKOUT TAB\n• Track workouts and see metrics like pace, distance, and more, and see heart rate and calories burned when using a heart rate monitor.\n• Stay motivated with music and Workout Buddy. Using Apple Intelligence from your iPhone, Workout Buddy provides audio encouragement in real time based on your current workout and fitness history.\n• With Apple Watch, create goal-based and custom workouts and see your metrics live on iPhone.\n\nSHARING TAB\n• See highlights of your friends’ activity or start a friendly competition.\n\nACTIVITY APP ON APPLE WATCH\n• View steps, progress toward closing your Activity rings, training load, and more.\n\nWORKOUT APP ON APPLE WATCH\n• Track workouts and see metrics like pace, distance, heart rate, calories burned, and more.\n• Customize your views and metrics, create goal-based and custom workouts, and set alerts.\n• Stay motivated with music and Workout Buddy.\n\nAvailability and features vary by country and region, plan, or device.\n\nAPPLE FITNESS+\nApple Fitness+ is the world’s most welcoming fitness and wellness service, available in the Fitness app on iPhone, iPad, and Apple TV.\n\n12 WORKOUT TYPES, FROM 5 to 45 MINUTES\n• Strength\n• HIIT\n• Yoga\n• Core\n• Pilates\n• Dance\n• Kickboxing\n• Cycling\n• Treadmill (Walk or Run)\n• Rowing\n• Mindful Cooldown\n\nMEDITATION\n• Renew with themes like Breath, Sleep, and Calm.\n\nONSCREEN METRICS\n• With Apple Watch and AirPods Pro 3, see metrics like heart rate and calories.\n\nADDITIONAL FEATURES\nCUSTOM PLANS\n• Stay consistent with Custom Plans, schedules based on your favorite activities, trainers, and more.\n• Get stronger, train for a sport, or kickstart your fitness with Programs.\n• Enjoy audio workouts with Time to Walk and Time to Run.\n• Artist Spotlight features workouts with playlists from iconic music artists.\n\nSHARE ACCESS\n• A single subscription includes 6 family members.\n\n*Apple Fitness+ not available in all regions. Content varies by region.\n\nIf you subscribe to Fitness+, payment will be charged to your Apple Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. See https://www.apple.com/legal/privacy/en-ww for the Privacy Policy. Fitness+ Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/us/terms.html.",
     "minimumOsVersion": "11.0",
-    "averageUserRatingForCurrentVersion": 2.86338,
+    "averageUserRating": 2.86397,
+    "trackCensoredName": "Apple Fitness",
     "languageCodesISO2A": [
       "AR",
       "CA",
@@ -208,12 +207,13 @@
     ],
     "fileSizeBytes": "9921536",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 11170,
-    "trackContentRating": "4+",
-    "trackCensoredName": "Apple Fitness",
-    "trackViewUrl": "https://apps.apple.com/us/app/apple-fitness/id1208224953?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 2.86338,
-    "userRatingCount": 11170
+    "userRatingCountForCurrentVersion": 11174,
+    "trackViewUrl": "https://apps.apple.com/us/app/apple-fitness/id1208224953?uo=4",
+    "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 2.86397,
+    "releaseDate": "2017-04-10T23:30:13Z",
+    "price": 0,
+    "userRatingCount": 11174
   }
 }

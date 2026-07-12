@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T08:24:35.330Z",
+  "fetched_at": "2026-07-12T08:42:18.534Z",
   "source": "google_play_scraper",
   "appId": "co.future.future",
   "result": {
@@ -13,7 +13,7 @@
     "score": 4.44,
     "scoreText": "4.4",
     "ratings": 386,
-    "reviews": 115,
+    "reviews": 116,
     "histogram": {
       "1": 30,
       "2": 15,

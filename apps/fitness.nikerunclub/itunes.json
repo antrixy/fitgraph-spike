@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T08:21:36.279Z",
+  "fetched_at": "2026-07-12T08:38:59.608Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=387771637&country=us",
   "result": {
@@ -7,21 +7,6 @@
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b4/5f/cbb45f91-39a5-bcaa-79a4-aff0181eba6d/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b4/5f/cbb45f91-39a5-bcaa-79a4-aff0181eba6d/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/38/48/9038487c-ddbd-aacc-18fe-8228ccb58e1d/47fa696f-9075-44b2-8f62-2e4dc7474f09_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_01.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/6d/66/876d6689-41a7-d287-1e91-5111f2a336c0/97b95fd1-005f-4c9a-b8f9-bc1352ef194a_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_02.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/a6/4c/eea64c55-f5d4-804f-3d93-6a9ffdd48b1c/d6da238e-d1e7-45cd-8da6-d67602d2abce_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_03.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/35/58/b2355857-0a66-4d73-69b2-be2fbb77c23e/7d4be36c-0008-48b3-a398-c799004fae41_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_04.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/d4/35/86d43555-8498-b90a-71df-ab1ab5b2c9e1/68f3d3a7-8aec-4913-be76-4ec2060e8ca6_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_05.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/11/a0/3311a016-6e96-1e48-2c42-8708cf8024a2/a671f8a6-e91b-4344-9046-cf32bcce0936_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_06.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/5b/9b/455b9bf3-9e83-d10d-1b6c-b62d60a344f8/59c12f4c-b666-44e0-af61-76a197fe93ae_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_07.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/17/94/33179404-c4c9-63bf-44a0-4baa9e784367/1ed16769-1c7d-49a8-86ba-76d1575a0a7e_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_08.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/07/15/3407159c-0e17-0eea-078b-0083c272a41f/61faeabb-e247-4746-8bf5-b13d785530c3_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_09.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/2b/4e/1a2b4e3e-caa8-ff4b-ff1d-862dbeba2a8a/a5e79e7c-4c66-47d5-b6ea-d78b8eada8b7_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_10.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b4/5f/cbb45f91-39a5-bcaa-79a4-aff0181eba6d/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -155,34 +140,51 @@
     ],
     "advisories": [],
     "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/38/48/9038487c-ddbd-aacc-18fe-8228ccb58e1d/47fa696f-9075-44b2-8f62-2e4dc7474f09_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_01.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/6d/66/876d6689-41a7-d287-1e91-5111f2a336c0/97b95fd1-005f-4c9a-b8f9-bc1352ef194a_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_02.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/a6/4c/eea64c55-f5d4-804f-3d93-6a9ffdd48b1c/d6da238e-d1e7-45cd-8da6-d67602d2abce_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_03.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/35/58/b2355857-0a66-4d73-69b2-be2fbb77c23e/7d4be36c-0008-48b3-a398-c799004fae41_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_04.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/d4/35/86d43555-8498-b90a-71df-ab1ab5b2c9e1/68f3d3a7-8aec-4913-be76-4ec2060e8ca6_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_05.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/11/a0/3311a016-6e96-1e48-2c42-8708cf8024a2/a671f8a6-e91b-4344-9046-cf32bcce0936_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_06.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/5b/9b/455b9bf3-9e83-d10d-1b6c-b62d60a344f8/59c12f4c-b666-44e0-af61-76a197fe93ae_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_07.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/17/94/33179404-c4c9-63bf-44a0-4baa9e784367/1ed16769-1c7d-49a8-86ba-76d1575a0a7e_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_08.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/07/15/3407159c-0e17-0eea-078b-0083c272a41f/61faeabb-e247-4746-8bf5-b13d785530c3_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_09.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/2b/4e/1a2b4e3e-caa8-ff4b-ff1d-862dbeba2a8a/a5e79e7c-4c66-47d5-b6ea-d78b8eada8b7_Nike_NikeRunClub_en-US_iOS_5.5_ScreenshotMockup_240820_10.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b4/5f/cbb45f91-39a5-bcaa-79a4-aff0181eba6d/AppIconProd-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "trackCensoredName": "Nike Run Club: Running Coach",
     "trackViewUrl": "https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.77275,
-    "currentVersionReleaseDate": "2026-05-26T18:41:39Z",
-    "sellerUrl": "https://www.nike.com/us/en_us/c/running/nike-run-club",
-    "averageUserRatingForCurrentVersion": 4.77275,
-    "artistId": 301521406,
-    "artistName": "Nike, Inc",
+    "minimumOsVersion": "18.0",
     "releaseDate": "2010-09-06T07:00:00Z",
-    "releaseNotes": "Easily Re-Run Guided Runs: After you finish a run, your activity details now show which Guided Run you listened to. Tap on any of your runs in the Activity Tab to view the details, run it again, or save it for next time.\n\nImproved Average Pace: We've updated how average pace is calculated across multiple runs. We now use your total time and total distance. You may notice a small change in your stats.",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "price": 0,
     "bundleId": "com.nike.nikeplus-gps",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 387771637,
+    "trackName": "Nike Run Club: Running Coach",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "trackId": 387771637,
-    "trackName": "Nike Run Club: Running Coach",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Nike, Inc",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-05-26T18:41:39Z",
+    "releaseNotes": "Easily Re-Run Guided Runs: After you finish a run, your activity details now show which Guided Run you listened to. Tap on any of your runs in the Activity Tab to view the details, run it again, or save it for next time.\n\nImproved Average Pace: We've updated how average pace is calculated across multiple runs. We now use your total time and total distance. You may notice a small change in your stats.",
     "version": "7.78.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Training Plans*, Guided Runs**, wellness tips or community challenges — run towards your goals with all the tools you need to start running, keep running and enjoy running more. Treadmill or hitting the trails — if you’re ready to run, our coaches, trainers, athletes and experts have you covered in the Nike Run Club app.. Half marathon training, wellness runs and more await.\n\nMove With Us\n\n5k to 10k, Half Marathon or more - health and fitness journeys begin with the support of the right tools and motivation. Fitness tracker, Guided Runs** or Training Plans* - NRC provides you with all you need to run with confidence. Pace yourself with Guided Runs** picked out by NRC running coaches or train with expert Training Plans*. Running workout motivation is yours to gain with guidance from a familiar voice joining you with every Guided Run**. 5k or 10k, marathon and more - NRC has you covered.\n\nStay motivated with the Nike community. Distance training, or just having fun - create and share challenges with friends or join one with the global community. Health and fitness is better with a crew. Get on the starting line with runners from around the world!\n\nMile counter, running coach, wellness tips and more. Whatever moves you want to make, the Nike community is here for it. Reach your goals with NRC.\n\nRUN TRACKER: TRACK & STORE RUNS\n• Running speed, distance tracker, GPS route, elevation and heart rate are tracked and stored\n• Fitness tracker for distance and more - Track progress towards your goals\n• Mile counter and mobile coach - Mile counter functionality allows you to record and track your runs\n• Activity tracker syncs with your Apple watch and supported devices to provide constant support\n\nTRAINING PLANS & GUIDED RUNS\n• Running for beginners or regulars - Coach tips and plans for all levels\n• NRC Training Plans give you a goal to run toward and the guidance to reach it*\n• Half Marathon training, 4-Week Get Started Training Plan and more - Select plans that best suit you*\n• Marathon Training Plan - Begin the ultimate 12-week training journey*\n• Fitness begins with mindset and recovery tips to connect your mind and body\n• Treadmill, speed intervals or mindfulness - Get started with our library of Guided Runs**\n• Fitness motivation from the best of Nike like Eliud Kipchoge with Audio Guided Runs**\n• Running coach guidance with NRC’s Guided Runs - you’re never running by yourself**\n• Receive or send friends motivating in-run audio cheers\n\nRUN CHALLENGES\n• 5K to 10K, Half Marathon and beyond - earn badges and trophies for streaks and personal bests\n• Health app motivation - Reach a new monthly mileage or set a distance goal with friends with NRC’s tracking tools\n• Run in NRC running challenges or create one and invite your friends - Share via social media or messaging\n• Health and fitness journey - Track and celebrate progress towards your goals with your worldwide run club\n\nMILE COUNTER & SHOE TAGGING\n• Fitness tracker for all your shoes - Track distance in every pair and let us remind you when it’s time for a new pair\n• Running speed - Record pace for each pair and learn which ones you run the fastest in\n\nNike Run Club: Your Guide to a Better Run. Download today.\n\n-\n\nNike Run Club works with Apple Health to sync workouts and record heart-rate data.\n\nContinued use of GPS running in the background can decrease battery life.\n\nApple Music: used to access music library to play music during workouts.\n\n*Training Plans available in the US, UK, JP, CN, BR., FR, DE, ES, IT.\n** Guided Runs available in select countries.",
-    "userRatingCountForCurrentVersion": 415383,
-    "minimumOsVersion": "18.0",
+    "averageUserRatingForCurrentVersion": 4.77275,
+    "sellerUrl": "https://www.nike.com/us/en_us/c/running/nike-run-club",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -203,12 +205,10 @@
     ],
     "fileSizeBytes": "391853056",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 415386,
     "trackContentRating": "4+",
-    "price": 0,
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "userRatingCount": 415383
+    "artistId": 301521406,
+    "artistName": "Nike, Inc",
+    "userRatingCount": 415386
   }
 }

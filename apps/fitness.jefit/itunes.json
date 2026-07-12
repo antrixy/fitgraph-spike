@@ -1,17 +1,15 @@
 {
-  "fetched_at": "2026-07-11T08:19:27.585Z",
+  "fetched_at": "2026-07-12T08:36:52.386Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=449810000&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "artistViewUrl": "https://apps.apple.com/us/developer/jefit-inc/id449810003?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7a/73/577a73dc-f270-32e5-081f-631e2d0569a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7a/73/577a73dc-f270-32e5-081f-631e2d0569a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "advisories": [
       "Infrequent/Mild Mature/Suggestive Themes",
       "Frequent/Intense Medical/Treatment Information",
       "Frequent/Intense Contests"
     ],
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -143,7 +141,9 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "features": [],
+    "artistViewUrl": "https://apps.apple.com/us/developer/jefit-inc/id449810003?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7a/73/577a73dc-f270-32e5-081f-631e2d0569a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7a/73/577a73dc-f270-32e5-081f-631e2d0569a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/0b/72/140b725c-437f-a1c1-82cc-990c1092cca7/ddc04d23-cf65-40b0-b03f-9afbb84afc86_i1.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/c8/24/5fc82455-7994-6f69-1bbd-4d3328f77568/dd155421-3c8a-4720-bda5-7f9c56f9d778_i2.jpg/392x696bb.jpg",
@@ -158,34 +158,34 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7a/73/577a73dc-f270-32e5-081f-631e2d0569a4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "minimumOsVersion": "15.0",
-    "averageUserRating": 4.76402,
-    "trackCensoredName": "JEFIT Workout Plan Gym Tracker",
-    "trackViewUrl": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4",
-    "contentAdvisoryRating": "17+",
-    "artistId": 449810003,
-    "artistName": "Jefit Inc.",
+    "releaseNotes": "Adaptive Plans are now available to try free — free users can unlock a personalized training program built around your goals and available equipment with a 7-day trial. Load progressions also stay in sync if you adjust your set count mid-cycle. Swapping exercises during an active workout is smooth again, and you can now remove optional muscle groups from custom exercises.",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "price": 0,
-    "sellerName": "Jefit Inc.",
+    "artistId": 449810003,
+    "artistName": "Jefit Inc.",
+    "releaseDate": "2011-07-25T23:33:09Z",
     "bundleId": "com.Jefit.JEFIT",
-    "releaseNotes": "Adaptive Plans are now available to try free — free users can unlock a personalized training program built around your goals and available equipment with a 7-day trial. Load progressions also stay in sync if you adjust your set count mid-cycle. Swapping exercises during an active workout is smooth again, and you can now remove optional muscle groups from custom exercises.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 449810000,
-    "trackName": "JEFIT Workout Plan Gym Tracker",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 449810000,
+    "trackName": "JEFIT Workout Plan Gym Tracker",
     "currentVersionReleaseDate": "2026-07-08T16:58:23Z",
+    "sellerName": "Jefit Inc.",
     "version": "17.0.14",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Get Fit and Strong with JEFIT: Your Reliable Gym Planner and Workout Organizer\n\nJEFIT is a trusted workout tracker for iPhone, designed to help you achieve your fitness goals with precision and ease. Whether you're a beginner or a seasoned athlete, JEFIT is a versatile fitness plan for the gym or home workouts. With detailed workout programs, HD video instructions, and powerful tracking tools, JEFIT empowers you to log, plan, and optimize your fitness journey.\n\nWhy Choose JEFIT\n\n- Gym Planner & Workout Organizer: Create fully personalized daily workout plans tailored to your goals, whether it's cutting, bulking, or maintaining.\n- Workout Tracker for iPhone: Easily log your weight, reps, and sets, and track your progress with a user-friendly interface.\n- Fitness Plan for the Gym: Access 1,400+ exercises, including barbells, dumbbells, kettlebells, and cardio machines, with detailed instructions and animations.\n- Sync with Apple Health: Integrate your workout data with Apple Health to monitor body weight, height, exercise time, and more.\n- In-Time Training Insights: Gain valuable insights into your daily and weekly training effectiveness, helping you optimize your workouts for better results.\n- 1RM & Strength Tracking: Record your lifting progress and automatically calculate your One Rep Max (1RM) for each exercise. JEFIT supports 1 rep max estimation, advanced 1RM analytics, and strength performance tracking, helping you measure your true strength level and follow progressive overload with confidence.\n- Progress & Strength Analytics: Beyond logging sets and reps, JEFIT tracks your max lifting records, monitors 1RM performance trends, and provides data-driven insights into your long-term strength progression. Whether you’re testing a new one-rep max on squats or reviewing weekly 1RM metrics, JEFIT gives you clarity on where you stand.\n\nKey Features\n\n- Extensive Exercise Database: Over 1,400 weight training and muscle-building exercises with HD video demonstrations for proper form.\n- Community-Driven Workouts: Download daily routines and fitness plans created by the JEFIT community or design your own.\n- Smartwatch Integration: Sync with your smartwatch for efficient, on-the-go workouts.\n- Progress Tracking: Monitor your fitness progress, save your best lifting records, and stay motivated with visual improvements.\n- Social Engagement: Connect with friends, share logs, and compare progress with the thriving JEFIT community.\n- Apple Health Sync: Keep all your fitness data in one place by syncing with Apple Health.\n\nWhat’s New\n\n- In-Time Training Insights: Understand the effectiveness of your workouts with data-driven insights into your daily and weekly performance.\n- Enhanced Workout Experience: Enjoy smoother tracking, improved analytics, and a more intuitive interface.\n- JEFIT now support AI-powered progressive overload system: Jefit analyzes training volume, intensity, and strength trends to support load progression over time.\n\nJoin the JEFIT Community\n\nWith over 10 million users worldwide, JEFIT is trusted by fitness enthusiasts and professionals alike. Whether you're looking to build muscle, lose weight, or improve your overall fitness, JEFIT provides the tools and support you need to succeed.\n\nUpgrade to JEFIT Elite\n\nUnlock advanced features with JEFIT Elite for $69.99/year:\n\n- Unlimited smartwatch workouts\n- Professional audio cues\n- Advanced fitness analytics\n- Premium training routines crafted by experts\n\nSubscription Details:\n\n- Charges are billed to your iTunes Account.\n- Auto-renews unless canceled 24 hours before the renewal date.\n- Manage or cancel subscriptions in your app store settings.\n\nTerms and Privacy:\n\nBy upgrading to Elite, you agree to our (https://www.jefit.com/terms-of-use/) and (https://www.jefit.com/privacy-policy/).\n\nDownload JEFIT today and take control of your fitness journey with a reliable gym planner, workout organizer, and workout tracker! Transform your body and achieve your goals with JEFIT!",
-    "averageUserRatingForCurrentVersion": 4.76402,
-    "userRatingCountForCurrentVersion": 46732,
+    "trackCensoredName": "JEFIT Workout Plan Gym Tracker",
+    "trackViewUrl": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4",
+    "contentAdvisoryRating": "17+",
+    "averageUserRating": 4.76403,
     "sellerUrl": "https://www.jefit.com/",
     "languageCodesISO2A": [
       "EN",
@@ -197,10 +197,10 @@
     ],
     "fileSizeBytes": "286389248",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 46735,
     "trackContentRating": "17+",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2011-07-25T23:33:09Z",
-    "userRatingCount": 46732
+    "averageUserRatingForCurrentVersion": 4.76403,
+    "price": 0,
+    "userRatingCount": 46735
   }
 }

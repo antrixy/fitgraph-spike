@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T08:23:31.267Z",
+  "fetched_at": "2026-07-12T08:40:54.731Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1043837948&country=us",
   "result": {
@@ -144,15 +144,14 @@
     ],
     "advisories": [],
     "kind": "software",
+    "fileSizeBytes": "472972288",
+    "formattedPrice": "Free",
+    "trackContentRating": "4+",
     "trackCensoredName": "Oura",
     "trackViewUrl": "https://apps.apple.com/us/app/oura/id1043837948?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.8632,
-    "releaseNotes": "Small fixes, big improvements—Oura just got a little better.",
-    "averageUserRatingForCurrentVersion": 4.8632,
-    "minimumOsVersion": "16.0",
-    "userRatingCountForCurrentVersion": 265967,
-    "sellerUrl": "https://ouraring.com",
+    "userRatingCountForCurrentVersion": 265981,
     "languageCodesISO2A": [
       "AR",
       "CS",
@@ -177,33 +176,34 @@
       "SV",
       "ZH"
     ],
-    "fileSizeBytes": "472972288",
-    "formattedPrice": "Free",
-    "trackContentRating": "4+",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "price": 0,
+    "sellerUrl": "https://ouraring.com",
+    "averageUserRatingForCurrentVersion": 4.8632,
     "artistId": 1043837947,
     "artistName": "Oura Health Oy",
-    "releaseDate": "2016-01-14T09:49:12Z",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "price": 0,
+    "bundleId": "com.ouraring.oura",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "trackName": "Oura",
+    "releaseDate": "2016-01-14T09:49:12Z",
+    "releaseNotes": "Small fixes, big improvements—Oura just got a little better.",
     "trackId": 1043837948,
+    "trackName": "Oura",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Oura Health Oy",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-01T05:02:39Z",
     "version": "7.19.1",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Meet Oura Ring - the revolutionary smart ring that translates your body’s most meaningful messages to transform how you feel every day. \n\nThe award-winning Oura App is your personal health companion, delivering valuable insights and daily recommendations to help you to make health and wellness a daily practice. \n\nTHREE DAILY SCORES\nYour Sleep, Activity, and Readiness scores give you a clear understanding of the state of your body with actionable guidance on how to stay balanced.\n\nACCURATE BY DESIGN\nYour finger provides the most accurate reading for over 30 biometrics like heart rate, body temperature, blood oxygen, and more.\n\nBEST-IN-CLASS SLEEP MONITORING\nWake up to in-depth analysis of your sleep patterns and personalized tips to optimize your routine, so you’ll feel more energized every day.\n\nADVANCED ACTIVITY TRACKING\nFrom mountain climbing to meditating, Oura Ring tracks your daily movement while prioritizing balance and rest. Measure your daily activities, calories, steps, and inactive time.\n\nCYCLE INSIGHTS\nBetter understand your body’s cycle patterns or help improve your chances of getting pregnant by tracking daily and monthly body temperature trends.\n\nSTRESS RESILIENCE\nUnderstand how daily stress is affecting your body and learn how to be more resilient to stress by finding balance between moments of strain and recovery.\n\nRECOVERY \nGet personalized insights and guidance on how rest and recovery affects your overall Readiness Score. Feeling under the weather? Activate Rest Mode to give yourself a break.\n\nILLNESS DETECTION\nOura Ring monitors shifts in your body temperature and heart rate so you can tell when you may be getting sick.\n\nLONG-TERM TRENDS\nView your daily, weekly, and monthly trends, and discover how your choices and environment affect your body.\n\nTRACK HABITS WITH TAGS\nCustomize your experience and test out new habits by adding tags — like \"caffeine\" or \"alcohol\" — and discover how your choices affect your sleep and recovery.\n\nOura Ring is not a medical device and is not intended to diagnose, treat, cure, monitor, or prevent medical conditions or illnesses. Oura Ring is only designed for general fitness and wellness purposes. Please do not make any changes to your medication, daily routines, nutrition, sleep schedule, or workouts without first consulting your doctor or another medical professional.",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "sellerName": "Oura Health Oy",
-    "bundleId": "com.ouraring.oura",
-    "userRatingCount": 265967
+    "minimumOsVersion": "16.0",
+    "userRatingCount": 265981
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T08:17:17.111Z",
+  "fetched_at": "2026-07-12T08:34:33.033Z",
   "source": "google_play_scraper",
   "appId": "com.fitnow.loseit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 21385694,
-    "score": 4.559975,
+    "score": 4.558948,
     "scoreText": "4.6",
-    "ratings": 180011,
-    "reviews": 43735,
+    "ratings": 180058,
+    "reviews": 43736,
     "histogram": {
-      "1": 7136,
-      "2": 3253,
-      "3": 7338,
-      "4": 26215,
-      "5": 136062
+      "1": 7157,
+      "2": 3276,
+      "3": 7337,
+      "4": 26276,
+      "5": 136007
     },
     "price": 0,
     "free": true,

@@ -1,15 +1,21 @@
 {
-  "fetched_at": "2026-07-11T08:19:57.755Z",
+  "fetched_at": "2026-07-12T08:37:26.775Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=648518560&country=us",
   "result": {
-    "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
-    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
+    "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -140,36 +146,19 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
-    "kind": "software",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "minimumOsVersion": "26.0",
-    "releaseNotes": "Bug fixes and general improvements",
     "averageUserRating": 4.57613,
+    "trackCensoredName": "Gymaholic: Workout Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
     "contentAdvisoryRating": "4+",
-    "artistId": 648518563,
-    "artistName": "Devenyi Gabor",
     "genres": [
       "Health & Fitness"
     ],
-    "price": 0,
-    "trackName": "Gymaholic: Workout Tracker",
-    "trackId": 648518560,
-    "bundleId": "mportal.Gymaholic",
-    "genreIds": [
-      "6013"
-    ],
-    "trackCensoredName": "Gymaholic: Workout Tracker",
-    "releaseDate": "2013-07-03T03:46:34Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Devenyi Gabor",
     "isVppDeviceBasedLicensingEnabled": true,
+    "price": 0,
+    "bundleId": "mportal.Gymaholic",
+    "sellerName": "Devenyi Gabor",
     "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
+    "releaseNotes": "Bug fixes and general improvements",
     "version": "16.4",
     "wrapperType": "software",
     "currency": "USD",
@@ -197,6 +186,17 @@
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 3435,
     "trackContentRating": "4+",
+    "minimumOsVersion": "26.0",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "artistId": 648518563,
+    "artistName": "Devenyi Gabor",
+    "releaseDate": "2013-07-03T03:46:34Z",
+    "trackId": 648518560,
+    "trackName": "Gymaholic: Workout Tracker",
+    "genreIds": [
+      "6013"
+    ],
     "userRatingCount": 3435
   }
 }

@@ -1,11 +1,13 @@
 {
-  "fetched_at": "2026-07-11T08:19:15.242Z",
+  "fetched_at": "2026-07-12T08:36:38.649Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1458862350&country=us",
   "result": {
     "artistViewUrl": "https://apps.apple.com/us/developer/hevy-studios-s-l/id1458862349?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/2a/0e/9b2a0e42-6ab9-b4ff-d5f8-9c734ab0dd9d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/2a/0e/9b2a0e42-6ab9-b4ff-d5f8-9c734ab0dd9d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg",
+    "advisories": [],
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/65/23/a565237a-1107-085e-1071-57c537ce452a/4f85acc6-9488-4d7b-bbc5-96ef1b35a303_screenshot0__U00281_U0029.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/20/11/9e2011c2-ef21-e716-c60a-5c2fe0b26297/a66b427f-5742-4ef6-9f1f-7fb2aeb5f927_screenshot1.png/392x696bb.png",
@@ -35,7 +37,6 @@
     "features": [
       "iosUniversal"
     ],
-    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -166,19 +167,13 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
-    "minimumOsVersion": "15.1",
+    "averageUserRating": 4.92351,
     "trackCensoredName": "Hevy - Workout Tracker Gym Log",
     "trackViewUrl": "https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.9236,
+    "averageUserRatingForCurrentVersion": 4.92351,
     "releaseNotes": "What's new in this update:\n\nDid you say liquid glass? Hevy now has new liquid glass components to make your navigation feel smooth and native!\nYou can now see your full Trainer program!\nBug fixes and performance improvements!",
-    "fileSizeBytes": "248352768",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 79303,
-    "trackContentRating": "4+",
-    "sellerUrl": "https://www.hevyapp.com",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -193,31 +188,36 @@
       "ZH",
       "TR"
     ],
-    "averageUserRatingForCurrentVersion": 4.9236,
-    "bundleId": "com.hevyapp.hevy",
-    "price": 0,
-    "releaseDate": "2019-07-01T04:30:20Z",
-    "trackId": 1458862350,
-    "trackName": "Hevy - Workout Tracker Gym Log",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Hevy Studios S.L.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-04T16:36:36Z",
-    "version": "3.1.2",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "** Featured by Apple ** Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n•  \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n•  \"Seeing what my friends and other athletes are working out at the gym has totally changed my experience. Now I can copy my friend's workouts and compare myself. It's super motivating\" - Jaume\n•  \"Tracking my workouts with Hevy has taken my training to the next level, I'm getting stronger every week. Being able to plan my routines really helps me being efficient at the gym.\" - Carlos D.\n\nFEATURES\n•  Track your lifts with an intuitive, simple to use interface.\n•  Use the calendar to stay on top of your training schedule\n•  Hundreds of exercises with free high-quality videos for you to focus on your form\n•  Follow your friend's progress by following their lifts and copying their routines\n•  Create your own custom exercises for your workouts\n•  Set up your profile as a private profile or a public one\n•  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\n•  Customize automatic rest timers for each exercise\n•  Analyze your workout sessions in detail with muscle group graphs\n•  Calculation of One Rep Max for all strength exercises\n•  Create an unlimited amount of routines\n•  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight & total reps\n•  Copy your friends' workouts\n•  Dark Mode\n•  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.\n\nAPPLE WATCH\n•  Live sync your Apple Watch workout with your phone\n•  Use your Hevy routines on your Apple Watch\n•  Easily track your weight lifting sets\n•  Use Hevy Apple Watch Complications on your Watch Face\n•  Keep track of your heart rate during your workout\n•  Helpful timers for duration exercises\n•  Mark sets as Warmup, Normal, Drop sets, or Failure\n•  Watch workouts automatically save when reconnecting to iPhone\n\niOS FEATURES\n•  Use the latest iOS technology\n•  Live activity on your lock screen\n•  Dynamic island to never lose track of your workout\n•  Widgets for quick access\n•  Fully featured iPad app\n•  iMessage stickers to lift Hevy\n\nDETAILS\n•  https://www.hevyapp.com\n•  https://www.instagram.com/hevyapp\n•  https://www.facebook.com/hevyapp\n•  https://www.twitter.com/hevyapp\n•  hello@hevyapp.com\n\nHEVY PRO\n•  Create unlimited routines\n•  Get unlimited access to graph history\n•  Create unlimited custom exercises\n•  Track advanced measurements\n\nThe Hevy Pro subscription automatically renews if you do not cancel it at least 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription’s expiration. You can manage your subscription and disable automatic renewal at any time by adjusting your Apple account settings. You have the right to withdraw from your initial subscription within 14 days of starting it. By purchasing, you accept our Terms of Use and Privacy Policy.\n\nTerms & Conditions\nhttps://www.hevyapp.com/app-terms-conditions/\n\nDownload Hevy and take your training to the next level!",
+    "fileSizeBytes": "248352768",
+    "formattedPrice": "Free",
+    "trackContentRating": "4+",
+    "sellerUrl": "https://www.hevyapp.com",
     "artistId": 1458862349,
     "artistName": "Hevy Studios S.L.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "userRatingCount": 79303
+    "price": 0,
+    "bundleId": "com.hevyapp.hevy",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "releaseDate": "2019-07-01T04:30:20Z",
+    "trackName": "Hevy - Workout Tracker Gym Log",
+    "trackId": 1458862350,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-07-04T16:36:36Z",
+    "sellerName": "Hevy Studios S.L.",
+    "version": "3.1.2",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "** Featured by Apple ** Join +10 million users!\nHevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!\n\nWHAT USERS ARE SAYING\n•  \"Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos\" - Sam Ilelaboye\n•  \"Seeing what my friends and other athletes are working out at the gym has totally changed my experience. Now I can copy my friend's workouts and compare myself. It's super motivating\" - Jaume\n•  \"Tracking my workouts with Hevy has taken my training to the next level, I'm getting stronger every week. Being able to plan my routines really helps me being efficient at the gym.\" - Carlos D.\n\nFEATURES\n•  Track your lifts with an intuitive, simple to use interface.\n•  Use the calendar to stay on top of your training schedule\n•  Hundreds of exercises with free high-quality videos for you to focus on your form\n•  Follow your friend's progress by following their lifts and copying their routines\n•  Create your own custom exercises for your workouts\n•  Set up your profile as a private profile or a public one\n•  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\n•  Customize automatic rest timers for each exercise\n•  Analyze your workout sessions in detail with muscle group graphs\n•  Calculation of One Rep Max for all strength exercises\n•  Create an unlimited amount of routines\n•  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight & total reps\n•  Copy your friends' workouts\n•  Dark Mode\n•  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.\n\nAPPLE WATCH\n•  Live sync your Apple Watch workout with your phone\n•  Use your Hevy routines on your Apple Watch\n•  Easily track your weight lifting sets\n•  Use Hevy Apple Watch Complications on your Watch Face\n•  Keep track of your heart rate during your workout\n•  Helpful timers for duration exercises\n•  Mark sets as Warmup, Normal, Drop sets, or Failure\n•  Watch workouts automatically save when reconnecting to iPhone\n\niOS FEATURES\n•  Use the latest iOS technology\n•  Live activity on your lock screen\n•  Dynamic island to never lose track of your workout\n•  Widgets for quick access\n•  Fully featured iPad app\n•  iMessage stickers to lift Hevy\n\nDETAILS\n•  https://www.hevyapp.com\n•  https://www.instagram.com/hevyapp\n•  https://www.facebook.com/hevyapp\n•  https://www.twitter.com/hevyapp\n•  hello@hevyapp.com\n\nHEVY PRO\n•  Create unlimited routines\n•  Get unlimited access to graph history\n•  Create unlimited custom exercises\n•  Track advanced measurements\n\nThe Hevy Pro subscription automatically renews if you do not cancel it at least 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription’s expiration. You can manage your subscription and disable automatic renewal at any time by adjusting your Apple account settings. You have the right to withdraw from your initial subscription within 14 days of starting it. By purchasing, you accept our Terms of Use and Privacy Policy.\n\nTerms & Conditions\nhttps://www.hevyapp.com/app-terms-conditions/\n\nDownload Hevy and take your training to the next level!",
+    "minimumOsVersion": "15.1",
+    "userRatingCountForCurrentVersion": 79502,
+    "userRatingCount": 79502
   }
 }

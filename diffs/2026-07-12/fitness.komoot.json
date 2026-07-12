@@ -1,0 +1,19 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-07-12",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "376426a62f7dcd37154301422d9b266989daa9d4",
+      "prev_fetched_at": "2026-07-11T08:22:41.760Z",
+      "curr_fetched_at": "2026-07-12T08:39:59.006Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.28.4",
+          "new": "2026.28.7"
+        }
+      ]
+    }
+  }
+}
