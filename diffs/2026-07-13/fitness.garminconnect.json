@@ -1,0 +1,22 @@
+{
+  "product": "fitness.garminconnect",
+  "name": "Garmin Connect",
+  "date": "2026-07-13",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "87394e47cb4f9eb12a4596ce6c749b8593b8276f",
+      "curr_fetched_at": "2026-07-13T09:57:14.936Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "BOUNCE™ KIDS SMARTWATCHES",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

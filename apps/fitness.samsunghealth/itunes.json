@@ -1,8 +1,19 @@
 {
-  "fetched_at": "2026-07-12T08:41:19.341Z",
+  "fetched_at": "2026-07-13T09:58:04.353Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1224541484&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/60/91/b060913e-26b8-eea3-4213-83f9a32c5077/f5576f65-8630-4f41-8c96-3a0e72d34395_me_1242x2208bb.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/e2/b9/52e2b9f6-d42e-115c-18fe-3636fb6aae45/8eaac693-fcf3-4616-9354-21814eab79fd_together01_1242x2208bb.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/48/33/50483394-8056-273f-bb96-b649b801f5cb/e6c37a1a-f0ee-465b-b2c6-45049ab4b81d_together02_1242x2208bb.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/samsung-electronics-co-ltd/id359580642?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -51,43 +62,12 @@
       "iPhoneAir-iPhoneAir",
       "iPhone17e-iPhone17e"
     ],
+    "features": [],
     "advisories": [],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/60/91/b060913e-26b8-eea3-4213-83f9a32c5077/f5576f65-8630-4f41-8c96-3a0e72d34395_me_1242x2208bb.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/e2/b9/52e2b9f6-d42e-115c-18fe-3636fb6aae45/8eaac693-fcf3-4616-9354-21814eab79fd_together01_1242x2208bb.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/48/33/50483394-8056-273f-bb96-b649b801f5cb/e6c37a1a-f0ee-465b-b2c6-45049ab4b81d_together02_1242x2208bb.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg",
-    "features": [],
-    "artistViewUrl": "https://apps.apple.com/us/developer/samsung-electronics-co-ltd/id359580642?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.jpg",
-    "minimumOsVersion": "9.0",
-    "artistName": "Samsung Electronics Co., Ltd.",
-    "price": 0,
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "artistId": 359580642,
-    "releaseDate": "2017-10-02T08:08:12Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Samsung Electronics Co., Ltd.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-04-20T07:03:05Z",
-    "version": "1.15.3",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Samsung Health is currently compatible with Samsung Gear S2, Samsung Gear S3, Samsung Gear S4, Gear Fit2, Gear Fit2 pro, Gear Sports, Galaxy Fit, Galaxy Fitⓔ , Galaxy Watch Active2, Galaxy Watch3 and Galaxy Fit2 only.\n\nSamsung Health provides basic, but mandatory features that help you improve your health.\nSamsung Health analyses your exercise and activity history, and helps you achieve weight loss and lead a healthy lifestyle.\n\nUsing several trackers, you can manage your walking, running, cycling, mountain climbing, indoor exercise, and outdoor exercise data, etc., while useful tips and exercise programs developed based on your customized settings help you fulfill the purpose of your exercise.\n\n42 languages, including English, French, and Chinese, are supported; for other language regions, English is supported.\n\nThe available features may vary depending on the region, service provider, and device model.\n\nYou can manage data via Samsung account.\n\nSamsung Health must only be used for improving physical fitness and health, and cannot be used for diagnosing disorders or conditions, or for curing, relieving, treating, or preventing disorders.\n\nApple Health tracks your step count and can share that data with Samsung Health to provide an accurate step count. User can control permission for this sharing in Apple Health Settings.",
     "sellerUrl": "http://health.apps.samsung.com/",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 35415,
     "languageCodesISO2A": [
       "AR",
       "HR",
@@ -130,19 +110,39 @@
       "UK",
       "VI"
     ],
-    "fileSizeBytes": "167650304",
-    "formattedPrice": "Free",
+    "averageUserRatingForCurrentVersion": 4.65204,
     "trackContentRating": "4+",
-    "userRatingCountForCurrentVersion": 35414,
-    "averageUserRatingForCurrentVersion": 4.65211,
-    "bundleId": "com.samsung.health",
-    "averageUserRating": 4.65211,
-    "trackCensoredName": "Samsung Health",
-    "trackViewUrl": "https://apps.apple.com/us/app/samsung-health/id1224541484?uo=4",
+    "fileSizeBytes": "167650304",
     "contentAdvisoryRating": "4+",
+    "trackViewUrl": "https://apps.apple.com/us/app/samsung-health/id1224541484?uo=4",
+    "trackCensoredName": "Samsung Health",
+    "averageUserRating": 4.65204,
+    "artistId": 359580642,
+    "artistName": "Samsung Electronics Co., Ltd.",
+    "price": 0,
     "trackId": 1224541484,
-    "trackName": "Samsung Health",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "sellerName": "Samsung Electronics Co., Ltd.",
+    "releaseDate": "2017-10-02T08:08:12Z",
+    "currentVersionReleaseDate": "2026-04-20T07:03:05Z",
     "releaseNotes": "Bug fixes",
-    "userRatingCount": 35414
+    "version": "1.15.3",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Samsung Health is currently compatible with Samsung Gear S2, Samsung Gear S3, Samsung Gear S4, Gear Fit2, Gear Fit2 pro, Gear Sports, Galaxy Fit, Galaxy Fitⓔ , Galaxy Watch Active2, Galaxy Watch3 and Galaxy Fit2 only.\n\nSamsung Health provides basic, but mandatory features that help you improve your health.\nSamsung Health analyses your exercise and activity history, and helps you achieve weight loss and lead a healthy lifestyle.\n\nUsing several trackers, you can manage your walking, running, cycling, mountain climbing, indoor exercise, and outdoor exercise data, etc., while useful tips and exercise programs developed based on your customized settings help you fulfill the purpose of your exercise.\n\n42 languages, including English, French, and Chinese, are supported; for other language regions, English is supported.\n\nThe available features may vary depending on the region, service provider, and device model.\n\nYou can manage data via Samsung account.\n\nSamsung Health must only be used for improving physical fitness and health, and cannot be used for diagnosing disorders or conditions, or for curing, relieving, treating, or preventing disorders.\n\nApple Health tracks your step count and can share that data with Samsung Health to provide an accurate step count. User can control permission for this sharing in Apple Health Settings.",
+    "minimumOsVersion": "9.0",
+    "trackName": "Samsung Health",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "bundleId": "com.samsung.health",
+    "userRatingCount": 35415
   }
 }

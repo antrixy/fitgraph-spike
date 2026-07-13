@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-07-12T08:39:52.134Z",
+  "fetched_at": "2026-07-13T09:56:37.335Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1134655040&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
+    "advisories": [],
+    "features": [
+      "iosUniversal"
+    ],
+    "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/24/b39d2492-a579-c8ba-931f-759a2dd099a4/_U005bEN_U005d_iPhone_5.5__U0026_Android_01.jpg/406x228bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/88/5f/ef885f5d-bd6d-1da9-05c4-a6cc0ea00680/_U005bEN_U005d_iPhone_5.5__U0026_Android_02.jpg/406x228bb.jpg",
@@ -22,9 +30,6 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -155,48 +160,43 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f5/35/1df535f2-fc2d-27e8-b042-0198e8116b96/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
-    "currentVersionReleaseDate": "2026-07-08T15:17:28Z",
-    "sellerUrl": "http://www.zwift.com",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "3887891456",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21334,
-    "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.73615,
-    "artistId": 934083689,
-    "artistName": "Zwift, Inc",
+    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
+    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.73617,
+    "minimumOsVersion": "13.0",
     "genres": [
       "Health & Fitness"
     ],
     "price": 0,
-    "releaseNotes": "• The Challenges section in the Home Screen is now renamed to \"This Week on Zwift\". \n• After completing a Challenge, it will move to the end of the This Week on Zwift section in the Home Screen.\n• Challenges on the Home screen now show the number of remaining days until the Challenge ends when within one week of ending.\n• Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.\n• Increased the size of the Target Watts field in the Workout HUD.\n• Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
-    "trackId": 1134655040,
-    "trackName": "Zwift: Indoor Cycling Fitness",
-    "releaseDate": "2016-12-10T04:14:55Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Zwift, Inc",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "artistId": 934083689,
+    "artistName": "Zwift, Inc",
+    "bundleId": "com.zwift.ZwiftGame",
     "genreIds": [
       "6013"
     ],
+    "trackId": 1134655040,
+    "trackName": "Zwift: Indoor Cycling Fitness",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Zwift, Inc",
+    "currentVersionReleaseDate": "2026-07-08T15:17:28Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseNotes": "• The Challenges section in the Home Screen is now renamed to \"This Week on Zwift\". \n• After completing a Challenge, it will move to the end of the This Week on Zwift section in the Home Screen.\n• Challenges on the Home screen now show the number of remaining days until the Challenge ends when within one week of ending.\n• Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.\n• Increased the size of the Target Watts field in the Workout HUD.\n• Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
     "version": "1.117.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Zwift: Indoor cycling made fun\n\nJoin millions of people on the app that makes indoor cycling fun for everyone.  Whether you’re a seasoned athlete or just starting, jump into virtual bike rides in immersive 3D worlds, challenge yourself on epic climbs, and explore endless roads. With racing, group rides, cycling workouts, and structured training plans, Zwift can deliver serious fitness results.\n\nConnect Your Bike\n\nSeamlessly connect your smart bike, like Zwift Ride, or your bike and smart trainer – including ones from Zwift, Wahoo, Garmin, and more – to your smartphone, tablet, or AppleTV, and start chasing your fitness goals from the comfort of your home.\n\nImmersive Virtual Worlds\n\nExplore over a hundred routes in 12 immersive, virtual worlds. Whether it's the epic climbs in Watopia or the serene beauty of the Scottish highlands, every ride is a new chance to explore.\n\nJoin a Global Community\n\nJoin a global community pulsing with energy and enthusiasm. Connect with friends, make new ones, and immerse yourself in group rides, races, and events. Track your stats and stay connected with friends, clubs, and the community—on and off the bike— with the Zwift Companion app. Zwift even connects to Strava, ensuring a seamless fitness tracking experience. \n\nIndoor Training Plans, Tailored to You\n\nOur world-class coaches and champion cyclists have crafted plans and workouts for every level. Whether you’re starting out or stepping it up, find your perfect plan. With flexible options, from quick 30-minute burns to long endurance rides, Zwift also has 1000s of on-demand workouts that fit your schedule and goals.\n\nRace Any Time Of Day\n\nRacing riders from around the world is one of the most effective ways to get fit. But don’t be intimidated! Zwift is home to the world’s largest community of competitors—from first-time racers to elite athletes—guaranteeing there’s a friendly challenge for everyone.\n\nRide and Run!\n\nNot just for cyclists, Zwift welcomes runners too. Sync your smart treadmill or footpod device — you can get our RunPod directly from Zwift—and step into the worlds of Zwift, where every walk or run gets you one step closer to your goals.\n\nJoin Zwift Today\n\nThere’s never been a better time to combine fun with real results. Download Zwift now and start from wherever you are with a free trial for first-time users.\n\nDownload today\nPlease see the Terms of Use at zwift.com/terms, and EULA at support.zwift.com/en_us/end-user-license-agreement-rymuiTZr",
-    "minimumOsVersion": "13.0",
-    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
-    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.73615,
-    "bundleId": "com.zwift.ZwiftGame",
-    "userRatingCount": 21334
+    "fileSizeBytes": "3887891456",
+    "formattedPrice": "Free",
+    "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.73617,
+    "userRatingCountForCurrentVersion": 21336,
+    "sellerUrl": "http://www.zwift.com",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "releaseDate": "2016-12-10T04:14:55Z",
+    "userRatingCount": 21336
   }
 }

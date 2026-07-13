@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T08:34:42.345Z",
+  "fetched_at": "2026-07-13T09:51:37.017Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Macro and micronutrient tracker for accurate food, diet and nutrition analysis.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 5783816,
-    "score": 4.5838614,
+    "maxInstalls": 5826521,
+    "score": 4.5822444,
     "scoreText": "4.6",
-    "ratings": 55760,
-    "reviews": 8300,
+    "ratings": 55788,
+    "reviews": 8307,
     "histogram": {
-      "1": 2062,
-      "2": 1114,
-      "3": 1801,
-      "4": 7993,
-      "5": 42780
+      "1": 2092,
+      "2": 1101,
+      "3": 1811,
+      "4": 7998,
+      "5": 42779
     },
     "price": 0,
     "free": true,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T08:35:29.311Z",
+  "fetched_at": "2026-07-13T09:52:21.823Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Weight Loss w/o Dieting: Food, Diet &amp; Keto Tracker to Plan Meals &amp; Lose Weight",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 56626212,
-    "score": 4.412879,
+    "maxInstalls": 56719936,
+    "score": 4.4158792,
     "scoreText": "4.4",
-    "ratings": 832454,
+    "ratings": 832780,
     "reviews": 2674,
     "histogram": {
-      "1": 63846,
-      "2": 22023,
-      "3": 38599,
-      "4": 89860,
-      "5": 617971
+      "1": 62938,
+      "2": 22028,
+      "3": 39298,
+      "4": 89725,
+      "5": 618636
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Apr 23, 2014",
-    "updated": 1783083733000,
+    "updated": 1783671915000,
     "version": "26.27.1",
     "recentChanges": "We&#39;re so happy to see you&#39;re using Yazio to reach your goals! To help make things even easier for you, we&#39;ve made further improvements to the app. Good luck!<br>",
     "comments": [],

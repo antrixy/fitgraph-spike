@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.mynetdiary",
+  "integration": "fitbit",
+  "direction": "added",
+  "observed_at": "2026-07-13T09:52:17.140Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Fitbit",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "87394e47cb4f9eb12a4596ce6c749b8593b8276f"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

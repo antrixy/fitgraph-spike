@@ -1,0 +1,170 @@
+# MyNetDiary (fitness.mynetdiary) — 2026-07-13
+
+fetched_at: {"itunes":"2026-07-13T09:52:09.501Z","play":"2026-07-13T09:52:14.535Z","pricing":"2026-07-13T09:52:17.140Z"}
+
+## pricing_page (sentence-level)
+**Added (119):**
+- Considering MyNetDiary Premium or Premium Plus? _(×2)_
+- Here’s what you unlock when you upgrade _(×2)_
+- 3 Minute Read
+- Ivory Lira, RDN - Registered Dietitian Nutritionist
+- If you’re already using MyNetDiary , you know it’s a powerful tool for tracking food, weight, and overall health.
+- The free version covers the basics well — calorie tracking, barcode scanning, exercise logging, and weight goals.
+- Are you looking for deeper insights, more structure, and smarter tools to support your goals?
+- Upgrading to Premium (or Premium Plus) unlocks a whole new level of features–some you didn't even know existed in a health and fitness app!
+- What does MyNetDiary Premium include?
+- Advanced nutrient tracking
+- MyNetDiary Premium takes a deeper dive into tracking macros for you.
+- You can monitor 100+ nutrients, including fiber, added sugars, sodium, potassium, vitamins, minerals, and even amino acids.
+- You can also customize nutrient targets based on your specific goals—whether that’s increasing protein, managing sodium, or dialing in fiber intake.
+- If you care about more than just calories, this feature alone can be a game-changer.
+- Customizable diet plans
+- MyNetDiary Premium includes built-in diet settings that make it easier to follow specific nutrition approaches without manually adjusting everything yourself.
+- Options include:
+- Low-carb
+- High-protein
+- Each plan automatically adjusts your macro targets and nutrition settings, helping you stay aligned with your chosen approach.
+- Meal-planning and recipe tools
+- Premium includes access to hundreds of dietitian-created recipes .
+- You can browse, filter by dietary preference, and log recipes directly into your diary.
+- You can also:
+- Import recipes from the web
+- Create and save your own recipes
+- Plan meals in advance
+- Copy meals from previous days
+- Build reusable meal templates
+- Planning anything to do with eating becomes much easier — and faster!
+- Detailed reports and weekly analysis
+- Premium gives you deeper analytics so you can see trends, not just daily numbers.
+- You get:
+- Weekly nutrient averages
+- Macro distribution charts
+- Weight trend analysis
+- Customizable dashboards
+- Printable and exportable reports
+- This makes it easier to spot patterns and make adjustments based on data—not guesswork.
+- Device and app integration
+- MyNetDiary syncs with popular health and fitness platforms, including:
+- Fitbit
+- Garmin
+- Withings
+- Exercise, weight, and other data can sync automatically, reducing manual entry and keeping everything in one place.
+- Custom trackers and health metrics
+- Premium isn’t just about food.
+- You can track:
+- Blood glucose
+- Blood pressure
+- Body measurements
+- Sleep
+- Hydration
+- Net carbs
+- And custom metrics you create yourself!
+- This makes it especially helpful for users managing specific health conditions or tracking multiple lifestyle variables.
+- Autopilot: Smarter calorie budget adjustments
+- One of the most helpful MyNetDiary Premium features is Autopilot .
+- Instead of keeping your calorie target static, Autopilot automatically adjusts your daily calorie budget based on your actual progress.
+- It uses your weight trends and logged data to fine-tune your plan, keeping it realistic and aligned with your goal.
+- For example:
+- Suppose your weight loss is progressing faster than expected, Autopilot may increase calories slightly to keep things sustainable.
+- On the other hand, if progress slows, it may adjust your target to help you stay on track.
+- Autopilot takes the guesswork out of “Should I lower my calories?” and helps prevent overly aggressive restriction.
+- Think of it as built-in course correction that adapts as you go.
+- What’s new: Premium Plus and AI Tools
+- MyNetDiary just introduced a new subscription tier this year: Premium Plus .
+- Premium Plus includes everything in Premium, plus a suite of AI-powered tools designed to make tracking easier and more personalized.
+- The AI Coach acts like a built-in assistant.
+- It looks at your goals, recent food logs, and progress trends to provide personalized suggestions and feedback.
+- It can help you:
+- Adjust macros
+- Improve meal balance
+- Stay on track after higher-calorie days
+- Identify patterns in your logging
+- It’s guidance based on your actual data—not generic, one-size-fits-all advice.
+- AI meal suggestions
+- Based on what you’ve already logged for the day, the app can suggest foods that help you hit your remaining calorie and macro targets.
+- If you’re low on protein or fiber, it can recommend foods to balance things out.
+- Never dread end-of-day macro math anymore!
+
+**Removed (340):**
+- 20 Minute Read
+- Sergey Oreshko - Co-founder and CEO of MyNetDiary
+- One app has the biggest food database.
+- The other has the most accurate one.
+- We tested MyFitnessPal and MyNetDiary side by side across logging speed, nutrient depth, free-tier value, and AI tools to find out which calorie tracker app earns your daily commitment.
+- Key Takeaways
+- MyNetDiary tracks 108 nutrients; MyFitnessPal tracks 18.
+- That gap matters if you care about anything beyond calories and macros.
+- In our January 2026 food logging speed test (127 identical entries on iOS), MyNetDiary needed 711 actions vs.
+- MyFitnessPal’s 1,035 — 46% more effort for the same task.
+- MyNetDiary's 2M+ food database is staff-verified using USDA and NCC research-grade sources with 2,500–3,500 daily updates.
+- MyFitnessPal's 20M+ database is mostly crowdsourced, with commonly reported accuracy concerns.
+- MyNetDiary’s free tier is fully featured: barcode scanning, 108 nutrients, voice logging, and no ads.
+- MyFitnessPal locks barcode scanning behind Premium ($79.99/year).
+- MyNetDiary requires no account creation or email to start tracking.
+- MyFitnessPal requires email registration.
+- In a Diabetes Prevention Program evaluation, MyNetDiary implemented 65% of evidence-based weight-loss strategies vs.
+- MyFitnessPal’s 15%.
+- Picking the right diet app shouldn’t require a PhD in product comparison.
+- MyFitnessPal and MyNetDiary are two of the longest-running calorie tracking apps on the market, both launched in 2005, both still actively evolving — but heading in different directions.
+- This MyNetDiary vs MyFitnessPal comparison breaks down what actually matters: food database quality, nutrient tracking depth, logging speed, pricing, and the features you get before spending a dollar.
+- (For a broader look at how diet tracker apps compare across the market, see our insider guide.)
+- The short version: MyFitnessPal wins on database size and integrations.
+- MyNetDiary wins on accuracy, nutrient depth, logging speed, AI tools, and free-tier value.
+- How We Tested
+- We compared MyNetDiary and MyFitnessPal across database verification, nutrient coverage, logging speed, free-tier value, AI features, planning tools, integrations, and pricing.
+- We built MyNetDiary and know it inside out, so we’ve been especially careful to test MyFitnessPal fairly and call out its genuine strengths.
+- For the food logging speed test, we logged 127 identical food entries sequentially on iOS over 7 days in January 2026.
+- For full methodology, see Which Calorie Tracker App Is Fastest in Real Life?
+- Pricing and features reflect official app listings as of early 2026.
+- What Are MyFitnessPal and MyNetDiary?
+- The most recognized name in calorie tracking, MyFitnessPal is built on the largest food database in the category and broad device integrations.
+- Now owned by Francisco Partners, it offers Free, Premium ($79.99/year), and Premium+ ($99.99/year) tiers.
+- The app supports 20 languages and holds a 4.7 cumulative star rating on the App Store (2.1M+ ratings) and 4.4 on Google Play (2.8M+ ratings), reflecting years of strong user satisfaction.
+- It’s the calorie tracker app most people have heard of.
+- MyNetDiary took a different path, prioritizing database verification and nutritional depth over sheer size.
+- Its free tier is unusually generous, with no account or email required — you can start tracking immediately and anonymously.
+- Premium at $59.99/year and Premium Plus ($99.99/year) add AI-powered coaching and advanced features.
+- Both apps are available on the App Store, Google Play, and the web.
+- Core Features Comparison: MyNetDiary vs MyFitnessPal
+- Both apps handle the basics: food logging, calorie tracking, goal setting, and weight monitoring.
+- The differences show up in where each draws the line between free and paid, and those differences have a real impact on user experience.
+- Key Difference
+- MyNetDiary _(×3)_
+- MyFitnessPal _(×3)_
+- Nutrients tracked _(×2)_
+- 108 _(×2)_
+- Food database _(×2)_
+- 2M+ (staff-verified) _(×2)_
+- 20M+ (crowdsourced) _(×2)_
+- Barcode scanner _(×2)_
+- Free _(×4)_
+- Premium ($79.99/yr)
+- Free tier ads _(×2)_
+- None
+- Yes (with ad-tracking SDKs) _(×2)_
+- Account required _(×2)_
+- Yes (email) _(×2)_
+- AI tools (Coach, Menu Scan, Suggest Meals)
+- Premium Plus _(×4)_
+- Not available _(×11)_
+- See the full side-by-side comparison table with 31 features below.
+- The pattern is clear: as a diet app, the MyNetDiary vs MyFitnessPal free tiers aren’t even close.
+- From day one, you get a barcode scanner, full nutrient tracking, voice logging, and an ad-free experience without creating an account.
+- Food Database Quality, Nutrient Depth & Logging Experience
+- Database quality is the foundation everything else rests on.
+- An inaccurate entry undermines every calorie and macro calculation for the rest of the day.
+- For a deeper look, see our article on why food database quality matters more than size .
+- MyFitnessPal’s 20M+ item database is one of the largest available, which means you can almost always find what you’re looking for — especially obscure or international foods.
+- The trade-off is that the database is predominantly crowdsourced: duplicate entries, outdated data for reformulated products, and occasionally inaccurate numbers are commonly reported issues.
+- A 2020 validation study in the Journal of Medical Internet Research found strong correlations for energy and macronutrients, but accuracy dropped for micronutrients.
+- MyNetDiary’s 2M+ item database is smaller, but every entry is staff-verified using USDA FoodData Central and NCC (Nutrition Coordinating Center) research-grade data, plus reviewed manufacturer information.
+- The database grows by 2,500 to 3,500 foods daily through the PhotoFoods service, where users submit photos and nutrition staff review each submission before it goes live.
+- It has been licensed to power over 30 other diet apps and is used in 5 academic research trials.
+- The barcode scanner is free, and Grocery Check uses augmented reality to overlay color-coded food grades when scanning barcodes in a store.
+- At 18 nutrients, MyFitnessPal covers calories, macros, and a handful of common micros like sodium and fiber.
+- MyNetDiary’s 108-nutrient view includes the full spectrum of vitamins, minerals, amino acids, and fatty acid profiles.
+- For anyone managing a health condition, working with a dietitian, or tracking micronutrients like vitamin D or magnesium, the deeper analysis makes a real difference.
+- Both apps show these breakdowns in free and premium tiers.
+- In our January 2026 food logging speed test (127 identical entries on iOS), MyNetDiary required only 711 actions while MyFitnessPal required 1,035 — 46% more effort for the same task.
+
+_(truncated to 80 per side; full counts above; raw HTML in git)_

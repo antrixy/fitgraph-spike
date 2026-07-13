@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-07-12T08:37:26.775Z",
+  "fetched_at": "2026-07-13T09:54:18.486Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=648518560&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
-    "advisories": [],
-    "kind": "software",
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -146,24 +146,8 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "averageUserRating": 4.57613,
-    "trackCensoredName": "Gymaholic: Workout Tracker",
-    "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
-    "contentAdvisoryRating": "4+",
-    "genres": [
-      "Health & Fitness"
-    ],
-    "isVppDeviceBasedLicensingEnabled": true,
-    "price": 0,
-    "bundleId": "mportal.Gymaholic",
-    "sellerName": "Devenyi Gabor",
-    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
-    "releaseNotes": "Bug fixes and general improvements",
-    "version": "16.4",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Log every set from your Apple Watch. No phone, no fumbling.\n\nBuild muscle, gain strength, and track every workout. Log every rep, every plate, and every personal record across 850+ exercises with interactive 3D animations. Used by serious lifters for over a decade.\n\nAPPLE WATCH — YOUR WRIST IS ENOUGH\n\nStart, track, and log workouts directly from your Apple Watch. Record sets, reps, weight, heart rate, and calories without taking your phone out of your pocket.\n\nTRACK EVERY SET, OWN EVERY PR\n\nSmart progress charts show your strength gains and personal records over time. Monitor workout volume, training history, and performance trends with a clean, distraction-free interface built for the gym floor.\n\n850+ EXERCISES WITH 3D ANIMATIONS\n\nExplore a complete exercise library covering every major muscle group. Learn proper form with detailed instructions and interactive 3D animations available on iPhone, Apple Watch, Mac, Apple TV, and Vision Pro.\n\nPLANS THAT FIT YOUR TRAINING\n\n• Pre-made programs created by a competitive bodybuilding champion\n• Build your own routines from scratch\n• Modify any workout plan to match your goals\n• Train at the gym or at home\n• Strength training, bodybuilding, powerlifting, and functional fitness\n\nBUILT FOR THE ENTIRE APPLE ECOSYSTEM\n\n• iPhone for planning workouts and tracking progress\n• Apple Watch for logging workouts in the gym\n• Mac for analyzing your training history\n• Apple TV for following workouts on a bigger screen\n• Vision Pro for immersive fitness experiences\n\nEVERYTHING ELSE\n\n• Voice guidance to keep you focused during workouts\n• Rest timers and HIIT interval timers\n• Body metrics tracking including weight, body fat, and measurements\n• Apple Health integration for workouts, calories, and body metrics\n\nTry Gymaholic free for 7 days. No commitment.\n\nPremium is available as a monthly or annual subscription. Payment is charged to your Apple ID at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in App Store Account Settings.\n\nTerms of Use: https://www.gymaholic.app/termsofuse.html\nPrivacy Policy: https://www.gymaholic.app/privacypolicy.html",
-    "averageUserRatingForCurrentVersion": 4.57613,
+    "minimumOsVersion": "26.0",
+    "averageUserRatingForCurrentVersion": 4.57625,
     "sellerUrl": "https://www.gymaholic.app",
     "languageCodesISO2A": [
       "AR",
@@ -184,19 +168,35 @@
     ],
     "fileSizeBytes": "180323328",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 3435,
+    "userRatingCountForCurrentVersion": 3436,
     "trackContentRating": "4+",
-    "minimumOsVersion": "26.0",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "genres": [
+      "Health & Fitness"
+    ],
     "artistId": 648518563,
     "artistName": "Devenyi Gabor",
+    "releaseNotes": "Bug fixes and general improvements",
+    "bundleId": "mportal.Gymaholic",
     "releaseDate": "2013-07-03T03:46:34Z",
-    "trackId": 648518560,
-    "trackName": "Gymaholic: Workout Tracker",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013"
     ],
-    "userRatingCount": 3435
+    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
+    "version": "16.4",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Log every set from your Apple Watch. No phone, no fumbling.\n\nBuild muscle, gain strength, and track every workout. Log every rep, every plate, and every personal record across 850+ exercises with interactive 3D animations. Used by serious lifters for over a decade.\n\nAPPLE WATCH — YOUR WRIST IS ENOUGH\n\nStart, track, and log workouts directly from your Apple Watch. Record sets, reps, weight, heart rate, and calories without taking your phone out of your pocket.\n\nTRACK EVERY SET, OWN EVERY PR\n\nSmart progress charts show your strength gains and personal records over time. Monitor workout volume, training history, and performance trends with a clean, distraction-free interface built for the gym floor.\n\n850+ EXERCISES WITH 3D ANIMATIONS\n\nExplore a complete exercise library covering every major muscle group. Learn proper form with detailed instructions and interactive 3D animations available on iPhone, Apple Watch, Mac, Apple TV, and Vision Pro.\n\nPLANS THAT FIT YOUR TRAINING\n\n• Pre-made programs created by a competitive bodybuilding champion\n• Build your own routines from scratch\n• Modify any workout plan to match your goals\n• Train at the gym or at home\n• Strength training, bodybuilding, powerlifting, and functional fitness\n\nBUILT FOR THE ENTIRE APPLE ECOSYSTEM\n\n• iPhone for planning workouts and tracking progress\n• Apple Watch for logging workouts in the gym\n• Mac for analyzing your training history\n• Apple TV for following workouts on a bigger screen\n• Vision Pro for immersive fitness experiences\n\nEVERYTHING ELSE\n\n• Voice guidance to keep you focused during workouts\n• Rest timers and HIIT interval timers\n• Body metrics tracking including weight, body fat, and measurements\n• Apple Health integration for workouts, calories, and body metrics\n\nTry Gymaholic free for 7 days. No commitment.\n\nPremium is available as a monthly or annual subscription. Payment is charged to your Apple ID at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in App Store Account Settings.\n\nTerms of Use: https://www.gymaholic.app/termsofuse.html\nPrivacy Policy: https://www.gymaholic.app/privacypolicy.html",
+    "trackCensoredName": "Gymaholic: Workout Tracker",
+    "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.57625,
+    "trackId": 648518560,
+    "trackName": "Gymaholic: Workout Tracker",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Devenyi Gabor",
+    "price": 0,
+    "userRatingCount": 3436
   }
 }
