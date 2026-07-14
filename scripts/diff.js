@@ -7,6 +7,8 @@
 //   diffs/YYYY-MM-DD/{product_id}.json  — machine layer (re-extraction, scorecard)
 // Pricing HTML is diffed at SENTENCE level over normalized visible text (A.6):
 // word-level sets proved unreadable in review (2026-07-10 Fitbit diff).
+// Field comparison is done over NORMALIZED text (whitespace/entities) but diffs
+// store RAW values; snapshots are never modified (immutability rule).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -23,7 +25,9 @@ function git(args) {
 
 // Most recent commit where this app's status.json said `source` was ok,
 // then that commit's version of `file`. Null if none exists yet.
-function lastOkVersion(productId, source, file) {
+// Optional `accept(parsedFile)` predicate keeps walking until it returns true —
+// used to skip past sentinel-version snapshots (2026-07-14 JEFIT VARY bug).
+function lastOkVersion(productId, source, file, accept) {
   const statusPath = `apps/${productId}/status.json`;
   let commits;
   try {
@@ -33,11 +37,49 @@ function lastOkVersion(productId, source, file) {
     let st;
     try { st = JSON.parse(git(["show", `${c}:${statusPath}`])); } catch { continue; }
     if (st.sources?.[source]?.status === "ok") {
-      try { return { commit: c, content: git(["show", `${c}:apps/${productId}/${file}`]) }; }
-      catch { return null; }
+      let content;
+      try { content = git(["show", `${c}:apps/${productId}/${file}`]); } catch { return null; }
+      if (accept) {
+        let parsed;
+        try { parsed = JSON.parse(content); } catch { continue; }
+        if (!accept(parsed)) continue; // keep walking back
+      }
+      return { commit: c, content };
     }
   }
   return null;
+}
+
+// --- Fix 2026-07-14 (Lose It! whitespace diff): normalize text fields before
+// comparison. Collapses whitespace runs, decodes common HTML entities, and
+// unifies <br> vs \n (Play vs iTunes encoding skew, observed 2026-07-14 Caliber).
+// Applied at DIFF TIME only; raw snapshot values are stored in the diff output.
+function normalizeForDiff(v) {
+  if (typeof v !== "string") return v;
+  return v
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&nbsp;/g, " ")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/\r\n/g, "\n")
+    .replace(/[^\S\n]+/g, " ")   // collapse spaces/tabs; preserve newlines
+    .replace(/ *\n */g, "\n")
+    .replace(/\n{2,}/g, "\n")
+    .trim();
+}
+
+// --- Fix 2026-07-14 (JEFIT "VARY"): Play reports "Varies with device" (scraper
+// surfaces it as "VARY") for some apps. That is "version not reported", not a
+// version change. Sentinel-valued versions never emit field_changes; instead the
+// source record gets version_unreported: true. When the sentinel later flips back
+// to a real version, we compare against the last REAL version in history so
+// 17.2.6 -> VARY -> 17.3.0 emits exactly one change.
+function isVersionSentinel(v) {
+  return typeof v === "string" && /^(vary|varies with device)$/i.test(v.trim());
 }
 
 // A.6: strip tags/scripts/styles -> visible-text approximation.
@@ -100,13 +142,22 @@ function pick(obj, fields) {
   return out;
 }
 
+// Compare normalized; report raw. Version field gets sentinel handling.
+// Returns { changes, versionUnreported }.
 function jsonFieldDiff(oldObj, newObj, fields) {
   const a = pick(oldObj, fields), b = pick(newObj, fields);
   const changes = [];
+  let versionUnreported = false;
   for (const f of fields) {
-    if (JSON.stringify(a[f]) !== JSON.stringify(b[f])) changes.push({ field: f, old: a[f], new: b[f] });
+    if (f === "version" && (isVersionSentinel(a[f]) || isVersionSentinel(b[f]))) {
+      if (isVersionSentinel(b[f])) versionUnreported = true;
+      continue; // sentinel comparisons handled by caller against last real version
+    }
+    const an = normalizeForDiff(a[f]);
+    const bn = normalizeForDiff(b[f]);
+    if (JSON.stringify(an) !== JSON.stringify(bn)) changes.push({ field: f, old: a[f], new: b[f] });
   }
-  return changes;
+  return { changes, versionUnreported };
 }
 
 const short = (v) => {
@@ -135,18 +186,36 @@ for (const app of registry.apps) {
     if (prev == null) continue; // first ok observation
     const prevObj = JSON.parse(prev.content);
     const currObj = JSON.parse(fs.readFileSync(path.join(dir, file), "utf8"));
-    const changes = jsonFieldDiff(prevObj.result, currObj.result, fields);
-    if (changes.length) {
+    const { changes, versionUnreported } = jsonFieldDiff(prevObj.result, currObj.result, fields);
+
+    // Sentinel flip-back: current version is real but previous snapshot's was a
+    // sentinel -> compare against last REAL version in history (one event, not two).
+    const currVersion = currObj.result?.version ?? null;
+    if (!isVersionSentinel(currVersion) && isVersionSentinel(prevObj.result?.version)) {
+      const prevReal = lastOkVersion(app.product_id, source, file,
+        (p) => p?.result?.version != null && !isVersionSentinel(p.result.version));
+      const lastRealVersion = prevReal ? JSON.parse(prevReal.content).result.version : null;
+      if (lastRealVersion != null && JSON.stringify(lastRealVersion) !== JSON.stringify(currVersion)) {
+        changes.push({ field: "version", old: lastRealVersion, new: currVersion,
+          note: `compared against last real version (${prevReal.commit.slice(0, 8)}); intervening snapshots reported a sentinel` });
+      }
+    }
+
+    if (changes.length || versionUnreported) {
       record.sources[source] = {
         prev_ok_commit: prev.commit,
         prev_fetched_at: prevObj.fetched_at,
         curr_fetched_at: currObj.fetched_at,
-        field_changes: changes,
+        ...(versionUnreported ? { version_unreported: true } : {}),
+        ...(changes.length ? { field_changes: changes } : {}),
       };
-      mdSections.push(
-        `## ${source}\n` +
-        changes.map((c) => `- **${c.field}**\n  - old: \`${short(c.old)}\`\n  - new: \`${short(c.new)}\``).join("\n")
-      );
+      if (changes.length) {
+        mdSections.push(
+          `## ${source}\n` +
+          (versionUnreported ? `_version currently unreported by store (sentinel)_\n` : "") +
+          changes.map((c) => `- **${c.field}**${c.note ? ` _(${c.note})_` : ""}\n  - old: \`${short(c.old)}\`\n  - new: \`${short(c.new)}\``).join("\n")
+        );
+      }
     }
   }
 
@@ -180,19 +249,22 @@ for (const app of registry.apps) {
     }
   }
 
-  if (mdSections.length) {
+  const hasJsonRecord = Object.keys(record.sources).length > 0;
+  if (mdSections.length || hasJsonRecord) {
     fs.mkdirSync(outDir, { recursive: true });
-    const fmeta = Object.fromEntries(Object.entries(status.sources).map(([k, v]) => [k, v.fetched_at || v.status]));
-    fs.writeFileSync(
-      path.join(outDir, `${app.product_id}.md`),
-      `# ${app.name} (${app.product_id}) — ${today}\n\nfetched_at: ${JSON.stringify(fmeta)}\n\n${mdSections.join("\n\n")}\n`
-    );
+    if (mdSections.length) {
+      const fmeta = Object.fromEntries(Object.entries(status.sources).map(([k, v]) => [k, v.fetched_at || v.status]));
+      fs.writeFileSync(
+        path.join(outDir, `${app.product_id}.md`),
+        `# ${app.name} (${app.product_id}) — ${today}\n\nfetched_at: ${JSON.stringify(fmeta)}\n\n${mdSections.join("\n\n")}\n`
+      );
+    }
     fs.writeFileSync(
       path.join(outDir, `${app.product_id}.json`),
       JSON.stringify(record, null, 2) + "\n"
     );
     wroteAny = true;
-    console.log(`diff: ${app.product_id} (md+json)`);
+    console.log(`diff: ${app.product_id} (${mdSections.length ? "md+json" : "json only"})`);
   }
 }
 
