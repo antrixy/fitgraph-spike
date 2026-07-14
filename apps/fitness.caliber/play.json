@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:54:15.064Z",
+  "fetched_at": "2026-07-14T08:34:41.751Z",
   "source": "google_play_scraper",
   "appId": "com.caliberfitness.app",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 664891,
-    "score": 4.5958548,
+    "score": 4.601036,
     "scoreText": "4.6",
-    "ratings": 3957,
+    "ratings": 3960,
     "reviews": 544,
     "histogram": {
       "1": 204,
       "2": 40,
       "3": 61,
-      "4": 532,
-      "5": 3115
+      "4": 511,
+      "5": 3138
     },
     "price": 0,
     "free": true,
@@ -64,9 +64,9 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jul 24, 2020",
-    "updated": 1782506119000,
-    "version": "5.14.0",
-    "recentChanges": "With this release, we&#39;ve revamped the Progress Photo Gallary!<br>* New UI/UX when viewing progress photos, along with support for dark mode<br>* Improved progress photo resolution<br>* Ability to create progress photo comparisons<br>* Sharing support for progress photos and photo comparisons",
+    "updated": 1783532094000,
+    "version": "5.14.1",
+    "recentChanges": "Bug fixes and performance improvements.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

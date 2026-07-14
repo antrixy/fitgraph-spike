@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:58:18.203Z",
+  "fetched_at": "2026-07-14T08:38:48.601Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -93,7 +93,7 @@
     "contentRatingDescription": "Language",
     "adSupported": false,
     "released": "Dec 20, 2018",
-    "updated": 1782504129000,
+    "updated": 1783701023000,
     "version": "3.72.0",
     "recentChanges": "This release includes under-the-hood improvements to make the Peloton App faster, more reliable, and power future features.",
     "comments": [],

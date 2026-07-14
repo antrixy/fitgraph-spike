@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:51:18.756Z",
+  "fetched_at": "2026-07-14T08:32:01.355Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 135189820,
-    "score": 4.395206,
+    "score": 4.3955956,
     "scoreText": "4.4",
-    "ratings": 2904065,
-    "reviews": 454122,
+    "ratings": 2904173,
+    "reviews": 454121,
     "histogram": {
-      "1": 209800,
-      "2": 84897,
-      "3": 145289,
-      "4": 371874,
-      "5": 2092196
+      "1": 209610,
+      "2": 84932,
+      "3": 145137,
+      "4": 371766,
+      "5": 2092719
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "released": "Apr 26, 2010",
     "updated": 1783025996000,
     "version": "VARY",
-    "recentChanges": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly. Live, laugh, log!",
+    "recentChanges": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

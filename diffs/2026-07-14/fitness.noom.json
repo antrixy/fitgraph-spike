@@ -1,0 +1,79 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "curr_fetched_at": "2026-07-14T08:33:23.886Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What is a DEXA scan—and is it worth it?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is rice paper good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What you need to know",
+          "occurrences": 1
+        },
+        {
+          "text": "Switching from Zepbound® to Wegovy®: What to know before you switch",
+          "occurrences": 1
+        },
+        {
+          "text": "Red light therapy belts: Can they really help with weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Best protein ice cream: Choosing between the popular brands",
+          "occurrences": 1
+        },
+        {
+          "text": "Zepbound® KwikPen®: How to use it and what makes it different",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Burnjaro: Does this trending weight loss supplement actually work?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is tart cherry juice good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s what it can do",
+          "occurrences": 1
+        },
+        {
+          "text": "How to make the best kale smoothie (+ 10 easy recipes)",
+          "occurrences": 1
+        },
+        {
+          "text": "Metformin for weight loss: Exploring the benefits, side effects, and cost",
+          "occurrences": 1
+        },
+        {
+          "text": "Is sparkling water good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s what to know",
+          "occurrences": 1
+        },
+        {
+          "text": "Low-carb and low-calorie beer: Finding the right one for you in 2026",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 7,
+      "removed_total": 8
+    }
+  }
+}

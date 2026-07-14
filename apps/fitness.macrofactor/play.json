@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:51:50.226Z",
+  "fetched_at": "2026-07-14T08:32:32.023Z",
   "source": "google_play_scraper",
   "appId": "com.sbs.diet",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1398549,
-    "score": 4.802649,
+    "score": 4.795839,
     "scoreText": "4.8",
-    "ratings": 15233,
-    "reviews": 1734,
+    "ratings": 15261,
+    "reviews": 1736,
     "histogram": {
-      "1": 361,
-      "2": 119,
-      "3": 200,
-      "4": 785,
-      "5": 13758
+      "1": 395,
+      "2": 117,
+      "3": 197,
+      "4": 772,
+      "5": 13771
     },
     "price": 0,
     "free": true,
@@ -65,7 +65,7 @@
     "contentRatingDescription": "Diverse Content: Discretion Advised",
     "adSupported": false,
     "released": "Sep 14, 2021",
-    "updated": 1783012138000,
+    "updated": 1783878776000,
     "version": "5.7.9",
     "recentChanges": "* Bug fixes and performance improvements",
     "comments": [],

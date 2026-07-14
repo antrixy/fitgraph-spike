@@ -1,0 +1,75 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "curr_fetched_at": "2026-07-14T08:32:52.715Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Monitoring your blood pressure?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s how this simple act can help you take charge of your health",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Ready to add AI",
+          "occurrences": 1
+        },
+        {
+          "text": "to your tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Does calorie counting work to lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Science says, \"Yes\"",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 9
+    }
+  }
+}

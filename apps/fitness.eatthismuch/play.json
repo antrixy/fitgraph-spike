@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:53:07.454Z",
+  "fetched_at": "2026-07-14T08:33:38.726Z",
   "source": "google_play_scraper",
   "appId": "com.eatthismuch",
   "result": {
@@ -12,13 +12,13 @@
     "maxInstalls": 2599816,
     "score": 4.6585364,
     "scoreText": "4.7",
-    "ratings": 10396,
+    "ratings": 10398,
     "reviews": 1798,
     "histogram": {
       "1": 231,
       "2": 125,
       "3": 315,
-      "4": 1605,
+      "4": 1604,
       "5": 8113
     },
     "price": 0,
@@ -75,8 +75,8 @@
     "adSupported": false,
     "released": "Apr 6, 2016",
     "updated": 1783557924000,
-    "version": "2.0.162",
-    "recentChanges": "We&#39;re constantly working on improvements to make planning your meals as easy as possible!<br>This release adds a few miscellaneous bug fixes.",
+    "version": "2.0.164",
+    "recentChanges": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you&#39;re cooking.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

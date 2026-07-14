@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.whoop",
+  "integration": "whoop",
+  "direction": "removed",
+  "observed_at": "2026-07-14T08:38:05.315Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Trial WHOOP",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

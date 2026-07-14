@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:53:52.549Z",
+  "fetched_at": "2026-07-14T08:34:22.343Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9884852,
-    "score": 4.4287567,
+    "score": 4.4291263,
     "scoreText": "4.4",
-    "ratings": 89620,
+    "ratings": 89619,
     "reviews": 11700,
     "histogram": {
-      "1": 6789,
-      "2": 2669,
-      "3": 3772,
-      "4": 8473,
-      "5": 67909
+      "1": 6785,
+      "2": 2666,
+      "3": 3770,
+      "4": 8466,
+      "5": 67922
     },
     "price": 0,
     "free": true,
@@ -69,8 +69,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Sep 15, 2010",
-    "updated": 1783448434000,
-    "version": "17.2.6",
+    "updated": 1783709236000,
+    "version": "VARY",
     "recentChanges": "Smart scale users, this one&#39;s for you — JEFIT can now read your weight, exercise sessions, and active calories straight from Health Connect, so data recorded by connected devices shows up automatically in your logs without any manual entry. We also shipped a handful of bug fixes and reliability improvements under the hood.",
     "comments": [],
     "preregister": false,

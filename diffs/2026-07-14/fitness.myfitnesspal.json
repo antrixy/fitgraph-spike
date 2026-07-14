@@ -1,0 +1,19 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-07-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "prev_fetched_at": "2026-07-13T09:51:18.756Z",
+      "curr_fetched_at": "2026-07-14T08:32:01.355Z",
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly. Live, laugh, log!",
+          "new": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly."
+        }
+      ]
+    }
+  }
+}

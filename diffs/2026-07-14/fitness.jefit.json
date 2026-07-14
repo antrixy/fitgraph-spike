@@ -1,0 +1,39 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-07-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "prev_fetched_at": "2026-07-13T09:53:52.549Z",
+      "curr_fetched_at": "2026-07-14T08:34:22.343Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "17.2.6",
+          "new": "VARY"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "curr_fetched_at": "2026-07-14T08:34:27.010Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "$ 69.99 $ 34.99 for one year, then $ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

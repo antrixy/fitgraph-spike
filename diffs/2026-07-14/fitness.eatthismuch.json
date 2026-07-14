@@ -1,0 +1,24 @@
+{
+  "product": "fitness.eatthismuch",
+  "name": "Eat This Much",
+  "date": "2026-07-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "prev_fetched_at": "2026-07-13T09:53:07.454Z",
+      "curr_fetched_at": "2026-07-14T08:33:38.726Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2.0.162",
+          "new": "2.0.164"
+        },
+        {
+          "field": "recentChanges",
+          "old": "We&#39;re constantly working on improvements to make planning your meals as easy as possible!<br>This release adds a few miscellaneous bug fixes.",
+          "new": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you&#39;re cooking."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-14",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "prev_fetched_at": "2026-07-13T09:56:28.732Z",
+      "curr_fetched_at": "2026-07-14T08:36:51.999Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.26.0",
+          "new": "2026.27.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "prev_fetched_at": "2026-07-13T09:56:30.837Z",
+      "curr_fetched_at": "2026-07-14T08:36:53.981Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.26.0.92765",
+          "new": "2026.27.0.92767"
+        }
+      ]
+    }
+  }
+}

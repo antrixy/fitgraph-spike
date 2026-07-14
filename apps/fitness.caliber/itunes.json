@@ -1,12 +1,17 @@
 {
-  "fetched_at": "2026-07-13T09:54:13.241Z",
+  "fetched_at": "2026-07-14T08:34:38.867Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1482405410&country=us",
   "result": {
-    "isGameCenterEnabled": false,
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/b3/a6/9fb3a6ca-4ff2-1ceb-f7d1-ff6e11623643/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/b3/a6/9fb3a6ca-4ff2-1ceb-f7d1-ff6e11623643/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/caliber-fitness-inc/id1482405409?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/b3/a6/9fb3a6ca-4ff2-1ceb-f7d1-ff6e11623643/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "isGameCenterEnabled": false,
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -136,22 +141,24 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [],
     "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-      "Infrequent/Mild Profanity or Crude Humor"
+      "Infrequent/Mild Profanity or Crude Humor",
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
     ],
     "kind": "software",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b9/89/fab989b3-614a-1717-7fab-a2839f4af964/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-    "bundleId": "com.caliberfitness.app",
-    "minimumOsVersion": "15.1",
-    "averageUserRating": 4.8407,
+    "averageUserRating": 4.84077,
+    "contentAdvisoryRating": "12+",
     "trackCensoredName": "Caliber: Strength Training",
     "trackViewUrl": "https://apps.apple.com/us/app/caliber-strength-training/id1482405410?uo=4",
-    "contentAdvisoryRating": "12+",
+    "sellerUrl": "https://caliberstrong.com",
+    "averageUserRatingForCurrentVersion": 4.84077,
+    "fileSizeBytes": "67502080",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 5753,
+    "trackContentRating": "12+",
+    "languageCodesISO2A": [
+      "EN"
+    ],
     "artistId": 1482405409,
     "artistName": "Caliber Fitness, Inc",
     "genres": [
@@ -159,32 +166,25 @@
       "Lifestyle"
     ],
     "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "bundleId": "com.caliberfitness.app",
+    "trackId": 1482405410,
+    "trackName": "Caliber: Strength Training",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 1482405410,
-    "trackName": "Caliber: Strength Training",
-    "releaseNotes": "With this release, we've revamped the Progress Photo Gallary!\n* New UI/UX when viewing progress photos, along with support for dark mode\n* Improved progress photo resolution\n* Ability to create progress photo comparisons\n* Sharing support for progress photos and photo comparisons",
-    "sellerName": "Caliber Fitness, Inc.",
     "releaseDate": "2020-07-31T07:00:00Z",
-    "currentVersionReleaseDate": "2026-06-30T00:54:08Z",
-    "version": "5.14.0",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Caliber Fitness, Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-07-13T14:31:37Z",
+    "releaseNotes": "Bug fixes and performance improvements.",
+    "version": "5.14.1",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Caliber is a science-based strength training app that combines resistance training, cardio, nutrition, and habit formation to help you build muscle, lose fat, and improve your overall fitness—for good.\n\nTRAIN YOUR WAY\n\n• Free Version. Create and track unlimited workouts, access 600+ exercises, and train solo or with friends.\n\n• Caliber Plus. Maximize your results with coach-designed training plans, personalized progress tracking, nutrition targets and more.\n\n• Premium Coaching. Get 1-on-1 guidance from an elite-level personal trainer with a fully customized training and nutrition plan, in-app chat + video messaging with your coach and weekly progress reviews to keep you on track.\n\nCALIBER FEATURES (FREE VERSION)\n\n• Personalized Workouts. Create and track an unlimited number of workouts tailored to your goals. No gym required.\n\n• Detailed Exercise Tutorials. Learn proper form with step-by-step videos and pro tips from Caliber coaches.\n\n• Workout Groups. Train with friends or family in private groups. Your workouts and personal bests are shared with the group to keep you motivated.\n\n• Apple Health Integration. Sync your cardio, nutrition, and body stats from your wearable or connected device.\n\nUNLOCK MORE WITH CALIBER PLUS (OPTIONAL UPGRADE)\n\n• Coach-Designed Training Plans. Choose from 60+ structured plans tailored to your goals, experience level and schedule.\n\n• Strength Score. Measure how strong you are relative to your potential for your age and gender.\n\n• Strength Balance. Improve your posture and mobility by optimizing your training across key muscle groups.\n\n• Caliber Lessons. Gain expert insights on training and nutrition to accelerate your progress.\n\n• Advanced Training Features. Get personalized nutrition targets, create custom exercises and supersets, swap exercises, upload progress photos, and more.\n\nPREMIUM COACHING (OPTIONAL UPGRADE)\n\n• Work with an Elite-Level Coach. Train 1-on-1 with a dedicated coach to achieve your full potential in the gym and beyond. Caliber coaches are highly vetted, accredited personal trainers among the top 1% in their field.\n\n• Fully Personalized Plan. Your coach will design a training and nutrition program just for you based on your goals, experience and lifestyle.\n\n• Daily Motivation & Expert Guidance. Stay on track with in-app messaging, video form reviews, and individualized guidance.\n\n• Weekly Progress Reviews. Get in-depth analysis from your coach to optimize your training.\n\n• Fast Response Times. Your coach is available 24/7, typically replying within a few hours.\n\n• Guaranteed Results. On average, Caliber members improve their body composition by 20% or more within 12 weeks. If you don't see results, we'll refund the cost of the program.\n\nSEE WHAT OUR MEMBERS SAY\n\n• For detailed reviews from real Caliber members, visit our TrustPilot page at https://www.trustpilot.com/review/caliberstrong.com\n\nTerms of Use: https://caliberstrong.com/terms-of-service/\n\nPrivacy Policy: https://caliberstrong.com/privacy-policy/",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "67497984",
-    "formattedPrice": "Free",
-    "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.8407,
-    "sellerUrl": "https://caliberstrong.com",
-    "userRatingCountForCurrentVersion": 5750,
-    "userRatingCount": 5750
+    "minimumOsVersion": "15.1",
+    "userRatingCount": 5753
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T09:56:30.837Z",
+  "fetched_at": "2026-07-14T08:36:53.981Z",
   "source": "google_play_scraper",
   "appId": "com.trainerroad.android.production",
   "result": {
@@ -79,8 +79,8 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Sep 22, 2016",
-    "updated": 1783019557000,
-    "version": "2026.26.0.92765",
+    "updated": 1783623437000,
+    "version": "2026.27.0.92767",
     "recentChanges": "• Various under-the-hood improvements.",
     "comments": [],
     "preregister": false,

@@ -1,0 +1,27 @@
+{
+  "product": "fitness.whoop",
+  "name": "Whoop",
+  "date": "2026-07-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "bb76072b6adfc905ddf822b4d33d4b0b9a03b2c2",
+      "curr_fetched_at": "2026-07-14T08:38:05.315Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Free Trial",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Trial WHOOP",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

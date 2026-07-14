@@ -1,18 +1,15 @@
 {
-  "fetched_at": "2026-07-13T09:57:53.385Z",
+  "fetched_at": "2026-07-14T08:38:21.644Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=717172678&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/polar-electro/id532468555?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
-    "advisories": [],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/polar-electro/id532468555?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
     "features": [
       "iosUniversal"
     ],
@@ -145,10 +142,16 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
+    "averageUserRating": 4.61808,
+    "trackCensoredName": "Polar Flow",
+    "trackViewUrl": "https://apps.apple.com/us/app/polar-flow/id717172678?uo=4",
+    "contentAdvisoryRating": "4+",
     "minimumOsVersion": "17.0",
-    "userRatingCountForCurrentVersion": 49391,
-    "sellerUrl": "http://www.polar.com",
     "averageUserRatingForCurrentVersion": 4.61808,
+    "sellerUrl": "http://www.polar.com",
     "languageCodesISO2A": [
       "CS",
       "DA",
@@ -175,16 +178,18 @@
     ],
     "fileSizeBytes": "197280768",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 49393,
     "trackContentRating": "4+",
-    "currentVersionReleaseDate": "2026-06-17T08:36:48Z",
+    "artistId": 532468555,
+    "artistName": "Polar Electro",
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "artistId": 532468555,
-    "artistName": "Polar Electro",
-    "trackId": 717172678,
     "trackName": "Polar Flow",
+    "trackId": 717172678,
+    "releaseNotes": "This update fixes a firmware update issue affecting certain Polar Loop Gen 2 devices.",
     "releaseDate": "2013-10-28T11:03:45Z",
     "genreIds": [
       "6013",
@@ -192,19 +197,14 @@
     ],
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "sellerName": "Polar Electro Oy",
     "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-06-17T08:36:48Z",
     "version": "7.36.1",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Polar Flow: Your Personal Sports, Fitness, and Health Companion\n\nThe exclusive app designed to maximize the potential of your Polar devices.\n\nKey Features:\n\nActivity Tracking: Monitor your daily activity, steps, calories burned, and distance to stay motivated throughout the day.\nTraining Analysis: Dive deep into your workouts with detailed data on heart rate, speed, pace, distance, power, and more. Understand the impact of each session and optimize your training routines.\nSleep Insights: Discover how well you sleep with advanced sleep tracking. Get feedback on sleep stages and quality to improve your rest and recovery. See how sleep boosts your day and track skin temperature changes.\nTraining Load & Recovery: Understand how your training sessions strain your body and get recommendations on recovery time to prevent overtraining.\nManage your watch and profile: Customize and manage your Polar device, Sports profiles for different activities, Routes, and Training Targets.\nWireless Syncing: Automatically sync data from your Polar devices for real-time updates, notifications, and other insights.\nStay Connected: Connect your profile and sync your data with Strava, TrainingPeaks, Adidas, komoot, and many other services.\nWhy Choose Polar Flow?\n\nPersonalized Guidance: Receive personalized feedback and guidance and understand your progress.\nComprehensive Ecosystem: Integrates seamlessly with Polar watches, heart rate monitors, and more for a holistic experience.\nUser-Friendly Interface: Navigate your data effortlessly with our intuitive and clean design.\nNotification support: Your Polar watch will receive the same notifications as your phone screen—incoming calls, messages, and app notifications.\nSecure and Private: Your data is safely stored and protected, giving you peace of mind as you focus on your journey.\n\n\nPolar Flow app allows you to share some of your wellness data with Apple Health. This includes details of your training, your heart rate, and steps.\n\nPlease note Polar Flow app is not intended for medical or diagnostic use.\n\n\n\nGet Started Today!\n\nDownload Polar Flow and unlock the full potential of your Polar devices. You can find more info at https://www.polar.com/flow\n\n\nConnect with us!\nInstagram: www.instagram.com/polarglobal\nFacebook: www.facebook.com/polarglobal\nYouTube: www.youtube.com/polarglobal\n\nFind out more about Polar products at https://www.polar.com/en/products",
-    "trackCensoredName": "Polar Flow",
-    "trackViewUrl": "https://apps.apple.com/us/app/polar-flow/id717172678?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.61808,
     "bundleId": "fi.polar.polarflow",
-    "releaseNotes": "This update fixes a firmware update issue affecting certain Polar Loop Gen 2 devices.",
-    "sellerName": "Polar Electro Oy",
-    "price": 0,
-    "userRatingCount": 49391
+    "userRatingCount": 49393
   }
 }
