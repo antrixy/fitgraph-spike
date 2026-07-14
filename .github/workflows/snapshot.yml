@@ -37,6 +37,9 @@ jobs:
       - name: Extract claims
         run: node scripts/extract.js
 
+      - name: Summarize
+        run: node scripts/summarize.js
+
       - name: Commit & push
         run: |
           git config user.name "fitgraph-bot"
