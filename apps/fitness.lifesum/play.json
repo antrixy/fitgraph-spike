@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:33:10.992Z",
+  "fetched_at": "2026-07-15T08:40:19.629Z",
   "source": "google_play_scraper",
   "appId": "com.sillens.shapeupclub",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Calorie Counter, Nutrition and Macro Tracker, Meal Plans for Weight Loss.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 29473622,
-    "score": 4.407299,
+    "maxInstalls": 29478765,
+    "score": 4.4060855,
     "scoreText": "4.4",
-    "ratings": 376403,
+    "ratings": 376430,
     "reviews": 13838,
     "histogram": {
-      "1": 24062,
-      "2": 12523,
-      "3": 18900,
-      "4": 51428,
-      "5": 269467
+      "1": 24220,
+      "2": 12552,
+      "3": 18720,
+      "4": 51534,
+      "5": 269381
     },
     "price": 0,
     "free": true,
@@ -75,7 +75,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 16, 2011",
-    "updated": 1781694874000,
+    "updated": 1783926331000,
     "version": "VARY",
     "recentChanges": "Small improvements. Big impact. ✨<br>We’ve made a few updates to make Lifesum smoother, faster, and even more enjoyable to use.<br>Because feeling good should simply feel easy. 💚",
     "comments": [],

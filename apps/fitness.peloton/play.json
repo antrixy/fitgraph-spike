@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:38:48.601Z",
+  "fetched_at": "2026-07-15T08:46:01.470Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Achieve your fitness goals: Strength, cardio &amp; ab workouts at the gym or at home",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3768067,
+    "maxInstalls": 3770097,
     "score": 4.0287356,
     "scoreText": "4.0",
-    "ratings": 15267,
+    "ratings": 15272,
     "reviews": 5732,
     "histogram": {
       "1": 2381,
       "2": 789,
       "3": 777,
       "4": 1378,
-      "5": 9939
+      "5": 9941
     },
     "price": 0,
     "free": true,

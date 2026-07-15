@@ -1,0 +1,19 @@
+{
+  "product": "fitness.peloton",
+  "name": "Peloton",
+  "date": "2026-07-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "prev_fetched_at": "2026-07-14T08:38:46.465Z",
+      "curr_fetched_at": "2026-07-15T08:45:57.289Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "15.127.1",
+          "new": "15.128.0"
+        }
+      ]
+    }
+  }
+}

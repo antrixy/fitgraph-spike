@@ -1,0 +1,24 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-07-15",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "prev_fetched_at": "2026-07-14T08:35:26.039Z",
+      "curr_fetched_at": "2026-07-15T08:42:41.613Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.2.0",
+          "new": "1.2.1"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Adds camera access for setting profile photo.",
+          "new": "Fixes a bug with device orientation."
+        }
+      ]
+    }
+  }
+}

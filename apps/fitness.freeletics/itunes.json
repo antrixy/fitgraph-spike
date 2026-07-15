@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:39:38.793Z",
+  "fetched_at": "2026-07-15T08:46:50.623Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=654810212&country=us",
   "result": {
@@ -22,11 +22,11 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/6b/a8/936ba8ff-e1e9-8f8c-b6ae-b570d35141bf/ce04be8c-4647-43a2-bcf5-0b273c17bcc5_ss5_IOS__2048_x_2732_EN.jpg/576x768bb.jpg"
     ],
     "appletvScreenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0c/33/f10c336a-360b-7ada-d519-bf85a612aadd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0c/33/f10c336a-360b-7ada-d519-bf85a612aadd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0c/33/f10c336a-360b-7ada-d519-bf85a612aadd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/freeletics-gmbh/id579309595?uo=4",
     "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -157,15 +157,17 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "kind": "software",
+    "features": [
+      "iosUniversal"
+    ],
     "advisories": [
       "Infrequent/Mild Contests"
     ],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/freeletics-gmbh/id579309595?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0c/33/f10c336a-360b-7ada-d519-bf85a612aadd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0c/33/f10c336a-360b-7ada-d519-bf85a612aadd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "averageUserRatingForCurrentVersion": 4.63636,
     "sellerUrl": "https://www.freeletics.com/",
+    "averageUserRating": 4.63636,
+    "trackCensoredName": "Freeletics: Workouts & Fitness",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -178,40 +180,38 @@
       "ES",
       "TR"
     ],
-    "userRatingCountForCurrentVersion": 22220,
+    "fileSizeBytes": "154405888",
+    "formattedPrice": "Free",
+    "contentAdvisoryRating": "4+",
+    "trackViewUrl": "https://apps.apple.com/us/app/freeletics-workouts-fitness/id654810212?uo=4",
     "trackContentRating": "4+",
+    "userRatingCountForCurrentVersion": 22220,
+    "minimumOsVersion": "17.0",
+    "artistId": 579309595,
+    "artistName": "Freeletics GmbH",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
     "price": 0,
+    "trackId": 654810212,
+    "trackName": "Freeletics: Workouts & Fitness",
+    "currentVersionReleaseDate": "2026-07-13T09:33:05Z",
+    "releaseDate": "2013-06-26T02:12:26Z",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "releaseDate": "2013-06-26T02:12:26Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 654810212,
-    "trackName": "Freeletics: Workouts & Fitness",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Freeletics GmbH",
-    "currentVersionReleaseDate": "2026-07-13T09:33:05Z",
+    "isVppDeviceBasedLicensingEnabled": true,
     "releaseNotes": "We squashed some bugs. Let us know if you find more. Our developers will fix them faster than you can do an Aphrodite.",
     "version": "26.27.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Europe's #1 fitness app lets you work out anytime, anywhere with the most advanced digital personal trainer – no gym required. Whatever your fitness level, build healthy habits and achieve your goals faster than ever with a personalized fitness plan tailored to you. Add cardio workouts, weights, gym machines, mix in some running intervals, or keep it classic Freeletics with bodyweight HIIT or calisthenics-style workouts at home. Every training plan features fully personalized workouts, complete with warm-ups, cooldowns, mobility, and recovery workouts, all designed to help you recover faster and achieve your goals quicker.\n\nWHY FREELETICS?\n- Freeletics means freedom to work out where you want, when you want – on your terms. Join a community of 60 million athletes training together to stay motivated and on track.\n- Develop strength, endurance, and flexibility with a fully holistic approach to fitness that helps you become a well-rounded athlete.\n- Your AI Coach customizes each workout to your fitness level, adjusting in real time based on your feedback to create a perfect workout every time. No two people get the same workout plan – it's fully personalized fitness.\n- Whether you want to build a six-pack, gain muscle, or lose weight, you’ll get a training plan with workouts to fit your needs.\n- Easily customize your workouts in seconds to match your setup for home workouts, gym sessions, or wherever you are to stay on track, support consistency, and see long-term results.\n\nThe free version of the app contains 34 HIIT bodyweight workouts, 100+ exercises, and a community of millions. If you want to set yourself up for long-term success with the guidance of an expert personal trainer every step of the way, you can use the Freeletics Coach with a 14-day money-back guarantee.\n\nWhat you get by upgrading to the Freeletics Coach:\n\nTRAINING\n- Your AI personal trainer in your pocket creates every workout based on your goals, fitness level, training preferences, and more.\n- Travelling or short on time? Want to switch to an upper-body workout instead? No problem. Your digital personal trainer instantly adjusts your workout to match your needs.\n- Your personalized workout plan is part of a \"Training Journey.\" Choose from 30 fitness plans in the app, each with a different fitness focus.\n- Pick your workout style. From cardio like running, cycling, and rowing, to classic Freeletics bodyweight HIIT workouts, calisthenics, weighted exercises, or gym machines – there’s a training plan for you.\n- With 1 trillion workout combinations, 700+ exercises, hundreds of workouts on demand, and even a tool to create your own workout routines, you’ll always find the perfect workout for you.\n- Control your workout from your Apple Watch and track your fitness data in the Apple Health app.\n- Track your fitness progress, performance, and achievements using badges, streaks, and skill progressions designed to help you improve.\n\nThe Training Coach is included in the Training and Training & Nutrition Bundle.\n\nSUBSCRIPTIONS & TERMS\nWe offer 6 auto-renewing subscription options:\n• Training (3 / 6 / 12 months)\n• Training & Nutrition (3 / 6 / 12 months)\n\nThe Nutrition Coach is part of the separate Freeletics Nutrition app.\n\nYour subscription automatically renews if not cancelled at least 24 hours before the end of the current subscription period. You will be charged for the next subscription period up to 24 hours before the current subscription expires. Manage your subscription and disable automatic renewal anytime in your Apple account settings. You have the right to withdraw from your initial subscription within 14 days. By purchasing, you accept our Terms of Use (https://www.freeletics.com/en/pages/terms) and Privacy Policy (https://www.freeletics.com/en/pages/privacy).\n\nContact us at https://help.freeletics.com/hc/ or follow @Freeletics on social media for daily workout inspiration. Your personal trainer is ready.",
-    "formattedPrice": "Free",
-    "fileSizeBytes": "154405888",
-    "trackCensoredName": "Freeletics: Workouts & Fitness",
-    "trackViewUrl": "https://apps.apple.com/us/app/freeletics-workouts-fitness/id654810212?uo=4",
     "bundleId": "com.Freeletics.Freeletics-Lite",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.63636,
-    "minimumOsVersion": "17.0",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "artistId": 579309595,
-    "artistName": "Freeletics GmbH",
     "userRatingCount": 22220
   }
 }

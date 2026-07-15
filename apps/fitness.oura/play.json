@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:38:14.049Z",
+  "fetched_at": "2026-07-15T08:45:27.617Z",
   "source": "google_play_scraper",
   "appId": "com.ouraring.oura",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Understand your body’s most meaningful messages and transform your health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1285256,
-    "score": 4.6571736,
+    "maxInstalls": 1289806,
+    "score": 4.659805,
     "scoreText": "4.7",
-    "ratings": 35466,
-    "reviews": 6317,
+    "ratings": 35556,
+    "reviews": 6327,
     "histogram": {
-      "1": 1161,
-      "2": 666,
-      "3": 989,
-      "4": 3523,
-      "5": 29119
+      "1": 1154,
+      "2": 654,
+      "3": 1000,
+      "4": 3505,
+      "5": 29237
     },
     "price": 0,
     "free": true,
@@ -65,7 +65,7 @@
     "adSupported": false,
     "released": "Feb 16, 2016",
     "updated": 1783591264000,
-    "version": "7.19.2",
+    "version": "7.20.0",
     "recentChanges": "Small fixes, big improvements—Oura just got a little better.",
     "comments": [],
     "preregister": false,

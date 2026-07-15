@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-07-14T08:33:34.932Z",
+  "fetched_at": "2026-07-15T08:40:47.953Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=981637806&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -138,9 +141,6 @@
     ],
     "advisories": [],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8b/b2/9e8bb25f-0217-3d62-a92c-ecaa305777e9/d7571d81-1002-4a31-a775-7129f5a10ea9_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/25/c4/6225c49d-e2d1-940f-a73e-c4056c8edf73/77bba1b6-e14a-46d0-9be8-029ab26884e0_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
@@ -159,10 +159,12 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "trackCensoredName": "Eat This Much - Meal Planner",
+    "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.71579,
+    "userRatingCountForCurrentVersion": 22005,
     "minimumOsVersion": "15.5",
-    "releaseNotes": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you're cooking.",
-    "artistId": 981637805,
-    "artistName": "Eat This Much Inc.",
     "genres": [
       "Health & Fitness",
       "Food & Drink"
@@ -170,23 +172,23 @@
     "price": 0,
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "trackId": 981637806,
-    "trackName": "Eat This Much - Meal Planner",
+    "bundleId": "EatThisMuch.com.ETM-iOS-App",
     "releaseDate": "2015-06-15T22:01:30Z",
     "sellerName": "Eat This Much Inc.",
+    "trackName": "Eat This Much - Meal Planner",
+    "trackId": 981637806,
+    "isVppDeviceBasedLicensingEnabled": true,
     "genreIds": [
       "6013",
       "6023"
     ],
-    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-09T17:13:54Z",
+    "releaseNotes": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you're cooking.",
     "version": "2.0.164",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Put your diet on autopilot with Eat This Much. Tell us your diet goals, the foods you like, your budget, and what your schedule looks like, and we'll automatically generate a complete meal plan to meet your targets. It's like having a personal diet assistant.\n\nWe offer both free accounts and premium accounts. As a free user, you can create a day's meal plan and completely customize it however you want. Each meal can have different preferences, and your nutrition targets can be whatever you like.\n\nAs a premium user, we'll automatically generate a week of meal plans and send them to you with a grocery list via email. As you follow the plans, you can track what you did or didn't eat, and if you deviate from the plans, we make it easy to readjust your targets for the next week to stay on track. Try out the free account to see if our meal plans appeal to you, and upgrade when you're ready.\n\n- Follow any eating style or create your own (works for keto, paleo, vegetarian, vegan, and more)\n- Hit your macros and calorie targets every day\n- Empower yourself with automatic control over your diet\n- Take the anxiety out of picking what to eat\n- Personalize any of our recipes and they'll replace the original\n- Reduce food waste\n- Don't like our suggestions? Easily swap them out or configure the generator to only use foods you like\n- Manage your virtual pantry (with a premium account)\n\nNormal calorie trackers force you to add foods into your diary one by one. And by the end of the day, there's no guarantee that you'll be anywhere near the nutrition targets you're trying to reach. With our automatic planner, there's nothing to track because everything is already entered for you, and all you have to do is follow the plan.\n\n\nSubscription options:\n- You can download the app for free and create/customize as many unique meal plans as you want, and save one to your account.\n- To unlock the features of Eat This Much Premium, you can subscribe for either the monthly or yearly description.\n\nAuto-renew details:\n- The price to subscribe in your currency will be shown in the app before confirming the subscription.\n- After the free trial has ended, payment will be charged to your iTunes Account.\n- Your subscription will auto-renew unless cancelled 24 hours before the end of the current period (the auto-renew will continue with the same frequency that you select, either the monthly price for the  monthly subscription or yearly price for the yearly subscription).\n- Your account will be charged for renewal within 24-hours prior to the end of the current period, at the same price you initially paid.\n- Auto-renew can be turned off at any time from your iTunes Account Settings.\n- If you cancel your subscription or turn off auto renew in the middle of a billing cycle your account will remain premium until the end of that cycle.\n\nApple health integration:\nApple health syncing can be enabled in Settings -> Apple Health -> Enable Apple Health syncing for Premium users.\n\nWhen Apple Health is enabled:\n- your weight will automatically import and export when you login and when you view your user profile\n- nutrition information will automatically export for meals marked \"I ate this\" when they are first viewed in the app and as you edit them\n\nPrivacy policy: https://www.eatthismuch.com/privacy-policy/\nTerms of use: https://www.eatthismuch.com/terms/",
-    "trackCensoredName": "Eat This Much - Meal Planner",
-    "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
-    "averageUserRating": 4.71577,
+    "averageUserRatingForCurrentVersion": 4.71579,
     "sellerUrl": "http://www.eatthismuch.com",
     "languageCodesISO2A": [
       "EN"
@@ -194,10 +196,8 @@
     "fileSizeBytes": "96903168",
     "formattedPrice": "Free",
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.71577,
-    "contentAdvisoryRating": "4+",
-    "userRatingCountForCurrentVersion": 22004,
-    "bundleId": "EatThisMuch.com.ETM-iOS-App",
-    "userRatingCount": 22004
+    "artistId": 981637805,
+    "artistName": "Eat This Much Inc.",
+    "userRatingCount": 22005
   }
 }

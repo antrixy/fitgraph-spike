@@ -1,10 +1,11 @@
 {
-  "fetched_at": "2026-07-14T08:35:55.628Z",
+  "fetched_at": "2026-07-15T08:43:09.500Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=426826309&country=us",
   "result": {
-    "isGameCenterEnabled": false,
-    "advisories": [],
+    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/04/a8/a004a8c4-9251-ad2f-82f2-2214434cad3b/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/04/a8/a004a8c4-9251-ad2f-82f2-2214434cad3b/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -135,11 +136,8 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/04/a8/a004a8c4-9251-ad2f-82f2-2214434cad3b/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/04/a8/a004a8c4-9251-ad2f-82f2-2214434cad3b/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "features": [],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/99/84/ac998464-b034-190d-a86d-e1f4f18f3544/AppStore-TodayTab-5.5-en-US.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/cc/89/c8cc893b-e911-84ad-9ace-4ad3d280ab64/05ASO-5.5-Community-en-US-CopyA.jpg/392x696bb.jpg",
@@ -155,38 +153,32 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/04/a8/a004a8c4-9251-ad2f-82f2-2214434cad3b/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "releaseNotes": "More options for your strength workouts. Choose what to share – hide your muscle map and weights lifted before you post.",
-    "price": 0,
+    "features": [],
+    "isGameCenterEnabled": false,
+    "contentAdvisoryRating": "12+",
+    "averageUserRating": 4.81168,
+    "minimumOsVersion": "17.0",
+    "trackCensoredName": "Strava: Run, Bike, Walk",
+    "trackViewUrl": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309?uo=4",
+    "artistId": 426826312,
+    "artistName": "Strava, Inc.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "artistId": 426826312,
-    "artistName": "Strava, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Strava Inc.",
     "trackName": "Strava: Run, Bike, Walk",
     "trackId": 426826309,
-    "currentVersionReleaseDate": "2026-07-08T19:53:28Z",
     "releaseDate": "2011-03-24T06:41:32Z",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Strava Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-07-08T19:53:28Z",
+    "releaseNotes": "More options for your strength workouts. Choose what to share – hide your muscle map and weights lifted before you post.",
     "version": "471.0.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "*App Store Award Winner -Apple Watch App of the Year*\n\nStrava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:\n\n• Record everything – runs, rides, hikes, yoga and over 50+ other sport types. Think of Strava as the homebase of your movement.\n\n• See the full story of your strength training – Lifting in the gym weekly, doing HIIT workouts, and showing up to your group weight training classes? Use your favorite device or strength app and your exercises, sets, reps, weights and a muscle map show up automatically. Or start your strength journey today and see how quickly strength workouts become a key part of your active life.\n\n• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.\n\n• Uncover popular hiking Routes in your area, including local favorites, scenic trails, and long-distance climbs\n\n• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.\n\n• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.\n\n• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.\n\n• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.\n\n• Sync your favorite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).\n\n• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.\n\n• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.\n\n• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.\n\nStrava includes both a free version and a subscription version with premium features.\nStrava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.\n\nYou can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.\n\nTerms of Service: https://www.strava.com/legal/terms\nPrivacy Policy: https://www.strava.com/legal/privacy",
-    "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.81163,
-    "minimumOsVersion": "17.0",
-    "trackCensoredName": "Strava: Run, Bike, Walk",
-    "trackViewUrl": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309?uo=4",
-    "bundleId": "com.strava.stravaride",
-    "sellerUrl": "https://www.strava.com/how-it-works",
-    "averageUserRatingForCurrentVersion": 4.81163,
     "languageCodesISO2A": [
       "CS",
       "DA",
@@ -212,8 +204,16 @@
     ],
     "fileSizeBytes": "464974848",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 363712,
+    "userRatingCountForCurrentVersion": 363852,
     "trackContentRating": "12+",
-    "userRatingCount": 363712
+    "averageUserRatingForCurrentVersion": 4.81168,
+    "sellerUrl": "https://www.strava.com/how-it-works",
+    "bundleId": "com.strava.stravaride",
+    "price": 0,
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "userRatingCount": 363852
   }
 }

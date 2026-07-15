@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:35:04.686Z",
+  "fetched_at": "2026-07-15T08:42:19.259Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1529354455&country=us",
   "result": {
@@ -159,16 +159,17 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "currentVersionReleaseDate": "2026-06-29T17:14:26Z",
+    "minimumOsVersion": "15.1",
+    "averageUserRatingForCurrentVersion": 4.84673,
     "sellerUrl": "https://www.boostcamp.app/",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "312797184",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 9435,
+    "userRatingCountForCurrentVersion": 9448,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.84694,
-    "releaseNotes": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
     "artistId": 1529354457,
     "artistName": "BPM Health Co.",
     "genres": [
@@ -177,27 +178,26 @@
     ],
     "price": 0,
     "bundleId": "com.bpmhealth.boostfitness",
-    "releaseDate": "2020-10-04T07:00:00Z",
     "trackId": 1529354455,
     "trackName": "Boostcamp: Workout Programs",
+    "releaseNotes": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
+    "releaseDate": "2020-10-04T07:00:00Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
     "sellerName": "BPM Health Co.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-06-29T17:14:26Z",
     "version": "262",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Trusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures in fitness.\" – Alex Bromley, Professional Strongman\n\n\"Boostcamp puts all of Reddit's best free workouts in one slick app...give Boostcamp a try.\" – Lifehacker\n\nWHAT YOU GET\n\n• 130+ Expert Programs – Not random workouts. Full structured programs with built-in progressions, periodization, and deload weeks. Created by real coaches who compete and coach athletes.\n\n• 10,000+ Community Programs – Routines built and shared by lifters. PPL splits, bro splits, full body, upper/lower — if someone's running it, it's probably here.\n\n• Full Workout Tracker – Log sets, reps, and weight with RPE and 1RM tracking. Auto-progressions fill in your weights. Performance charts. Works offline.\n\n• Custom Program Builder – Build your own with multi-week periodization, exercise swaps, and custom progressions.\n\n• Muscle Volume Tracking – See which muscle groups you're hitting and which ones you're neglecting.\n\nPOPULAR PROGRAMS\n\n• Strength & Powerlifting: nSuns 5/3/1, GZCLP, Candito 6 Week Strength, 5/3/1 Boring But Big, 5/3/1 for Beginners, 5/3/1 Building the Monolith, TSA 9 Week Intermediate, TSA Beginner Approach, 70s Powerlifter, Bullmastiff, Phrak's Greyskull LP\n\n•Hypertrophy & Bodybuilding: PHUL, PHAT, Reddit PPL, KONG: 12 Week Hypertrophy, MASS IMPACT, RAVAGE, RAMPAGE, Jacked and Tan 2.0, Strong Curves, Alberto Nuñez Upper Lower, Intermediate Bodybuilding by Eric Helms, Silver Era Aesthetics, Golden Warrior, Fullbodymaxxing\n\n• Bodyweight & Home: Reddit's Bodyweight Fitness Recommended Routine, Dumbbell PPL, Frankoman's Dumbbell Only Split, M&S 5 Day Dumbbell, Functional Strength 101, Rock The Bells\n\n• Powerbuilding & Specialty: PPLUL, Full Body Powerbuilding Split, Beast Slayer, Rip and Tear, Guts Training Program, Greg Nuckols Beginner, r/Fitness Basic Beginner Routine, and hundreds more.\n\nCOACHES\n\n• Dr. Eric Helms (PhD, WNBF Pro Bodybuilder) \n• Alex Bromley (Professional Strongman, 5th at 105kg WSM) \n• Cody Lefever (GZCL creator, Marine) \n• Geoffrey Verity Schofield (YouTuber with 150K+ subscribers)\n• Alberto Nuñez (WNBF Mr. Universe) \n• Bryce Lewis (Champion Powerlifter, TSA) \n• Greg Nuckols (Stronger by Science)\n• Jonnie Candito (competitive powerlifter)\n• Bald Omni-Man (strength and hypertrophy coach)\n• Natural Hypertrophy (evidence-based bodybuilding)\n• Basement Bodybuilding (hypertrophy YouTuber)\n• Brandon Campbell (creator of PHUL)\n• Dr. Swole (YouTube educator)\n• Matt Vena (champion powerlifter)\n• Menno Henselmans (physique coach and researcher)\n• Justina Ercole (functional strength)\n• Tiffany Ma (women's strength and sculpting)\n• Rebecca Rouse (kettlebell and dumbbell)\n• and more.\n\nThese aren't random influencers. They're competitive athletes and researchers who designed these programs based on years of coaching real people.\n\nWHO IT'S FOR\n• Beginners who want a structured workout plans instead of wandering the gym. \n• Intermediate lifters running nSuns or GZCLP who are tired of spreadsheets. \n• Advanced lifters who want periodized programs from coaches they trust.\n• For men and women. Full gym, garage gym, or at home with dumbbells. \n• Programs from 2 to 6 days per week.\n\nABOUT BOOSTCAMP\n\nBoostcamp started as a way to get Reddit's most popular workout programs out of spreadsheets and into an app that actually works. Five years later, we've partnered with 50+ expert coaches and built the largest library of structured training programs anywhere. Free to start. No ads.\n\nQuestions? support@boostcamp.app",
-    "minimumOsVersion": "15.1",
-    "contentAdvisoryRating": "4+",
     "trackCensoredName": "Boostcamp: Workout Programs",
     "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
-    "averageUserRating": 4.84694,
-    "userRatingCount": 9435
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.84673,
+    "userRatingCount": 9448
   }
 }

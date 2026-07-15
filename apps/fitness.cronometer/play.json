@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:32:19.284Z",
+  "fetched_at": "2026-07-15T08:39:28.481Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Macro and micronutrient tracker for accurate food, diet and nutrition analysis.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 5826521,
-    "score": 4.5758796,
+    "maxInstalls": 5843876,
+    "score": 4.57531,
     "scoreText": "4.6",
-    "ratings": 55822,
-    "reviews": 8312,
+    "ratings": 55847,
+    "reviews": 8322,
     "histogram": {
-      "1": 2130,
-      "2": 1120,
-      "3": 1869,
-      "4": 8040,
-      "5": 42655
+      "1": 2134,
+      "2": 1141,
+      "3": 1873,
+      "4": 7999,
+      "5": 42693
     },
     "price": 0,
     "free": true,
@@ -86,7 +86,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Jul 13, 2016",
-    "updated": 1782779629000,
+    "updated": 1784053808000,
     "version": "4.57.0",
     "recentChanges": "Cronometer has a refreshed brand identity, including an updated logo and new ways to visualize your targets that better reflect our commitment to accurate, objective nutrition insights.<br><br>The updated visual experience is designed to feel more neutral, educational, and intuitive, helping you interpret your nutrition data clearly and make informed decisions without unintended judgment or confusion.",
     "comments": [],

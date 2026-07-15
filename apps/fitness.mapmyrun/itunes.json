@@ -1,20 +1,17 @@
 {
-  "fetched_at": "2026-07-14T08:36:36.528Z",
+  "fetched_at": "2026-07-15T08:43:52.375Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=291890420&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/outside-television-inc/id987860990?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6c/70/906c70a1-cf61-dfed-790b-8230a79a3394/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6c/70/906c70a1-cf61-dfed-790b-8230a79a3394/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "advisories": [
-      "Frequent/Intense Contests"
-    ],
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6c/70/906c70a1-cf61-dfed-790b-8230a79a3394/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/outside-television-inc/id987860990?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6c/70/906c70a1-cf61-dfed-790b-8230a79a3394/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6c/70/906c70a1-cf61-dfed-790b-8230a79a3394/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "features": [],
-    "kind": "software",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -145,14 +142,10 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "isGameCenterEnabled": false,
-    "averageUserRating": 4.83542,
-    "contentAdvisoryRating": "12+",
-    "currentVersionReleaseDate": "2026-06-30T00:17:33Z",
-    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
-    "averageUserRatingForCurrentVersion": 4.83542,
-    "sellerUrl": "http://www.mapmyrun.com",
-    "trackCensoredName": "Map My Run GPS Running Tracker",
+    "advisories": [
+      "Frequent/Intense Contests"
+    ],
+    "kind": "software",
     "languageCodesISO2A": [
       "DA",
       "EN",
@@ -171,23 +164,31 @@
     ],
     "fileSizeBytes": "174477312",
     "formattedPrice": "Free",
-    "trackViewUrl": "https://apps.apple.com/us/app/map-my-run-gps-running-tracker/id291890420?uo=4",
     "trackContentRating": "12+",
-    "userRatingCountForCurrentVersion": 745743,
+    "averageUserRatingForCurrentVersion": 4.8354,
+    "sellerUrl": "http://www.mapmyrun.com",
+    "userRatingCountForCurrentVersion": 745816,
+    "averageUserRating": 4.8354,
+    "currentVersionReleaseDate": "2026-06-30T00:17:33Z",
+    "trackCensoredName": "Map My Run GPS Running Tracker",
+    "trackViewUrl": "https://apps.apple.com/us/app/map-my-run-gps-running-tracker/id291890420?uo=4",
+    "contentAdvisoryRating": "12+",
+    "artistId": 987860990,
+    "artistName": "Outside Television Inc",
     "genres": [
       "Health & Fitness",
       "Social Networking"
     ],
-    "price": 0,
-    "trackName": "Map My Run GPS Running Tracker",
-    "trackId": 291890420,
     "releaseDate": "2008-10-14T05:35:16Z",
+    "bundleId": "Q5AWL8WCY6.iMapMyRun",
+    "trackId": 291890420,
+    "trackName": "Map My Run GPS Running Tracker",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6005"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "sellerName": "Outside Television Inc",
     "isVppDeviceBasedLicensingEnabled": true,
     "version": "26.7.3",
@@ -195,9 +196,8 @@
     "currency": "USD",
     "description": "Map My Run: Your Ultimate Running Tracker App, Built for All Runners\n\nTake your running to the next level with the most complete Running Tracker app. Whether you're a beginner starting your first jog or an experienced athlete preparing for a marathon, this Running Tracker gives you the tools to hit your goals.\n\nLog every run, get customizable Training Plans, and real-time stats across outdoor runs, treadmill workouts, and everything in between. With personalized coaching tips and community motivation, this isn’t just another running app, it’s your all-in-one Running Tracker.\n\nNow with Form Coaching tips for Garmin users to improve your form and performance.\n\nTRUSTED BY 100M+ RUNNERS WORLDWIDE\n- Named Top 10 Apps for Runners – The Guardian\n- Featured in NY Times, TIME, Wired & TechCrunch\n- Voted Best Running App Readers' Choice on About.com\n\nTRACK, MAP & IMPROVE EVERY RUN\n- Use GPS to track running distance, pace, elevation, and calories\n- Works as a mile tracker, jogging tracker, and treadmill tracker\n- Track 600+ activities including walking, cycling, yoga, gym, and more\n- Accurate indoor stats with step-counting and treadmill tracking with cadence updates\n- Get audio feedback in real-time: distance, duration, pace, and heart rate\n- Save routes and discover new places to run nearby or while traveling\n\nWhether you're indoors or out, the Running Tracker app gives you full control of your stats.\n\nPERSONALIZED TRAINING PLANS FOR EVERY RUNNER\nTrain with purpose using expert-backed plans:\n- Adaptive coaching for 5K runners, 10K runners, half marathon training, and full marathon training\n- Set custom goals with your personal run trainer\n- Real-time feedback to help improve endurance and performance\n- Ideal for structured interval running and pace control\n- Whether it's weight loss, speed, or distance, this Run Tracker adapts to your goal\n\nLet your iPhone become your personal running coach and training partner.\n\nSEAMLESS DEVICE SYNC & WEARABLE SUPPORT\n- Sync your Running Tracker with Garmin, Apple Watch, and other wearables\n- Connect Bluetooth devices and HR monitors\n- Monitor your progress across apps like Apple Health\n- Perfect for both outdoor training and indoor treadmill workouts\n\nThis Running Tracker works wherever and however you train.\n\nMOTIVATION THROUGH COMMUNITY & CHALLENGES\n- Find friends & join a global community of runners and share your progress\n- Compete in virtual challenges, earn achievements, and share workouts on your favorite social networks.\n- Use Live Tracking so friends can follow your run in real time and keep you safe.\n- Follow other runners, get inspired, and celebrate milestones\n\nWhether you’re a solo runner or part of a team, the Running Tracker community keeps you moving.\n\nRUN LIKE A PRO WITH MVP PREMIUM FEATURES\nUpgrade your Map My Run: Running Tracker to MVP and Unlock the best tools to turn your goals into achievable plans:\n- Use Live Tracking to give loved ones peace of mind -- Our safety feature can share your real-time run location with a secure list of family and friends.\n- Execute Run Training Plans and reach weight loss or distance goals with personalized plans that adapt dynamically to your fitness level as you improve.\n- Real-time Run Tracker that monitors and analyzes heart rate zones to adjust your training based on goals.\n- Set a goal for your run and stay on track with audio coach updates, including pace, cadence, distance, duration, calories, and more.\n\nNote: Continued GPS use in background may reduce battery life.\n\nDownload the most complete Running Tracker today — your personal runner app, jog partner, distance tracker, and running coach all in one. From treadmill tracking to outdoor run training, this is the only app you'll ever need.\n\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
     "minimumOsVersion": "16.0",
-    "artistId": 987860990,
-    "artistName": "Outside Television Inc",
-    "bundleId": "Q5AWL8WCY6.iMapMyRun",
-    "userRatingCount": 745743
+    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
+    "price": 0,
+    "userRatingCount": 745816
   }
 }

@@ -1,0 +1,31 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-07-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "prev_fetched_at": "2026-07-14T08:38:09.474Z",
+      "curr_fetched_at": "2026-07-15T08:45:24.134Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.19.1",
+          "new": "7.20.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "prev_fetched_at": "2026-07-14T08:38:14.049Z",
+      "curr_fetched_at": "2026-07-15T08:45:27.617Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.19.2",
+          "new": "7.20.0"
+        }
+      ]
+    }
+  }
+}

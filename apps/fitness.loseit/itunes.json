@@ -1,16 +1,14 @@
 {
-  "fetched_at": "2026-07-14T08:32:07.839Z",
+  "fetched_at": "2026-07-15T08:39:17.937Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=297368629&country=us",
   "result": {
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
-    "artistViewUrl": "https://apps.apple.com/us/developer/fitnow/id297368632?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/512x512bb.jpg",
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -141,11 +139,14 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/fitnow/id297368632?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/f9/07/d3f907ef-5e83-5de9-a04d-e977a1e2bd2b/AppIcon-0-1x_U007epad-0-0-0-8-0-0-85-220-0.png/100x100bb.jpg",
     "features": [
       "iosUniversal"
     ],
-    "advisories": [],
-    "kind": "software",
+    "currentVersionReleaseDate": "2026-07-02T17:43:10Z",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -158,21 +159,12 @@
     ],
     "fileSizeBytes": "224666624",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 765614,
     "trackContentRating": "17+",
-    "sellerUrl": "http://www.loseit.com",
-    "trackCensoredName": "Lose It! – Calorie Counter",
-    "trackViewUrl": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
-    "contentAdvisoryRating": "17+",
     "averageUserRatingForCurrentVersion": 4.76598,
-    "averageUserRating": 4.76598,
     "minimumOsVersion": "18.0",
+    "sellerUrl": "http://www.loseit.com",
     "artistId": 297368632,
     "artistName": "FitNow",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
     "price": 0,
     "genreIds": [
       "6013",
@@ -182,16 +174,24 @@
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "FitNow, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-02T17:43:10Z",
-    "releaseNotes": "Lose It! Is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day. \n\nWe made some quick fixes to make sure things are running smoothly. Take it for a spin and make your log complete!",
+    "trackId": 297368629,
+    "trackName": "Lose It! – Calorie Counter",
     "version": "18.3.700",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Lose It! is a calorie counter and weight loss diet progress tracking app that helps you stick to your diet and reach your weight loss goals! Simply set your weight loss goals then track your diet, food and exercise to lose weight. Lose It! is more than just a free calorie tracker. You can track your nutrition, macros, carb and calorie intake, and plan your intermittent fasting schedule. Counting calories, tracking your food and losing weight has never been easier!\n\nSIMPLIFY YOUR WEIGHT LOSS JOURNEY\nLose It! uses the proven principles of calorie counting, food tracking, calorie deficit and diet tracking to help you succeed. To get started on your weight loss journey, input your profile details and we’ll calculate the daily calorie budget and schedule. Then, easily track your food, weight, and activity to view your weight loss victories. Change your calorie intake and dieting habits while learning about your nutrition needs to set achievable goals\n\nAI VOICE & PHOTO MEAL LOGGING\nQuickly and accurately log meals using your voice or a photo. Just speak into your phone or tap the camera icon to track food and count calories in seconds. Snap a photo, log a meal and make your weight loss journey simple!\n\nLOSE IT! BASIC FEATURES\n• Calorie Tracking – Utilize the calorie counter to make it easy to track meals and exercise directly from your phone\n• Weight Loss Plan – Build a weight loss plan based on your unique body composition, activity level and habits\n• Community Support – Add your friends and join support groups to stay motivated\n\nPREMIUM PLAN FEATURES\n• Photo Meal Logging – “Snap It” lets you log meals by taking a picture\n• AI Voice – Just say “I had 2 eggs, toast with butter and jam.” to log your meal\n• Barcode Scanner – Scan food barcodes or search our database of items and recipes\n• Advanced Tracking – track more than just calories including macronutrients like protein, carbs, fat, sugar; as well as health goals, including blood pressure, glucose, cholesterol, body measurements, sleep cycles and more\n• Intermittent Fasting – set your intermittent fasting plan and track your fasts in the same app where you track your food\n• Meal Planning & Targets – meal targets help you calculate suggested nutritional content including macro, carb, protein and overall calorie intake. Customize your diet and eating style for personalized weight loss!\n• Weight Loss Diet Plans – access exclusive personal insights to identify what is hindering or helping your weight loss progress\n• Fitness App Syncs – connect fitness trackers, workout apps, and devices like Fitbit trackers, Misfit trackers, Garmin trackers, Withings scales, Google Fit, Healthkit, and more to maximize your weight loss, gain or maintenance goals\n\nSince our launch in 2008 we have been featured in The Wall Street Journal, The Today Show, Men’s Health, Women’s Health, CNET, Buzzfeed, CNN, Shape, Good Morning America, and more.\n\nLose It! has helped over 57 million users lose more than 150 million pounds. With a global food database of 56+ million items and recipes, tracking what you eat is simple and accurate. Choose from over 25 health goals—including macros, carbs, protein and calories—and start seeing results in just three days of consistent tracking.\n\nDownload Lose It! and join our weight loss community, full of members helping us reach our mission to mobilize the world to achieve a healthy weight. No matter your diet needs or weight loss goals, Lose It! can help you find weight loss that fits!\n\nShould you choose to purchase a Premium subscription, the subscription purchase will be charged to your iTunes account. The yearly subscription will automatically renew unless the auto-renew is turned off at least 24 hours before the subscription period ends. Your premium subscription auto-renew can be turned off or managed in your iTunes account settings. Any unused portion of the free trial is forfeited after purchase.\n\nFull terms:\nhttp://loseit.com/terms",
+    "trackCensoredName": "Lose It! – Calorie Counter",
+    "trackViewUrl": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
+    "contentAdvisoryRating": "17+",
+    "averageUserRating": 4.76598,
+    "userRatingCountForCurrentVersion": 765869,
+    "releaseNotes": "Lose It! Is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day. \n\nWe made some quick fixes to make sure things are running smoothly. Take it for a spin and make your log complete!",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "bundleId": "com.fitnow.loseit",
-    "trackId": 297368629,
-    "trackName": "Lose It! – Calorie Counter",
-    "userRatingCount": 765614
+    "isVppDeviceBasedLicensingEnabled": true,
+    "userRatingCount": 765869
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:35:26.039Z",
+  "fetched_at": "2026-07-15T08:42:41.613Z",
   "source": "google_play_scraper",
   "appId": "com.rp.hypertrophy",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Hypertrophy, Training, Workout, Muscle Growth, Fat Loss",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 30069,
+    "maxInstalls": 30361,
     "score": 4.3,
     "scoreText": "4.3",
     "ratings": 123,
@@ -64,9 +64,9 @@
     "contentRating": "Mature 17+",
     "adSupported": false,
     "released": "Dec 21, 2025",
-    "updated": 1782498878000,
-    "version": "1.2.0",
-    "recentChanges": "Adds camera access for setting profile photo.",
+    "updated": 1784054085000,
+    "version": "1.2.1",
+    "recentChanges": "Fixes a bug with device orientation.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

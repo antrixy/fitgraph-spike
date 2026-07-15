@@ -1,0 +1,32 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-07-15",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "prev_fetched_at": "2026-07-14T08:37:48.684Z",
+      "curr_fetched_at": "2026-07-15T08:45:02.806Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "5762f66226e03747d69385257d23f56663e9ba32",
+      "curr_fetched_at": "2026-07-15T08:45:05.516Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Jessilyn Dunn, PhD",
+          "occurrences": 1
+        },
+        {
+          "text": "Assistant professor of biomedical engineering, biostatistics and bioinformatics at Duke University.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 2
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T08:36:07.122Z",
+  "fetched_at": "2026-07-15T08:43:25.342Z",
   "source": "google_play_scraper",
   "appId": "com.runbuddy.prod",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3160134,
-    "score": 4.6098657,
+    "score": 4.606987,
     "scoreText": "4.6",
-    "ratings": 28787,
-    "reviews": 678,
+    "ratings": 28923,
+    "reviews": 680,
     "histogram": {
-      "1": 1612,
-      "2": 511,
-      "3": 770,
-      "4": 1676,
-      "5": 24202
+      "1": 1572,
+      "2": 627,
+      "3": 757,
+      "4": 1637,
+      "5": 24309
     },
     "price": 0,
     "free": true,
@@ -81,8 +81,8 @@
     "adSupported": false,
     "released": "Nov 24, 2021",
     "updated": 1783930592000,
-    "version": "8.44.0",
-    "recentChanges": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
+    "version": "8.45.1",
+    "recentChanges": "Squashed some bugs before they bonked at mile 20. Now the app&#39;s cruising to the finish line with you.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
