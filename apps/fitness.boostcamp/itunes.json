@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-07-15T08:42:19.259Z",
+  "fetched_at": "2026-07-16T08:40:42.809Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1529354455&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
@@ -21,10 +22,7 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -154,42 +152,36 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "features": [
+      "iosUniversal"
+    ],
     "currentVersionReleaseDate": "2026-06-29T17:14:26Z",
-    "minimumOsVersion": "15.1",
-    "averageUserRatingForCurrentVersion": 4.84673,
-    "sellerUrl": "https://www.boostcamp.app/",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "312797184",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 9448,
     "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.84696,
+    "minimumOsVersion": "15.1",
+    "sellerUrl": "https://www.boostcamp.app/",
     "artistId": 1529354457,
     "artistName": "BPM Health Co.",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
     "price": 0,
-    "bundleId": "com.bpmhealth.boostfitness",
-    "trackId": 1529354455,
-    "trackName": "Boostcamp: Workout Programs",
-    "releaseNotes": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
-    "releaseDate": "2020-10-04T07:00:00Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
+    "releaseDate": "2020-10-04T07:00:00Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "BPM Health Co.",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 1529354455,
+    "trackName": "Boostcamp: Workout Programs",
     "version": "262",
     "wrapperType": "software",
     "currency": "USD",
@@ -197,7 +189,15 @@
     "trackCensoredName": "Boostcamp: Workout Programs",
     "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.84673,
-    "userRatingCount": 9448
+    "averageUserRating": 4.84696,
+    "userRatingCountForCurrentVersion": 9468,
+    "releaseNotes": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "bundleId": "com.bpmhealth.boostfitness",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "userRatingCount": 9468
   }
 }

@@ -1,0 +1,34 @@
+{
+  "product": "fitness.garminconnect",
+  "name": "Garmin Connect",
+  "date": "2026-07-16",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "32de09a49f64abd00a89d4b3b0e0a5f2908ac33f",
+      "curr_fetched_at": "2026-07-16T08:43:38.853Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "VÍVOFIT® JR.",
+          "occurrences": 1
+        },
+        {
+          "text": "3 FITNESS TRACKER FOR KIDS",
+          "occurrences": 1
+        },
+        {
+          "text": "© Disney",
+          "occurrences": 1
+        },
+        {
+          "text": "© 2026 MARVEL",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 4
+    }
+  }
+}

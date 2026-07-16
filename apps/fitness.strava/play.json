@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:43:12.677Z",
+  "fetched_at": "2026-07-16T08:41:44.372Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 127849968,
-    "score": 4.5894084,
+    "score": 4.590503,
     "scoreText": "4.6",
-    "ratings": 1145494,
-    "reviews": 34028,
+    "ratings": 1146124,
+    "reviews": 34031,
     "histogram": {
-      "1": 61995,
-      "2": 19124,
-      "3": 30404,
-      "4": 104115,
-      "5": 929823
+      "1": 62272,
+      "2": 18824,
+      "3": 30097,
+      "4": 103500,
+      "5": 931399
     },
     "price": 0,
     "free": true,
@@ -67,7 +67,7 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 9, 2011",
-    "updated": 1783446877000,
+    "updated": 1784130723000,
     "version": "VARY",
     "recentChanges": "More options for your strength workouts. Choose what to share – hide your muscle map and weights lifted before you post.<br>",
     "comments": [],

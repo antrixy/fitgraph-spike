@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:44:10.146Z",
+  "fetched_at": "2026-07-16T08:42:48.850Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=934224107&country=us",
   "result": {
@@ -165,24 +165,25 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/20/7c/64207cdb-e0e2-101a-8ddb-3ee10574cb7a/AppIcon-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/512x512bb.jpg",
+    "minimumOsVersion": "16.0",
+    "artistId": 934224106,
+    "artistName": "Trainer Road, LLC",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "artistId": 934224106,
-    "artistName": "Trainer Road, LLC",
     "price": 0,
     "bundleId": "com.trainerroad.ios",
+    "releaseNotes": "• Various under-the-hood improvements.",
     "trackId": 934224107,
     "trackName": "TrainerRoad",
     "releaseDate": "2014-11-17T10:35:55Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "releaseNotes": "• Various under-the-hood improvements.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Trainer Road, LLC",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-13T11:54:43Z",
@@ -193,17 +194,16 @@
     "trackCensoredName": "TrainerRoad",
     "trackViewUrl": "https://apps.apple.com/us/app/trainerroad/id934224107?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.88588,
+    "averageUserRating": 4.88589,
     "sellerUrl": "https://www.trainerroad.com",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "117243904",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 21435,
     "trackContentRating": "4+",
-    "minimumOsVersion": "16.0",
-    "userRatingCountForCurrentVersion": 21434,
-    "averageUserRatingForCurrentVersion": 4.88588,
-    "userRatingCount": 21434
+    "averageUserRatingForCurrentVersion": 4.88589,
+    "userRatingCount": 21435
   }
 }

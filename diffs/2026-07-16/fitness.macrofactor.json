@@ -1,0 +1,351 @@
+{
+  "product": "fitness.macrofactor",
+  "name": "MacroFactor",
+  "date": "2026-07-16",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "32de09a49f64abd00a89d4b3b0e0a5f2908ac33f",
+      "curr_fetched_at": "2026-07-16T08:38:14.307Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "One moment, please...",
+          "occurrences": 1
+        },
+        {
+          "text": "Loader",
+          "occurrences": 1
+        },
+        {
+          "text": "Please wait while your request is being verified...",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "MacroFactor Press Kit",
+          "occurrences": 1
+        },
+        {
+          "text": "PRESS KIT",
+          "occurrences": 2
+        },
+        {
+          "text": "MacroFactor",
+          "occurrences": 2
+        },
+        {
+          "text": "Serious about science, pumped about progress",
+          "occurrences": 1
+        },
+        {
+          "text": "MacroFactor: App Store or Google Play",
+          "occurrences": 1
+        },
+        {
+          "text": "Workouts: App Store or Google Play",
+          "occurrences": 1
+        },
+        {
+          "text": "Contact us: press@macrofactor.com",
+          "occurrences": 1
+        },
+        {
+          "text": "Serious about science,",
+          "occurrences": 1
+        },
+        {
+          "text": "pumped about progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Download MacroFactor:",
+          "occurrences": 1
+        },
+        {
+          "text": "App Store",
+          "occurrences": 2
+        },
+        {
+          "text": "Google Play",
+          "occurrences": 2
+        },
+        {
+          "text": "Download Workouts:",
+          "occurrences": 1
+        },
+        {
+          "text": "Contact us:",
+          "occurrences": 1
+        },
+        {
+          "text": "press@macrofactor.com",
+          "occurrences": 1
+        },
+        {
+          "text": "About MacroFactor",
+          "occurrences": 1
+        },
+        {
+          "text": "At MacroFactor, we translate the latest and greatest research and next-gen technology into powerful tools for every stage of your fitness journey.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our apps, MacroFactor Nutrition and MacroFactor Workouts, help more than 500,000 users track their nutrition, log workouts in the gym, and achieve and maintain their fitness goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "About MacroFactor Nutrition",
+          "occurrences": 1
+        },
+        {
+          "text": "MacroFactor is a smart macro tracker and nutrition coach .",
+          "occurrences": 1
+        },
+        {
+          "text": "You can use it to track your weight and the foods you eat.",
+          "occurrences": 1
+        },
+        {
+          "text": "The app then tells you your daily energy expenditure (the calories you burn) and your weight trend, and it adjusts your calories/macros to help keep you on track toward my goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Here are 4 reasons MacroFactor is the BEST app for losing weight, gaining muscle, and maintaining results:",
+          "occurrences": 1
+        },
+        {
+          "text": "You can log foods faster in MacroFactor than in any other app.",
+          "occurrences": 1
+        },
+        {
+          "text": "(We quantified it.) Plus, all items in MacroFactor’s food search database have been verified, so you can trust the accuracy of the foods you log.",
+          "occurrences": 1
+        },
+        {
+          "text": "Its smart coaching feature will give you science-based recommendations tailored to your goals and preferences.",
+          "occurrences": 1
+        },
+        {
+          "text": "It will also give you weekly updates to your macros, just like a nutrition coach would, so you can be sure you’re always on track toward your goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "The app’s algorithm uses your weight and nutrition data to offer a personalized energy expenditure estimate that is much more accurate than the wearables or static calculators that other apps rely on.",
+          "occurrences": 1
+        },
+        {
+          "text": "On top of all the expected utilities you get in most food loggers (like barcode scanning and custom foods/recipes), MacroFactor also offers progress photos and body metrics tracking, a full suite of micronutrient tracking features, widgets, a label scanner, and more.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn More About MacroFactor",
+          "occurrences": 1
+        },
+        {
+          "text": "About MacroFactor Workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "MacroFactor Workouts is a smart, dynamic workout tracker.",
+          "occurrences": 1
+        },
+        {
+          "text": "It includes an intuitive interface for planning and logging your workouts, personalized workout programs, auto-progression to keep you on track, and much more.",
+          "occurrences": 1
+        },
+        {
+          "text": "Here are 3 reasons MacroFactor Workouts is the BEST app for training, tracking, and progressing in the gym.",
+          "occurrences": 1
+        },
+        {
+          "text": "Sleek interface with serious power.",
+          "occurrences": 1
+        },
+        {
+          "text": "Workouts is the perfect blend of power and simplicity.",
+          "occurrences": 1
+        },
+        {
+          "text": "Logging sets, creating workouts, and navigating the app is a breeze.",
+          "occurrences": 1
+        },
+        {
+          "text": "But you&#8217;ll also find powerful tools to track every detail – including rest time, drop sets, RIR, failure sets, partial reps, and much more.",
+          "occurrences": 1
+        },
+        {
+          "text": "Science-based programming that learns and adapts to you.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our programs are engineered by experts and grounded in science.",
+          "occurrences": 1
+        },
+        {
+          "text": "After your first workout, the app begins learning your rate of progress and strength/endurance relationship to adjust your program, helping you reach your goals and avoid plateaus.",
+          "occurrences": 1
+        },
+        {
+          "text": "Total customization over your training experience.",
+          "occurrences": 1
+        },
+        {
+          "text": "Workouts gives you total mastery over your training experience.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can personalize your program structure, adjust periodization, create custom exercises, set personalized rest timers, and manage different gym profiles.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn More About Workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "Latest product press",
+          "occurrences": 1
+        },
+        {
+          "text": "The 2025 MacroFactor Annual Report",
+          "occurrences": 2
+        },
+        {
+          "text": "Lyndsey Nuckols",
+          "occurrences": 2
+        },
+        {
+          "text": "September 17, 2025",
+          "occurrences": 2
+        },
+        {
+          "text": "A new look for a new chapter",
+          "occurrences": 2
+        },
+        {
+          "text": "MacroFactor Team",
+          "occurrences": 2
+        },
+        {
+          "text": "September 16, 2025",
+          "occurrences": 2
+        },
+        {
+          "text": "MacroFactor is coming to Apple Watch",
+          "occurrences": 2
+        },
+        {
+          "text": "Rebecca Kekelishvili",
+          "occurrences": 3
+        },
+        {
+          "text": "September 9, 2025",
+          "occurrences": 2
+        },
+        {
+          "text": "AI-Powered Food Logging Comes to MacroFactor",
+          "occurrences": 1
+        },
+        {
+          "text": "April 8, 2025",
+          "occurrences": 1
+        },
+        {
+          "text": "More from the Product Press",
+          "occurrences": 1
+        },
+        {
+          "text": "MacroFactor Screenshots",
+          "occurrences": 1
+        },
+        {
+          "text": "Click to view and download.",
+          "occurrences": 3
+        },
+        {
+          "text": "MacroFactor Workouts Screenshots",
+          "occurrences": 1
+        },
+        {
+          "text": "Logos",
+          "occurrences": 1
+        },
+        {
+          "text": "Pricing",
+          "occurrences": 1
+        },
+        {
+          "text": "MacroFactor and MacroFactor Workouts are premium, ad-free apps that offer auto-renewing subscription options:",
+          "occurrences": 1
+        },
+        {
+          "text": "$11.99 / month",
+          "occurrences": 1
+        },
+        {
+          "text": "$47.99 / half year",
+          "occurrences": 1
+        },
+        {
+          "text": "$71.99 / year (equal to $5.99 a month)",
+          "occurrences": 1
+        },
+        {
+          "text": "$89.99/year for a bundle of both apps",
+          "occurrences": 1
+        },
+        {
+          "text": "Both apps have a 7-day free trial, but do not offer a free subscription tier.",
+          "occurrences": 1
+        },
+        {
+          "text": "Manage cookie consent",
+          "occurrences": 1
+        },
+        {
+          "text": "To provide the best experiences, we use technologies like cookies to store and/or access device information.",
+          "occurrences": 1
+        },
+        {
+          "text": "Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.",
+          "occurrences": 1
+        },
+        {
+          "text": "Not consenting or withdrawing consent, may adversely affect certain features and functions.",
+          "occurrences": 1
+        },
+        {
+          "text": "Functional",
+          "occurrences": 2
+        },
+        {
+          "text": "Always active",
+          "occurrences": 1
+        },
+        {
+          "text": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+          "occurrences": 1
+        },
+        {
+          "text": "Preferences",
+          "occurrences": 2
+        },
+        {
+          "text": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+          "occurrences": 1
+        },
+        {
+          "text": "Statistics",
+          "occurrences": 2
+        },
+        {
+          "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": true,
+      "added_total": 3,
+      "removed_total": 96
+    }
+  }
+}

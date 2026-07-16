@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-07-15T08:47:25.410Z",
+  "fetched_at": "2026-07-16T08:46:06.550Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1361356590&country=us",
   "result": {
+    "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1d/7a/011d7a35-db99-f2ca-83c8-a8517fa58bbb/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [],
     "isGameCenterEnabled": false,
     "features": [],
     "advisories": [],
@@ -143,29 +143,30 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/the-mind-company/id875063459?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1d/7a/011d7a35-db99-f2ca-83c8-a8517fa58bbb/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1d/7a/011d7a35-db99-f2ca-83c8-a8517fa58bbb/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "averageUserRatingForCurrentVersion": 4.88035,
     "sellerUrl": "https://themindcompany.com/apps/balance",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "189313024",
     "formattedPrice": "Free",
-    "trackContentRating": "4+",
     "userRatingCountForCurrentVersion": 119882,
-    "averageUserRatingForCurrentVersion": 4.88035,
-    "price": 0,
+    "trackContentRating": "4+",
     "artistId": 875063459,
     "artistName": "The Mind Company",
-    "trackId": 1361356590,
-    "trackName": "Balance: Meditation & Sleep",
-    "genreIds": [
-      "6013",
-      "6012"
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
     ],
-    "currentVersionReleaseDate": "2026-07-13T19:48:48Z",
-    "sellerName": "Elevate Labs, LLC",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "isVppDeviceBasedLicensingEnabled": true,
+    "bundleId": "com.elevateapp.kamino.kamino",
+    "trackId": 1361356590,
+    "trackName": "Balance: Meditation & Sleep",
+    "releaseDate": "2019-09-03T07:00:00Z",
+    "currentVersionReleaseDate": "2026-07-13T19:48:48Z",
+    "sellerName": "Elevate Labs, LLC",
+    "releaseNotes": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "version": "1.205.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -175,13 +176,12 @@
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.88035,
     "minimumOsVersion": "16.0",
-    "releaseDate": "2019-09-03T07:00:00Z",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
+    "genreIds": [
+      "6013",
+      "6012"
     ],
-    "releaseNotes": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
-    "bundleId": "com.elevateapp.kamino.kamino",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "price": 0,
     "userRatingCount": 119882
   }
 }

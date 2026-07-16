@@ -1,0 +1,19 @@
+{
+  "product": "fitness.stronglifts",
+  "name": "StrongLifts 5x5",
+  "date": "2026-07-16",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "32de09a49f64abd00a89d4b3b0e0a5f2908ac33f",
+      "prev_fetched_at": "2026-07-15T08:42:07.248Z",
+      "curr_fetched_at": "2026-07-16T08:40:34.085Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.2.7",
+          "new": "4.3.0"
+        }
+      ]
+    }
+  }
+}

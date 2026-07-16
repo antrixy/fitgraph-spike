@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:47:19.952Z",
+  "fetched_at": "2026-07-16T08:46:01.214Z",
   "source": "google_play_scraper",
   "appId": "com.getsomeheadspace.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Meditation and mindfulness for sleep, anxiety relief, stress, and mental health",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 42290908,
-    "score": 4.2681656,
+    "maxInstalls": 42300876,
+    "score": 4.26771,
     "scoreText": "4.3",
-    "ratings": 339947,
-    "reviews": 31733,
+    "ratings": 339942,
+    "reviews": 31732,
     "histogram": {
-      "1": 41588,
-      "2": 12383,
-      "3": 10608,
-      "4": 24051,
-      "5": 251308
+      "1": 41611,
+      "2": 12380,
+      "3": 10640,
+      "4": 24045,
+      "5": 251255
     },
     "price": 0,
     "free": true,
@@ -68,7 +68,7 @@
     "adSupported": false,
     "released": "Jan 6, 2012",
     "updated": 1783724395000,
-    "version": "8.21.2",
+    "version": "8.23.0",
     "recentChanges": "A steady meditation practice can calm the mind. But sometimes a bug appears in the app and it distracts us. We removed that bug from this latest version, and we already feel more at ease.<br><br>If you run into any trouble, let us know at help@headspace.com",
     "comments": [],
     "preregister": false,

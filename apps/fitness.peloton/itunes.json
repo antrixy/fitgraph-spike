@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-07-15T08:45:57.289Z",
+  "fetched_at": "2026-07-16T08:44:35.953Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=792750948&country=us",
   "result": {
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/50/e2/2650e209-06cc-09dd-19bd-11ce5723ddc6/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "screenshotUrls": [],
     "artistViewUrl": "https://apps.apple.com/us/developer/peloton-interactive-inc/id792750951?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/50/e2/2650e209-06cc-09dd-19bd-11ce5723ddc6/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/50/e2/2650e209-06cc-09dd-19bd-11ce5723ddc6/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/50/e2/2650e209-06cc-09dd-19bd-11ce5723ddc6/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -150,11 +150,9 @@
       "Infrequent/Mild Medical/Treatment Information"
     ],
     "kind": "software",
-    "trackCensoredName": "Peloton: Fitness & Workouts",
-    "trackViewUrl": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948?uo=4",
-    "contentAdvisoryRating": "12+",
     "averageUserRatingForCurrentVersion": 4.91845,
-    "averageUserRating": 4.91845,
+    "bundleId": "com.Peloton.PelotonApp",
+    "trackContentRating": "12+",
     "sellerUrl": "https://www.onepeloton.com",
     "languageCodesISO2A": [
       "EN",
@@ -164,7 +162,10 @@
     "fileSizeBytes": "518695936",
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 813183,
-    "trackContentRating": "12+",
+    "trackViewUrl": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948?uo=4",
+    "contentAdvisoryRating": "12+",
+    "trackCensoredName": "Peloton: Fitness & Workouts",
+    "averageUserRating": 4.91845,
     "artistId": 792750951,
     "artistName": "Peloton Interactive, Inc.",
     "genres": [
@@ -172,19 +173,18 @@
       "Lifestyle"
     ],
     "price": 0,
-    "bundleId": "com.Peloton.PelotonApp",
-    "releaseNotes": "Bug fixes and performance improvements.",
     "currentVersionReleaseDate": "2026-07-13T15:13:00Z",
-    "releaseDate": "2014-02-15T00:26:48Z",
+    "releaseNotes": "Bug fixes and performance improvements.",
     "trackId": 792750948,
     "trackName": "Peloton: Fitness & Workouts",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Peloton Interactive, Inc.",
+    "releaseDate": "2014-02-15T00:26:48Z",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Peloton Interactive, Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "version": "15.128.0",
     "wrapperType": "software",

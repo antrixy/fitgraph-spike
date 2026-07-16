@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:41:28.352Z",
+  "fetched_at": "2026-07-16T08:39:54.143Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9884855,
-    "score": 4.4266324,
+    "score": 4.4271846,
     "scoreText": "4.4",
-    "ratings": 89628,
+    "ratings": 89629,
     "reviews": 11700,
     "histogram": {
-      "1": 6834,
-      "2": 2664,
-      "3": 3765,
-      "4": 8516,
-      "5": 67842
+      "1": 6844,
+      "2": 2667,
+      "3": 3711,
+      "4": 8526,
+      "5": 67873
     },
     "price": 0,
     "free": true,

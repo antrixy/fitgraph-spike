@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:39:20.402Z",
+  "fetched_at": "2026-07-16T08:37:43.404Z",
   "source": "google_play_scraper",
   "appId": "com.fitnow.loseit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 21417064,
-    "score": 4.560397,
+    "score": 4.5603876,
     "scoreText": "4.6",
-    "ratings": 180156,
-    "reviews": 43740,
+    "ratings": 180195,
+    "reviews": 43741,
     "histogram": {
-      "1": 7111,
-      "2": 3264,
-      "3": 7268,
-      "4": 26413,
-      "5": 136094
+      "1": 7119,
+      "2": 3223,
+      "3": 7298,
+      "4": 26464,
+      "5": 136086
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Jul 24, 2011",
-    "updated": 1783004590000,
+    "updated": 1783964740000,
     "version": "18.3.701",
     "recentChanges": "Not a ton to update on this week, folks. Just squashing some bugs and making general improvements to keep things running smoothly for ya!",
     "comments": [],

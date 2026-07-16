@@ -1,0 +1,91 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-16",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "32de09a49f64abd00a89d4b3b0e0a5f2908ac33f",
+      "curr_fetched_at": "2026-07-16T08:39:01.471Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "37%",
+          "occurrences": 1
+        },
+        {
+          "text": "more weight lost with",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom + GLP-1 than",
+          "occurrences": 1
+        },
+        {
+          "text": "with medication alone .",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 injection sites: Best locations and how to inject correctly",
+          "occurrences": 1
+        },
+        {
+          "text": "Wegovy® coupon: How it works and how much you can save",
+          "occurrences": 1
+        },
+        {
+          "text": "Is pea milk good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Results based on a January 2026 analysis of 14,203 Noom GLP-1Rx Program members who actively logged weight over a 40 week period.",
+          "occurrences": 1
+        },
+        {
+          "text": "High and low engagement groupings measured by quantile of app opens.",
+          "occurrences": 1
+        },
+        {
+          "text": "Higher app engagement was associated with greater weight loss at 16 weeks; this association does not imply causation.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "-48%",
+          "occurrences": 1
+        },
+        {
+          "text": "Lose 48% more weight",
+          "occurrences": 1
+        },
+        {
+          "text": "with Noom Med vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "medications alone.",
+          "occurrences": 1
+        },
+        {
+          "text": "Red light therapy belts: Can they really help with weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Best protein ice cream: Choosing between the popular brands",
+          "occurrences": 1
+        },
+        {
+          "text": "Zepbound® KwikPen®: How to use it and what makes it different",
+          "occurrences": 1
+        },
+        {
+          "text": "Based on a retrospective study of self-reported data of pounds lost for active versus passive users who were offered the Noom program when being prescribed an early stage GLP-1.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 10,
+      "removed_total": 8
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T08:39:34.808Z",
+  "fetched_at": "2026-07-16T08:38:04.886Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1553503471&country=us",
   "result": {
@@ -158,7 +158,7 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/stronger-by-science-technologies-llc/id1553503473?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/fc/48/dbfc4851-2696-d586-84f9-1dfbff8b275c/MacroFactorAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/fc/48/dbfc4851-2696-d586-84f9-1dfbff8b275c/MacroFactorAppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.83497,
+    "averageUserRatingForCurrentVersion": 4.83507,
     "currentVersionReleaseDate": "2026-07-13T14:41:55Z",
     "artistId": 1553503473,
     "artistName": "Stronger By Science Technologies LLC",
@@ -189,13 +189,13 @@
     ],
     "fileSizeBytes": "221500416",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 19112,
+    "userRatingCountForCurrentVersion": 19190,
     "trackContentRating": "9+",
-    "averageUserRating": 4.83497,
+    "averageUserRating": 4.83507,
     "trackCensoredName": "MacroFactor - Macro Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/macrofactor-macro-tracker/id1553503471?uo=4",
     "contentAdvisoryRating": "9+",
     "minimumOsVersion": "15.6",
-    "userRatingCount": 19112
+    "userRatingCount": 19190
   }
 }

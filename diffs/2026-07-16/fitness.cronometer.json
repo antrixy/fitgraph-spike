@@ -1,0 +1,24 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-07-16",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "32de09a49f64abd00a89d4b3b0e0a5f2908ac33f",
+      "prev_fetched_at": "2026-07-15T08:39:26.832Z",
+      "curr_fetched_at": "2026-07-16T08:37:52.140Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.57.0",
+          "new": "4.57.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Cronometer has a refreshed brand identity, including an updated logo and new ways to visualize your targets that better reflect our commitment to accurate, objective nutrition insights. \n\nThe updated visual experience is designed to feel more neutral, educational, and intuitive, helping you interpret your nutrition data clearly and make informed decisions without unintended judgment or confusion.",
+          "new": "What's New\n\nA quick round of UI polish and bug fixes to keep things running smoothly.\n\nUpdate now for a smoother, faster Cronometer experience!\nQuestions? Contact us at support@cronometer.com"
+        }
+      ]
+    }
+  }
+}
