@@ -1,12 +1,19 @@
 {
-  "fetched_at": "2026-07-16T08:41:04.902Z",
+  "fetched_at": "2026-07-17T08:35:13.795Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1555614554&country=us",
   "result": {
+    "features": [],
     "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/rp-strength-llc/id1202847563?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/30/8c/96308ccf-e15e-ca3a-3e8b-eaa0ec108755/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/30/8c/96308ccf-e15e-ca3a-3e8b-eaa0ec108755/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/30/8c/96308ccf-e15e-ca3a-3e8b-eaa0ec108755/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -136,42 +143,29 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
-    "kind": "software",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/30/8c/96308ccf-e15e-ca3a-3e8b-eaa0ec108755/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-    "features": [],
-    "minimumOsVersion": "17.6",
+    "averageUserRating": 4.32212,
     "trackCensoredName": "RP Hypertrophy",
     "trackViewUrl": "https://apps.apple.com/us/app/rp-hypertrophy/id1555614554?uo=4",
     "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.32212,
-    "artistId": 1202847563,
-    "artistName": "RP Strength, LLC",
+    "releaseDate": "2025-12-20T08:00:00Z",
     "genres": [
       "Health & Fitness"
     ],
-    "price": 0,
+    "artistId": 1202847563,
+    "artistName": "RP Strength, LLC",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "bundleId": "app.rp.training",
     "trackId": 1555614554,
     "trackName": "RP Hypertrophy",
-    "releaseDate": "2025-12-20T08:00:00Z",
-    "genreIds": [
-      "6013"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "sellerName": "RP Strength, LLC",
-    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-06-26T22:53:47Z",
+    "isVppDeviceBasedLicensingEnabled": true,
     "releaseNotes": "Adds camera access for setting profile photo.",
     "version": "1.2.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Build more muscle and get JACKED with the RP Hypertrophy app, designed by Dr. Mike Israetel. Used by industry experts, pro bodybuilders and thousands of satisfied users to help them get in the best shape of their lives, the app is perfect for anyone who wants to get real results powered by science. \n\nNot sure what to do at the gym? Not getting the gains you are looking for? The RP Hypertrophy app is like having a coach in your pocket providing you with personalized training recommendations. Focus on upper body, lower body or specific muscle groups with one of over 45 premade training plans or the custom meso builder. \n \nWhy Use the RP Hypertrophy App?\n\n• Progression planned just for you. Know exactly the weight and reps to hit every week for your best growth. Customize your workouts so you can change things on the fly. \n• Personalized recommendations. The app adjusts to your pump, soreness and workload feedback to create the perfect training plan week-by-week. \n• 45+ premade training plans. Including bodypart specialization programs. \n• 250+ technique videos. Not sure how to properly do an exercise? No problem, there’s a video for that. \n• Want to focus on abs and maintain your glutes? Use the powerful Meso Builder and create a workout plan just for you. \n \nSubscription pricing and terms: \n\nWe offer 3 different subscriptions that provide full access to the app and all its features. You can choose to subscribe monthly, a 6 month term or annually.\n\nIf you purchase a RP Hypertrophy native subscription, please note billing and charges are done through your iTunes account and auto-renewed based on your subscription term. At the end of the term, unless auto-renewable subscription is disabled, your subscription will automatically renew in your iTunes account. You will be charged for the regular price of your subscription within 24 hours prior to the end of the current term. Your subscription can be managed or cancelled in your Apple ID Account Settings.\n\nPrivacy Policy:\n\nhttps://rpstrength.com/policies/privacy-policy\n\nTerms of Service:\n\nhttps://rpstrength.com/policies/terms-of-service",
-    "trackContentRating": "17+",
     "averageUserRatingForCurrentVersion": 4.32212,
     "languageCodesISO2A": [
       "EN"
@@ -179,6 +173,12 @@
     "fileSizeBytes": "4478976",
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 208,
+    "trackContentRating": "17+",
+    "minimumOsVersion": "17.6",
+    "genreIds": [
+      "6013"
+    ],
+    "price": 0,
     "userRatingCount": 208
   }
 }

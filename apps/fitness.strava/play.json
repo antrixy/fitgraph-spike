@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T08:41:44.372Z",
+  "fetched_at": "2026-07-17T08:35:44.787Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 127849968,
-    "score": 4.590503,
+    "score": 4.5917153,
     "scoreText": "4.6",
-    "ratings": 1146124,
-    "reviews": 34031,
+    "ratings": 1146725,
+    "reviews": 34038,
     "histogram": {
-      "1": 62272,
-      "2": 18824,
-      "3": 30097,
-      "4": 103500,
-      "5": 931399
+      "1": 61749,
+      "2": 18991,
+      "3": 30124,
+      "4": 103909,
+      "5": 931920
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "released": "Jun 9, 2011",
     "updated": 1784130723000,
     "version": "VARY",
-    "recentChanges": "More options for your strength workouts. Choose what to share – hide your muscle map and weights lifted before you post.<br>",
+    "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

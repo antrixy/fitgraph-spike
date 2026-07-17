@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T08:42:19.948Z",
+  "fetched_at": "2026-07-17T08:36:09.944Z",
   "source": "google_play_scraper",
   "appId": "com.runtastic.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 96689253,
-    "score": 4.625058,
+    "score": 4.624186,
     "scoreText": "4.6",
-    "ratings": 1714099,
-    "reviews": 25337,
+    "ratings": 1714321,
+    "reviews": 25336,
     "histogram": {
-      "1": 82708,
-      "2": 22254,
-      "3": 44526,
-      "4": 155889,
-      "5": 1408647
+      "1": 82918,
+      "2": 22311,
+      "3": 44641,
+      "4": 156272,
+      "5": 1408122
     },
     "price": 0,
     "free": true,

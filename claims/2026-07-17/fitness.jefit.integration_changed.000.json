@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.jefit",
+  "integration": "health_connect",
+  "direction": "removed",
+  "observed_at": "2026-07-17T08:33:55.330Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "le users, this one&#39;s for you — JEFIT can now read your weight, exercise sessions, and active calories straight from Health Connect, so data recorded by connected devices shows up automatically in your logs without any manual entry. We also shipped a",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

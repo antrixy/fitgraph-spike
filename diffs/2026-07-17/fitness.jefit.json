@@ -1,0 +1,25 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-07-17",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "prev_fetched_at": "2026-07-16T08:39:54.143Z",
+      "curr_fetched_at": "2026-07-17T08:33:55.330Z",
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Smart scale users, this one&#39;s for you — JEFIT can now read your weight, exercise sessions, and active calories straight from Health Connect, so data recorded by connected devices shows up automatically in your logs without any manual entry. We also shipped a handful of bug fixes and reliability improvements under the hood.",
+          "new": "Training Preferences just got smarter — you can now label injuries as Mild or Severe so your Adaptive Plan better understands how to work around what&#39;s bothering you. The reworked injury check-in lets you pick a recovery outcome per injury, and there&#39;s a new &quot;I don&#39;t have any injury&quot; option when you&#39;re back to full strength. Tapping Done on the keyboard now logs your set, plus a handful of bug fixes."
+        },
+        {
+          "field": "version",
+          "old": "17.2.6",
+          "new": "17.2.8",
+          "note": "compared against last real version (bb76072b); intervening snapshots reported a sentinel"
+        }
+      ]
+    }
+  }
+}

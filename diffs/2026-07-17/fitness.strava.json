@@ -1,0 +1,20 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-07-17",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "prev_fetched_at": "2026-07-16T08:41:44.372Z",
+      "curr_fetched_at": "2026-07-17T08:35:44.787Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "More options for your strength workouts. Choose what to share – hide your muscle map and weights lifted before you post.<br>",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-07-17",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "prev_fetched_at": "2026-07-16T08:43:13.414Z",
+      "curr_fetched_at": "2026-07-17T08:37:00.911Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.28.7",
+          "new": "2026.29.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- Multi-Day Routes are now easier to browse, with new country filters\n- See downloaded offline regions and routes directly on the map as an optional overlay\n\nBug fixes\n- Fixed dark mode issues across maps, planning, navigation, comments, and settings\n- The elevation profile no longer shows stale data after moving a waypoint\n- Various smaller fixes and stability improvements",
+          "new": "What's new?\n- See which parts of the map you've saved offline with a new overlay in the map switcher.\n- Discover official routes with new badges and richer route details.\n- Long press any section of your route to move it more easily in the planner.\n- Completed Highlights now appear first in challenge checklists.\n\nBug fixes\n- Improved route planning and editing stability\n- Fixed several crashes"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "prev_fetched_at": "2026-07-16T08:43:16.608Z",
+      "curr_fetched_at": "2026-07-17T08:37:04.684Z",
+      "version_unreported": true
+    }
+  }
+}

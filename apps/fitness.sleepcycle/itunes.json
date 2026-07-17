@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T08:45:34.341Z",
+  "fetched_at": "2026-07-17T08:39:30.443Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=320606217&country=us",
   "result": {
@@ -11,7 +11,9 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/sleep-cycle-ab/id320606220?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f7/6a/abf76a9d-857a-0730-1b5d-7d10c70fcc4f/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/f7/6a/abf76a9d-857a-0730-1b5d-7d10c70fcc4f/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-    "advisories": [],
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -142,13 +144,8 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "features": [
-      "iosUniversal"
-    ],
-    "sellerUrl": "https://www.sleepcycle.com",
-    "minimumOsVersion": "16.2",
-    "averageUserRatingForCurrentVersion": 4.67905,
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -168,10 +165,15 @@
     "fileSizeBytes": "493601792",
     "formattedPrice": "Free",
     "trackContentRating": "4+",
+    "sellerUrl": "https://www.sleepcycle.com",
+    "userRatingCountForCurrentVersion": 26921,
+    "averageUserRatingForCurrentVersion": 4.67936,
+    "averageUserRating": 4.67936,
+    "minimumOsVersion": "16.2",
+    "releaseNotes": "Bug fixes and improvements.",
     "trackCensoredName": "Sleep Cycle - Tracker & Sounds",
     "trackViewUrl": "https://apps.apple.com/us/app/sleep-cycle-tracker-sounds/id320606217?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.67905,
     "artistId": 320606220,
     "artistName": "Sleep Cycle AB",
     "genres": [
@@ -179,25 +181,23 @@
       "Lifestyle"
     ],
     "price": 0,
+    "bundleId": "com.lexwarelabs.goodmorning",
     "releaseDate": "2009-07-23T23:52:39Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Sleep Cycle AB",
     "trackId": 320606217,
     "trackName": "Sleep Cycle - Tracker & Sounds",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Sleep Cycle AB",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-10T16:31:20Z",
     "version": "6.26.26",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Built on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awarded Best Sleep App in 2024 by Digital Health Magazine and featured as App of the Month in Wellness Today. In 2024, Sleep Cycle won two Merit Healthcare Awards: Gold for Mobile Digital Health Resources and Silver for Best Use of Artificial Intelligence.\n\nWITH SLEEP CYCLE YOU CAN\n• Get guidance based on your sleep patterns with our AI sleep coach Luma. \n• Wake up gently during your lightest sleep phase with our Smart Alarm clock.\n• Track every night using patented sound technology or accelerometer-based sleep detection, no wearables needed.\n• Detect nighttime noises like snoring, coughing, or sleep talking, for a path to quieter sleep.\n• Drift off easily using our sleep sounds library of relaxing stories, sleepy soundscapes and guided meditations.\n• Understand your sleep patterns with long-term trends and compare your sleep to global benchmarks.\n• Log sleep notes to understand how caffeine, stress, or exercise affect your rest.\n\nWHY USE SLEEP CYCLE?\n• Wake feeling refreshed with no more groggy mornings.\n• Get daily stats to help you understand your rest.\n• Sleep guidance based on your tracked nights.\n• Health insights with snoring and cough tracking for wellness.\n• No gadgets, just place your phone on the nightstand.\n• Premium tools like supportive soundscapes, sleep stories, data export, Philips HUE sunrise and Apple Health sync.\n\nABOUT SLEEP CYCLE\nSleep Cycle helps you sleep smarter. Track your nights, gain valuable insights into your sleep patterns, and wake at just the right time to start the day energized. Sleep Cycle gives you science-backed tools and an AI sleep coach Luma to help you improve your sleep for brighter days.\n\nOur popular features include:\n• Superior sleep tracker.\n• AI sleep coach.\n• Smart Alarm clock.\n• Sleep talking recorder.\n• Advanced sleep analysis.\n• Snore tracker.\n• Sleep timer. \n• Cough recorder.\n• Sleep stages.\n• Sleep programs.\n• SleepGPT.\n• Sleep goal and score.\n• Relaxing sleep sounds like nature, rain and ocean sounds.\n• Sleep Aid including calming meditations and breathing exercises.\n• And more features to help you improve your rest.\n\n\nTALK TO US\nIf you need any help please contact our customer service at support.sleepcycle.com\n \nJOIN THE COMMUNITY\n ▶ Web: https://sleepcycle.com/\n ▶ Instagram: https://www.instagram.com/sleepcycleapp/\n ▶ TikTok: https://www.tiktok.com/@sleep_cycle\n ▶ Reddit: https://www.reddit.com/r/sleepcycle/\n\nTerms & Privacy\nhttps://www.sleepcycle.com/privacy-policy/ \n\nDOWNLOAD NOW – Sleep Better with Sleep Cycle",
-    "userRatingCountForCurrentVersion": 26802,
-    "bundleId": "com.lexwarelabs.goodmorning",
-    "releaseNotes": "Bug fixes and improvements.",
-    "userRatingCount": 26802
+    "userRatingCount": 26921
   }
 }

@@ -1,10 +1,37 @@
 {
-  "fetched_at": "2026-07-16T08:41:53.799Z",
+  "fetched_at": "2026-07-17T08:35:50.070Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1594204443&country=us",
   "result": {
-    "isGameCenterEnabled": false,
     "advisories": [],
+    "isGameCenterEnabled": false,
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/3e/ce/553ecea8-56eb-617c-92b3-40003fa0079e/7ab714fd-4560-498b-820d-d9987f364025_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0b/f5/540bf502-a770-9b63-acb9-ab9b62029b00/3d99739b-9437-49f8-858b-5c4702e4b8ef_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/f8/6a/c1f86a95-d58b-025a-5f4a-3521f09a85ae/0a6a86ec-2987-4c8c-85ba-6cba200b44cf_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/14/b2/d114b234-e5d3-54eb-4ed8-1d8c3c32135f/4564501d-53f9-4a04-8b81-311e2602726c_6.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/23/af/2c23afb8-f4d0-6f4f-2332-831c305a67fc/81fe71af-c293-4dfe-9ed5-830872f51b98_4.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/9c/55/fc9c5572-6e35-1265-d92b-afded02598a1/be71210c-ba15-43cf-aa0c-5fed65d7468d_5.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/64/ab/a364ab64-b89e-6990-f5d0-614052af25e4/56854bad-dbf5-458d-919e-38521ccdd54b_7.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/ec/1e/7eec1ef6-50f9-8619-0089-501a0d65e572/48788161-24eb-4723-a9e2-5d3c3e5622d6_8.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/5a/55/335a55e4-14fa-8421-b140-4466d0074d40/3c843ebc-903c-4759-9e15-7d5869719069_9.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/0b/99/dd0b9932-03a7-3ace-080f-f72372c1f825/53e0720f-9b9b-4aec-8018-f724bb40e11e_10.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/dc/5d/f6dc5de5-1fd5-1003-f197-9e1380efc440/5301fc48-7613-4e6f-82e9-d7d2a6bfd2d5_1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1c/63/061c63de-e51a-496e-3639-bc6b5fec46c3/237f10ab-4c0b-4797-a60a-e0d73e5ad442_2.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a0/ac/32a0ac59-9fb1-0296-47ca-2f5818846e7b/434981b3-2c89-45a5-ad73-b38588007a2b_3.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/38/1d/66381d77-e101-5d55-1e75-2c396138dd04/5f27fa63-7edf-4881-bd1e-dca0d057a145_4.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/46/36/f9463687-7796-a03f-452d-e85eb84850d3/c165a643-36e2-4baf-be3a-91d3ad3c9807_5.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/d6/fd/a6d6fd9f-e321-f891-ef25-b0de26d436a6/00527f07-4071-45ff-b54a-1663093cead1_6.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c5/da/6ac5da23-053b-654f-1167-dc6a5876ebaf/334cadd5-36c2-4a32-a9ed-cd8da74b721b_7.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cb/9d/05cb9dc0-0c43-ce69-a4b2-4d5ec50696dc/df00dfc6-5ce1-41e0-8126-c4c4219c2b4f_9.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "features": [
       "iosUniversal"
     ],
@@ -139,64 +166,9 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/3e/ce/553ecea8-56eb-617c-92b3-40003fa0079e/7ab714fd-4560-498b-820d-d9987f364025_1.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0b/f5/540bf502-a770-9b63-acb9-ab9b62029b00/3d99739b-9437-49f8-858b-5c4702e4b8ef_2.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/f8/6a/c1f86a95-d58b-025a-5f4a-3521f09a85ae/0a6a86ec-2987-4c8c-85ba-6cba200b44cf_3.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/14/b2/d114b234-e5d3-54eb-4ed8-1d8c3c32135f/4564501d-53f9-4a04-8b81-311e2602726c_6.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/23/af/2c23afb8-f4d0-6f4f-2332-831c305a67fc/81fe71af-c293-4dfe-9ed5-830872f51b98_4.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/9c/55/fc9c5572-6e35-1265-d92b-afded02598a1/be71210c-ba15-43cf-aa0c-5fed65d7468d_5.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/64/ab/a364ab64-b89e-6990-f5d0-614052af25e4/56854bad-dbf5-458d-919e-38521ccdd54b_7.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/ec/1e/7eec1ef6-50f9-8619-0089-501a0d65e572/48788161-24eb-4723-a9e2-5d3c3e5622d6_8.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/5a/55/335a55e4-14fa-8421-b140-4466d0074d40/3c843ebc-903c-4759-9e15-7d5869719069_9.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/0b/99/dd0b9932-03a7-3ace-080f-f72372c1f825/53e0720f-9b9b-4aec-8018-f724bb40e11e_10.jpg/392x696bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/dc/5d/f6dc5de5-1fd5-1003-f197-9e1380efc440/5301fc48-7613-4e6f-82e9-d7d2a6bfd2d5_1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1c/63/061c63de-e51a-496e-3639-bc6b5fec46c3/237f10ab-4c0b-4797-a60a-e0d73e5ad442_2.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a0/ac/32a0ac59-9fb1-0296-47ca-2f5818846e7b/434981b3-2c89-45a5-ad73-b38588007a2b_3.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/38/1d/66381d77-e101-5d55-1e75-2c396138dd04/5f27fa63-7edf-4881-bd1e-dca0d057a145_4.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/46/36/f9463687-7796-a03f-452d-e85eb84850d3/c165a643-36e2-4baf-be3a-91d3ad3c9807_5.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/d6/fd/a6d6fd9f-e321-f891-ef25-b0de26d436a6/00527f07-4071-45ff-b54a-1663093cead1_6.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/c5/da/6ac5da23-053b-654f-1167-dc6a5876ebaf/334cadd5-36c2-4a32-a9ed-cd8da74b721b_7.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cb/9d/05cb9dc0-0c43-ce69-a4b2-4d5ec50696dc/df00dfc6-5ce1-41e0-8126-c4c4219c2b4f_9.png/576x768bb.png"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "artistId": 426826312,
-    "artistName": "Strava, Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "price": 0,
-    "bundleId": "com.runbuddy.prod",
-    "sellerName": "Strava Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackName": "Runna: Running Plans & Coach",
-    "trackId": 1594204443,
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
-    "currentVersionReleaseDate": "2026-07-15T15:02:12Z",
-    "releaseNotes": "This update is nothing flashy, but it will make everything feel more dialed in. Kinda like when your pace is bang on without checking your watch.",
-    "releaseDate": "2021-12-11T08:00:00Z",
-    "version": "8.46.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Reach your pinnacle as a runner with Runna: Running Training Plans, your quintessential guide to the world of running. With tailored training plans built by world-class coaches to help you achieve your goals. \n\nEmbark on an unparalleled running journey with Runna. More than just a pocket-sized running coach, Runna is your comprehensive running companion. From beginners embarking on their first park run to seasoned athletes gearing up for challenging marathons, our app is crafted to cater to all. Our offering includes training for 5k, 10k, half-marathons, marathons, and ultra marathons. This is probably why we boast a stellar 4.9/5 rating on Trustpilot.\n\nWHY YOU'LL BE THRILLED WITH RUNNA:\n\n1) Customized Training Just For You:\nOur esteemed training programs are rooted in solid scientific programming. Whether you’re setting out to complete your 5k or preparing for the famed Chicago marathon, we have a program tailored to ensure you race past the finish line.\n\n2) Seamless Syncing of Your Runs:\nLive-track your runs on compatible devices* and maintain the perfect pace. Moreover, seamlessly integrate your runs with platforms like Strava.\n\n3) All-encompassing Support:\nWe adopt a holistic stance to running. From optimizing your running form to advice on nutrition and injury management, our support is unparalleled. After all, every runner is distinct and deserves specialized attention.\n\n4) Strength Amplification:\nAlongside run training, we offer curated strength and conditioning routines that meld perfectly with your running program. Because when it comes to racing, stamina and strength form the perfect duo.\n\nWELCOME TO THE RUNNA CLUB:\n\n1) Dive into Our Vibrant Community:\nBe part of the Runna club, an international community of runners. From beginners to pros, the encouragement here is infectious, and the friendships, invaluable.\n\n2) Access Exclusive Perks:\nMembers enjoy exclusive offers from top-tier nutrition, apparel, event, and supplement brands.\n\n3) Engaging Events and Classes Aplenty:\nRegister for in-person events, including trail runs or time-trials. And if that's not your thing, our live yoga and pilates classes await you. Mark your progress, lace up your Nikes, and feel the thrill of the run!\n\n4) Always Here for You:\nOur amicable team of coaches and support staff is ever-ready. Any query, any time, we're right beside you in this exhilarating journey.\n\nEXPLORE OUR VAST ARRAY OF PLANS:\n\nFrom Couch to 5k plans for novices or those returning post hiatus, to intricate marathon and ultra marathon programs, our range is vast. We also offer:\n\n- Functional fitness routines for holistic strength.\n- Recovery blueprints post-race or post-injury.\n- Tailored plans for triathlon running across varying distances.\n- And myriad other programs to keep your stamina top-notch.\n\nCOMPATIBLE DEVICES:\n\nRunna is compatible with a wide range of devices including Apple Watch, Garmin, and COROS. This ensures you can track your runs, regardless of your preferred device.\n\nRUNNA PREMIUM:\n\nFor the ultimate running experience, subscribe to Runna Premium for monthly or annual plans. Track your progress, monitor your pace, and burn those calories with personalised workout plans and support. \n\nPayments and renewal:\n- Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period.\n- You can manage or turn off auto-renew in your Account settings at any time after purchase\n- No cancellation of the current subscription is allowed during the active period.\n\nAPPLE HEALTH USAGE:\n\nRunna uses your health data to provide accurate heart rate, distance and pace information during your runs and workouts on Apple Watch. \n\nTerms of use: https://www.runna.com/terms-and-conditions\nPrivacy policy: https://www.runna.com/privacy-policy",
     "minimumOsVersion": "16.0",
-    "trackCensoredName": "Runna: Running Plans & Coach",
-    "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
-    "contentAdvisoryRating": "17+",
+    "currentVersionReleaseDate": "2026-07-15T15:02:12Z",
     "sellerUrl": "https://www.runna.com/",
-    "averageUserRating": 4.85513,
-    "averageUserRatingForCurrentVersion": 4.85513,
-    "userRatingCountForCurrentVersion": 31788,
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -210,8 +182,36 @@
     "fileSizeBytes": "235305984",
     "formattedPrice": "Free",
     "trackContentRating": "17+",
+    "averageUserRatingForCurrentVersion": 4.85515,
+    "averageUserRating": 4.85515,
+    "userRatingCountForCurrentVersion": 31806,
+    "trackCensoredName": "Runna: Running Plans & Coach",
+    "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
+    "contentAdvisoryRating": "17+",
+    "price": 0,
+    "artistId": 426826312,
+    "artistName": "Strava, Inc.",
+    "releaseDate": "2021-12-11T08:00:00Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "userRatingCount": 31788
+    "sellerName": "Strava Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "version": "8.46.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Reach your pinnacle as a runner with Runna: Running Training Plans, your quintessential guide to the world of running. With tailored training plans built by world-class coaches to help you achieve your goals. \n\nEmbark on an unparalleled running journey with Runna. More than just a pocket-sized running coach, Runna is your comprehensive running companion. From beginners embarking on their first park run to seasoned athletes gearing up for challenging marathons, our app is crafted to cater to all. Our offering includes training for 5k, 10k, half-marathons, marathons, and ultra marathons. This is probably why we boast a stellar 4.9/5 rating on Trustpilot.\n\nWHY YOU'LL BE THRILLED WITH RUNNA:\n\n1) Customized Training Just For You:\nOur esteemed training programs are rooted in solid scientific programming. Whether you’re setting out to complete your 5k or preparing for the famed Chicago marathon, we have a program tailored to ensure you race past the finish line.\n\n2) Seamless Syncing of Your Runs:\nLive-track your runs on compatible devices* and maintain the perfect pace. Moreover, seamlessly integrate your runs with platforms like Strava.\n\n3) All-encompassing Support:\nWe adopt a holistic stance to running. From optimizing your running form to advice on nutrition and injury management, our support is unparalleled. After all, every runner is distinct and deserves specialized attention.\n\n4) Strength Amplification:\nAlongside run training, we offer curated strength and conditioning routines that meld perfectly with your running program. Because when it comes to racing, stamina and strength form the perfect duo.\n\nWELCOME TO THE RUNNA CLUB:\n\n1) Dive into Our Vibrant Community:\nBe part of the Runna club, an international community of runners. From beginners to pros, the encouragement here is infectious, and the friendships, invaluable.\n\n2) Access Exclusive Perks:\nMembers enjoy exclusive offers from top-tier nutrition, apparel, event, and supplement brands.\n\n3) Engaging Events and Classes Aplenty:\nRegister for in-person events, including trail runs or time-trials. And if that's not your thing, our live yoga and pilates classes await you. Mark your progress, lace up your Nikes, and feel the thrill of the run!\n\n4) Always Here for You:\nOur amicable team of coaches and support staff is ever-ready. Any query, any time, we're right beside you in this exhilarating journey.\n\nEXPLORE OUR VAST ARRAY OF PLANS:\n\nFrom Couch to 5k plans for novices or those returning post hiatus, to intricate marathon and ultra marathon programs, our range is vast. We also offer:\n\n- Functional fitness routines for holistic strength.\n- Recovery blueprints post-race or post-injury.\n- Tailored plans for triathlon running across varying distances.\n- And myriad other programs to keep your stamina top-notch.\n\nCOMPATIBLE DEVICES:\n\nRunna is compatible with a wide range of devices including Apple Watch, Garmin, and COROS. This ensures you can track your runs, regardless of your preferred device.\n\nRUNNA PREMIUM:\n\nFor the ultimate running experience, subscribe to Runna Premium for monthly or annual plans. Track your progress, monitor your pace, and burn those calories with personalised workout plans and support. \n\nPayments and renewal:\n- Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period.\n- You can manage or turn off auto-renew in your Account settings at any time after purchase\n- No cancellation of the current subscription is allowed during the active period.\n\nAPPLE HEALTH USAGE:\n\nRunna uses your health data to provide accurate heart rate, distance and pace information during your runs and workouts on Apple Watch. \n\nTerms of use: https://www.runna.com/terms-and-conditions\nPrivacy policy: https://www.runna.com/privacy-policy",
+    "bundleId": "com.runbuddy.prod",
+    "trackId": 1594204443,
+    "trackName": "Runna: Running Plans & Coach",
+    "releaseNotes": "This update is nothing flashy, but it will make everything feel more dialed in. Kinda like when your pace is bang on without checking your watch.",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "userRatingCount": 31806
   }
 }

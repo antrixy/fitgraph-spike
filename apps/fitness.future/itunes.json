@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-16T08:45:17.032Z",
+  "fetched_at": "2026-07-17T08:39:05.907Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1288178982&country=us",
   "result": {
-    "features": [],
     "isGameCenterEnabled": false,
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -135,54 +135,54 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
+    "features": [],
     "kind": "software",
     "screenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/8a/1fa38a63-5a7f-605d-200a-2039ebf17666/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/8a/1fa38a63-5a7f-605d-200a-2039ebf17666/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/future-research-inc/id1266418221?uo=4",
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/8a/1fa38a63-5a7f-605d-200a-2039ebf17666/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/future-research-inc/id1266418221?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/8a/1fa38a63-5a7f-605d-200a-2039ebf17666/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a3/8a/1fa38a63-5a7f-605d-200a-2039ebf17666/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-    "minimumOsVersion": "18.0",
-    "artistId": 1266418221,
-    "artistName": "Future Research, Inc",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "price": 0,
-    "bundleId": "fit.future.Future",
-    "releaseNotes": "We've updated Future Pro with some minor bug fixes and performance improvements.",
-    "releaseDate": "2017-11-01T17:46:29Z",
+    "artistId": 1266418221,
+    "artistName": "Future Research, Inc",
+    "isVppDeviceBasedLicensingEnabled": true,
     "trackId": 1288178982,
     "trackName": "Future Pro: Personal Training",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
+    "bundleId": "fit.future.Future",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "releaseDate": "2017-11-01T17:46:29Z",
     "sellerName": "Future Research, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-15T05:07:01Z",
+    "releaseNotes": "We've updated Future Pro with some minor bug fixes and performance improvements.",
     "version": "2026.11",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Personal training, reimagined.\n\n\nFuture Pro pairs you with a dedicated, expert coach who brings real-world experience to your training. We match you with a world-class personal trainer who builds a custom program around your goals, fitness level, and lifestyle. With access to unlimited training sessions, Future Pro delivers deeper accountability, meaningful support, and truly custom progress for one fixed price each month.\n\n\nFuture Pro membership is $199/month. \n\nWhy Future Pro:\n• Made by experts: Our coaches create your program with proven methods informed by years of specialized training.\n• Never train alone: Your coach checks in, monitors your progress, and holds you accountable, helping you stay consistent and on track.\n• Designed for real life: Move workouts, adjust days, and adapt your plan at any time without penalty.\n• Momentum that lasts: Your coach actively refines your plan over time so your training evolves with you. \n• Move with confidence: Access a robust exercise library with video demos, voice cues, and form guidance for every movement.\n• Share your progress: Visualized workout reports make it easy to track and celebrate your wins.\n• Seamless experience: With Apple Watch integration, Future tracks all your activity in one place for a holistic view of your performance.\n\nTogether, we’ll go further.",
-    "averageUserRatingForCurrentVersion": 4.86911,
+    "minimumOsVersion": "18.0",
+    "averageUserRatingForCurrentVersion": 4.86909,
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "200866816",
-    "formattedPrice": "Free",
     "trackContentRating": "4+",
-    "sellerUrl": "http://www.future.co/",
-    "userRatingCountForCurrentVersion": 10528,
-    "trackCensoredName": "Future Pro: Personal Training",
     "trackViewUrl": "https://apps.apple.com/us/app/future-pro-personal-training/id1288178982?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.86911,
-    "userRatingCount": 10528
+    "averageUserRating": 4.86909,
+    "trackCensoredName": "Future Pro: Personal Training",
+    "fileSizeBytes": "200866816",
+    "sellerUrl": "http://www.future.co/",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 10534,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "price": 0,
+    "userRatingCount": 10534
   }
 }

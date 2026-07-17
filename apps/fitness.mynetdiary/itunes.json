@@ -1,12 +1,13 @@
 {
-  "fetched_at": "2026-07-16T08:38:26.866Z",
+  "fetched_at": "2026-07-17T08:32:17.921Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=287529757&country=us",
   "result": {
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -138,55 +139,54 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
     "features": [
       "iosUniversal"
     ],
-    "minimumOsVersion": "17.0",
-    "artistId": 287529760,
-    "artistName": "MyNetDiary Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
+    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9e/90/1a9e9039-0251-014c-e3ff-b3bbea96b734/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
     ],
-    "price": 0,
-    "releaseDate": "2019-02-03T08:00:00Z",
-    "trackId": 287529757,
-    "trackName": "Calorie Counter - MyNetDiary",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "currentVersionReleaseDate": "2026-07-14T13:00:23Z",
-    "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
-    "version": "10.25",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "MyNetDiary is the calorie tracker you'll actually stick with. Log meals in seconds with a free barcode scanner, Meal Scan (just photograph your plate), or quick search. No ads, no account required. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Highest-rated by the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian, alongside WW and Noom.\n\n\nWHY PEOPLE SWITCH\n\nOur food database has over 2 million staff-verified items with up to 108 nutrients. That matters because most apps rely on crowdsourced data full of duplicates and errors.\n\nWe're also fast. We logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker. Less time logging means you actually keep doing it.\n\nThe free version is generous: barcode scanning, macro and 108 nutrient tracking, food diary, calorie calculator, and progress charts. No ads, no paywall tricks.\n\nActive members lose an average of 1.4 lb per week, according to the MyNetDiary Efficacy Report. \n\nMany switched from other diet and nutrition apps.\n\n\nWHAT YOU GET FOR FREE\n\n• Food log with barcode scanner, search, favorites, and recent meals.\n• The largest and most accurate verified food database — 2x larger than competition.\n• Macro and protein tracking with custom daily targets.\n• Nutrition tracking across 108 nutrients — vitamins, minerals, omegas, amino acids — plus water and exercise.\n• Calorie calculator, deficit tracking, customizable dashboard, and progress charts.\n• Coaching tips, meal reminders, shopping lists.\n• Professional Connect: share your diary with a dietitian or coach.\n• Inspiring community with daily success stories.\n• Articles by Registered Dietitians and how-to videos.\n\n\nPREMIUM\n\nUnlock the full power of MyNetDiary with Premium:\n\n• Meal Scan: photograph your plate and log it instantly.\n• Sync with Apple Health, Fitbit, Garmin, and Withings for automatic exercise, steps, and weight.\n• Apple Watch and widgets for quick logging and progress checks on the go.\n• Calorie and macro day cycling.\n• Autologging: set your regular meals once — foods, amounts, days, mealtimes — and MyNetDiary logs them for you.\n• Intermittent fasting with multiple protocols.\n• Diet Autopilot: your calorie budget adjusts automatically as you lose weight.\n• Health tracking: blood pressure, cholesterol, blood glucose, A1C, ketones, medications, and more.\n• Import recipes from the web with full nutrient counts.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Mediterranean, Low-Carb, Keto, and more.\n\n\nGLP-1 COMPANION\n\nA dedicated tracking system inside MyNetDiary, built for people on Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications. Turn it on and the app reconfigures around what matters most on GLP-1.\n\n• Medication tracker with reminders so you never miss a dose.\n• Protein-first dashboard that keeps muscle protection front and center.\n• Fiber and hydration tracking — GLP-1 side effects hit harder when you skip them.\n• Symptom logging to spot patterns and share with your doctor.\n• GLP-1 recipes and meal plans built around high protein and easy digestion.\n• Trend charts for weight, protein, hydration, and symptoms in one place.\n\n\nPREMIUM PLUS — AI COACH\n\nAI Coach is built on 20 years of nutrition expertise. Once you try it, you'll wonder how you tracked without it.\n\n• Daily guidance based on what you actually ate, not just what you planned.\n• GLP-1 specific coaching that adjusts advice for medication users.\n• Meal suggestions matched to your calorie budget and preferences.\n• Restaurant menu scan to find the best options when eating out.\n• Voice logging: say your meal and MyNetDiary logs it.\n\nResults may vary. Not medical advice.\n\nPrivacy Policy: www.mynetdiary.com/privacy.html\nTerms of Use: www.mynetdiary.com/terms.html",
-    "averageUserRating": 4.81188,
     "averageUserRatingForCurrentVersion": 4.81188,
-    "trackCensoredName": "Calorie Counter - MyNetDiary",
-    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
-    "contentAdvisoryRating": "12+",
     "sellerUrl": "https://www.mynetdiary.com/iPhone.html",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "345650176",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 157486,
+    "userRatingCountForCurrentVersion": 157484,
     "trackContentRating": "12+",
-    "bundleId": "com.mynetdiary.MyNetDiary",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "price": 0,
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "artistId": 287529760,
+    "artistName": "MyNetDiary Inc.",
+    "releaseDate": "2019-02-03T08:00:00Z",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
     "sellerName": "MyNetDiary Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
-    "userRatingCount": 157486
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "trackId": 287529757,
+    "trackName": "Calorie Counter - MyNetDiary",
+    "version": "10.25",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "MyNetDiary is the calorie tracker you'll actually stick with. Log meals in seconds with a free barcode scanner, Meal Scan (just photograph your plate), or quick search. No ads, no account required. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Highest-rated by the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian, alongside WW and Noom.\n\n\nWHY PEOPLE SWITCH\n\nOur food database has over 2 million staff-verified items with up to 108 nutrients. That matters because most apps rely on crowdsourced data full of duplicates and errors.\n\nWe're also fast. We logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker. Less time logging means you actually keep doing it.\n\nThe free version is generous: barcode scanning, macro and 108 nutrient tracking, food diary, calorie calculator, and progress charts. No ads, no paywall tricks.\n\nActive members lose an average of 1.4 lb per week, according to the MyNetDiary Efficacy Report. \n\nMany switched from other diet and nutrition apps.\n\n\nWHAT YOU GET FOR FREE\n\n• Food log with barcode scanner, search, favorites, and recent meals.\n• The largest and most accurate verified food database — 2x larger than competition.\n• Macro and protein tracking with custom daily targets.\n• Nutrition tracking across 108 nutrients — vitamins, minerals, omegas, amino acids — plus water and exercise.\n• Calorie calculator, deficit tracking, customizable dashboard, and progress charts.\n• Coaching tips, meal reminders, shopping lists.\n• Professional Connect: share your diary with a dietitian or coach.\n• Inspiring community with daily success stories.\n• Articles by Registered Dietitians and how-to videos.\n\n\nPREMIUM\n\nUnlock the full power of MyNetDiary with Premium:\n\n• Meal Scan: photograph your plate and log it instantly.\n• Sync with Apple Health, Fitbit, Garmin, and Withings for automatic exercise, steps, and weight.\n• Apple Watch and widgets for quick logging and progress checks on the go.\n• Calorie and macro day cycling.\n• Autologging: set your regular meals once — foods, amounts, days, mealtimes — and MyNetDiary logs them for you.\n• Intermittent fasting with multiple protocols.\n• Diet Autopilot: your calorie budget adjusts automatically as you lose weight.\n• Health tracking: blood pressure, cholesterol, blood glucose, A1C, ketones, medications, and more.\n• Import recipes from the web with full nutrient counts.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Mediterranean, Low-Carb, Keto, and more.\n\n\nGLP-1 COMPANION\n\nA dedicated tracking system inside MyNetDiary, built for people on Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications. Turn it on and the app reconfigures around what matters most on GLP-1.\n\n• Medication tracker with reminders so you never miss a dose.\n• Protein-first dashboard that keeps muscle protection front and center.\n• Fiber and hydration tracking — GLP-1 side effects hit harder when you skip them.\n• Symptom logging to spot patterns and share with your doctor.\n• GLP-1 recipes and meal plans built around high protein and easy digestion.\n• Trend charts for weight, protein, hydration, and symptoms in one place.\n\n\nPREMIUM PLUS — AI COACH\n\nAI Coach is built on 20 years of nutrition expertise. Once you try it, you'll wonder how you tracked without it.\n\n• Daily guidance based on what you actually ate, not just what you planned.\n• GLP-1 specific coaching that adjusts advice for medication users.\n• Meal suggestions matched to your calorie budget and preferences.\n• Restaurant menu scan to find the best options when eating out.\n• Voice logging: say your meal and MyNetDiary logs it.\n\nResults may vary. Not medical advice.\n\nPrivacy Policy: www.mynetdiary.com/privacy.html\nTerms of Use: www.mynetdiary.com/terms.html",
+    "minimumOsVersion": "17.0",
+    "bundleId": "com.mynetdiary.MyNetDiary",
+    "trackCensoredName": "Calorie Counter - MyNetDiary",
+    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
+    "contentAdvisoryRating": "12+",
+    "averageUserRating": 4.81188,
+    "currentVersionReleaseDate": "2026-07-14T13:00:23Z",
+    "userRatingCount": 157484
   }
 }

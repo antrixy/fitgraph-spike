@@ -1,0 +1,79 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-17",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "prev_fetched_at": "2026-07-16T08:38:53.678Z",
+      "curr_fetched_at": "2026-07-17T08:32:49.543Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "14.24.0",
+          "new": "14.26.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6565b76474c41bbff5ed59dc3f006839fce538bf",
+      "curr_fetched_at": "2026-07-17T08:32:57.913Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Can a basil seed drink help you lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "What the research says",
+          "occurrences": 1
+        },
+        {
+          "text": "Orforglipron vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "tirzepatide: Which one works best for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is goat milk good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "LifeMD: What’s the difference in GLP-1 medications, pricing, and care?",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Access to trusted, powerful weight-loss medications with Noom Med",
+          "occurrences": 1
+        },
+        {
+          "text": "Is pea milk good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What is a DEXA scan—and is it worth it?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is rice paper good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Switching from Zepbound® to Wegovy®: What to know before you switch",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 7,
+      "removed_total": 5
+    }
+  }
+}
