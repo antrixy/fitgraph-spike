@@ -58,11 +58,24 @@ async function fetchPricing(app) {
   });
   if (!res.ok) throw new Error(`http_${res.status}`);
   const html = await res.text();
+  // 2026-07-17: MacroFactor's WAF served a challenge interstitial WITH HTTP 200
+  // ("Please wait while your request is being verified..."), which got recorded
+  // as ok and produced two days of garbage diffs (page-vanished, page-returned).
+  // A challenge page is a failed observation regardless of status code.
+  if (isChallengePage(html)) throw new Error("challenge_page");
   return { fetched_at, html };
+}
+
+// Content fingerprints of common WAF/bot-check interstitials (Cloudflare et al.)
+// plus a size floor: no real pricing page is under 2 KB.
+function isChallengePage(html) {
+  if (html.length < 2048) return true;
+  return /please wait while your request is being verified|just a moment\.\.\.|checking your browser|verify you are human|cf-challenge|challenge-platform|_cf_chl|attention required!?\s*\|\s*cloudflare/i.test(html);
 }
 
 function classify(err) {
   const m = String(err && err.message || err);
+  if (/challenge_page/.test(m)) return "challenge_page";
   if (/http_429|captcha/i.test(m)) return "rate_limited_or_captcha";
   if (/http_\d+/.test(m)) return m.match(/http_\d+/)[0];
   if (/timeout|abort/i.test(m)) return "timeout";
