@@ -31,15 +31,18 @@ for (const app of registry.apps) {
     price_signal: false,    // price-ish content or fields in today's diff
     integration_signal: false,
     version_unreported: false,
-    failed_sources: [],     // sources whose status != ok today
+    failed_sources: [],     // sources whose status != ok today (absent excluded)
   };
 
-  // source health from status.json
+  // source health from status.json.
+  // "absent" = structurally missing per registry (null ID/URL: Android-only apps,
+  // store-only pricing) — NOT a failure. Counting absent as failed inflated
+  // apps_with_failures 13 -> ~3 on 2026-07-15 and would poison the availability gate.
   const statusFile = path.join(ROOT, "apps", app.product_id, "status.json");
   if (fs.existsSync(statusFile)) {
     const status = JSON.parse(fs.readFileSync(statusFile, "utf8"));
     for (const [src, s] of Object.entries(status.sources ?? {})) {
-      if (s.status !== "ok") row.failed_sources.push(src);
+      if (s.status !== "ok" && s.status !== "absent") row.failed_sources.push(src);
     }
   } else {
     row.failed_sources.push("no-status-file");
