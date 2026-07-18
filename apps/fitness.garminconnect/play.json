@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T08:37:24.427Z",
+  "fetched_at": "2026-07-18T08:19:48.143Z",
   "source": "google_play_scraper",
   "appId": "com.garmin.android.apps.connectmobile",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "beat yesterday.",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 50025522,
-    "score": 4.3416567,
+    "maxInstalls": 50041245,
+    "score": 4.3416815,
     "scoreText": "4.3",
-    "ratings": 1099384,
-    "reviews": 54125,
+    "ratings": 1099505,
+    "reviews": 54134,
     "histogram": {
-      "1": 114771,
-      "2": 33256,
-      "3": 27913,
-      "4": 109054,
-      "5": 814371
+      "1": 114736,
+      "2": 33247,
+      "3": 28004,
+      "4": 109110,
+      "5": 814389
     },
     "price": 0,
     "free": true,

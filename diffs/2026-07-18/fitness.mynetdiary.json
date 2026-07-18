@@ -1,0 +1,81 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-18",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "59310a0b71a719acdc9d86044df9d70093a744c1",
+      "prev_fetched_at": "2026-07-17T08:32:17.921Z",
+      "curr_fetched_at": "2026-07-18T08:14:34.958Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.25",
+          "new": "10.26"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "59310a0b71a719acdc9d86044df9d70093a744c1",
+      "prev_fetched_at": "2026-07-17T08:32:22.534Z",
+      "curr_fetched_at": "2026-07-18T08:14:36.533Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "59310a0b71a719acdc9d86044df9d70093a744c1",
+      "curr_fetched_at": "2026-07-18T08:14:41.001Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn the meaning of calorie deficit for weight loss and how MyNetDiary's Daily Analysis can help along the way",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 6
+    }
+  }
+}

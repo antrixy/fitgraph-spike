@@ -1,0 +1,39 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-07-18",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "59310a0b71a719acdc9d86044df9d70093a744c1",
+      "curr_fetched_at": "2026-07-18T08:20:24.856Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Your Oura Membership and your Oura Ring go hand-in-hand to help you achieve your health goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Heart Health",
+          "occurrences": 2
+        },
+        {
+          "text": "Klarna",
+          "occurrences": 4
+        }
+      ],
+      "removed": [
+        {
+          "text": "Your Oura Membership and your Oura Ring go hand in hand to help you achieve your health goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Heart health",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 2
+    }
+  }
+}

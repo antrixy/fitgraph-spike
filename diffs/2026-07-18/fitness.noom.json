@@ -1,0 +1,63 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-18",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "59310a0b71a719acdc9d86044df9d70093a744c1",
+      "curr_fetched_at": "2026-07-18T08:15:13.838Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "A Preventive Health Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Not losing weight on Foundayo®?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know—and what to do next",
+          "occurrences": 1
+        },
+        {
+          "text": "Is banana milk good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 Bridge explained: Which GLP-1s are covered by Medicare?",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "A Preventive Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "LifeMD: What’s the difference in GLP-1 medications, pricing, and care?",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 injection sites: Best locations and how to inject correctly",
+          "occurrences": 1
+        },
+        {
+          "text": "Wegovy® coupon: How it works and how much you can save",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 6
+    }
+  }
+}
