@@ -1,0 +1,24 @@
+{
+  "product": "fitness.loseit",
+  "name": "Lose It!",
+  "date": "2026-07-19",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "a24499917545f15b61008516ba9310f762118b36",
+      "prev_fetched_at": "2026-07-18T08:13:52.390Z",
+      "curr_fetched_at": "2026-07-19T08:38:58.126Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "18.4.100",
+          "new": "18.4.200"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Lose It! is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day.\n\nBug fixes and performance improvements to keep the app running in tip-top shape. Happy logging, Lose It! fam!",
+          "new": "Lose It! is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day.\n\nWe made some quick fixes to make sure things are running smoothly. Take it for a spin and make your log complete!"
+        }
+      ]
+    }
+  }
+}

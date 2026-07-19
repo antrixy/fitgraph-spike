@@ -1,26 +1,13 @@
 {
-  "fetched_at": "2026-07-18T08:15:42.389Z",
+  "fetched_at": "2026-07-19T08:40:55.639Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=464254577&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "advisories": [],
-    "features": [],
-    "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/strong-fitness-pte-limited/id1525345716?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/89/c7/1e89c7e9-abb8-300a-2069-b8ff91e5ad51/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/89/c7/1e89c7e9-abb8-300a-2069-b8ff91e5ad51/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/11/95/1e11958f-697e-56f2-afad-aadf3b2b52b6/261be85e-403c-46b2-a7b9-fffcf72fde11_three-million-small-dis.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/7f/1e/1c7f1e91-708e-606b-bfb0-c010610945e2/mzl.qtzamdcd.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/5f/a2/2a5fa2c3-3416-5835-8bf7-8912c19f7d81/mzl.kjgbprif.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/e0/e6/c2e0e654-ccee-bcf7-e12d-aa318e3b9287/mzl.qjubujpq.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/56/9e/6a569e5d-4181-b3fa-d66e-ceb3bcb1a9f5/mzl.csytjdkx.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/53/a9/b653a9f1-87dc-c86c-05c6-4b5be13a47d5/b0354da3-9741-4d2d-8e59-4b08318cbfae_Widget_App_Store_2208.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/89/c7/1e89c7e9-abb8-300a-2069-b8ff91e5ad51/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -151,36 +138,46 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/11/95/1e11958f-697e-56f2-afad-aadf3b2b52b6/261be85e-403c-46b2-a7b9-fffcf72fde11_three-million-small-dis.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/7f/1e/1c7f1e91-708e-606b-bfb0-c010610945e2/mzl.qtzamdcd.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/5f/a2/2a5fa2c3-3416-5835-8bf7-8912c19f7d81/mzl.kjgbprif.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/e0/e6/c2e0e654-ccee-bcf7-e12d-aa318e3b9287/mzl.qjubujpq.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/56/9e/6a569e5d-4181-b3fa-d66e-ceb3bcb1a9f5/mzl.csytjdkx.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/53/a9/b653a9f1-87dc-c86c-05c6-4b5be13a47d5/b0354da3-9741-4d2d-8e59-4b08318cbfae_Widget_App_Store_2208.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/89/c7/1e89c7e9-abb8-300a-2069-b8ff91e5ad51/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
+    "minimumOsVersion": "15.0",
     "releaseNotes": "• New: \"Week of Year\" label format option for the Workouts Per Week widget\n• Fix: Keyboard may get stuck when switching between fields on iOS 27\n• Fix: RPE keyboard not appearing on iOS 27\n• Fix: Calendar widget highlighted date may be difficult to read for Liquid Glass theme\n• Various minor UI display fixes\n• Various layout improvements to the Strong iOS widgets",
+    "trackCensoredName": "Strong Workout Tracker Gym Log",
+    "trackViewUrl": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.863,
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 1525345716,
-    "artistName": "Strong Fitness PTE Limited",
-    "bundleId": "com.cameronchow.Strong",
+    "price": 0,
     "isVppDeviceBasedLicensingEnabled": true,
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "trackId": 464254577,
-    "trackName": "Strong Workout Tracker Gym Log",
-    "currentVersionReleaseDate": "2026-06-25T12:06:57Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "bundleId": "com.cameronchow.Strong",
+    "sellerName": "Strong Fitness PTE Limited",
     "releaseDate": "2011-09-15T23:36:10Z",
+    "trackName": "Strong Workout Tracker Gym Log",
+    "trackId": 464254577,
+    "currentVersionReleaseDate": "2026-06-25T12:06:57Z",
     "version": "6.4.2",
     "wrapperType": "software",
     "currency": "USD",
     "description": "The most intuitive workout and exercise tracker for any fitness routine.\n\nStrong is the simplest and most intuitive workout tracker, designed to help you get better results from your workouts. Whether you want to gain strength or just stay healthy, join over 1.2 million people who have downloaded Strong to stay on track in the gym.\n\n“I’d suggest downloading the “Strong” app before you return to the gym. It’s that good” - CNBC\n“with apps like Strong, working out feels more like a game” - The Verge\n“I have used nearly every logging app since the App Store launched. This is the best bar none”\n“I use this every time I go to the gym and seriously couldn't train without it”\n“Simple. Intuitive. Functional. Exactly what I was looking for.”\n“This is bare bones and serious. Right on, and works perfectly... I wish I could give 10 stars.”\n“It's by far the most intuitive and easy to use workout app I’ve used.”\n\nWhether you’re a beginner or an experienced powerlifter, Strong provides everything you need to record your workouts as effortlessly and as quickly as possible. Unlike other fitness apps, Strong doesn’t bog you down with distractions and unnecessary gimmicks you’d never use.\n\nStrong is optimized for a progressive barbell routine such as Starting Strength or StrongLifts 5x5, but it is easily adaptable to any other routine of your choosing!\n\nFEATURES:\n• The simplest interface of any fitness app in the App Store\n• A comprehensive range of cardio and strength exercises - and add your own too!\n• Fully-featured Apple Watch app to log workouts with or without your iPhone\n• Add your own routines and easily choose between them\n• Detailed exercise instructions with a growing library of animated videos\n• Advanced Statistics show your personal records and progression and even calculate your one rep max and total weight lifted!\n• Built in Auto Countdown Timer to help record rest breaks\n• Support for multiple Exercise Types, including Assisted Bodyweight and Duration Exercises\n• Tag sets as Warm Up, Failure or Drop Sets\n• Supersets/Grouped Exercises\n• Track your progress with graphs for Volume and 1RM Progression\n• Automatically back up your data with Cloud Sync!\n• Built in body measurements tracker to record your weight and other vitals, with support for Apple Health\n• Warm Up Calculator tells you which weights to warm up with\n• Plate Calculator for when the weights get high\n• Support for Imperial (lbs) and Metric (kg) weights, or a combination of both\n• Add notes and progress pictures to your workouts\n• Share sheet makes sharing routines and workouts with friends easier than ever!\n• Export all of your data to Notes or Email in CSV format\n\nThe free version of Strong can save unlimited workouts, but is limited to 3 custom routines. Upgrade to a Strong PRO subscription ($4.99/month or $29.99/year) for an unlimited number of routines and to unlock additional PRO features.\n\nStrong will automatically charge your iTunes Account at the end of your subscription or free trial period unless auto-renew is turned off at least 24 hours before the end of your current period. Subscriptions renew at the original price. You can turn off auto-renew at any time and still receive full functionality until the end of your current period, but no refund can be provided for unused portions of the subscription. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nIf you’ve previously purchased “Unlock Strong” or “Strong Combo Pack”, you’ll be able to use the Restore Purchases option in the app for access to all Strong PRO features.\n\nThese prices are for customers in the United States and may vary depending on your iTunes Account settings. In-app purchases and subscriptions cannot be shared using Family Sharing.\n\nStrong Terms of Service - https://help.strongapp.io/article/179-strong-terms-of-service\nStrong Privacy Policy - https://www.iubenda.com/privacy-policy/7760215",
-    "averageUserRating": 4.86301,
-    "trackCensoredName": "Strong Workout Tracker Gym Log",
-    "trackViewUrl": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?uo=4",
-    "contentAdvisoryRating": "4+",
-    "minimumOsVersion": "15.0",
-    "averageUserRatingForCurrentVersion": 4.86301,
-    "sellerUrl": "https://strong.app/",
+    "fileSizeBytes": "122179584",
+    "formattedPrice": "Free",
+    "trackContentRating": "4+",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -194,12 +191,15 @@
       "ES",
       "ZH"
     ],
-    "fileSizeBytes": "122179584",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 108460,
-    "trackContentRating": "4+",
-    "sellerName": "Strong Fitness PTE Limited",
-    "price": 0,
-    "userRatingCount": 108460
+    "sellerUrl": "https://strong.app/",
+    "userRatingCountForCurrentVersion": 108462,
+    "averageUserRatingForCurrentVersion": 4.863,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "artistId": 1525345716,
+    "artistName": "Strong Fitness PTE Limited",
+    "userRatingCount": 108462
   }
 }

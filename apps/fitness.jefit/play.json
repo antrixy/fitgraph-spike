@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T08:16:07.245Z",
+  "fetched_at": "2026-07-19T08:41:15.574Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9884864,
-    "score": 4.425518,
+    "score": 4.4253244,
     "scoreText": "4.4",
-    "ratings": 89632,
+    "ratings": 89635,
     "reviews": 11701,
     "histogram": {
-      "1": 6850,
-      "2": 2669,
-      "3": 3773,
-      "4": 8531,
-      "5": 67804
+      "1": 6867,
+      "2": 2677,
+      "3": 3724,
+      "4": 8554,
+      "5": 67807
     },
     "price": 0,
     "free": true,
@@ -69,8 +69,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Sep 15, 2010",
-    "updated": 1783979606000,
-    "version": "17.2.8",
+    "updated": 1784322903000,
+    "version": "VARY",
     "recentChanges": "Training Preferences just got smarter — you can now label injuries as Mild or Severe so your Adaptive Plan better understands how to work around what&#39;s bothering you. The reworked injury check-in lets you pick a recovery outcome per injury, and there&#39;s a new &quot;I don&#39;t have any injury&quot; option when you&#39;re back to full strength. Tapping Done on the keyboard now logs your set, plus a handful of bug fixes.",
     "comments": [],
     "preregister": false,

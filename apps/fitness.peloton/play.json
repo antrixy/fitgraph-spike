@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T08:20:55.072Z",
+  "fetched_at": "2026-07-19T08:45:48.756Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3772127,
-    "score": 4.0369153,
+    "score": 4.0344543,
     "scoreText": "4.0",
-    "ratings": 15277,
+    "ratings": 15279,
     "reviews": 5733,
     "histogram": {
-      "1": 2342,
-      "2": 788,
-      "3": 788,
-      "4": 1389,
-      "5": 9962
+      "1": 2356,
+      "2": 789,
+      "3": 789,
+      "4": 1378,
+      "5": 9964
     },
     "price": 0,
     "free": true,

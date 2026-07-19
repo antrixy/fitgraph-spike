@@ -1,13 +1,30 @@
 {
-  "fetched_at": "2026-07-18T08:17:56.366Z",
+  "fetched_at": "2026-07-19T08:42:47.192Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=426826309&country=us",
   "result": {
-    "features": [],
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/99/84/ac998464-b034-190d-a86d-e1f4f18f3544/AppStore-TodayTab-5.5-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/cc/89/c8cc893b-e911-84ad-9ace-4ad3d280ab64/05ASO-5.5-Community-en-US-CopyA.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/2f/79/0c2f7976-ae13-a7eb-0473-46f4f6cf36ad/01ASO-5.5-Track_Workouts-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/e3/d9/3fe3d9f8-9d63-7165-93bc-416169847f14/10ASO-5.5-StickerStats-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/4b/56/424b567e-67fa-f5d2-d53c-3af694c9e046/12-ASO-5.5-Hiking.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/93/a8/e193a837-49e5-fedb-fdab-6f53aadabcdf/02ASO-5.5-ShareWithFriends-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f2/f4/33f2f44f-ad26-898c-884e-749588d44d2a/16ASO-5.5-ProgressComparison-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/2a/2a/062a2a7f-cc41-4ff9-f9e5-fff1435b67a0/03ASO-5.5-Routes-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/ab/2e/73ab2e18-3d2a-c3f1-4d27-90a13d5fc188/04ASO-5.5-SyncWithDevices-en-US.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/a6/ea/85a6eafe-0140-7415-d322-1291e1c625f2/07ASO-5.5-Leaderboards-en-US.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/f7/f5/05f7f54c-69ff-b78c-1fcf-352e7056307a/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/f7/f5/05f7f54c-69ff-b78c-1fcf-352e7056307a/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/f7/f5/05f7f54c-69ff-b78c-1fcf-352e7056307a/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -138,44 +155,19 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/99/84/ac998464-b034-190d-a86d-e1f4f18f3544/AppStore-TodayTab-5.5-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/cc/89/c8cc893b-e911-84ad-9ace-4ad3d280ab64/05ASO-5.5-Community-en-US-CopyA.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/2f/79/0c2f7976-ae13-a7eb-0473-46f4f6cf36ad/01ASO-5.5-Track_Workouts-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/e3/d9/3fe3d9f8-9d63-7165-93bc-416169847f14/10ASO-5.5-StickerStats-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/4b/56/424b567e-67fa-f5d2-d53c-3af694c9e046/12-ASO-5.5-Hiking.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/93/a8/e193a837-49e5-fedb-fdab-6f53aadabcdf/02ASO-5.5-ShareWithFriends-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/f2/f4/33f2f44f-ad26-898c-884e-749588d44d2a/16ASO-5.5-ProgressComparison-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/2a/2a/062a2a7f-cc41-4ff9-f9e5-fff1435b67a0/03ASO-5.5-Routes-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/ab/2e/73ab2e18-3d2a-c3f1-4d27-90a13d5fc188/04ASO-5.5-SyncWithDevices-en-US.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/a6/ea/85a6eafe-0140-7415-d322-1291e1c625f2/07ASO-5.5-Leaderboards-en-US.jpg/392x696bb.jpg"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/f7/f5/05f7f54c-69ff-b78c-1fcf-352e7056307a/AppIcon-Primary-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "advisories": [],
-    "contentAdvisoryRating": "12+",
-    "trackCensoredName": "Strava: Run, Bike, Walk",
-    "trackViewUrl": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309?uo=4",
-    "averageUserRating": 4.81158,
-    "minimumOsVersion": "17.0",
-    "artistId": 426826312,
-    "artistName": "Strava, Inc.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "bundleId": "com.strava.stravaride",
-    "sellerName": "Strava Inc.",
+    "artistId": 426826312,
+    "artistName": "Strava, Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "trackId": 426826309,
     "trackName": "Strava: Run, Bike, Walk",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
+    "sellerName": "Strava Inc.",
+    "bundleId": "com.strava.stravaride",
     "isVppDeviceBasedLicensingEnabled": true,
-    "releaseDate": "2011-03-24T06:41:32Z",
     "currentVersionReleaseDate": "2026-07-15T18:59:54Z",
     "releaseNotes": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!",
     "version": "472.0.0",
@@ -206,14 +198,22 @@
       "VI"
     ],
     "fileSizeBytes": "466301952",
-    "sellerUrl": "https://www.strava.com/how-it-works",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 364309,
     "trackContentRating": "12+",
-    "userRatingCountForCurrentVersion": 364310,
+    "sellerUrl": "https://www.strava.com/how-it-works",
     "averageUserRatingForCurrentVersion": 4.81158,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "averageUserRating": 4.81158,
+    "trackCensoredName": "Strava: Run, Bike, Walk",
+    "trackViewUrl": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309?uo=4",
+    "contentAdvisoryRating": "12+",
+    "minimumOsVersion": "17.0",
     "price": 0,
-    "userRatingCount": 364310
+    "releaseDate": "2011-03-24T06:41:32Z",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "userRatingCount": 364309
   }
 }

@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-19",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "a24499917545f15b61008516ba9310f762118b36",
+      "prev_fetched_at": "2026-07-18T08:14:36.533Z",
+      "curr_fetched_at": "2026-07-19T08:39:39.503Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "a24499917545f15b61008516ba9310f762118b36",
+      "curr_fetched_at": "2026-07-19T08:39:43.734Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Looking for the best food tracking app while working from home?",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 3
+    }
+  }
+}

@@ -1,14 +1,9 @@
 {
-  "fetched_at": "2026-07-18T08:19:36.304Z",
+  "fetched_at": "2026-07-19T08:44:29.523Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=405075943&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1b/06/771b06e9-27bd-4e67-aaaa-499460713b0a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [],
-    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -139,18 +134,49 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "features": [],
     "advisories": [
       "Infrequent/Mild Profanity or Crude Humor"
     ],
     "kind": "software",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1b/06/771b06e9-27bd-4e67-aaaa-499460713b0a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/alltrails-inc/id405075946?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1b/06/771b06e9-27bd-4e67-aaaa-499460713b0a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1b/06/771b06e9-27bd-4e67-aaaa-499460713b0a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "minimumOsVersion": "17.0",
     "releaseNotes": "Thanks for using AllTrails! This update includes:\n• Minor bug fixes",
+    "genres": [
+      "Health & Fitness",
+      "Travel"
+    ],
+    "artistId": 405075946,
+    "artistName": "AllTrails, Inc.",
+    "trackId": 405075943,
+    "trackName": "AllTrails: Hike, Bike & Run",
+    "releaseDate": "2010-12-17T23:35:17Z",
+    "bundleId": "com.alltrails.AllTrails",
+    "genreIds": [
+      "6013",
+      "6003"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "AllTrails, Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-07-09T17:28:43Z",
+    "version": "26.7.10",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail with your phone or Wear OS device. Use Wear OS to leverage tiles and complications to start and monitor your activities.\n◆ Find points of interest: Discover waterfalls, historic sites,  photo spots, and more along the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trailgoers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n◆ Record your activity: Capture your stats, leave reviews, and post photos of your favorite hiking trails.\n\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails Plus ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Plan for the elements like ground conditions, weather, air quality, UV index, and more.\n◆ See how conditions change along the trail and preview by time of day.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Explore without service with map downloads for trails, parks, and entire areas.\n◆ Live share your trail activity with friends and family.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing\n\n► New! Explore to the fullest with AllTrails Peak ►\n\nMake the most of your time on the trail with our newest premium membership. Chart your own course, plan ahead for conditions, and explore popular trails — with all the offline benefits of Plus.\n\n◆ Create your own route from scratch, or modify one of 500,000+ existing trails.\n◆ Explore the most popular places with heatmaps of recent trail activity.\n◆ Access every Plus and Base feature, too.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails Plus and Peak make the great outdoors even greater.",
     "averageUserRatingForCurrentVersion": 4.88968,
     "sellerUrl": "https://www.alltrails.com",
-    "minimumOsVersion": "17.0",
+    "fileSizeBytes": "307207168",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 1033100,
+    "trackContentRating": "9+",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -164,37 +190,11 @@
       "ES",
       "SV"
     ],
-    "fileSizeBytes": "307207168",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 1033097,
-    "trackContentRating": "9+",
-    "artistId": 405075946,
-    "artistName": "AllTrails, Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Travel"
-    ],
-    "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "bundleId": "com.alltrails.AllTrails",
-    "sellerName": "AllTrails, Inc.",
-    "genreIds": [
-      "6013",
-      "6003"
-    ],
-    "releaseDate": "2010-12-17T23:35:17Z",
-    "currentVersionReleaseDate": "2026-07-09T17:28:43Z",
-    "version": "26.7.10",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail with your phone or Wear OS device. Use Wear OS to leverage tiles and complications to start and monitor your activities.\n◆ Find points of interest: Discover waterfalls, historic sites,  photo spots, and more along the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trailgoers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n◆ Record your activity: Capture your stats, leave reviews, and post photos of your favorite hiking trails.\n\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails Plus ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Plan for the elements like ground conditions, weather, air quality, UV index, and more.\n◆ See how conditions change along the trail and preview by time of day.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Explore without service with map downloads for trails, parks, and entire areas.\n◆ Live share your trail activity with friends and family.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing\n\n► New! Explore to the fullest with AllTrails Peak ►\n\nMake the most of your time on the trail with our newest premium membership. Chart your own course, plan ahead for conditions, and explore popular trails — with all the offline benefits of Plus.\n\n◆ Create your own route from scratch, or modify one of 500,000+ existing trails.\n◆ Explore the most popular places with heatmaps of recent trail activity.\n◆ Access every Plus and Base feature, too.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails Plus and Peak make the great outdoors even greater.",
-    "averageUserRating": 4.88968,
     "trackCensoredName": "AllTrails: Hike, Bike & Run",
     "trackViewUrl": "https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943?uo=4",
     "contentAdvisoryRating": "9+",
-    "trackId": 405075943,
-    "trackName": "AllTrails: Hike, Bike & Run",
-    "userRatingCount": 1033097
+    "averageUserRating": 4.88968,
+    "price": 0,
+    "userRatingCount": 1033100
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T08:15:04.817Z",
+  "fetched_at": "2026-07-19T08:40:13.267Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=634598719&country=us",
   "result": {
@@ -147,17 +147,17 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/76/7e767637-c4cd-9537-e1c6-5d17b27b7811/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/76/7e767637-c4cd-9537-e1c6-5d17b27b7811/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "features": [],
-    "artistViewUrl": "https://apps.apple.com/us/developer/noom-inc/id445446073?uo=4",
     "advisories": [
       "Infrequent/Mild Contests",
       "Frequent/Intense Medical/Treatment Information"
     ],
+    "kind": "software",
+    "features": [],
+    "artistViewUrl": "https://apps.apple.com/us/developer/noom-inc/id445446073?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/76/7e767637-c4cd-9537-e1c6-5d17b27b7811/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/76/7e767637-c4cd-9537-e1c6-5d17b27b7811/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "minimumOsVersion": "17.0",
     "sellerUrl": "http://www.noom.com/",
-    "averageUserRatingForCurrentVersion": 4.69567,
     "languageCodesISO2A": [
       "EN",
       "DE",
@@ -166,38 +166,38 @@
     ],
     "fileSizeBytes": "491565056",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 868386,
+    "userRatingCountForCurrentVersion": 868443,
     "trackContentRating": "17+",
-    "artistId": 445446073,
-    "artistName": "Noom, Inc.",
+    "averageUserRatingForCurrentVersion": 4.69566,
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "price": 0,
-    "trackId": 634598719,
-    "trackName": "Noom Weight Loss, Food Tracker",
-    "releaseDate": "2013-05-09T07:00:00Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
+    "artistId": 445446073,
+    "artistName": "Noom, Inc.",
+    "bundleId": "com.noom.wlc",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "Noom, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseDate": "2013-05-09T07:00:00Z",
+    "trackId": 634598719,
+    "trackName": "Noom Weight Loss, Food Tracker",
     "currentVersionReleaseDate": "2026-07-16T09:17:33Z",
     "releaseNotes": "Bug fixes and improvements.",
     "version": "14.26.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Build healthy habits that last with Noom.\n\nNoom helps you eat better, move more, and feel more in control of your health – without the pressure or guilt.\n\nTrack steps. Log meals with AI. Scan your face and body for instant health insights. Earn rewards for showing up daily.\n\nWhether you're just getting started or ready for more structured support like coaching or medication, Noom meets you where you are. Millions have used Noom to lose weight, improve health, and make lasting changes.\n\nRooted in psychology. Backed by science. Choose the personalized plan that’s right for you.\n\nFEATURES\n- AI food logging with 1M+ food items, calorie & macro tracking\n- Step tracking & rewards\n- Access to GLP-1 meds, if eligible\n- Body scans for real-time insights\n- Proactive Health tools, including at-home biomarker labs and personalized recommendations\n- Meal plans & dietitian-backed recipes\n- Noom Move: 1,000+ fitness, stretching & meditation classes\n- Daily lessons on psychology, habits, & behavior change\n- Supportive communities (“Circles”)\n- Sync with Apple Health, Fitbit, Garmin, Withings & more\n- Optional 1:1 coaching\n\nWhat people are saying:\n\n“An evidence-based lifestyle behavior change program.” - Mashable\n“Focuses on the mental aspect of weight loss.” - TODAY\n“Psychologically-powered wellness platform.” - RollingStone\n“Helped me reimagine my food choices without forcing me to completely cut out any foods.” - Healthline\n\n\nNOOM WEIGHT\n\nA sustainable weight loss program to help you change the habits behind your health through lessons & science-backed tools.\n\n- Avg. weight loss: 15.5 lbs in 16 weeks\n- 2x more effective than trying to lose weight alone\n- 95% say it’s a long-term solution\n- 98% say it changed their habits for good\n- Supports intermittent fasting & behavior-based food logging\n- Stay consistent with coaches, content & community\n\nPlans start at $17 a month.¹\n\n\nNOOM MED\n\nCombine proven GLP-1 meds with the tools and support to lose weight and keep it off – long after the meds.\n\n- If eligible, access trusted GLP-1s like Ozempic®², Wegovy®, Zepbound®³ or Mounjaro®³\n- Or choose Noom GLP-1Rx with SmartDose, a personalized dosing system designed for a smoother, more effective GLP-1 experience\n- Meds shipped to your door in 7 days,⁴ if prescribed⁵\n- Microdose GLP-1 options available, designed to deliver effective results and minimize side effects\n- 100% online access to doctors & health coaches\n- GLP-1 Companion Program with Muscle Defense™ to lose fat, protect muscle, & build healthy habits\n- Users lose 48% more weight in 6 months vs. GLP-1s alone⁶\n\nPlans start at $69 a month.⁷\n\n\n\n\n¹ Based on annual auto-renewing plan for $209 USD. All prices are prior to any applicable sales tax or discounts. In 4 weeks the typical Noom user can expect to lose 1-2 lbs per week. Noom results involve maintaining a healthy diet and exercise changes. Individual results may vary\n\n² Ozempic is not FDA approved to treat obesity or for weight loss\n\n³ Eli Lilly and Company has not authorized this content. Not all customers will medically qualify for prescription medications. Pricing based on 2.5 mg Zepbound vials and injector pens starting dose. Pricing will vary based on dosage\n\n⁴ Medication delivery in 7 days is only available for compounded medications. Not all customers will medically qualify for prescription medications. Compounded medications are produced in an FDA-registered facility but not reviewed by the FDA for safety, efficacy or quality\n\n⁵ Medications require consultation and prescription by clinician through Noom platform. Not all customers will qualify for prescription\n\n⁶ Based on a retrospective study of self-reported data of pounds lost for active versus passive users who were offered the Noom program when being prescribed an early stage GLP-1\n\n⁷ Pricing based on the 1st month subscription fee only and does not include the cost of medications\n\nFor CCPA: \"Do Not Sell\" Policy for California Residents, see https://www.noom.com/ccpa-do-not-sell/",
-    "minimumOsVersion": "17.0",
-    "bundleId": "com.noom.wlc",
+    "trackCensoredName": "Noom Weight Loss, Food Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/noom-weight-loss-food-tracker/id634598719?uo=4",
     "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.69567,
-    "trackCensoredName": "Noom Weight Loss, Food Tracker",
-    "userRatingCount": 868386
+    "averageUserRating": 4.69566,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "sellerName": "Noom, Inc.",
+    "userRatingCount": 868443
   }
 }

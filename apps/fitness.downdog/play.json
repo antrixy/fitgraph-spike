@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T08:22:02.770Z",
+  "fetched_at": "2026-07-19T08:47:01.177Z",
   "source": "google_play_scraper",
   "appId": "com.downdogapp",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "A new workout every time!",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 7775649,
-    "score": 4.8658223,
+    "maxInstalls": 7777539,
+    "score": 4.8657303,
     "scoreText": "4.9",
-    "ratings": 377050,
+    "ratings": 377102,
     "reviews": 14653,
     "histogram": {
-      "1": 5479,
-      "2": 2317,
-      "3": 2576,
-      "4": 16515,
-      "5": 350135
+      "1": 5486,
+      "2": 2324,
+      "3": 2582,
+      "4": 16529,
+      "5": 350166
     },
     "price": 0,
     "free": true,

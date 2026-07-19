@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T08:15:09.547Z",
+  "fetched_at": "2026-07-19T08:40:15.053Z",
   "source": "google_play_scraper",
   "appId": "com.wsl.noom",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Healthy habits for weight loss—track calories, food, workouts, &amp; GLP-1 progress",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 22817926,
-    "score": 4.084582,
+    "maxInstalls": 22817927,
+    "score": 4.0846353,
     "scoreText": "4.1",
-    "ratings": 314345,
-    "reviews": 89668,
+    "ratings": 314347,
+    "reviews": 89669,
     "histogram": {
-      "1": 42936,
-      "2": 17138,
-      "3": 18134,
-      "4": 28312,
-      "5": 207816
+      "1": 42947,
+      "2": 17130,
+      "3": 18126,
+      "4": 28299,
+      "5": 207839
     },
     "price": 0,
     "free": true,

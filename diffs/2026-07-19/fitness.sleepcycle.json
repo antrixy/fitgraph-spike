@@ -1,0 +1,13 @@
+{
+  "product": "fitness.sleepcycle",
+  "name": "Sleep Cycle",
+  "date": "2026-07-19",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "a24499917545f15b61008516ba9310f762118b36",
+      "prev_fetched_at": "2026-07-18T08:21:51.317Z",
+      "curr_fetched_at": "2026-07-19T08:46:52.424Z",
+      "version_unreported": true
+    }
+  }
+}
