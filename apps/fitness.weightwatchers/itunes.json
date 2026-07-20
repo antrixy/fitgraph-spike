@@ -1,28 +1,8 @@
 {
-  "fetched_at": "2026-07-19T08:40:22.492Z",
+  "fetched_at": "2026-07-20T09:40:50.554Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=331308914&country=us",
   "result": {
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ad/49/03ad497e-52c4-a8dd-f550-992b79378170/Slide_1_U002c_Intro.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/fd/37/7dfd37f1-bb0c-1aef-f52b-c6815c3673d0/Slide_7_U002c_Pic.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d2/dc/e1d2dc5b-7665-555b-7676-9e621696bb15/1242_x_2210.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/59/af/8759af19-0d09-1676-5871-82310b96912e/Slide_5_U002c_ZPFs.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/9f/50/be9f50ba-0793-0a96-a03c-c132efd28285/Slide_4_U002c_Barcode_Scanner.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/ae/85/cdae85bd-0f9c-e87c-fef1-815ecb4ee9b4/Slide_6_U002c_WTE.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/e5/ab/ade5abec-87db-9c3f-0d3b-0ac44c58b565/Slide_2_U002c_My_Day.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/35/b7/2635b7e1-510a-cb8a-e222-ebf20092d4bd/Slide_1_U002c_Intro.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/32/82/2b3282f9-6892-c81c-34c3-3bdc74b752a1/Slide_7_U002c_Pic.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/fd/bb/93fdbb07-49ac-1340-0c77-77a20a70f98b/2048_x_2734.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/55/02/915502a8-1766-4625-2446-fe309671236e/Slide_5_U002c_ZPFs.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/95/97/5995977a-e241-b5b1-cbe1-c937b628536c/Slide_4_U002c_Barcode_Scanner.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/41/62/f941628d-8c17-4dac-f2d3-2c1f6efdd5e7/Slide_6_U002c_WTE.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/e2/03/afe20372-03e5-5a85-cbd0-33ed258cf6b0/Slide_2_U002c_My_Day.png/576x768bb.png"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/55/4c/67554c85-baa4-ec19-e65b-8cf528c4b6e8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -154,6 +134,9 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "features": [
+      "iosUniversal"
+    ],
     "advisories": [
       "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
       "Infrequent/Mild Medical/Treatment Information"
@@ -162,9 +145,48 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/ww-international-inc/id331308917?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/55/4c/67554c85-baa4-ec19-e65b-8cf528c4b6e8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/55/4c/67554c85-baa4-ec19-e65b-8cf528c4b6e8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
-    "features": [
-      "iosUniversal"
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ad/49/03ad497e-52c4-a8dd-f550-992b79378170/Slide_1_U002c_Intro.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/fd/37/7dfd37f1-bb0c-1aef-f52b-c6815c3673d0/Slide_7_U002c_Pic.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/d2/dc/e1d2dc5b-7665-555b-7676-9e621696bb15/1242_x_2210.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/59/af/8759af19-0d09-1676-5871-82310b96912e/Slide_5_U002c_ZPFs.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/9f/50/be9f50ba-0793-0a96-a03c-c132efd28285/Slide_4_U002c_Barcode_Scanner.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/ae/85/cdae85bd-0f9c-e87c-fef1-815ecb4ee9b4/Slide_6_U002c_WTE.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/e5/ab/ade5abec-87db-9c3f-0d3b-0ac44c58b565/Slide_2_U002c_My_Day.png/392x696bb.png"
     ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/35/b7/2635b7e1-510a-cb8a-e222-ebf20092d4bd/Slide_1_U002c_Intro.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/32/82/2b3282f9-6892-c81c-34c3-3bdc74b752a1/Slide_7_U002c_Pic.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/fd/bb/93fdbb07-49ac-1340-0c77-77a20a70f98b/2048_x_2734.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/55/02/915502a8-1766-4625-2446-fe309671236e/Slide_5_U002c_ZPFs.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/95/97/5995977a-e241-b5b1-cbe1-c937b628536c/Slide_4_U002c_Barcode_Scanner.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/41/62/f941628d-8c17-4dac-f2d3-2c1f6efdd5e7/Slide_6_U002c_WTE.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/e2/03/afe20372-03e5-5a85-cbd0-33ed258cf6b0/Slide_2_U002c_My_Day.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/55/4c/67554c85-baa4-ec19-e65b-8cf528c4b6e8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+    "currentVersionReleaseDate": "2026-07-17T18:59:17Z",
+    "minimumOsVersion": "16.0",
+    "bundleId": "com.weightwatchers.wwmobile",
+    "trackId": 331308914,
+    "trackName": "WeightWatchers Program",
+    "releaseDate": "2009-09-19T00:05:27Z",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "WW International, Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "version": "11.25.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "The #1 Doctor-Recommended Weight Loss Program†\n\nGet a science-backed weight loss tracker and diet plan tailored to your body. Whether you want to lose weight, maintain, or manage weight loss medication, Weight Watchers provides the tools for lasting results.\n\nNEW: GLP-1 & Clinical Support\nGLP-1 Success Program: Specialized nutrition, dose tracking, and side-effect management for members on weight-loss medications.\nWeight Watchers Med+: Access clinical experts and weight-loss medication prescriptions (if eligible).\n\nAI-Powered Progress Tracking\nAI Body Scanner: See 3D progress beyond the scale, including muscle and body fat changes.\nWeight Health Score: Get a holistic view of how your sleep, activity, and nutrition impact your health.\n\nFlexible Weight Loss Tools\nCustomized Modes: Choose your path—Lose, Maintain, go All-In, or take a break from tracking with new Vacation Mode.\nMenopause Support: Manage symptoms and weight changes with tailored guidance.\nPoints® Program: Our famous calorie counter alternative—track foods easily with ZeroPoint® foods and a barcode scanner.\nMacro Tracking: Monitor protein, fiber, carbs, and calories in one place.\n\nIntegration & Coaching\nApp and Device Syncs: Connect Apple Health™, Fitbit®, and more to track activity and sleep automatically.\nVirtual Experiences: Join live sessions led by expert Weight Loss Coaches.\nRegistered Dietitians: Get 1:1 meal planning and nutrition support.*\n\nFood & Recipes\nLog Meals Instantly: Snap a photo or search our database of 12,000+ recipes and 450+ restaurants.\nCommunity: Join an exclusive social network of members for daily motivation.\n\nMEMBERSHIP TERMS\n\nPrivacy Policy: https://www.weightwatchers.com/us/privacy/policy\n\nTerms of Service: https://www.weightwatchers.com/us/termsandconditions/membership\n\n†Based on a 2023 survey by Cerner Enviza of 500 doctors who recommend weight-loss programs to patients.\n\n*For as low as $0 for WeightWatchers members with qualified insurance coverage. Copays, coinsurance & deductibles may apply.\n\nApple, the Apple logo, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries and regions.",
+    "trackCensoredName": "WeightWatchers Program",
+    "trackViewUrl": "https://apps.apple.com/us/app/weightwatchers-program/id331308914?uo=4",
+    "contentAdvisoryRating": "17+",
+    "averageUserRatingForCurrentVersion": 4.83887,
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -175,40 +197,18 @@
     ],
     "fileSizeBytes": "629866496",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 2354822,
     "trackContentRating": "17+",
     "sellerUrl": "https://www.weightwatchers.com/us/article/using-ww-mobile-app",
-    "userRatingCountForCurrentVersion": 2354553,
-    "artistName": "WW International, Inc.",
-    "artistId": 331308917,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 331308914,
-    "trackName": "WeightWatchers Program",
-    "sellerName": "WW International, Inc.",
-    "currentVersionReleaseDate": "2026-07-17T18:59:17Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "releaseDate": "2009-09-19T00:05:27Z",
+    "averageUserRating": 4.83887,
     "releaseNotes": "We've debugged and improved your app experience, worked on issues that caused crashes, and fine-tuned a handful of things behind the scenes, all to empower your WW journey and help you build habits for a happy, healthy life.",
-    "version": "11.25.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "The #1 Doctor-Recommended Weight Loss Program†\n\nGet a science-backed weight loss tracker and diet plan tailored to your body. Whether you want to lose weight, maintain, or manage weight loss medication, Weight Watchers provides the tools for lasting results.\n\nNEW: GLP-1 & Clinical Support\nGLP-1 Success Program: Specialized nutrition, dose tracking, and side-effect management for members on weight-loss medications.\nWeight Watchers Med+: Access clinical experts and weight-loss medication prescriptions (if eligible).\n\nAI-Powered Progress Tracking\nAI Body Scanner: See 3D progress beyond the scale, including muscle and body fat changes.\nWeight Health Score: Get a holistic view of how your sleep, activity, and nutrition impact your health.\n\nFlexible Weight Loss Tools\nCustomized Modes: Choose your path—Lose, Maintain, go All-In, or take a break from tracking with new Vacation Mode.\nMenopause Support: Manage symptoms and weight changes with tailored guidance.\nPoints® Program: Our famous calorie counter alternative—track foods easily with ZeroPoint® foods and a barcode scanner.\nMacro Tracking: Monitor protein, fiber, carbs, and calories in one place.\n\nIntegration & Coaching\nApp and Device Syncs: Connect Apple Health™, Fitbit®, and more to track activity and sleep automatically.\nVirtual Experiences: Join live sessions led by expert Weight Loss Coaches.\nRegistered Dietitians: Get 1:1 meal planning and nutrition support.*\n\nFood & Recipes\nLog Meals Instantly: Snap a photo or search our database of 12,000+ recipes and 450+ restaurants.\nCommunity: Join an exclusive social network of members for daily motivation.\n\nMEMBERSHIP TERMS\n\nPrivacy Policy: https://www.weightwatchers.com/us/privacy/policy\n\nTerms of Service: https://www.weightwatchers.com/us/termsandconditions/membership\n\n†Based on a 2023 survey by Cerner Enviza of 500 doctors who recommend weight-loss programs to patients.\n\n*For as low as $0 for WeightWatchers members with qualified insurance coverage. Copays, coinsurance & deductibles may apply.\n\nApple, the Apple logo, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries and regions.",
-    "averageUserRating": 4.8389,
-    "trackCensoredName": "WeightWatchers Program",
-    "trackViewUrl": "https://apps.apple.com/us/app/weightwatchers-program/id331308914?uo=4",
-    "contentAdvisoryRating": "17+",
-    "minimumOsVersion": "16.0",
-    "bundleId": "com.weightwatchers.wwmobile",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "averageUserRatingForCurrentVersion": 4.8389,
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "price": 0,
-    "userRatingCount": 2354553
+    "artistId": 331308917,
+    "artistName": "WW International, Inc.",
+    "userRatingCount": 2354822
   }
 }

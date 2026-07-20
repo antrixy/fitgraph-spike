@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T08:46:52.424Z",
+  "fetched_at": "2026-07-20T09:47:23.121Z",
   "source": "google_play_scraper",
   "appId": "com.northcube.sleepcycle",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 18979673,
     "score": 4.3355384,
     "scoreText": "4.3",
-    "ratings": 216965,
+    "ratings": 216980,
     "reviews": 10160,
     "histogram": {
-      "1": 18494,
-      "2": 7733,
+      "1": 18496,
+      "2": 7734,
       "3": 9566,
-      "4": 27827,
-      "5": 153331
+      "4": 27829,
+      "5": 153341
     },
     "price": 0,
     "free": true,

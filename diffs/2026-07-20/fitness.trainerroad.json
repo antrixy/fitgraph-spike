@@ -1,0 +1,19 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-20",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "a3df8126b4a96ec45d1f11db1b9cdf1688af1521",
+      "prev_fetched_at": "2026-07-19T08:43:51.734Z",
+      "curr_fetched_at": "2026-07-20T09:44:35.516Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.27.0.92767",
+          "new": "2026.28.0.92769"
+        }
+      ]
+    }
+  }
+}

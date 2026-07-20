@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-20",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "a3df8126b4a96ec45d1f11db1b9cdf1688af1521",
+      "prev_fetched_at": "2026-07-19T08:39:39.503Z",
+      "curr_fetched_at": "2026-07-20T09:40:15.447Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "a3df8126b4a96ec45d1f11db1b9cdf1688af1521",
+      "curr_fetched_at": "2026-07-20T09:40:17.207Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn the meaning of calorie deficit for weight loss and how MyNetDiary's Daily Analysis can help along the way",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for the best food tracking app while working from home?",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 5
+    }
+  }
+}
