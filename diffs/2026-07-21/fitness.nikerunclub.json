@@ -1,0 +1,25 @@
+{
+  "product": "fitness.nikerunclub",
+  "name": "Nike Run Club",
+  "date": "2026-07-21",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:43:50.046Z",
+      "curr_fetched_at": "2026-07-21T09:10:54.940Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.79.0",
+          "new": "7.79.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:43:53.276Z",
+      "curr_fetched_at": "2026-07-21T09:10:56.685Z",
+      "version_unreported": true
+    }
+  }
+}

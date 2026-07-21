@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.jefit",
+  "integration": "apple_health",
+  "direction": "removed",
+  "observed_at": "2026-07-21T09:09:01.446Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "app_description",
+      "excerpt": "Community: Connect with others on the same journey and learn from top gym routines worldwide. New Features: Sync with Apple Health and Strava for an all-in-one workout app experience. Review session analytics, optimize your gym workouts, and build s",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

@@ -1,12 +1,15 @@
 {
-  "fetched_at": "2026-07-20T09:46:38.927Z",
+  "fetched_at": "2026-07-21T09:13:44.726Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1382530817&country=us",
   "result": {
-    "isGameCenterEnabled": false,
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8c/2b/7e8c2be9-f592-efdf-af24-9cc4aed25eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8c/2b/7e8c2be9-f592-efdf-af24-9cc4aed25eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/ch-digital-pty-ltd/id1671938682?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/3e/77/ec3e77a6-353e-bfd4-810d-f7419b4d87fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/3e/77/ec3e77a6-353e-bfd4-810d-f7419b4d87fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,9 +140,6 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [
-      "iosUniversal"
-    ],
     "advisories": [
       "Infrequent/Mild Medical/Treatment Information"
     ],
@@ -147,10 +147,11 @@
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/3e/77/ec3e77a6-353e-bfd4-810d-f7419b4d87fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-    "minimumOsVersion": "15.0",
-    "averageUserRating": 4.7546,
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8c/2b/7e8c2be9-f592-efdf-af24-9cc4aed25eaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "trackViewUrl": "https://apps.apple.com/us/app/centr-strength-fitness-app/id1382530817?uo=4",
     "contentAdvisoryRating": "12+",
+    "averageUserRating": 4.7546,
+    "trackCensoredName": "Centr: Strength & Fitness App",
     "artistId": 1671938682,
     "artistName": "CH Digital Pty Ltd",
     "genres": [
@@ -159,34 +160,33 @@
     ],
     "price": 0,
     "bundleId": "com.weareloup.hco",
-    "trackName": "Centr: Strength & Fitness App",
-    "trackId": 1382530817,
+    "releaseNotes": "This release brings fixes and improvements to screen casting and adds deeper screen mirroring support, making your big-screen workouts smoother and more reliable.\n\nNeed a hand or have feedback? Reach our team anytime at hello@centr.com.",
+    "sellerName": "CH Digital Pty Ltd",
     "releaseDate": "2019-02-10T11:24:54Z",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "trackId": 1382530817,
+    "trackName": "Centr: Strength & Fitness App",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "releaseNotes": "We’ve made a handful of updates that should help the Home tab run more smoothly. \n\nQuestions, feedback, or need help? We're here: hello@centr.com.",
-    "sellerName": "CH Digital Pty Ltd",
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-07T12:15:36Z",
-    "version": "10.4.0",
+    "currentVersionReleaseDate": "2026-07-20T15:33:35Z",
+    "version": "10.5.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Try the Centr App FREE for 7 days — cancel anytime.\n\nAWARDS\nCNET: Best Workout Subscription Apps for 2025\nGood Housekeeping: The Best Workout Apps for All Fitness Levels\nTom’s Guide: Best iPhone Apps in 2025\nPOPSUGAR: Best Strength Training Program\nMEN’S HEALTH: Home Gym Awards\n\nCentr is the all-in-one Strength & Fitness App built to help you reach your goals — whether you train at home or in the gym. Get personalized workout plans based on your goals, preferences, and experience level. Build muscle, get fit, and improve your endurance with programs designed by elite coaches — including the first-ever HYROX-certified training plan.\n\nEvery plan in Centr is built for real progress. Stay consistent, track your results, and train wherever you are — at home or in the gym. Get stronger, move better, and achieve the results you’ve been chasing.\n\nDownload Centr today and start your FREE 7-day trial.\n\n—\n\nCENTR FEATURES\n\nCUSTOM WORKOUTS FOR YOUR FITNESS GOALS\n- Personalized training based on your goals, preferences, and skill level\n- Programs for men and women, beginners to advanced\n- Focus on strength, weight loss, or general fitness\n\nWORK OUT ANYWHERE\n- Press play at the gym or at home\n- Choose between coached and self-guided workouts\n\nFEWER DECISIONS, BETTER RESULTS\n- We select your daily workout and meals based on your goals\n- Never stress about planning — just train and progress\n\nPERFECT FOR BUSY SCHEDULES\n- Workouts from 5 to 60 minutes that fit your day\n\nHYROX TRAINING\n- Official HYROX-certified program to build power and endurance for race day in 12 weeks\n- Plans for every level — from first-timers to pros\n\nMOTIVATION THAT LASTS\n- Train with world-class coaches who keep you accountable and inspired\n\nENDLESS WORKOUT VARIETY\n- Strength, HIIT, Pilates, Yoga, HYROX, Boxing, MMA, Hybrid Training, and more\n- Filter by body part or equipment type\n\nBETTER RESULTS WITH PERSONALIZED MEAL PLANS\n- Expert-designed meal plans tailored to your food preferences\n- Healthy, delicious recipes to fuel your training\n- Options for every lifestyle — from plant-based to high-protein\n\nDEVICE COMPATIBILITY\n- Cast workouts to your TV or tablet\n- Sync with your Apple Watch for real-time fitness tracking\n\n\nMEET YOUR COACHES\n- Luke Zocchi: Chris Hemsworth’s personal trainer\n- Ingrid Clay: HIIT & HIRT strength coach + plant-based chef\n- Alexz Parvi: HILIT trainer\n- Dan Churchill: Cookbook author & nutrition coach\n- Maricris Lapaix: Beginner cardio & strength coach\n- Tahl Rinsky: Dynamic yoga instructor\n- Sylvia Roberts: Pilates instructor\n- Angie Asche: Dietitian & nutrition expert\n- Jess Kilts: Strength & conditioning coach\n- Bobby Holland Hanton: Hollywood stuntman\n- Ashley Joi: Cardio & strength trainer\n- Joseph Sakoda (Da Rulk): Special Ops trainer\n- Michael Olajide Jr.: Boxing champion & supermodel trainer\n- Torre Washington: Vegan bodybuilder\n- Jorge Blanco: Boxing & MMA coach\n\n—\n\nUnlock your full potential — start your 7-day free trial today.\n\nMemberships available for 1, 3, and 12 months.\n\nPayment will be charged to your iTunes account at confirmation of purchase and will automatically renew unless auto-renew is turned off at least 24 hours before the end of your current period. Your iTunes account will automatically be charged within 24 hours prior to the end of the current period.\n\nCurrent subscriptions may not be canceled during the active subscription period, but you can manage subscriptions and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n\nAny unused portion of a free trial period, if offered, will be forfeited when a subscription is purchased for that publication, where applicable.\n\nYou can track your fitness journey by enabling Apple Health.\n\nRead full Terms of Service & Privacy Policy:\nhttps://centr.com/article/show/5293/privacy-policy\nhttps://centr.com/article/show/5294/terms-and-condition",
-    "trackCensoredName": "Centr: Strength & Fitness App",
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "382477312",
+    "fileSizeBytes": "383570944",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21133,
-    "trackViewUrl": "https://apps.apple.com/us/app/centr-strength-fitness-app/id1382530817?uo=4",
+    "userRatingCountForCurrentVersion": 21134,
     "trackContentRating": "12+",
     "averageUserRatingForCurrentVersion": 4.7546,
+    "minimumOsVersion": "15.0",
     "sellerUrl": "https://centr.com/join-us",
-    "userRatingCount": 21133
+    "userRatingCount": 21134
   }
 }

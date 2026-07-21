@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T09:44:22.868Z",
+  "fetched_at": "2026-07-21T09:11:24.119Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=408047715&country=us",
   "result": {
@@ -7,15 +7,15 @@
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bd/34/38bd340e-2bd9-3d0c-71fc-f2926e18709c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bd/34/38bd340e-2bd9-3d0c-71fc-f2926e18709c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
-    "advisories": [],
-    "kind": "software",
-    "ipadScreenshotUrls": [],
     "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bd/34/38bd340e-2bd9-3d0c-71fc-f2926e18709c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "advisories": [],
     "features": [
       "iosUniversal"
     ],
+    "kind": "software",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -148,32 +148,8 @@
     "trackCensoredName": "TrainingPeaks: Plan Train Lift",
     "trackViewUrl": "https://apps.apple.com/us/app/trainingpeaks-plan-train-lift/id408047715?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.70367,
-    "currentVersionReleaseDate": "2026-07-10T16:53:12Z",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "artistId": 408047718,
-    "artistName": "Peaksware, LLC",
-    "price": 0,
-    "releaseDate": "2010-12-15T18:54:30Z",
-    "bundleId": "com.peaksware.trainingpeaks",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "trackId": 408047715,
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "sellerName": "Peaksware, LLC",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "version": "12.110.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "The world’s most complete training platform for coaches and athletes to plan, lift, and train.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, lift, and train for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n • Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n • Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n • Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n • Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n • Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n • Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n • Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and           in-workout commenting.\n • Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n • Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\nBuild community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use",
-    "averageUserRatingForCurrentVersion": 4.70367,
-    "minimumOsVersion": "17.0",
+    "averageUserRating": 4.7037,
+    "averageUserRatingForCurrentVersion": 4.7037,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -186,11 +162,35 @@
     ],
     "fileSizeBytes": "277665792",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 12655,
+    "userRatingCountForCurrentVersion": 12656,
     "trackContentRating": "4+",
     "sellerUrl": "http://www.trainingpeaks.com/",
-    "trackName": "TrainingPeaks: Plan Train Lift",
+    "releaseDate": "2010-12-15T18:54:30Z",
+    "bundleId": "com.peaksware.trainingpeaks",
+    "artistId": 408047718,
+    "artistName": "Peaksware, LLC",
+    "price": 0,
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Peaksware, LLC",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
     "releaseNotes": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We've been working as hard as you train to fix bugs and improve your experience.",
-    "userRatingCount": 12655
+    "currentVersionReleaseDate": "2026-07-10T16:53:12Z",
+    "version": "12.110.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "The world’s most complete training platform for coaches and athletes to plan, lift, and train.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, lift, and train for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n • Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n • Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n • Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n • Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n • Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n • Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n • Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and           in-workout commenting.\n • Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n • Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\nBuild community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use",
+    "minimumOsVersion": "17.0",
+    "trackName": "TrainingPeaks: Plan Train Lift",
+    "trackId": 408047715,
+    "userRatingCount": 12656
   }
 }

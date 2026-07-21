@@ -1,0 +1,30 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-07-21",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:46:38.927Z",
+      "curr_fetched_at": "2026-07-21T09:13:44.726Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.4.0",
+          "new": "10.5.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We’ve made a handful of updates that should help the Home tab run more smoothly. \n\nQuestions, feedback, or need help? We're here: hello@centr.com.",
+          "new": "This release brings fixes and improvements to screen casting and adds deeper screen mirroring support, making your big-screen workouts smoother and more reliable.\n\nNeed a hand or have feedback? Reach our team anytime at hello@centr.com."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:46:42.067Z",
+      "curr_fetched_at": "2026-07-21T09:13:47.576Z",
+      "version_unreported": true
+    }
+  }
+}

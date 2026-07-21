@@ -1,9 +1,30 @@
 {
-  "fetched_at": "2026-07-20T09:42:39.490Z",
+  "fetched_at": "2026-07-21T09:09:49.096Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1529354455&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/0d/22/910d2213-9a21-298a-c3a8-4322f89123e6/Frame_1149.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/dc/1c/26dc1c7f-2ea9-f045-4d16-2841681ffefe/Frame_1150__U00281_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/2f/06/8a2f069f-c2c8-a51b-36bc-4a5a815084f7/Frame_1151.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/02/cd/3a02cd9c-abc7-a204-d0dd-509b99b77450/Frame_1152.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/60/82/576082c2-1c53-bc87-c54f-d952cee69241/Frame_1173.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/f1/0b/bcf10bfc-d5d8-5ada-7533-3c752f1f355d/Frame_1168__U00284_U0029.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7e/41/727e4150-8163-c76d-66b8-eb73eacb04fe/Frame_1169.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/46/83/5c4683ca-b845-ff65-7519-5c056f1cd638/Frame_1170__U00281_U0029.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/33/fe/4033fecc-01b3-70c5-507d-5023d9d3c221/Frame_1171.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/0a/0b/4b0a0b6c-1583-133a-37b2-19df11d36643/Frame_1172.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -133,39 +154,35 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "features": [
       "iosUniversal"
     ],
-    "advisories": [],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/52/6d/44526d88-b6ce-c3d8-a85d-d824ae3331ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/0d/22/910d2213-9a21-298a-c3a8-4322f89123e6/Frame_1149.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/dc/1c/26dc1c7f-2ea9-f045-4d16-2841681ffefe/Frame_1150__U00281_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/2f/06/8a2f069f-c2c8-a51b-36bc-4a5a815084f7/Frame_1151.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/02/cd/3a02cd9c-abc7-a204-d0dd-509b99b77450/Frame_1152.png/392x696bb.png"
+    "averageUserRatingForCurrentVersion": 4.8474,
+    "languageCodesISO2A": [
+      "EN"
     ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/60/82/576082c2-1c53-bc87-c54f-d952cee69241/Frame_1173.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/f1/0b/bcf10bfc-d5d8-5ada-7533-3c752f1f355d/Frame_1168__U00284_U0029.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7e/41/727e4150-8163-c76d-66b8-eb73eacb04fe/Frame_1169.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/46/83/5c4683ca-b845-ff65-7519-5c056f1cd638/Frame_1170__U00281_U0029.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/33/fe/4033fecc-01b3-70c5-507d-5023d9d3c221/Frame_1171.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/0a/0b/4b0a0b6c-1583-133a-37b2-19df11d36643/Frame_1172.png/576x768bb.png"
-    ],
-    "appletvScreenshotUrls": [],
+    "fileSizeBytes": "312797184",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 9515,
+    "trackContentRating": "4+",
+    "sellerUrl": "https://www.boostcamp.app/",
+    "trackCensoredName": "Boostcamp: Workout Programs",
+    "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.8474,
+    "minimumOsVersion": "15.1",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "price": 0,
+    "artistId": 1529354457,
+    "artistName": "BPM Health Co.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "artistId": 1529354457,
-    "artistName": "BPM Health Co.",
+    "trackId": 1529354455,
     "trackName": "Boostcamp: Workout Programs",
     "bundleId": "com.bpmhealth.boostfitness",
     "releaseDate": "2020-10-04T07:00:00Z",
@@ -175,29 +192,12 @@
     ],
     "sellerName": "BPM Health Co.",
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-06-29T17:14:26Z",
     "releaseNotes": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
     "version": "262",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Trusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures in fitness.\" – Alex Bromley, Professional Strongman\n\n\"Boostcamp puts all of Reddit's best free workouts in one slick app...give Boostcamp a try.\" – Lifehacker\n\nWHAT YOU GET\n\n• 130+ Expert Programs – Not random workouts. Full structured programs with built-in progressions, periodization, and deload weeks. Created by real coaches who compete and coach athletes.\n\n• 10,000+ Community Programs – Routines built and shared by lifters. PPL splits, bro splits, full body, upper/lower — if someone's running it, it's probably here.\n\n• Full Workout Tracker – Log sets, reps, and weight with RPE and 1RM tracking. Auto-progressions fill in your weights. Performance charts. Works offline.\n\n• Custom Program Builder – Build your own with multi-week periodization, exercise swaps, and custom progressions.\n\n• Muscle Volume Tracking – See which muscle groups you're hitting and which ones you're neglecting.\n\nPOPULAR PROGRAMS\n\n• Strength & Powerlifting: nSuns 5/3/1, GZCLP, Candito 6 Week Strength, 5/3/1 Boring But Big, 5/3/1 for Beginners, 5/3/1 Building the Monolith, TSA 9 Week Intermediate, TSA Beginner Approach, 70s Powerlifter, Bullmastiff, Phrak's Greyskull LP\n\n•Hypertrophy & Bodybuilding: PHUL, PHAT, Reddit PPL, KONG: 12 Week Hypertrophy, MASS IMPACT, RAVAGE, RAMPAGE, Jacked and Tan 2.0, Strong Curves, Alberto Nuñez Upper Lower, Intermediate Bodybuilding by Eric Helms, Silver Era Aesthetics, Golden Warrior, Fullbodymaxxing\n\n• Bodyweight & Home: Reddit's Bodyweight Fitness Recommended Routine, Dumbbell PPL, Frankoman's Dumbbell Only Split, M&S 5 Day Dumbbell, Functional Strength 101, Rock The Bells\n\n• Powerbuilding & Specialty: PPLUL, Full Body Powerbuilding Split, Beast Slayer, Rip and Tear, Guts Training Program, Greg Nuckols Beginner, r/Fitness Basic Beginner Routine, and hundreds more.\n\nCOACHES\n\n• Dr. Eric Helms (PhD, WNBF Pro Bodybuilder) \n• Alex Bromley (Professional Strongman, 5th at 105kg WSM) \n• Cody Lefever (GZCL creator, Marine) \n• Geoffrey Verity Schofield (YouTuber with 150K+ subscribers)\n• Alberto Nuñez (WNBF Mr. Universe) \n• Bryce Lewis (Champion Powerlifter, TSA) \n• Greg Nuckols (Stronger by Science)\n• Jonnie Candito (competitive powerlifter)\n• Bald Omni-Man (strength and hypertrophy coach)\n• Natural Hypertrophy (evidence-based bodybuilding)\n• Basement Bodybuilding (hypertrophy YouTuber)\n• Brandon Campbell (creator of PHUL)\n• Dr. Swole (YouTube educator)\n• Matt Vena (champion powerlifter)\n• Menno Henselmans (physique coach and researcher)\n• Justina Ercole (functional strength)\n• Tiffany Ma (women's strength and sculpting)\n• Rebecca Rouse (kettlebell and dumbbell)\n• and more.\n\nThese aren't random influencers. They're competitive athletes and researchers who designed these programs based on years of coaching real people.\n\nWHO IT'S FOR\n• Beginners who want a structured workout plans instead of wandering the gym. \n• Intermediate lifters running nSuns or GZCLP who are tired of spreadsheets. \n• Advanced lifters who want periodized programs from coaches they trust.\n• For men and women. Full gym, garage gym, or at home with dumbbells. \n• Programs from 2 to 6 days per week.\n\nABOUT BOOSTCAMP\n\nBoostcamp started as a way to get Reddit's most popular workout programs out of spreadsheets and into an app that actually works. Five years later, we've partnered with 50+ expert coaches and built the largest library of structured training programs anywhere. Free to start. No ads.\n\nQuestions? support@boostcamp.app",
-    "trackCensoredName": "Boostcamp: Workout Programs",
-    "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.84685,
-    "minimumOsVersion": "15.1",
-    "averageUserRatingForCurrentVersion": 4.84685,
-    "sellerUrl": "https://www.boostcamp.app/",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "312797184",
-    "formattedPrice": "Free",
-    "trackContentRating": "4+",
-    "userRatingCountForCurrentVersion": 9507,
-    "trackId": 1529354455,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "userRatingCount": 9507
+    "currentVersionReleaseDate": "2026-06-29T17:14:26Z",
+    "userRatingCount": 9515
   }
 }

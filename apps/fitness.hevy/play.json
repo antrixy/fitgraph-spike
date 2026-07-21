@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T09:41:35.190Z",
+  "fetched_at": "2026-07-21T09:08:49.112Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym Log &amp; Workout Tracker | Fitness Journal, Training &amp; Weight Lifting Planner",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 7547383,
-    "score": 4.857019,
+    "maxInstalls": 7577329,
+    "score": 4.8571014,
     "scoreText": "4.9",
-    "ratings": 242037,
-    "reviews": 6511,
+    "ratings": 242222,
+    "reviews": 6521,
     "histogram": {
-      "1": 1397,
+      "1": 1327,
       "2": 1116,
-      "3": 2444,
-      "4": 20763,
-      "5": 216307
+      "3": 2380,
+      "4": 21126,
+      "5": 216242
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 29, 2019",
-    "updated": 1784324897000,
-    "version": "VARY",
+    "updated": 1784563056000,
+    "version": "3.1.5",
     "recentChanges": "What&#39;s new in this update:<br><br>We&#39;ve updated Hevy&#39;s navigation with Material Design components to make your experience feel smoother and more native on Android!<br>You can now see your full Trainer program!<br>Bug fixes and performance improvements!",
     "comments": [],
     "preregister": false,

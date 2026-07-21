@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T09:43:40.739Z",
+  "fetched_at": "2026-07-21T09:10:46.404Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1594204443&country=us",
   "result": {
@@ -7,10 +7,6 @@
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
-    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -141,6 +137,9 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "features": [
+      "iosUniversal"
+    ],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/3e/ce/553ecea8-56eb-617c-92b3-40003fa0079e/7ab714fd-4560-498b-820d-d9987f364025_1.jpg/392x696bb.jpg",
@@ -166,11 +165,12 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ab/f9/7aabf99e-965c-6212-72f0-b12a43e60150/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "advisories": [],
+    "minimumOsVersion": "16.0",
     "trackCensoredName": "Runna: Running Plans & Coach",
     "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
     "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.85483,
-    "currentVersionReleaseDate": "2026-07-15T15:02:12Z",
+    "averageUserRating": 4.85454,
     "releaseNotes": "This update is nothing flashy, but it will make everything feel more dialed in. Kinda like when your pace is bang on without checking your watch.",
     "artistId": 426826312,
     "artistName": "Strava, Inc.",
@@ -178,22 +178,24 @@
       "Health & Fitness",
       "Sports"
     ],
-    "price": 0,
     "bundleId": "com.runbuddy.prod",
     "trackId": 1594204443,
     "trackName": "Runna: Running Plans & Coach",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "sellerName": "Strava Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-07-15T15:02:12Z",
+    "releaseDate": "2021-12-11T08:00:00Z",
+    "isVppDeviceBasedLicensingEnabled": true,
     "version": "8.46.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Reach your pinnacle as a runner with Runna: Running Training Plans, your quintessential guide to the world of running. With tailored training plans built by world-class coaches to help you achieve your goals. \n\nEmbark on an unparalleled running journey with Runna. More than just a pocket-sized running coach, Runna is your comprehensive running companion. From beginners embarking on their first park run to seasoned athletes gearing up for challenging marathons, our app is crafted to cater to all. Our offering includes training for 5k, 10k, half-marathons, marathons, and ultra marathons. This is probably why we boast a stellar 4.9/5 rating on Trustpilot.\n\nWHY YOU'LL BE THRILLED WITH RUNNA:\n\n1) Customized Training Just For You:\nOur esteemed training programs are rooted in solid scientific programming. Whether you’re setting out to complete your 5k or preparing for the famed Chicago marathon, we have a program tailored to ensure you race past the finish line.\n\n2) Seamless Syncing of Your Runs:\nLive-track your runs on compatible devices* and maintain the perfect pace. Moreover, seamlessly integrate your runs with platforms like Strava.\n\n3) All-encompassing Support:\nWe adopt a holistic stance to running. From optimizing your running form to advice on nutrition and injury management, our support is unparalleled. After all, every runner is distinct and deserves specialized attention.\n\n4) Strength Amplification:\nAlongside run training, we offer curated strength and conditioning routines that meld perfectly with your running program. Because when it comes to racing, stamina and strength form the perfect duo.\n\nWELCOME TO THE RUNNA CLUB:\n\n1) Dive into Our Vibrant Community:\nBe part of the Runna club, an international community of runners. From beginners to pros, the encouragement here is infectious, and the friendships, invaluable.\n\n2) Access Exclusive Perks:\nMembers enjoy exclusive offers from top-tier nutrition, apparel, event, and supplement brands.\n\n3) Engaging Events and Classes Aplenty:\nRegister for in-person events, including trail runs or time-trials. And if that's not your thing, our live yoga and pilates classes await you. Mark your progress, lace up your Nikes, and feel the thrill of the run!\n\n4) Always Here for You:\nOur amicable team of coaches and support staff is ever-ready. Any query, any time, we're right beside you in this exhilarating journey.\n\nEXPLORE OUR VAST ARRAY OF PLANS:\n\nFrom Couch to 5k plans for novices or those returning post hiatus, to intricate marathon and ultra marathon programs, our range is vast. We also offer:\n\n- Functional fitness routines for holistic strength.\n- Recovery blueprints post-race or post-injury.\n- Tailored plans for triathlon running across varying distances.\n- And myriad other programs to keep your stamina top-notch.\n\nCOMPATIBLE DEVICES:\n\nRunna is compatible with a wide range of devices including Apple Watch, Garmin, and COROS. This ensures you can track your runs, regardless of your preferred device.\n\nRUNNA PREMIUM:\n\nFor the ultimate running experience, subscribe to Runna Premium for monthly or annual plans. Track your progress, monitor your pace, and burn those calories with personalised workout plans and support. \n\nPayments and renewal:\n- Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period.\n- You can manage or turn off auto-renew in your Account settings at any time after purchase\n- No cancellation of the current subscription is allowed during the active period.\n\nAPPLE HEALTH USAGE:\n\nRunna uses your health data to provide accurate heart rate, distance and pace information during your runs and workouts on Apple Watch. \n\nTerms of use: https://www.runna.com/terms-and-conditions\nPrivacy policy: https://www.runna.com/privacy-policy",
+    "averageUserRatingForCurrentVersion": 4.85454,
+    "sellerUrl": "https://www.runna.com/",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -206,12 +208,10 @@
     ],
     "fileSizeBytes": "235305984",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 31867,
+    "userRatingCountForCurrentVersion": 31878,
     "trackContentRating": "17+",
-    "sellerUrl": "https://www.runna.com/",
-    "averageUserRatingForCurrentVersion": 4.85483,
-    "minimumOsVersion": "16.0",
-    "releaseDate": "2021-12-11T08:00:00Z",
-    "userRatingCount": 31867
+    "sellerName": "Strava Inc.",
+    "price": 0,
+    "userRatingCount": 31878
   }
 }

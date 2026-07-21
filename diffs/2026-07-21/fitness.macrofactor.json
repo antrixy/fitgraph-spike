@@ -1,0 +1,24 @@
+{
+  "product": "fitness.macrofactor",
+  "name": "MacroFactor",
+  "date": "2026-07-21",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:39:58.844Z",
+      "curr_fetched_at": "2026-07-21T09:07:03.775Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.7.9",
+          "new": "5.8.3"
+        },
+        {
+          "field": "recentChanges",
+          "old": "* Bug fixes and performance improvements",
+          "new": "* New AI custom food creation and label scanning<br>* Bug fixes and performance improvements"
+        }
+      ]
+    }
+  }
+}

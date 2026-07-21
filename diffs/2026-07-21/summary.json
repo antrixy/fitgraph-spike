@@ -1,0 +1,248 @@
+{
+  "date": "2026-07-21",
+  "apps_total": 50,
+  "apps_changed": 16,
+  "apps_with_failures": 0,
+  "interesting": 2,
+  "rows": [
+    {
+      "product_id": "fitness.jefit",
+      "changed": [
+        "play:description"
+      ],
+      "price_signal": true,
+      "integration_signal": true,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.headspace",
+      "changed": [
+        "itunes:version",
+        "pricing_page"
+      ],
+      "price_signal": true,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.caliber",
+      "changed": [
+        "itunes:version",
+        "itunes:releaseNotes",
+        "play:version",
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.macrofactor",
+      "changed": [
+        "play:version",
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.runna",
+      "changed": [
+        "play:version",
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.centr",
+      "changed": [
+        "itunes:version",
+        "itunes:releaseNotes"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.cronometer",
+      "changed": [
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.fatsecret",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.mynetdiary",
+      "changed": [
+        "pricing_page"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.yazio",
+      "changed": [
+        "itunes:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.noom",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.weightwatchers",
+      "changed": [
+        "pricing_page"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.calai",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.hevy",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.nikerunclub",
+      "changed": [
+        "itunes:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.mapmyrun",
+      "changed": [
+        "itunes:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.myfitnesspal",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.lifesum",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.strava",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.adidasrunning",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.komoot",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.alltrails",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.fitbit",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.samsunghealth",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.sleepcycle",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    }
+  ]
+}

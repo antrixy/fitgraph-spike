@@ -1,9 +1,24 @@
 {
-  "fetched_at": "2026-07-20T09:47:28.396Z",
+  "fetched_at": "2026-07-21T09:14:39.708Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=983693694&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/88/57/2b885731-e332-382b-16db-8a402a493e9c/en-US-iphone55-portrait-01.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/b6/18/ffb618ad-06da-4656-80a0-be03c65b4d22/en-US-iphone55-portrait-02.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/e1/94/d3e1941a-8354-cf50-ce60-6211f1efb762/en-US-iphone55-portrait-03.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/1e/06/891e06d8-9bbe-d1ec-46e3-7555291be2df/en-US-iphone55-portrait-04.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/0d/f2/a50df2ab-22b8-213f-904b-d6dc2e2228f0/en-US-iphone55-portrait-05.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4c/69/364c6974-52dd-22a6-cfea-1ea2c10d3d36/en-US-iphone55-portrait-06.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/d5/60/f0d560bb-23e9-b0b8-80e8-1a67c98c71d9/en-US-iphone55-portrait-07.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ab/9d/4eab9d01-608a-ae67-2bf0-289ff9785fc0/Original-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -135,46 +150,11 @@
     ],
     "advisories": [],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/88/57/2b885731-e332-382b-16db-8a402a493e9c/en-US-iphone55-portrait-01.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/b6/18/ffb618ad-06da-4656-80a0-be03c65b4d22/en-US-iphone55-portrait-02.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/e1/94/d3e1941a-8354-cf50-ce60-6211f1efb762/en-US-iphone55-portrait-03.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/1e/06/891e06d8-9bbe-d1ec-46e3-7555291be2df/en-US-iphone55-portrait-04.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/0d/f2/a50df2ab-22b8-213f-904b-d6dc2e2228f0/en-US-iphone55-portrait-05.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4c/69/364c6974-52dd-22a6-cfea-1ea2c10d3d36/en-US-iphone55-portrait-06.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/d5/60/f0d560bb-23e9-b0b8-80e8-1a67c98c71d9/en-US-iphone55-portrait-07.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ab/9d/4eab9d01-608a-ae67-2bf0-289ff9785fc0/Original-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ab/9d/4eab9d01-608a-ae67-2bf0-289ff9785fc0/Original-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ab/9d/4eab9d01-608a-ae67-2bf0-289ff9785fc0/Original-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/yoga-buddhi-co/id983693693?uo=4",
-    "averageUserRating": 4.92251,
-    "releaseNotes": "- Practice Yoga, Pilates, Meditation and HIIT, all in one app\n- Personal Challenges. Set a goal, track your streak, stay consistent\n- All-new design",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "artistId": 983693693,
-    "artistName": "Yoga Buddhi Co.",
-    "trackId": 983693694,
-    "trackName": "Yoga | Down Dog",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "price": 0,
-    "currentVersionReleaseDate": "2026-07-01T16:16:43Z",
-    "version": "8.2.5",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Down Dog builds a brand-new yoga practice every time you press start — tailored to your level, focus, pace, and time. With over a million possible configurations, no two sessions are the same.\n\nWhether you're brand new to yoga or have been practicing for decades, Down Dog adapts to where you are today.\n\nOVER TEN STYLES OF YOGA \nVinyasa, Restorative, Yin, Wake-Up Yoga, and more. Easily switch between styles to get the practice that's right for you. \n\nBEGINNER FRIENDLY \nStart with Beginner 1 and build up at your own pace. Unlock new poses and more variety as you level up.\n\nTARGET WHAT MATTERS TO YOU \nUse the Boost feature to focus your practice on any of 19 body areas - backbends, hip openers, core, shoulders, and more. Select a primary and a secondary boost to customize every practice, or get more variety in your routines by rotating through them all. \n\nTOTALLY CUSTOMIZABLE PRACTICES \n\"Like\" poses to see them more often. \"Dislike\" poses to skip them. \n\nCHOOSE YOUR VOICE \nChoose from 6 different yoga teachers to be guided by a voice you love.\n\nSTAY CONSISTENT \nSet daily, weekly, or monthly goals. Build streaks and develop a practice that works for your schedule. \n\nYOUR FULL WELLNESS TOOLKIT \nOne subscription unlocks our full library of practice types, all in one app:\n\nMeditation - guided sessions for stress, sleep, focus, and mindfulness\nPilates - core, posture, and stability\nHIIT - fast, efficient workouts that build strength and cardio fitness\nSwitch between them anytime. No extra downloads, no extra fees.\n\nSYNCS WITH APPLE HEALTH \nTrack your practice alongside the rest of your wellness data.\n\nMULTIPLE LANGUAGES \nAll yoga practices are available in English, Spanish, Portuguese, French, German, Italian, Russian, Mandarin, Japanese, Korean, Turkish, Polish, and Ukrainian\n\n“I LOVE your app. I am a physician and I recommend it to my patients all the time, for those suffering from anxiety and panic disorder to those with low back pain. I can’t thank you enough for bringing yoga back into my life- making it so accessible, approachable, and convenient.” -James\n\n“Love it, as always. You guys have changed my life. I’m not a T-Rex anymore and I can move without back pain. Thank you :)” -Sharon\n\n“Restorative mode is perfect for my 71 year old body!” -Margaret\n\n“I am absolutely thrilled with the quality of this practice. I felt like I was in a studio and I was really sweaty and challenged. Well done!” -Emily\n\n“After just one Yin session, I can feel a *huge* difference in my flexibility.” - Alexandra\n\nIntegrates with the Apple Health app!\n\nDown Dog's terms and conditions can be found at https://www.downdogapp.com/terms\nDown Dog's privacy policy can be found at https://www.downdogapp.com/privacy",
-    "averageUserRatingForCurrentVersion": 4.92251,
     "minimumOsVersion": "15.0",
+    "averageUserRatingForCurrentVersion": 4.92253,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -192,17 +172,37 @@
     ],
     "fileSizeBytes": "93173760",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 326451,
     "trackContentRating": "4+",
-    "trackCensoredName": "Yoga | Down Dog",
-    "trackViewUrl": "https://apps.apple.com/us/app/yoga-down-dog/id983693694?uo=4",
-    "contentAdvisoryRating": "4+",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "Yoga Buddhi Co",
+    "userRatingCountForCurrentVersion": 326501,
+    "artistId": 983693693,
+    "artistName": "Yoga Buddhi Co.",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "price": 0,
     "bundleId": "co.yogabuddhi.YogaBuddhi",
     "releaseDate": "2015-08-02T22:37:46Z",
+    "trackId": 983693694,
+    "trackName": "Yoga | Down Dog",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "userRatingCount": 326451
+    "releaseNotes": "- Practice Yoga, Pilates, Meditation and HIIT, all in one app\n- Personal Challenges. Set a goal, track your streak, stay consistent\n- All-new design",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-07-01T16:16:43Z",
+    "version": "8.2.5",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Down Dog builds a brand-new yoga practice every time you press start — tailored to your level, focus, pace, and time. With over a million possible configurations, no two sessions are the same.\n\nWhether you're brand new to yoga or have been practicing for decades, Down Dog adapts to where you are today.\n\nOVER TEN STYLES OF YOGA \nVinyasa, Restorative, Yin, Wake-Up Yoga, and more. Easily switch between styles to get the practice that's right for you. \n\nBEGINNER FRIENDLY \nStart with Beginner 1 and build up at your own pace. Unlock new poses and more variety as you level up.\n\nTARGET WHAT MATTERS TO YOU \nUse the Boost feature to focus your practice on any of 19 body areas - backbends, hip openers, core, shoulders, and more. Select a primary and a secondary boost to customize every practice, or get more variety in your routines by rotating through them all. \n\nTOTALLY CUSTOMIZABLE PRACTICES \n\"Like\" poses to see them more often. \"Dislike\" poses to skip them. \n\nCHOOSE YOUR VOICE \nChoose from 6 different yoga teachers to be guided by a voice you love.\n\nSTAY CONSISTENT \nSet daily, weekly, or monthly goals. Build streaks and develop a practice that works for your schedule. \n\nYOUR FULL WELLNESS TOOLKIT \nOne subscription unlocks our full library of practice types, all in one app:\n\nMeditation - guided sessions for stress, sleep, focus, and mindfulness\nPilates - core, posture, and stability\nHIIT - fast, efficient workouts that build strength and cardio fitness\nSwitch between them anytime. No extra downloads, no extra fees.\n\nSYNCS WITH APPLE HEALTH \nTrack your practice alongside the rest of your wellness data.\n\nMULTIPLE LANGUAGES \nAll yoga practices are available in English, Spanish, Portuguese, French, German, Italian, Russian, Mandarin, Japanese, Korean, Turkish, Polish, and Ukrainian\n\n“I LOVE your app. I am a physician and I recommend it to my patients all the time, for those suffering from anxiety and panic disorder to those with low back pain. I can’t thank you enough for bringing yoga back into my life- making it so accessible, approachable, and convenient.” -James\n\n“Love it, as always. You guys have changed my life. I’m not a T-Rex anymore and I can move without back pain. Thank you :)” -Sharon\n\n“Restorative mode is perfect for my 71 year old body!” -Margaret\n\n“I am absolutely thrilled with the quality of this practice. I felt like I was in a studio and I was really sweaty and challenged. Well done!” -Emily\n\n“After just one Yin session, I can feel a *huge* difference in my flexibility.” - Alexandra\n\nIntegrates with the Apple Health app!\n\nDown Dog's terms and conditions can be found at https://www.downdogapp.com/terms\nDown Dog's privacy policy can be found at https://www.downdogapp.com/privacy",
+    "trackViewUrl": "https://apps.apple.com/us/app/yoga-down-dog/id983693694?uo=4",
+    "contentAdvisoryRating": "4+",
+    "trackCensoredName": "Yoga | Down Dog",
+    "averageUserRating": 4.92253,
+    "sellerName": "Yoga Buddhi Co",
+    "userRatingCount": 326501
   }
 }

@@ -1,0 +1,41 @@
+{
+  "product": "fitness.caliber",
+  "name": "Caliber",
+  "date": "2026-07-21",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:42:04.767Z",
+      "curr_fetched_at": "2026-07-21T09:09:19.646Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.14.1",
+          "new": "5.15.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Bug fixes and performance improvements.",
+          "new": "* Introducing Caliber's MCP server, with support for both ChatGPT and Claude! This can now be set up in Menu > Connected Apps\n* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca",
+      "prev_fetched_at": "2026-07-20T09:42:08.026Z",
+      "curr_fetched_at": "2026-07-21T09:09:21.793Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.14.1",
+          "new": "5.15.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Bug fixes and performance improvements.",
+          "new": "* Introducing Caliber MCP&#39;s server, with support for both ChatGPT and Claude! This can now be set up in Menu &gt; Connected Apps<br>* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!"
+        }
+      ]
+    }
+  }
+}
