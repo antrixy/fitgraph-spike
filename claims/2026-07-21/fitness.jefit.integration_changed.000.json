@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "app_description",
       "excerpt": "Community: Connect with others on the same journey and learn from top gym routines worldwide. New Features: Sync with Apple Health and Strava for an all-in-one workout app experience. Review session analytics, optimize your gym workouts, and build s",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
       "prev_ok_commit": "f3a68c0f8bc1be7d92718fa89ca1a0a591a897ca"
     }
   ],
