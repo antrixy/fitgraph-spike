@@ -1,0 +1,19 @@
+{
+  "product": "fitness.balance",
+  "name": "Balance",
+  "date": "2026-07-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:14:58.489Z",
+      "curr_fetched_at": "2026-07-22T09:13:24.839Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.205.0",
+          "new": "1.206.0"
+        }
+      ]
+    }
+  }
+}

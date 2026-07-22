@@ -1,0 +1,19 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-07-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:08:47.001Z",
+      "curr_fetched_at": "2026-07-22T09:07:15.629Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.4",
+          "new": "3.1.5"
+        }
+      ]
+    }
+  }
+}

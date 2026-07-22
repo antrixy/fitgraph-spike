@@ -1,17 +1,16 @@
 {
-  "fetched_at": "2026-07-21T09:13:56.235Z",
+  "fetched_at": "2026-07-22T09:12:25.999Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1049234587&country=us",
   "result": {
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [],
-    "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
+    "artistViewUrl": "https://apps.apple.com/us/developer/the-bikini-body-training-company-pty-ltd/id1049234586?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.jpg",
     "advisories": [],
+    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -143,10 +142,37 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/the-bikini-body-training-company-pty-ltd/id1049234586?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/2b/01/3c2b0164-c0d7-b9e4-5f9f-ab5977e1b709/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "bundleId": "com.PixelForceSystems.SweatWithKayla",
+    "averageUserRating": 4.6277,
+    "contentAdvisoryRating": "17+",
+    "trackCensoredName": "Sweat: Fitness App For Women",
+    "trackViewUrl": "https://apps.apple.com/us/app/sweat-fitness-app-for-women/id1049234587?uo=4",
+    "currentVersionReleaseDate": "2026-07-13T18:56:57Z",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "releaseDate": "2015-11-20T00:47:35Z",
+    "releaseNotes": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n• Bug fixes and experience improvements\nLove Sweat? Rate us 5 stars and share your love with the community!",
+    "sellerName": "The Bikini Body Training Company Pty Ltd",
+    "version": "7.8.1",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Train at home or in the gym with one of the world’s largest women’s fitness communities! Get the fitness motivation you need with Sweat, a personal training app featuring co-founder and elite head trainer, Kayla Itsines. \n\nSweat offers a broad suite of challenging, yet achievable programs with workouts you can do anywhere, anytime to progressively build your fitness. New programs give you more ways to push yourself and get you closer to reaching your goals. Stay accountable with virtual community challenges and feel supported by like-minded women everywhere.\n\nJoin Kayla and Sweat’s other world-class trainers: Kelsey Wells, Britany Williams, Cass Olholm — and more! — on your journey to discovering fitness confidence.\n\nAll new members get exclusive access to a free trial.\n\nFind a training style you enjoy with easy-to-follow beginner, intermediate and advanced workouts, including:\n- HIIT (High-intensity interval training)\n- Circuit Training\n- Bodyweight exercises\n- Powerbuilding\n- Strength training\n- Yoga\n- Barre\n- Pilates\n- Recovery\n- Cardio\n- Pregnancy and postnatal\n\nTrain your way — follow a program or work out on demand. Choose workouts that suit your lifestyle with no equipment, free weights or machines and express workouts when you are short on time. \n\nSweat’s features make it simple to stay on track and keep on top of your progress. Features include:\n- Exercise descriptions and video demonstrations\n- Exercise substitutions to make movements harder or easier\n- Trainer audio cues\n- Log weights used during gym-based programs\n- Planner to schedule your workouts and track your weekly progress\n- Share “sweaty selfies” with your friends and the Sweat Community to keep motivated\n- Comprehensive education section covering fitness, nutrition and wellbeing\n- Over 200 fresh & fast meals for every lifestyle\n- Daily step and hydration trackers\n- 24/7 access to the Sweat Community\n\nEnable Apple Health with your Apple Watch to keep track of all your activity in the Sweat app.\n\nSUBSCRIPTION PRICING & TERMS\nSweat is free to download. Ongoing use requires an active subscription, available on a monthly or yearly basis. New customers who choose a monthly subscription are eligible for a free trial period. Yearly subscriptions are billed the total annual fee from purchase date. Monthly subscription users are billed per month.\n\nPayment will be charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period. There is no increase in price when renewing.\n\nSubscriptions can be managed and auto-renewal turned off in Account Settings in iTunes after purchase. Once purchased, refunds will not be provided for any unused portion of the term. Read our full Terms and conditions & Privacy Policy:\nhttps://www.sweat.com/pages/terms-and-conditions\nhttps://www.sweat.com/privacy",
     "sellerUrl": "https://www.sweat.com",
+    "averageUserRatingForCurrentVersion": 4.6277,
+    "userRatingCountForCurrentVersion": 43049,
+    "minimumOsVersion": "17.0",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -160,38 +186,12 @@
     "fileSizeBytes": "171892736",
     "formattedPrice": "Free",
     "trackContentRating": "17+",
-    "userRatingCountForCurrentVersion": 43048,
-    "averageUserRatingForCurrentVersion": 4.62767,
-    "price": 0,
-    "artistId": 1049234586,
-    "artistName": "The Bikini Body Training Company Pty Ltd",
+    "isVppDeviceBasedLicensingEnabled": true,
     "trackId": 1049234587,
     "trackName": "Sweat: Fitness App For Women",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "currentVersionReleaseDate": "2026-07-13T18:56:57Z",
-    "sellerName": "The Bikini Body Training Company Pty Ltd",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "version": "7.8.1",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Train at home or in the gym with one of the world’s largest women’s fitness communities! Get the fitness motivation you need with Sweat, a personal training app featuring co-founder and elite head trainer, Kayla Itsines. \n\nSweat offers a broad suite of challenging, yet achievable programs with workouts you can do anywhere, anytime to progressively build your fitness. New programs give you more ways to push yourself and get you closer to reaching your goals. Stay accountable with virtual community challenges and feel supported by like-minded women everywhere.\n\nJoin Kayla and Sweat’s other world-class trainers: Kelsey Wells, Britany Williams, Cass Olholm — and more! — on your journey to discovering fitness confidence.\n\nAll new members get exclusive access to a free trial.\n\nFind a training style you enjoy with easy-to-follow beginner, intermediate and advanced workouts, including:\n- HIIT (High-intensity interval training)\n- Circuit Training\n- Bodyweight exercises\n- Powerbuilding\n- Strength training\n- Yoga\n- Barre\n- Pilates\n- Recovery\n- Cardio\n- Pregnancy and postnatal\n\nTrain your way — follow a program or work out on demand. Choose workouts that suit your lifestyle with no equipment, free weights or machines and express workouts when you are short on time. \n\nSweat’s features make it simple to stay on track and keep on top of your progress. Features include:\n- Exercise descriptions and video demonstrations\n- Exercise substitutions to make movements harder or easier\n- Trainer audio cues\n- Log weights used during gym-based programs\n- Planner to schedule your workouts and track your weekly progress\n- Share “sweaty selfies” with your friends and the Sweat Community to keep motivated\n- Comprehensive education section covering fitness, nutrition and wellbeing\n- Over 200 fresh & fast meals for every lifestyle\n- Daily step and hydration trackers\n- 24/7 access to the Sweat Community\n\nEnable Apple Health with your Apple Watch to keep track of all your activity in the Sweat app.\n\nSUBSCRIPTION PRICING & TERMS\nSweat is free to download. Ongoing use requires an active subscription, available on a monthly or yearly basis. New customers who choose a monthly subscription are eligible for a free trial period. Yearly subscriptions are billed the total annual fee from purchase date. Monthly subscription users are billed per month.\n\nPayment will be charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period. There is no increase in price when renewing.\n\nSubscriptions can be managed and auto-renewal turned off in Account Settings in iTunes after purchase. Once purchased, refunds will not be provided for any unused portion of the term. Read our full Terms and conditions & Privacy Policy:\nhttps://www.sweat.com/pages/terms-and-conditions\nhttps://www.sweat.com/privacy",
-    "trackCensoredName": "Sweat: Fitness App For Women",
-    "trackViewUrl": "https://apps.apple.com/us/app/sweat-fitness-app-for-women/id1049234587?uo=4",
-    "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.62767,
-    "minimumOsVersion": "17.0",
-    "releaseDate": "2015-11-20T00:47:35Z",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "releaseNotes": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n• Bug fixes and experience improvements\nLove Sweat? Rate us 5 stars and share your love with the community!",
-    "bundleId": "com.PixelForceSystems.SweatWithKayla",
-    "userRatingCount": 43048
+    "artistId": 1049234586,
+    "artistName": "The Bikini Body Training Company Pty Ltd",
+    "price": 0,
+    "userRatingCount": 43049
   }
 }

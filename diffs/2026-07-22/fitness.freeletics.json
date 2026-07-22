@@ -1,0 +1,31 @@
+{
+  "product": "fitness.freeletics",
+  "name": "Freeletics",
+  "date": "2026-07-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:14:18.212Z",
+      "curr_fetched_at": "2026-07-22T09:12:44.989Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.27.0",
+          "new": "26.28.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:14:21.697Z",
+      "curr_fetched_at": "2026-07-22T09:12:47.755Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.27.0",
+          "new": "26.28.0"
+        }
+      ]
+    }
+  }
+}

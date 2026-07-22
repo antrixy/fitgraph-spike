@@ -1,0 +1,127 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-07-22",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "curr_fetched_at": "2026-07-22T09:06:42.155Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "50% off with a 12-month plan",
+          "occurrences": 1
+        },
+        {
+          "text": "*Pricing based on a 12-month commitment.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews at the end of each plan term for another 12-month period unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "^$25/month for your first month with a 12-month plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "After the first month, membership continues for $74/mo for remainder of the 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Starting at $12 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $22 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $25 /first month^",
+          "occurrences": 1
+        },
+        {
+          "text": "Access to medication, clinical care, and comprehensive support.",
+          "occurrences": 1
+        },
+        {
+          "text": "^$25 for your first month with a 12-month plan.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "SUMMER FLASH SALE ENDS TODAY!",
+          "occurrences": 1
+        },
+        {
+          "text": "Save 66% on your first two months of Med+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start for just $25!",
+          "occurrences": 1
+        },
+        {
+          "text": "*Offer ends 7/21/2026.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $10/month for your first 12 months when you purchase a 12-month Weight Watchers Core membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews for another 12-month period at the regular price at the end of each plan term unless canceled.",
+          "occurrences": 2
+        },
+        {
+          "text": "Excludes all other Weight Watchers plans, packages and services.",
+          "occurrences": 1
+        },
+        {
+          "text": "†Offer ends 7/21/2026.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $20/month for your first 12 months when you purchase a 12-month Weight Watchers Core+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Offer available in participating areas only .",
+          "occurrences": 1
+        },
+        {
+          "text": "^Offer ends 7/21/26 at 11:59 PM PDT.",
+          "occurrences": 2
+        },
+        {
+          "text": "$25/month for the first two months with a 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "After the first two months, membership continues for $74/mo for remainder of the 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Starting at $10 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $20 /month†",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $25 /mo for first two month^",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 prescriptions, clinical care, and comprehensive support.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 10,
+      "removed_total": 17
+    }
+  }
+}

@@ -1,8 +1,30 @@
 {
-  "fetched_at": "2026-07-21T09:07:10.213Z",
+  "fetched_at": "2026-07-22T09:05:45.912Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=347184248&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/1d/8d/8f1d8db3-1208-99b8-943d-f488f3d28370/iOS_5.5_english_1.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/6f/56/bc6f565c-746c-faaa-c84c-71801eb13edd/iOS_5.5_english_2.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/38/2d/a4382d94-d54f-cfbb-1751-67ac2341b5c0/iOS_5.5_english_3.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/e8/a9/9ee8a9f7-1dfc-2609-ed2a-46ae4b5649ab/iOS_5.5_english_4.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/71/2f/b7712ff1-f57b-82bf-f675-4cb1a0e2649b/iOS_5.5_english_5.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/81/ce/cb81cee0-bd23-5631-d276-f757f73b331d/iOS_5.5_english_6.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/c6/1f/c7c61fa5-5189-daa8-c31e-82c78985fd6e/iOS_5.5_english_7.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/3d/2d/9c3d2daf-f19d-8ecb-a75c-4189b8991733/iOS_5.5_english_8.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a4/94/bba49459-3ccf-41fd-f0c7-153c7fbfeef7/iOS_5.5_english_9.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/f0/28/95f028ed-3125-3183-69e4-8eb5742248ee/iOS_5.5_english_10.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/ef/f4e3ef1f-bc5f-a7ab-87dd-4aae98593a1a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
+    "advisories": [
+      "Infrequent/Mild Medical/Treatment Information"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -133,57 +155,10 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "isGameCenterEnabled": false,
-    "advisories": [
-      "Infrequent/Mild Medical/Treatment Information"
-    ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/1d/8d/8f1d8db3-1208-99b8-943d-f488f3d28370/iOS_5.5_english_1.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/6f/56/bc6f565c-746c-faaa-c84c-71801eb13edd/iOS_5.5_english_2.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/38/2d/a4382d94-d54f-cfbb-1751-67ac2341b5c0/iOS_5.5_english_3.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/e8/a9/9ee8a9f7-1dfc-2609-ed2a-46ae4b5649ab/iOS_5.5_english_4.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/71/2f/b7712ff1-f57b-82bf-f675-4cb1a0e2649b/iOS_5.5_english_5.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/81/ce/cb81cee0-bd23-5631-d276-f757f73b331d/iOS_5.5_english_6.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/c6/1f/c7c61fa5-5189-daa8-c31e-82c78985fd6e/iOS_5.5_english_7.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/3d/2d/9c3d2daf-f19d-8ecb-a75c-4189b8991733/iOS_5.5_english_8.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/a4/94/bba49459-3ccf-41fd-f0c7-153c7fbfeef7/iOS_5.5_english_9.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/f0/28/95f028ed-3125-3183-69e4-8eb5742248ee/iOS_5.5_english_10.png/392x696bb.png"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/ef/f4e3ef1f-bc5f-a7ab-87dd-4aae98593a1a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
+    "artistViewUrl": "https://apps.apple.com/us/developer/fatsecret/id347184251?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/ef/f4e3ef1f-bc5f-a7ab-87dd-4aae98593a1a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e3/ef/f4e3ef1f-bc5f-a7ab-87dd-4aae98593a1a/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/fatsecret/id347184251?uo=4",
-    "userRatingCountForCurrentVersion": 14540,
-    "releaseNotes": "In this release:\nIncidental bug fixes and app optimizations.",
-    "genres": [
-      "Health & Fitness",
-      "Food & Drink"
-    ],
-    "price": 0,
-    "bundleId": "com.fatsecret.caloriecounter",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "currentVersionReleaseDate": "2026-07-20T03:20:54Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "Secret Industries Pty Ltd",
-    "releaseDate": "2009-12-23T07:43:00Z",
-    "genreIds": [
-      "6013",
-      "6023"
-    ],
-    "version": "11.6.2",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Welcome to fatsecret, the easiest to use calorie counter and most effective weight loss and dieting app on the market. Best of all, fatsecret is free.\n\nThe app is customized for US foods and brands.\n\nKeep track of your food, exercise and weight, using the world's highest quality food and nutrition database and connect with a global community of people looking to make a change for the better and start losing weight and achieve your goals the healthy way. \n\nThe app is available on Apple Watch and supports terrific Complications for your watch faces. \n\nThe app is fully integrated with the Health app which lets you share your data with other Health connected apps. In particular you can:\n- sync your Health app calories burned and steps in fatsecret\n- add all your foods and their detailed nutritional information to the Health app\n- sync your weight to the Health app\n\nfatsecret is fast, simple to use and includes integration with external tools and services to help you succeed with your diet: \n- An easy to use food diary to plan and keep track of what you're eating.\n- A wonderful community that's ready to provide support and turbo charge your weight loss.\n- Image recognition of foods, meals and products so you can take photos with the camera and track nutrition with pictures. \n- A barcode scanner and auto-complete functions.\n- Health app, and Fitbit exercise tracking integration.\n- An exercise diary to record all the calories you burn.\n- A diet calendar to see your calories consumed and burned.\n- A weight tracker.\n- Detailed reporting and goals for all your calories and macros.\n- Photo album. #Photodiet #Foodsnap #Instacalorie\n- A journal to record your progress. \n- Reminders for meals, weigh-ins and journals.\n- Notifications for support, comments and followers.\n- Fantastic recipes and meal ideas.\n- Sharing and interacting with your professional of choice.\n- Sign in with Apple, Facebook and Google login.\n\nThe app syncs with fatsecret Professional, the most convenient way to share your food, exercise and weight with your preferred health professional. Your health professional will get free access to simple and powerful tools to monitor your performance and provide you with feedback, advice and support.\n\nYou can also sync your account online to access your info anywhere, any time.\n\nPremium subscriptions are available for enhanced features to help you achieve your diet and weight management goals. Premium users get:\n- Nutritional meal plans created by our dietitian specifically for different diet preferences and calorie goals (Keto Style, Balanced, Mediterranean, Intermittent Fasting, High Protein Low Carb)\n- Advanced Meal Planning: plan ahead and know in advance how many calories each meal contains\n- Custom Meal Headings: Six additional meal types that allow you to spread your food intake across multiple points in the day\n- Water Tracking: so you can make sure you reach a daily water intake goal\n\nIf you choose to upgrade to fatsecret Premium, we offer a range of subscription options, including monthly, quarterly, or annually.\n\nPayment will be charged through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period at the same price and subscription type you previously purchased.  \n\nSubscriptions can be managed through your iTunes account after purchase. It is not possible to refund or cancel a subscription during the period.\n\nTerms of Use: https://www.fatsecret.com/Default.aspx?pa=tnc\n\nWe hope you'll love Calorie Counter by fatsecret. We are constantly working to improve the app and welcome user feedback.",
-    "minimumOsVersion": "16.0",
-    "averageUserRatingForCurrentVersion": 4.76272,
-    "sellerUrl": "https://www.fatsecret.com",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -208,17 +183,42 @@
       "UK",
       "VI"
     ],
-    "fileSizeBytes": "150201344",
-    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 14546,
     "trackContentRating": "12+",
-    "averageUserRating": 4.76272,
-    "contentAdvisoryRating": "12+",
-    "trackCensoredName": "Calorie Counter by fatsecret",
-    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248?uo=4",
-    "trackName": "Calorie Counter by fatsecret",
-    "trackId": 347184248,
+    "sellerUrl": "https://www.fatsecret.com",
+    "averageUserRatingForCurrentVersion": 4.76267,
+    "formattedPrice": "Free",
+    "fileSizeBytes": "150201344",
+    "price": 0,
+    "genres": [
+      "Health & Fitness",
+      "Food & Drink"
+    ],
     "artistId": 347184251,
     "artistName": "fatsecret",
-    "userRatingCount": 14540
+    "bundleId": "com.fatsecret.caloriecounter",
+    "currentVersionReleaseDate": "2026-07-20T03:20:54Z",
+    "releaseDate": "2009-12-23T07:43:00Z",
+    "trackId": 347184248,
+    "trackName": "Calorie Counter by fatsecret",
+    "genreIds": [
+      "6013",
+      "6023"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Secret Industries Pty Ltd",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseNotes": "In this release:\nIncidental bug fixes and app optimizations.",
+    "version": "11.6.2",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Welcome to fatsecret, the easiest to use calorie counter and most effective weight loss and dieting app on the market. Best of all, fatsecret is free.\n\nThe app is customized for US foods and brands.\n\nKeep track of your food, exercise and weight, using the world's highest quality food and nutrition database and connect with a global community of people looking to make a change for the better and start losing weight and achieve your goals the healthy way. \n\nThe app is available on Apple Watch and supports terrific Complications for your watch faces. \n\nThe app is fully integrated with the Health app which lets you share your data with other Health connected apps. In particular you can:\n- sync your Health app calories burned and steps in fatsecret\n- add all your foods and their detailed nutritional information to the Health app\n- sync your weight to the Health app\n\nfatsecret is fast, simple to use and includes integration with external tools and services to help you succeed with your diet: \n- An easy to use food diary to plan and keep track of what you're eating.\n- A wonderful community that's ready to provide support and turbo charge your weight loss.\n- Image recognition of foods, meals and products so you can take photos with the camera and track nutrition with pictures. \n- A barcode scanner and auto-complete functions.\n- Health app, and Fitbit exercise tracking integration.\n- An exercise diary to record all the calories you burn.\n- A diet calendar to see your calories consumed and burned.\n- A weight tracker.\n- Detailed reporting and goals for all your calories and macros.\n- Photo album. #Photodiet #Foodsnap #Instacalorie\n- A journal to record your progress. \n- Reminders for meals, weigh-ins and journals.\n- Notifications for support, comments and followers.\n- Fantastic recipes and meal ideas.\n- Sharing and interacting with your professional of choice.\n- Sign in with Apple, Facebook and Google login.\n\nThe app syncs with fatsecret Professional, the most convenient way to share your food, exercise and weight with your preferred health professional. Your health professional will get free access to simple and powerful tools to monitor your performance and provide you with feedback, advice and support.\n\nYou can also sync your account online to access your info anywhere, any time.\n\nPremium subscriptions are available for enhanced features to help you achieve your diet and weight management goals. Premium users get:\n- Nutritional meal plans created by our dietitian specifically for different diet preferences and calorie goals (Keto Style, Balanced, Mediterranean, Intermittent Fasting, High Protein Low Carb)\n- Advanced Meal Planning: plan ahead and know in advance how many calories each meal contains\n- Custom Meal Headings: Six additional meal types that allow you to spread your food intake across multiple points in the day\n- Water Tracking: so you can make sure you reach a daily water intake goal\n\nIf you choose to upgrade to fatsecret Premium, we offer a range of subscription options, including monthly, quarterly, or annually.\n\nPayment will be charged through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period at the same price and subscription type you previously purchased.  \n\nSubscriptions can be managed through your iTunes account after purchase. It is not possible to refund or cancel a subscription during the period.\n\nTerms of Use: https://www.fatsecret.com/Default.aspx?pa=tnc\n\nWe hope you'll love Calorie Counter by fatsecret. We are constantly working to improve the app and welcome user feedback.",
+    "averageUserRating": 4.76267,
+    "trackCensoredName": "Calorie Counter by fatsecret",
+    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248?uo=4",
+    "contentAdvisoryRating": "12+",
+    "minimumOsVersion": "16.0",
+    "userRatingCount": 14546
   }
 }

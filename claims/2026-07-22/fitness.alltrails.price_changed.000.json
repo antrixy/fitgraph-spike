@@ -1,0 +1,21 @@
+{
+  "claim_type": "price_changed",
+  "product": "fitness.alltrails",
+  "field": "iap_range",
+  "old_value": "$1.00 - $79.99 per item",
+  "new_value": "$1.00 – $79.99 per item",
+  "observed_at": "2026-07-22T09:10:46.848Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "play_listing",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

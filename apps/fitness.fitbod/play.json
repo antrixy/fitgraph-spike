@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T09:09:12.992Z",
+  "fetched_at": "2026-07-22T09:07:39.820Z",
   "source": "google_play_scraper",
   "appId": "com.fitbod.fitbod",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym &amp; home workout plans with strength training, exercise tracking, HIIT &amp; more.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4453976,
-    "score": 4.456359,
+    "maxInstalls": 4462743,
+    "score": 4.4577537,
     "scoreText": "4.5",
-    "ratings": 30039,
-    "reviews": 3860,
+    "ratings": 30060,
+    "reviews": 3861,
     "histogram": {
-      "1": 2501,
-      "2": 404,
-      "3": 988,
-      "4": 3129,
-      "5": 23011
+      "1": 2493,
+      "2": 402,
+      "3": 984,
+      "4": 3137,
+      "5": 23037
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "adSupported": false,
     "released": "May 22, 2020",
     "updated": 1784526977000,
-    "version": "8.25.0-2",
+    "version": "8.26.0-0",
     "recentChanges": "We did a little gym cleaning. Bugs were squashed. Dumbbells were put away. Mats were squeegeed. Performance got a boost. We get better with every release to be the best trainer for you.<br><br>As always, please reach out with any feedback or issues: feedback@fitbod.me",
     "comments": [],
     "preregister": false,

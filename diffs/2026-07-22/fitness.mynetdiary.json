@@ -1,0 +1,69 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:07:20.075Z",
+      "curr_fetched_at": "2026-07-22T09:05:58.440Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.26",
+          "new": "10.27"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:07:23.304Z",
+      "curr_fetched_at": "2026-07-22T09:06:00.097Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "curr_fetched_at": "2026-07-22T09:06:03.644Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Here's how tracking with MyNetDiary helps you maintain weight loss",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for editing and customizing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Monitoring your blood pressure?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s how this simple act can help you take charge of your health",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for the best food tracking app while working from home?",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 3
+    }
+  }
+}

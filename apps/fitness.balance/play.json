@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T09:15:03.449Z",
+  "fetched_at": "2026-07-22T09:13:27.229Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Get support for whatever life brings. Meditate and improve your mental health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3639062,
-    "score": 4.6445436,
+    "maxInstalls": 3640752,
+    "score": 4.644586,
     "scoreText": "4.6",
-    "ratings": 48338,
-    "reviews": 3301,
+    "ratings": 48340,
+    "reviews": 3302,
     "histogram": {
-      "1": 2557,
+      "1": 2554,
       "2": 645,
       "3": 583,
-      "4": 3823,
-      "5": 40715
+      "4": 3848,
+      "5": 40701
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 3, 2021",
-    "updated": 1783972241000,
+    "updated": 1784643751000,
     "version": "1.205.0",
     "recentChanges": "We’ve fixed various bugs throughout the app.<br><br>For more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "comments": [],

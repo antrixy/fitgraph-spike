@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-07-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "64306f489225fa32bd30f28b100ddddc7e787163",
+      "prev_fetched_at": "2026-07-21T09:10:46.404Z",
+      "curr_fetched_at": "2026-07-22T09:09:20.194Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.46.0",
+          "new": "8.46.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "This update is nothing flashy, but it will make everything feel more dialed in. Kinda like when your pace is bang on without checking your watch.",
+          "new": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!"
+        }
+      ]
+    }
+  }
+}

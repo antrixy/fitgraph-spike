@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T09:11:46.371Z",
+  "fetched_at": "2026-07-22T09:10:28.573Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 2673376,
-    "score": 3.9805195,
+    "score": 3.974026,
     "scoreText": "4.0",
-    "ratings": 26721,
+    "ratings": 26724,
     "reviews": 1342,
     "histogram": {
-      "1": 4592,
-      "2": 1122,
-      "3": 1643,
-      "4": 2165,
-      "5": 17170
+      "1": 4590,
+      "2": 1121,
+      "3": 1730,
+      "4": 2164,
+      "5": 17091
     },
     "price": 0,
     "free": true,
@@ -73,7 +73,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 13, 2019",
-    "updated": 1783192879000,
+    "updated": 1784310455000,
     "version": "1.117.0 (162952)",
     "recentChanges": "The Challenges section in the Home Screen is now renamed to &quot;This Week on Zwift&quot;. <br>Completed Challenges will now move to the end of the This Week on Zwift section.<br>Challenges now show the number of remaining days until the Challenge ends when within one week of ending.<br>Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.<br>Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
     "comments": [],
