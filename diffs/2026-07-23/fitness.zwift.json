@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-07-23",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "11b7c1da7f365698b3bbcf02c98e2e934c3867d1",
+      "prev_fetched_at": "2026-07-22T09:10:26.316Z",
+      "curr_fetched_at": "2026-07-23T09:08:54.407Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.117.0",
+          "new": "1.118.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• The Challenges section in the Home Screen is now renamed to \"This Week on Zwift\". \n• After completing a Challenge, it will move to the end of the This Week on Zwift section in the Home Screen.\n• Challenges on the Home screen now show the number of remaining days until the Challenge ends when within one week of ending.\n• Zwifter using cycling speed sensors can now change their tire size under Settings → Hardware.\n• Increased the size of the Target Watts field in the Workout HUD.\n• Fixed an issue that could cause an incorrect level to be displayed above a nearby rider as they level up.",
+          "new": "When equipping a bike in the garage, the last selected paint color for that frame will be restored. Clicking the paint icon to hide the color slider will also reset the equipped bike’s color to stock paint.\nFixed the end of ride screenshot selection toggling on drag instead of tap for phones and tablets.\nFixed reconnection bug with trainers' relayed sensors.\nFixed an issue where some riders could face in reverse in the event paddock."
+        }
+      ]
+    }
+  }
+}

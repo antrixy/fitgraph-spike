@@ -1,11 +1,14 @@
 {
-  "fetched_at": "2026-07-22T09:13:24.839Z",
+  "fetched_at": "2026-07-23T09:12:11.109Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1361356590&country=us",
   "result": {
-    "isGameCenterEnabled": false,
     "features": [],
-    "advisories": [],
+    "isGameCenterEnabled": false,
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -135,14 +138,21 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/the-mind-company/id875063459?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "bundleId": "com.elevateapp.kamino.kamino",
+    "averageUserRatingForCurrentVersion": 4.88028,
+    "sellerUrl": "https://themindcompany.com/apps/balance",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "189313024",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 119986,
+    "trackContentRating": "4+",
     "artistId": 875063459,
     "artistName": "The Mind Company",
     "genres": [
@@ -150,38 +160,28 @@
       "Lifestyle"
     ],
     "price": 0,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 1361356590,
+    "trackName": "Balance: Meditation & Sleep",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "bundleId": "com.elevateapp.kamino.kamino",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "Elevate Labs, LLC",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2019-09-03T07:00:00Z",
-    "trackId": 1361356590,
-    "trackName": "Balance: Meditation & Sleep",
-    "currentVersionReleaseDate": "2026-07-21T14:14:13Z",
     "releaseNotes": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "version": "1.206.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Improve your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalance’s daily meditations are organized in 10-day Plans that teach fundamental meditation skills geared toward your goals and needs. You’ll discover how to bring awareness to your day, increase your focus among distractions, and find deep relaxation in moments of stress.\n\nCLEAR YOUR MIND ANYTIME, ANYWHERE\nSingles are bite-sized guided meditations you can use anytime—even on the go. Wake up gently with a morning meditation, stretch, and then make your commute less chaotic with a meditation customized to your journey. Clear your mind with animated breathing exercises, and lower your stress, find energy, and increase your focus with quick Relax, Energize, and Concentrate meditations—and many more.\n\nSLEEP WELL WITH BED-TIME RELAXATION EXERCISES\nYou'll rest easy with our Sleep meditations, Sleep Sounds, and Wind Down activity—a first-of-its-kind interactive that uses bilateral stimulation and controlled breathing to help you relax before bed and find more restful sleep. You'll also experience cutting-edge Immersive Meditations, which blend vibrations, sound effects, and coach guidance to create a brand-new type of meditation experience.\n\nTAKE YOUR MEDITATION PRACTICE TO THE NEXT LEVEL\nGet started with our Foundations Plan, where you’ll train your focus and reduce anxiety. Or, if you already meditate often, start with our Advanced Plan, which helps you take your meditation practice to the next level.\n\nWHAT’S INCLUDED\n- Personalized guided meditations tailored to your mood and goals\n- 10-day Plans to help you develop your meditation skills\n- Bite-sized Single guided meditations you can use to get more out of any moment\n- First-of-their-kind Immersive Meditations to help you relax through a blend of vibration, sound effects, and guidance\n- Research-backed activities to help you relax and prepare for restful sleep\n- Mindful Minutes integration with Apple’s Health app\n- 10 concrete meditation techniques to build your practice: Breath Focus, Body Scan, and more\n\nIn meditation, “one-size-fits-all” fits no one. We all have our own ways of finding relaxation, focus, and rest. With thousands of paths and options, Balance helps you reach your goals—your way—through guided meditation that adapts to you.\n\nSUBSCRIPTION DETAILS\nStart your free trial to experience the benefits of Balance. After the trial, Balance offers two auto-renewing subscriptions at $11.99/month and $69.99/year. These prices are for United States customers, pricing in other countries may vary.\n\nYour subscription will automatically renew at the end of each subscription term unless auto-renewal is turned off at least 24 hours before the end of the term. Subscription renewals cost the same as the original subscription, and your credit card will be charged through your iTunes account at confirmation of purchase.\n\nBalance also offers a Lifetime subscription which is paid for by a one-off upfront payment of $399.99 with unlimited access to the Balance library forever.\n\nFor additional information, please read our Terms of Service (http://www.balanceapp.com/balance-terms.html) and Privacy Policy (http://www.balanceapp.com/balance-privacy.html).",
-    "averageUserRatingForCurrentVersion": 4.88025,
-    "sellerUrl": "https://themindcompany.com/apps/balance",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "189313024",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 119972,
-    "trackContentRating": "4+",
-    "averageUserRating": 4.88025,
     "trackCensoredName": "Balance: Meditation & Sleep",
     "trackViewUrl": "https://apps.apple.com/us/app/balance-meditation-sleep/id1361356590?uo=4",
     "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.88028,
     "minimumOsVersion": "16.0",
-    "userRatingCount": 119972
+    "currentVersionReleaseDate": "2026-07-21T14:14:13Z",
+    "sellerName": "Elevate Labs, LLC",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2019-09-03T07:00:00Z",
+    "userRatingCount": 119986
   }
 }

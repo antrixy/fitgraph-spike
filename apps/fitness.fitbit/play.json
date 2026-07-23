@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:11:03.201Z",
+  "fetched_at": "2026-07-23T09:09:40.218Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 276216114,
-    "score": 3.693118,
+    "score": 3.6914916,
     "scoreText": "3.7",
-    "ratings": 1296548,
-    "reviews": 251745,
+    "ratings": 1296923,
+    "reviews": 251787,
     "histogram": {
-      "1": 294184,
-      "2": 77118,
-      "3": 72455,
-      "4": 141421,
-      "5": 711363
+      "1": 294706,
+      "2": 77426,
+      "3": 72255,
+      "4": 141403,
+      "5": 711125
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Mar 16, 2012",
-    "updated": 1784636723000,
+    "updated": 1784737328000,
     "version": "VARY",
     "recentChanges": "- General stability improvements and bug fixes.<br>- Create, edit and delete custom foods for more personalised and easier meal logging.<br>- Quick log calories and macro estimates without having to add a specific food or meal name.<br>- Naps now count towards your sleep duration on the sleep tiles in the Today tab.",
     "comments": [],

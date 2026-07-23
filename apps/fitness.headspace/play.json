@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:13:19.347Z",
+  "fetched_at": "2026-07-23T09:12:03.091Z",
   "source": "google_play_scraper",
   "appId": "com.getsomeheadspace.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 42321403,
-    "score": 4.2671824,
+    "score": 4.2670283,
     "scoreText": "4.3",
-    "ratings": 339939,
-    "reviews": 31733,
+    "ratings": 339944,
+    "reviews": 31734,
     "histogram": {
-      "1": 41602,
-      "2": 12396,
-      "3": 10723,
-      "4": 24045,
-      "5": 251161
+      "1": 41593,
+      "2": 12428,
+      "3": 10720,
+      "4": 24042,
+      "5": 251149
     },
     "price": 0,
     "free": true,
@@ -68,7 +68,7 @@
     "adSupported": false,
     "released": "Jan 6, 2012",
     "updated": 1784249336000,
-    "version": "8.23.0",
+    "version": "8.24.2",
     "recentChanges": "A steady meditation practice can calm the mind. But sometimes a bug appears in the app and it distracts us. We removed that bug from this latest version, and we already feel more at ease.<br><br>If you run into any trouble, let us know at help@headspace.com",
     "comments": [],
     "preregister": false,

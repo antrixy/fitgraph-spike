@@ -1,0 +1,13 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-07-23",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "11b7c1da7f365698b3bbcf02c98e2e934c3867d1",
+      "prev_fetched_at": "2026-07-22T09:10:37.040Z",
+      "curr_fetched_at": "2026-07-23T09:09:07.894Z",
+      "version_unreported": true
+    }
+  }
+}

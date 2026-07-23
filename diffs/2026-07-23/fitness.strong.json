@@ -1,0 +1,24 @@
+{
+  "product": "fitness.strong",
+  "name": "Strong",
+  "date": "2026-07-23",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "11b7c1da7f365698b3bbcf02c98e2e934c3867d1",
+      "prev_fetched_at": "2026-07-22T09:07:05.260Z",
+      "curr_fetched_at": "2026-07-23T09:05:47.871Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "6.4.2",
+          "new": "6.4.3"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• New: \"Week of Year\" label format option for the Workouts Per Week widget\n• Fix: Keyboard may get stuck when switching between fields on iOS 27\n• Fix: RPE keyboard not appearing on iOS 27\n• Fix: Calendar widget highlighted date may be difficult to read for Liquid Glass theme\n• Various minor UI display fixes\n• Various layout improvements to the Strong iOS widgets",
+          "new": "• Fix: Chart plot markers could show outdated theme colors\n• Fix: Add Measurement date pickers not themed correctly\n• Fix: Apple Watch - Issues with timer and workout updates during Live Sync"
+        }
+      ]
+    }
+  }
+}

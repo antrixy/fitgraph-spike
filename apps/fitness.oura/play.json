@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:11:27.978Z",
+  "fetched_at": "2026-07-23T09:10:02.166Z",
   "source": "google_play_scraper",
   "appId": "com.ouraring.oura",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1298137,
-    "score": 4.6512,
+    "score": 4.6502123,
     "scoreText": "4.7",
-    "ratings": 36053,
-    "reviews": 6360,
+    "ratings": 36114,
+    "reviews": 6364,
     "histogram": {
-      "1": 1152,
-      "2": 787,
-      "3": 1037,
-      "4": 3517,
-      "5": 29552
+      "1": 1150,
+      "2": 765,
+      "3": 1111,
+      "4": 3506,
+      "5": 29577
     },
     "price": 0,
     "free": true,

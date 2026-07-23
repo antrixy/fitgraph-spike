@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:10:37.040Z",
+  "fetched_at": "2026-07-23T09:09:07.894Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 42612194,
-    "score": 4.067653,
+    "score": 4.0822783,
     "scoreText": "4.1",
-    "ratings": 404646,
+    "ratings": 405138,
     "reviews": 2112,
     "histogram": {
-      "1": 56423,
-      "2": 24730,
-      "3": 19608,
-      "4": 37615,
-      "5": 266029
+      "1": 55522,
+      "2": 24721,
+      "3": 18800,
+      "4": 37601,
+      "5": 268331
     },
     "price": 0,
     "free": true,
@@ -77,7 +77,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1784141591000,
+    "updated": 1784758448000,
     "version": "VARY",
     "recentChanges": "What&#39;s new?<br>- See downloaded offline regions and routes directly on the map as an optional overlay<br><br>Bug fixes<br>- The map on the Routes tab no longer zooms too far out when you return to it<br>- Fixed route lists not refreshing after edits or syncing across devices<br>- Fixed unresponsive &quot;Adjust fitness level&quot; and &quot;Change sport&quot; buttons in the route planner<br>- Fixed profile flickering",
     "comments": [],

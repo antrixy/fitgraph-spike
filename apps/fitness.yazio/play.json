@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:06:10.361Z",
+  "fetched_at": "2026-07-23T09:04:51.453Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 56829850,
-    "score": 4.4197183,
+    "score": 4.4266915,
     "scoreText": "4.4",
-    "ratings": 836232,
+    "ratings": 836707,
     "reviews": 2683,
     "histogram": {
-      "1": 62761,
-      "2": 21943,
-      "3": 40818,
-      "4": 86316,
-      "5": 624162
+      "1": 62060,
+      "2": 21172,
+      "3": 40887,
+      "4": 85688,
+      "5": 626667
     },
     "price": 0,
     "free": true,
@@ -81,7 +81,7 @@
     "adSupported": true,
     "released": "Apr 23, 2014",
     "updated": 1784276226000,
-    "version": "26.28.0",
+    "version": "26.29.0",
     "recentChanges": "We&#39;re so happy to see you&#39;re using Yazio to reach your goals! To help make things even easier for you, we&#39;ve made further improvements to the app. Good luck!<br>",
     "comments": [],
     "preregister": false,

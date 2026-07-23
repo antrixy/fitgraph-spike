@@ -1,0 +1,57 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-23",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "11b7c1da7f365698b3bbcf02c98e2e934c3867d1",
+      "prev_fetched_at": "2026-07-22T09:06:00.097Z",
+      "curr_fetched_at": "2026-07-23T09:04:43.247Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "11b7c1da7f365698b3bbcf02c98e2e934c3867d1",
+      "curr_fetched_at": "2026-07-23T09:04:45.010Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Start with free,",
+          "occurrences": 1
+        },
+        {
+          "text": "accurate tracking today",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Monitoring your blood pressure?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s how this simple act can help you take charge of your health",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 3
+    }
+  }
+}
