@@ -1,0 +1,68 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-24",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:04:43.247Z",
+      "curr_fetched_at": "2026-07-24T09:01:38.936Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Enter meals faster with precise nutrition details. Just type or say what you ate, and MyNetDiary logs each food and portion. Quick and easy!",
+          "new": "New interactive multi-chart views of everything you track—nutrition, exercise, weight, and health. Explore suggested Timelines and customize them to discover what’s driving your results. See the big picture, then drill down to the details."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "curr_fetched_at": "2026-07-24T09:01:42.933Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What happens when you stop logging food (and how to restart without guilt)",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Here's how tracking with MyNetDiary helps you maintain weight loss",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for editing and customizing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 6
+    }
+  }
+}

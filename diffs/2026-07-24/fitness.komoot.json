@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-07-24",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:09:03.760Z",
+      "curr_fetched_at": "2026-07-24T09:06:09.788Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.29.1",
+          "new": "2026.30.4"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- See which parts of the map you've saved offline with a new overlay in the map switcher.\n- Discover official routes with new badges and richer route details.\n- Long press any section of your route to move it more easily in the planner.\n- Completed Highlights now appear first in challenge checklists.\n\nBug fixes\n- Improved route planning and editing stability\n- Fixed several crashes",
+          "new": "What's new? \n- Pinch to zoom on Highlight photos in full-screen\n\nBug fixes\n- Improved the stability of route planning, navigation and recording\n- Fixed crashes across the planner, Home feed and Street View\n- Improved the performance and reliability of the route planner\n- Fixed elevation, Live Activity and voucher issues"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:09:07.894Z",
+      "curr_fetched_at": "2026-07-24T09:06:12.704Z",
+      "version_unreported": true
+    }
+  }
+}

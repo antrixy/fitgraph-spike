@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T09:07:54.605Z",
+  "fetched_at": "2026-07-24T09:05:06.631Z",
   "source": "google_play_scraper",
   "appId": "com.runbuddy.prod",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Personalised 5k, 10k, Half, &amp; Marathon race plans, GPS tracking &amp; strength",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3251584,
-    "score": 4.5881104,
+    "maxInstalls": 3276508,
+    "score": 4.5849056,
     "scoreText": "4.6",
-    "ratings": 29454,
-    "reviews": 685,
+    "ratings": 29487,
+    "reviews": 684,
     "histogram": {
-      "1": 1749,
-      "2": 624,
-      "3": 683,
-      "4": 1873,
-      "5": 24510
+      "1": 1788,
+      "2": 617,
+      "3": 676,
+      "4": 1853,
+      "5": 24537
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Nov 24, 2021",
-    "updated": 1784552532000,
+    "updated": 1784729775000,
     "version": "8.46.1",
     "recentChanges": "This one&#39;s like lacing up your shoes properly: easy to overlook, but it sets the tone for everything else. We&#39;re always on the look out for those marginal gains.",
     "comments": [],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T09:06:32.222Z",
+  "fetched_at": "2026-07-24T09:03:31.062Z",
   "source": "google_play_scraper",
   "appId": "com.caliberfitness.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout Planner &amp; Tracker",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 669871,
+    "maxInstalls": 671616,
     "score": 4.6185565,
     "scoreText": "4.6",
-    "ratings": 3981,
+    "ratings": 3983,
     "reviews": 544,
     "histogram": {
       "1": 204,
       "2": 20,
       "3": 61,
       "4": 511,
-      "5": 3179
+      "5": 3181
     },
     "price": 0,
     "free": true,
@@ -64,9 +64,9 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jul 24, 2020",
-    "updated": 1784318591000,
-    "version": "5.15.0",
-    "recentChanges": "* Introducing Caliber MCP&#39;s server, with support for both ChatGPT and Claude! This can now be set up in Menu &gt; Connected Apps<br>* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!",
+    "updated": 1784744789000,
+    "version": "5.15.1",
+    "recentChanges": "* Introducing Caliber&#39;s MCP server, with support for both ChatGPT and Claude! This can now be set up in Menu &gt; Connected Apps<br>* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

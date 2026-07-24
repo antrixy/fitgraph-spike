@@ -1,0 +1,56 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-24",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:08:43.832Z",
+      "curr_fetched_at": "2026-07-24T09:05:50.487Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.27.0",
+          "new": "2026.28.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• Various under-the-hood improvements.",
+          "new": "• Fixed an issue that could leave the app stuck on a blank screen or showing a 'Connection Trouble' error."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:08:47.320Z",
+      "curr_fetched_at": "2026-07-24T09:05:53.379Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.28.0.92769",
+          "new": "2026.28.1.92771"
+        },
+        {
+          "field": "recentChanges",
+          "old": "• Various under-the-hood improvements.",
+          "new": "• Fixed an issue that could leave the app stuck on a blank screen or showing a &#39;Connection Trouble&#39; error."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "curr_fetched_at": "2026-07-24T09:05:57.758Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Cycling Training Plans",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

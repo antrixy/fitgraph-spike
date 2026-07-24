@@ -1,12 +1,35 @@
 {
-  "fetched_at": "2026-07-23T09:11:26.834Z",
+  "fetched_at": "2026-07-24T09:08:22.246Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=654810212&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c2/b5/6fc2b5c0-a6f3-ad2a-acea-55b2764b7ddf/4ec3314e-7d90-485d-84eb-ba628e5bb22a_0_APP_IPHONE_55_0_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/56/0f/66560fa6-9c71-915e-0dd0-85d5951f1a34/5430a9de-4539-4aee-ae5e-d763f5a50952_1_APP_IPHONE_55_1_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b1/2c/03b12c78-2e07-1712-3ecc-f3648d50c06f/13f22c7d-001c-444e-b769-9830b3626edb_2_APP_IPHONE_55_2_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/26/a0/3826a0be-e923-553b-ebcd-0b0fb3cc3b4c/71d08d6e-3c10-4618-b38f-e88bec676c7b_3_APP_IPHONE_55_3_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/0a/80/e50a80b0-bab9-1dfc-5e9b-51482c5c24a3/aca40b98-cb81-47bb-adfb-0211507b14ea_2_APP_IPHONE_55_2_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/62/09/df620906-ebd4-ed16-8895-9ae63a344115/8efa860d-a5dc-431b-a04c-2ad2d96748a8_4_APP_IPHONE_55_4_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/ca/db/efcadba7-0615-8f8a-0967-f5b4f8e2ca48/6a3422a5-96a2-4243-8d6c-f9c24a8fea5d_5_APP_IPHONE_55_5_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c9/ff/fbc9ff63-c11c-4cf3-81ee-7f5f04cd56bd/8f2def25-6efc-4fd5-b020-04e1a669b4a5_6_APP_IPHONE_55_6_EN.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/0d/cd/7f0dcd01-85e1-134e-c997-4c1bbd6fb73f/b8488f6b-c4ed-46c7-a3dd-3d6948c8ddbb_7_APP_IPHONE_55_7_EN.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/55/82/06558242-56a9-fd43-a005-bfd1f46f5bd1/f067bbdb-d665-40c1-800f-d7a1e0970d81_ss1_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/2f/20/cb2f20c9-2b54-cf21-491a-c3ef327a5eaf/aa24e9bd-4d0d-4f7c-b399-991437e7d4fa_ss2_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/14/f5/dc14f556-e676-707a-521d-4c450af66c7c/faf4942c-cd40-47ef-9f30-e9abddde03f0_ss3_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/69/04/e7690476-a98b-1c69-d367-a1219e712014/2efecbfe-10aa-4a6c-be46-fd409df5ba9d_ss4_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/6b/a8/936ba8ff-e1e9-8f8c-b6ae-b570d35141bf/ce04be8c-4647-43a2-bcf5-0b273c17bcc5_ss5_IOS__2048_x_2732_EN.jpg/576x768bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ab/9c/43ab9cae-3441-e14b-34d4-e3f5f84a3f3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/freeletics-gmbh/id579309595?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ab/9c/43ab9cae-3441-e14b-34d4-e3f5f84a3f3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ab/9c/43ab9cae-3441-e14b-34d4-e3f5f84a3f3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -141,58 +164,6 @@
       "Infrequent/Mild Contests"
     ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/c2/b5/6fc2b5c0-a6f3-ad2a-acea-55b2764b7ddf/4ec3314e-7d90-485d-84eb-ba628e5bb22a_0_APP_IPHONE_55_0_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/56/0f/66560fa6-9c71-915e-0dd0-85d5951f1a34/5430a9de-4539-4aee-ae5e-d763f5a50952_1_APP_IPHONE_55_1_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b1/2c/03b12c78-2e07-1712-3ecc-f3648d50c06f/13f22c7d-001c-444e-b769-9830b3626edb_2_APP_IPHONE_55_2_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/26/a0/3826a0be-e923-553b-ebcd-0b0fb3cc3b4c/71d08d6e-3c10-4618-b38f-e88bec676c7b_3_APP_IPHONE_55_3_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/0a/80/e50a80b0-bab9-1dfc-5e9b-51482c5c24a3/aca40b98-cb81-47bb-adfb-0211507b14ea_2_APP_IPHONE_55_2_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/62/09/df620906-ebd4-ed16-8895-9ae63a344115/8efa860d-a5dc-431b-a04c-2ad2d96748a8_4_APP_IPHONE_55_4_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/ca/db/efcadba7-0615-8f8a-0967-f5b4f8e2ca48/6a3422a5-96a2-4243-8d6c-f9c24a8fea5d_5_APP_IPHONE_55_5_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/c9/ff/fbc9ff63-c11c-4cf3-81ee-7f5f04cd56bd/8f2def25-6efc-4fd5-b020-04e1a669b4a5_6_APP_IPHONE_55_6_EN.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/0d/cd/7f0dcd01-85e1-134e-c997-4c1bbd6fb73f/b8488f6b-c4ed-46c7-a3dd-3d6948c8ddbb_7_APP_IPHONE_55_7_EN.jpg/392x696bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/55/82/06558242-56a9-fd43-a005-bfd1f46f5bd1/f067bbdb-d665-40c1-800f-d7a1e0970d81_ss1_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/2f/20/cb2f20c9-2b54-cf21-491a-c3ef327a5eaf/aa24e9bd-4d0d-4f7c-b399-991437e7d4fa_ss2_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/14/f5/dc14f556-e676-707a-521d-4c450af66c7c/faf4942c-cd40-47ef-9f30-e9abddde03f0_ss3_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/69/04/e7690476-a98b-1c69-d367-a1219e712014/2efecbfe-10aa-4a6c-be46-fd409df5ba9d_ss4_IOS__2048_x_2732_EN.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/6b/a8/936ba8ff-e1e9-8f8c-b6ae-b570d35141bf/ce04be8c-4647-43a2-bcf5-0b273c17bcc5_ss5_IOS__2048_x_2732_EN.jpg/576x768bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ab/9c/43ab9cae-3441-e14b-34d4-e3f5f84a3f3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
-    "averageUserRating": 4.63618,
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Freeletics: Workouts & Fitness",
-    "trackViewUrl": "https://apps.apple.com/us/app/freeletics-workouts-fitness/id654810212?uo=4",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "artistId": 579309595,
-    "artistName": "Freeletics GmbH",
-    "releaseDate": "2013-06-26T02:12:26Z",
-    "bundleId": "com.Freeletics.Freeletics-Lite",
-    "trackId": 654810212,
-    "trackName": "Freeletics: Workouts & Fitness",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Freeletics GmbH",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-20T14:07:33Z",
-    "version": "26.28.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Europe's #1 fitness app lets you work out anytime, anywhere with the most advanced digital personal trainer – no gym required. Whatever your fitness level, build healthy habits and achieve your goals faster than ever with a personalized fitness plan tailored to you. Add cardio workouts, weights, gym machines, mix in some running intervals, or keep it classic Freeletics with bodyweight HIIT or calisthenics-style workouts at home. Every training plan features fully personalized workouts, complete with warm-ups, cooldowns, mobility, and recovery workouts, all designed to help you recover faster and achieve your goals quicker.\n\nWHY FREELETICS?\n- Freeletics means freedom to work out where you want, when you want – on your terms. Join a community of 60 million athletes training together to stay motivated and on track.\n- Develop strength, endurance, and flexibility with a fully holistic approach to fitness that helps you become a well-rounded athlete.\n- Your AI Coach customizes each workout to your fitness level, adjusting in real time based on your feedback to create a perfect workout every time. No two people get the same workout plan – it's fully personalized fitness.\n- Whether you want to build a six-pack, gain muscle, or lose weight, you’ll get a training plan with workouts to fit your needs.\n- Easily customize your workouts in seconds to match your setup for home workouts, gym sessions, or wherever you are to stay on track, support consistency, and see long-term results.\n\nThe free version of the app contains 34 HIIT bodyweight workouts, 100+ exercises, and a community of millions. If you want to set yourself up for long-term success with the guidance of an expert personal trainer every step of the way, you can use the Freeletics Coach with a 14-day money-back guarantee.\n\nWhat you get by upgrading to the Freeletics Coach:\n\nTRAINING\n- Your AI personal trainer in your pocket creates every workout based on your goals, fitness level, training preferences, and more.\n- Travelling or short on time? Want to switch to an upper-body workout instead? No problem. Your digital personal trainer instantly adjusts your workout to match your needs.\n- Your personalized workout plan is part of a \"Training Journey.\" Choose from 30 fitness plans in the app, each with a different fitness focus.\n- Pick your workout style. From cardio like running, cycling, and rowing, to classic Freeletics bodyweight HIIT workouts, calisthenics, weighted exercises, or gym machines – there’s a training plan for you.\n- With 1 trillion workout combinations, 700+ exercises, hundreds of workouts on demand, and even a tool to create your own workout routines, you’ll always find the perfect workout for you.\n- Control your workout from your Apple Watch and track your fitness data in the Apple Health app.\n- Track your fitness progress, performance, and achievements using badges, streaks, and skill progressions designed to help you improve.\n\nThe Training Coach is included in the Training and Training & Nutrition Bundle.\n\nSUBSCRIPTIONS & TERMS\nWe offer 6 auto-renewing subscription options:\n• Training (3 / 6 / 12 months)\n• Training & Nutrition (3 / 6 / 12 months)\n\nThe Nutrition Coach is part of the separate Freeletics Nutrition app.\n\nYour subscription automatically renews if not cancelled at least 24 hours before the end of the current subscription period. You will be charged for the next subscription period up to 24 hours before the current subscription expires. Manage your subscription and disable automatic renewal anytime in your Apple account settings. You have the right to withdraw from your initial subscription within 14 days. By purchasing, you accept our Terms of Use (https://www.freeletics.com/en/pages/terms) and Privacy Policy (https://www.freeletics.com/en/pages/privacy).\n\nContact us at https://help.freeletics.com/hc/ or follow @Freeletics on social media for daily workout inspiration. Your personal trainer is ready.",
-    "userRatingCountForCurrentVersion": 22228,
-    "minimumOsVersion": "17.0",
     "averageUserRatingForCurrentVersion": 4.63618,
     "sellerUrl": "https://www.freeletics.com/",
     "languageCodesISO2A": [
@@ -209,9 +180,38 @@
     ],
     "fileSizeBytes": "151047168",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 22228,
     "trackContentRating": "4+",
+    "averageUserRating": 4.63618,
+    "trackCensoredName": "Freeletics: Workouts & Fitness",
+    "trackViewUrl": "https://apps.apple.com/us/app/freeletics-workouts-fitness/id654810212?uo=4",
+    "contentAdvisoryRating": "4+",
+    "artistId": 579309595,
+    "artistName": "Freeletics GmbH",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "price": 0,
+    "bundleId": "com.Freeletics.Freeletics-Lite",
+    "sellerName": "Freeletics GmbH",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "trackId": 654810212,
+    "trackName": "Freeletics: Workouts & Fitness",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-07-20T14:07:33Z",
     "releaseNotes": "We squashed some bugs. Let us know if you find more. Our developers will fix them faster than you can do an Aphrodite.",
+    "version": "26.28.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Europe's #1 fitness app lets you work out anytime, anywhere with the most advanced digital personal trainer – no gym required. Whatever your fitness level, build healthy habits and achieve your goals faster than ever with a personalized fitness plan tailored to you. Add cardio workouts, weights, gym machines, mix in some running intervals, or keep it classic Freeletics with bodyweight HIIT or calisthenics-style workouts at home. Every training plan features fully personalized workouts, complete with warm-ups, cooldowns, mobility, and recovery workouts, all designed to help you recover faster and achieve your goals quicker.\n\nWHY FREELETICS?\n- Freeletics means freedom to work out where you want, when you want – on your terms. Join a community of 60 million athletes training together to stay motivated and on track.\n- Develop strength, endurance, and flexibility with a fully holistic approach to fitness that helps you become a well-rounded athlete.\n- Your AI Coach customizes each workout to your fitness level, adjusting in real time based on your feedback to create a perfect workout every time. No two people get the same workout plan – it's fully personalized fitness.\n- Whether you want to build a six-pack, gain muscle, or lose weight, you’ll get a training plan with workouts to fit your needs.\n- Easily customize your workouts in seconds to match your setup for home workouts, gym sessions, or wherever you are to stay on track, support consistency, and see long-term results.\n\nThe free version of the app contains 34 HIIT bodyweight workouts, 100+ exercises, and a community of millions. If you want to set yourself up for long-term success with the guidance of an expert personal trainer every step of the way, you can use the Freeletics Coach with a 14-day money-back guarantee.\n\nWhat you get by upgrading to the Freeletics Coach:\n\nTRAINING\n- Your AI personal trainer in your pocket creates every workout based on your goals, fitness level, training preferences, and more.\n- Travelling or short on time? Want to switch to an upper-body workout instead? No problem. Your digital personal trainer instantly adjusts your workout to match your needs.\n- Your personalized workout plan is part of a \"Training Journey.\" Choose from 30 fitness plans in the app, each with a different fitness focus.\n- Pick your workout style. From cardio like running, cycling, and rowing, to classic Freeletics bodyweight HIIT workouts, calisthenics, weighted exercises, or gym machines – there’s a training plan for you.\n- With 1 trillion workout combinations, 700+ exercises, hundreds of workouts on demand, and even a tool to create your own workout routines, you’ll always find the perfect workout for you.\n- Control your workout from your Apple Watch and track your fitness data in the Apple Health app.\n- Track your fitness progress, performance, and achievements using badges, streaks, and skill progressions designed to help you improve.\n\nThe Training Coach is included in the Training and Training & Nutrition Bundle.\n\nSUBSCRIPTIONS & TERMS\nWe offer 6 auto-renewing subscription options:\n• Training (3 / 6 / 12 months)\n• Training & Nutrition (3 / 6 / 12 months)\n\nThe Nutrition Coach is part of the separate Freeletics Nutrition app.\n\nYour subscription automatically renews if not cancelled at least 24 hours before the end of the current subscription period. You will be charged for the next subscription period up to 24 hours before the current subscription expires. Manage your subscription and disable automatic renewal anytime in your Apple account settings. You have the right to withdraw from your initial subscription within 14 days. By purchasing, you accept our Terms of Use (https://www.freeletics.com/en/pages/terms) and Privacy Policy (https://www.freeletics.com/en/pages/privacy).\n\nContact us at https://help.freeletics.com/hc/ or follow @Freeletics on social media for daily workout inspiration. Your personal trainer is ready.",
+    "minimumOsVersion": "17.0",
+    "releaseDate": "2013-06-26T02:12:26Z",
     "userRatingCount": 22228
   }
 }

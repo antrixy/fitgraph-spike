@@ -1,12 +1,17 @@
 {
-  "fetched_at": "2026-07-23T09:06:45.773Z",
+  "fetched_at": "2026-07-24T09:03:47.532Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=488580022&country=us",
   "result": {
     "isGameCenterEnabled": false,
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [],
     "features": [
       "iosUniversal"
     ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,42 +142,15 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-    "artistId": 916468093,
-    "artistName": "StrongLifts",
-    "releaseDate": "2011-12-22T20:51:34Z",
-    "bundleId": "com.StrongLifts",
-    "currentVersionReleaseDate": "2026-07-15T22:09:48Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "trackId": 488580022,
-    "trackName": "Stronglifts 5x5 Workout Plan",
-    "sellerName": "Stronglifts Limited",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
-    "version": "4.3.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "averageUserRating": 4.86245,
-    "averageUserRatingForCurrentVersion": 4.86245,
-    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
-    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
-    "contentAdvisoryRating": "4+",
     "minimumOsVersion": "17.0",
     "sellerUrl": "https://stronglifts.com/",
+    "userRatingCountForCurrentVersion": 76482,
+    "averageUserRatingForCurrentVersion": 4.86229,
+    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -196,13 +174,35 @@
     ],
     "fileSizeBytes": "92183552",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 76474,
+    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
     "trackContentRating": "4+",
+    "artistId": 916468093,
+    "artistName": "StrongLifts",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
     "price": 0,
-    "userRatingCount": 76474
+    "bundleId": "com.StrongLifts",
+    "releaseDate": "2011-12-22T20:51:34Z",
+    "sellerName": "Stronglifts Limited",
+    "currentVersionReleaseDate": "2026-07-15T22:09:48Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
+    "trackName": "Stronglifts 5x5 Workout Plan",
+    "trackId": 488580022,
+    "version": "4.3.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.86229,
+    "userRatingCount": 76482
   }
 }

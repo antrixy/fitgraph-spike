@@ -1,13 +1,9 @@
 {
-  "fetched_at": "2026-07-23T09:04:10.533Z",
+  "fetched_at": "2026-07-24T09:00:59.813Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1145935738&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
-    "kind": "software",
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
@@ -15,9 +11,9 @@
     "features": [
       "iosUniversal"
     ],
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/12/1a/ec121a8a-53d1-f195-e0f1-498ed18740d0/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/12/1a/ec121a8a-53d1-f195-e0f1-498ed18740d0/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/cronometer-software-inc/id465173201?uo=4",
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -148,6 +144,20 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/cronometer-software-inc/id465173201?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/12/1a/ec121a8a-53d1-f195-e0f1-498ed18740d0/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/12/1a/ec121a8a-53d1-f195-e0f1-498ed18740d0/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "minimumOsVersion": "15.5",
+    "averageUserRatingForCurrentVersion": 4.77318,
+    "sellerUrl": "https://cronometer.com",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "154531840",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 94895,
+    "trackContentRating": "12+",
     "artistId": 465173201,
     "artistName": "Cronometer Software Inc",
     "genres": [
@@ -155,38 +165,28 @@
       "Food & Drink"
     ],
     "price": 0,
-    "trackId": 1145935738,
-    "trackName": "Cronometer: Calorie Counter",
     "genreIds": [
       "6013",
       "6023"
     ],
+    "bundleId": "CRONOMETER-GOLD",
+    "trackId": 1145935738,
+    "trackName": "Cronometer: Calorie Counter",
+    "sellerName": "Cronometer Software Inc",
     "releaseDate": "2016-09-09T21:18:55Z",
+    "isVppDeviceBasedLicensingEnabled": true,
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "Cronometer Software Inc",
-    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-21T22:12:29Z",
     "releaseNotes": "This release includes several bug fixes and stability improvements. Thank you for reporting these issues — please continue sharing feedback as you use the app. Happy tracking!",
     "version": "4.57.2",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Cronometer is a powerful calorie counter, nutrition tracker, and food diary designed for accuracy. \nTrack calories, macros, fasting, and 95+ vitamins and minerals with one of the most trusted health and fitness apps available. \n\nWhether you're using Cronometer as a weight loss tracker, macro tracker or overall metabolic health tracker, you'll get clear, reliable science-backed insights into your nutrition and how it supports your goals. \n\nUnlike basic calorie counters, Cronometer is built on a curated database of more than 1.1 million verified foods, including analyzed entries for unmatched accuracy. Get precise nutrition tracking, comprehensive nutrient analysis, and reliable nutrition facts you can trust. \n\nGain deeper nutrition insights with precision nutrition tools trusted by dietitians, healthcare professionals, and athletes worldwide. \n\n\n\nTrack your nutrition with confidence \n\n• Log meals in a detailed food diary \n• Track calories, protein, carbs, fat, fiber, vitamins, and minerals \n• Monitor both macronutrients and micronutrients \n• Compare your intake against personalized nutrition targets \n\nPerfect for weight loss, muscle gain, and improving overall health. \n\n \n\nA smarter weight tracker \n\n• Track calories and weight loss (or gain) with deeper nutritional context \n• Identify nutrient gaps that may affect energy, hunger, and progress \n• View trends over time with charts and reports \n• Built for sustainable weight loss, healthy weight management, and long-term success \n\n \n\nBuild healthier habits \n\n• Understand how daily choices shape your long-term health \n• Monitor nutrition trends over time \n• Set personalized targets, track your personal progress, optimize your wellness \n• Turn accurate nutrition data into meaningful action \n\n \n\nConnect fitness, sleep, and health \n\n• Sync with Apple Health and Apple Watch \n• Connect Fitbit, Garmin, Oura, Whoop, and more \n• Import workouts, activity, and energy expenditure \n• Import sleep data and explore how caffeine, alcohol, and nutrition affect sleep quality \n\nCronometer works seamlessly as a fitness tracker and health tracker, giving you a complete picture of your wellness. \n\n\nFour easy ways to log food \n\n• Log meals using photo or voice logging. \n• AI identifies foods, estimates portions and simplifies meal tracking \n• Scan barcodes for free \n• Or search a trusted, science-backed food database \n \n\nWhy Cronometer? \n\nCronometer is the calorie tracker and food diary trusted by dietitians, athletes, and health professionals worldwide. \nIt’s been featured in Healthline, Prevention, Women’s Health, Good Housekeeping, Men’s Health, CNET, Oprah and more. \n\n \nUpgrade to Cronometer Gold \n\nUnlock premium tools for deeper insights: \n\nPhoto & Voice Logging \n\nFasting Tracker \n\nRecipe Importer \n\nRepeat Items \n\nDeeper insights \n\nMore options to customize \n\nAd-free experience \n\nIdeal for advanced tracking, fasting, and long-term weight management. \n\n\nSUBSCRIPTION DETAILS \n\nUpgrade to Cronometer Gold at any time. Payment will be charged to your Apple ID at confirmation of purchase. \nSubscriptions automatically renew unless canceled at least 24 hours before the end of the current period. \n\nManage or cancel your subscription in your App Store Account Settings. \n\nTerms of Use: https://cronometer.com/terms/ \nPrivacy Policy: https://cronometer.com/privacy/",
-    "sellerUrl": "https://cronometer.com",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "trackContentRating": "12+",
-    "minimumOsVersion": "15.5",
-    "averageUserRatingForCurrentVersion": 4.77317,
-    "bundleId": "CRONOMETER-GOLD",
-    "averageUserRating": 4.77317,
-    "userRatingCountForCurrentVersion": 94887,
     "trackCensoredName": "Cronometer: Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/cronometer-calorie-counter/id1145935738?uo=4",
     "contentAdvisoryRating": "12+",
-    "formattedPrice": "Free",
-    "fileSizeBytes": "154531840",
-    "userRatingCount": 94887
+    "averageUserRating": 4.77318,
+    "userRatingCount": 94895
   }
 }

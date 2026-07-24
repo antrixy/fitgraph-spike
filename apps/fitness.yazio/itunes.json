@@ -1,15 +1,12 @@
 {
-  "fetched_at": "2026-07-23T09:04:49.370Z",
+  "fetched_at": "2026-07-24T09:01:47.776Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=946099227&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
-    "artistViewUrl": "https://apps.apple.com/us/developer/yazio/id775747960?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/96/43/289643b1-be66-eaac-2bba-309b4f57a74b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/96/43/289643b1-be66-eaac-2bba-309b4f57a74b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -140,8 +137,10 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/yazio/id775747960?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/96/43/289643b1-be66-eaac-2bba-309b4f57a74b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/96/43/289643b1-be66-eaac-2bba-309b4f57a74b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/1b/ed/dd1bed03-d11e-5e69-88b3-10c1b502e14e/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a8/03/01a803c9-f793-71e8-02c8-b0a84d66334b/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -164,37 +163,36 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/96/43/289643b1-be66-eaac-2bba-309b4f57a74b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.69563,
-    "userRatingCountForCurrentVersion": 49295,
-    "trackCensoredName": "AI Calorie Tracker by Yazio",
-    "trackViewUrl": "https://apps.apple.com/us/app/ai-calorie-tracker-by-yazio/id946099227?uo=4",
-    "contentAdvisoryRating": "4+",
-    "releaseNotes": "We're so happy to see you're using Yazio to reach your goals! To help make things even easier for you, we've made further improvements to the app. Good luck!",
+    "advisories": [],
     "genres": [
       "Health & Fitness"
     ],
-    "price": 0,
+    "artistId": 775747960,
+    "artistName": "YAZIO",
+    "bundleId": "com.yazio.ios.YAZIO",
     "releaseDate": "2015-01-06T10:48:27Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "YAZIO GmbH",
+    "currentVersionReleaseDate": "2026-07-20T17:08:43Z",
+    "trackId": 946099227,
+    "trackName": "AI Calorie Tracker by Yazio",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013"
     ],
-    "trackName": "AI Calorie Tracker by Yazio",
-    "trackId": 946099227,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "YAZIO GmbH",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-20T17:08:43Z",
+    "releaseNotes": "We're so happy to see you're using Yazio to reach your goals! To help make things even easier for you, we've made further improvements to the app. Good luck!",
     "version": "26.28.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\n\nTrack calories, eat better and reach your goals with Yazio’s free calorie counter app!\nYazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\n\n- Easy-to-use AI calorie tracker and food tracker\n- Calorie deficit tracker to reach your weight goals\n- Huge food database with 95% of all food items\n- Calorie tracker with barcode scanner\n- Meal planning, food tracker and personalized recipes\n- Integrated step and activity tracking\n- Water tracker with reminders\n- Instant access with no signup required\n- Regular updates for calorie counter, food tracker and AI calorie tracker tools\n- Food tracker and nutrition tools for men and women\n- Support for healthy muscle building and weight gain\n- Focus on long-term results, not yo-yo dieting\n\nYazio supports your progress with 3 powerful tools:\n\n1. Calorie Counter\n• Free, intuitive calorie tracker\n• Food diary with customizable calorie goals\n• Calorie counter for analyzing macros and nutritional values\n• Food database with 4 million+ searchable items\n• Smart, simple food tracker\n• Barcode scanner for easy calorie tracking\n• Food ratings to support healthier choices\n• Custom meals and meal planning tools linked to your calorie tracker\n• Integrated tracking for steps, workouts and symptoms\n• Water tracker with reminders\n• Visual insights based on your calorie tracker history\n• Expert tips for effective calorie tracking\n\n2. Healthy Habits & Intermittent Fasting\n• Optional fasting tracker for various calorie tracker plans\n• Regular meal timing and eating reminders\n• Flexible plans, including 16:8 and 5:2\n• Helpful guidance on ketosis, autophagy and energy use\n• Seamless integration with your calorie tracker and food tracker\n• Nutrition insights based on calorie tracker and food tracker data\n\n3. Recipes & Meal Planning\n• 2,900+ delicious, goal-friendly recipes\n• Weekly updates with new healthy meal ideas\n• Filters for low-carb, vegetarian and vegan options\n• Wide variety of meals including pizza, desserts and more\n• Smart grocery list for quick, easy shopping\n• Step-by-step cooking mode for stress-free meal prep\n\nGo Pro for faster results.\nJoin Yazio Pro to get advanced features that accelerate your progress.\n• Unlock advanced calorie tracker tools\n• See faster results with your custom calorie tracker plan\n• Access in-depth food analysis\n• Use advanced calorie deficit tracker and calorie counter tools\n• Get custom meal plans tailored to your goals\n• Sync with Fitbit, Garmin and more\n• Track your mood, symptoms and body metrics\n• View progress with long-term trend insights\n• Enjoy an ad-free experience\n• Get the ultimate calorie counter experience\n• Support the Yazio team\n\nUpgrade to Pro in the Yazio Calorie Counter App for advanced features and insights. Available as a subscription, Pro offers better value than other apps with calorie counter, food tracker or intermittent fasting features.\n• App help: http://help.yazio.com\n• Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/• About our team: https://www.yazio.com/en/about-us\n\nUnlock the ultimate food tracker, calorie counter and healthy eating experience with Yazio!\nHelp us make the Yazio Calorie Counter App even better as your go-to calorie tracker, calorie counter and weight loss tool. Have ideas or suggestions? Contact us!",
+    "contentAdvisoryRating": "4+",
+    "trackCensoredName": "AI Calorie Tracker by Yazio",
+    "trackViewUrl": "https://apps.apple.com/us/app/ai-calorie-tracker-by-yazio/id946099227?uo=4",
+    "averageUserRating": 4.6956,
     "minimumOsVersion": "16.0",
-    "averageUserRatingForCurrentVersion": 4.69563,
-    "fileSizeBytes": "368559104",
-    "formattedPrice": "Free",
-    "trackContentRating": "4+",
     "sellerUrl": "https://www.yazio.com/en",
+    "averageUserRatingForCurrentVersion": 4.6956,
     "languageCodesISO2A": [
       "CS",
       "DA",
@@ -217,9 +215,11 @@
       "SV",
       "TR"
     ],
-    "bundleId": "com.yazio.ios.YAZIO",
-    "artistId": 775747960,
-    "artistName": "YAZIO",
-    "userRatingCount": 49295
+    "fileSizeBytes": "368559104",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 49304,
+    "trackContentRating": "4+",
+    "price": 0,
+    "userRatingCount": 49304
   }
 }

@@ -1,9 +1,29 @@
 {
-  "fetched_at": "2026-07-23T09:05:28.819Z",
+  "fetched_at": "2026-07-24T09:02:30.398Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=981637806&country=us",
   "result": {
-    "advisories": [],
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8b/b2/9e8bb25f-0217-3d62-a92c-ecaa305777e9/d7571d81-1002-4a31-a775-7129f5a10ea9_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/25/c4/6225c49d-e2d1-940f-a73e-c4056c8edf73/77bba1b6-e14a-46d0-9be8-029ab26884e0_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/65/d7/9565d70a-0d7a-3856-8c39-53b5505f6418/14de0440-6898-41fd-8443-c46dcef29a48_iPhone_8_Plus_-_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ec/80/8f/ec808f25-e2bb-2f68-5188-48b1c4081bf8/3e11ad91-a412-45dc-8484-05a112f76a78_iPhone_8_Plus_-_4.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c6/4a/32/c64a3216-966c-cd26-ac97-d7f39aac1f20/9dc91e7b-8a56-43e4-90fe-c4428ddae3b5_iPhone_8_Plus_-_5.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/cb/bd/b9cbbdf3-f09d-3295-09ad-2bb4bb778dff/fb932870-807e-4cf3-95da-ec1a66a8863b_iPhone_8_Plus_-_6.jpg/392x696bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bb/4c/43/bb4c437e-4185-cd52-e889-61cdf1d65576/337bf481-79e7-4f1b-9592-4a4cfe78509d_iPad_Pro_12.9_-_1__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/13/d2/bf13d248-a89a-6525-fd08-8f0c302148fb/64ebf68a-17c2-4303-82d5-eed78db6ef03_iPad_Pro_12.9_-_2__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1b/ad/7b/1bad7bc8-07a9-214d-daec-db0793995678/11d54479-289f-4772-aaad-6d14c9abb284_iPad_Pro_12.9_-_3__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8a/05/3d/8a053d7f-4be9-996d-bb91-d0ef192351d9/35b5f742-abb2-4aa1-9d2d-543f508619c7_iPad_Pro_12.9_-_4__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7a/ad/96/7aad96f8-f5be-0819-d6a0-adeded16c751/161af8bd-5cb3-4311-a261-025922a79217_iPad_Pro_12.9_-_5__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c3/bf/32/c3bf32d8-1375-462e-3a54-cc13bb222a90/0a3738ae-b74b-4da0-bbd8-77d0b04ef418_iPad_Pro_12.9_-_6__U00282nd_Gen_U0029.jpg/576x768bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -137,67 +157,47 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/b7/f7/67b7f7f8-b0ec-f633-21f7-b864b467c00d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8b/b2/9e8bb25f-0217-3d62-a92c-ecaa305777e9/d7571d81-1002-4a31-a775-7129f5a10ea9_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/25/c4/6225c49d-e2d1-940f-a73e-c4056c8edf73/77bba1b6-e14a-46d0-9be8-029ab26884e0_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/65/d7/9565d70a-0d7a-3856-8c39-53b5505f6418/14de0440-6898-41fd-8443-c46dcef29a48_iPhone_8_Plus_-_3.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ec/80/8f/ec808f25-e2bb-2f68-5188-48b1c4081bf8/3e11ad91-a412-45dc-8484-05a112f76a78_iPhone_8_Plus_-_4.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c6/4a/32/c64a3216-966c-cd26-ac97-d7f39aac1f20/9dc91e7b-8a56-43e4-90fe-c4428ddae3b5_iPhone_8_Plus_-_5.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/cb/bd/b9cbbdf3-f09d-3295-09ad-2bb4bb778dff/fb932870-807e-4cf3-95da-ec1a66a8863b_iPhone_8_Plus_-_6.jpg/392x696bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bb/4c/43/bb4c437e-4185-cd52-e889-61cdf1d65576/337bf481-79e7-4f1b-9592-4a4cfe78509d_iPad_Pro_12.9_-_1__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/13/d2/bf13d248-a89a-6525-fd08-8f0c302148fb/64ebf68a-17c2-4303-82d5-eed78db6ef03_iPad_Pro_12.9_-_2__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1b/ad/7b/1bad7bc8-07a9-214d-daec-db0793995678/11d54479-289f-4772-aaad-6d14c9abb284_iPad_Pro_12.9_-_3__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8a/05/3d/8a053d7f-4be9-996d-bb91-d0ef192351d9/35b5f742-abb2-4aa1-9d2d-543f508619c7_iPad_Pro_12.9_-_4__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7a/ad/96/7aad96f8-f5be-0819-d6a0-adeded16c751/161af8bd-5cb3-4311-a261-025922a79217_iPad_Pro_12.9_-_5__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c3/bf/32/c3bf32d8-1375-462e-3a54-cc13bb222a90/0a3738ae-b74b-4da0-bbd8-77d0b04ef418_iPad_Pro_12.9_-_6__U00282nd_Gen_U0029.jpg/576x768bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "minimumOsVersion": "15.5",
-    "genres": [
-      "Health & Fitness",
-      "Food & Drink"
-    ],
-    "artistId": 981637805,
-    "artistName": "Eat This Much Inc.",
-    "genreIds": [
-      "6013",
-      "6023"
-    ],
-    "releaseDate": "2015-06-15T22:01:30Z",
-    "bundleId": "EatThisMuch.com.ETM-iOS-App",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Eat This Much Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "releaseNotes": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you're cooking.",
-    "version": "2.0.164",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Put your diet on autopilot with Eat This Much. Tell us your diet goals, the foods you like, your budget, and what your schedule looks like, and we'll automatically generate a complete meal plan to meet your targets. It's like having a personal diet assistant.\n\nWe offer both free accounts and premium accounts. As a free user, you can create a day's meal plan and completely customize it however you want. Each meal can have different preferences, and your nutrition targets can be whatever you like.\n\nAs a premium user, we'll automatically generate a week of meal plans and send them to you with a grocery list via email. As you follow the plans, you can track what you did or didn't eat, and if you deviate from the plans, we make it easy to readjust your targets for the next week to stay on track. Try out the free account to see if our meal plans appeal to you, and upgrade when you're ready.\n\n- Follow any eating style or create your own (works for keto, paleo, vegetarian, vegan, and more)\n- Hit your macros and calorie targets every day\n- Empower yourself with automatic control over your diet\n- Take the anxiety out of picking what to eat\n- Personalize any of our recipes and they'll replace the original\n- Reduce food waste\n- Don't like our suggestions? Easily swap them out or configure the generator to only use foods you like\n- Manage your virtual pantry (with a premium account)\n\nNormal calorie trackers force you to add foods into your diary one by one. And by the end of the day, there's no guarantee that you'll be anywhere near the nutrition targets you're trying to reach. With our automatic planner, there's nothing to track because everything is already entered for you, and all you have to do is follow the plan.\n\n\nSubscription options:\n- You can download the app for free and create/customize as many unique meal plans as you want, and save one to your account.\n- To unlock the features of Eat This Much Premium, you can subscribe for either the monthly or yearly description.\n\nAuto-renew details:\n- The price to subscribe in your currency will be shown in the app before confirming the subscription.\n- After the free trial has ended, payment will be charged to your iTunes Account.\n- Your subscription will auto-renew unless cancelled 24 hours before the end of the current period (the auto-renew will continue with the same frequency that you select, either the monthly price for the  monthly subscription or yearly price for the yearly subscription).\n- Your account will be charged for renewal within 24-hours prior to the end of the current period, at the same price you initially paid.\n- Auto-renew can be turned off at any time from your iTunes Account Settings.\n- If you cancel your subscription or turn off auto renew in the middle of a billing cycle your account will remain premium until the end of that cycle.\n\nApple health integration:\nApple health syncing can be enabled in Settings -> Apple Health -> Enable Apple Health syncing for Premium users.\n\nWhen Apple Health is enabled:\n- your weight will automatically import and export when you login and when you view your user profile\n- nutrition information will automatically export for meals marked \"I ate this\" when they are first viewed in the app and as you edit them\n\nPrivacy policy: https://www.eatthismuch.com/privacy-policy/\nTerms of use: https://www.eatthismuch.com/terms/",
-    "userRatingCountForCurrentVersion": 22012,
+    "sellerUrl": "http://www.eatthismuch.com",
+    "averageUserRating": 4.71553,
     "trackCensoredName": "Eat This Much - Meal Planner",
-    "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.71552,
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "96903168",
     "formattedPrice": "Free",
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 22013,
+    "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
     "trackContentRating": "4+",
-    "averageUserRating": 4.71552,
-    "sellerUrl": "http://www.eatthismuch.com",
-    "currentVersionReleaseDate": "2026-07-09T17:13:54Z",
+    "averageUserRatingForCurrentVersion": 4.71553,
+    "artistId": 981637805,
+    "artistName": "Eat This Much Inc.",
+    "genres": [
+      "Health & Fitness",
+      "Food & Drink"
+    ],
+    "price": 0,
+    "releaseNotes": "This latest release adds cooking mode to recipes. Cooking mode keeps your screen awake and makes it easier to keep track of ingredients and directions as you're cooking.",
+    "releaseDate": "2015-06-15T22:01:30Z",
     "trackId": 981637806,
     "trackName": "Eat This Much - Meal Planner",
-    "price": 0,
-    "userRatingCount": 22012
+    "genreIds": [
+      "6013",
+      "6023"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Eat This Much Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-07-09T17:13:54Z",
+    "version": "2.0.164",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Put your diet on autopilot with Eat This Much. Tell us your diet goals, the foods you like, your budget, and what your schedule looks like, and we'll automatically generate a complete meal plan to meet your targets. It's like having a personal diet assistant.\n\nWe offer both free accounts and premium accounts. As a free user, you can create a day's meal plan and completely customize it however you want. Each meal can have different preferences, and your nutrition targets can be whatever you like.\n\nAs a premium user, we'll automatically generate a week of meal plans and send them to you with a grocery list via email. As you follow the plans, you can track what you did or didn't eat, and if you deviate from the plans, we make it easy to readjust your targets for the next week to stay on track. Try out the free account to see if our meal plans appeal to you, and upgrade when you're ready.\n\n- Follow any eating style or create your own (works for keto, paleo, vegetarian, vegan, and more)\n- Hit your macros and calorie targets every day\n- Empower yourself with automatic control over your diet\n- Take the anxiety out of picking what to eat\n- Personalize any of our recipes and they'll replace the original\n- Reduce food waste\n- Don't like our suggestions? Easily swap them out or configure the generator to only use foods you like\n- Manage your virtual pantry (with a premium account)\n\nNormal calorie trackers force you to add foods into your diary one by one. And by the end of the day, there's no guarantee that you'll be anywhere near the nutrition targets you're trying to reach. With our automatic planner, there's nothing to track because everything is already entered for you, and all you have to do is follow the plan.\n\n\nSubscription options:\n- You can download the app for free and create/customize as many unique meal plans as you want, and save one to your account.\n- To unlock the features of Eat This Much Premium, you can subscribe for either the monthly or yearly description.\n\nAuto-renew details:\n- The price to subscribe in your currency will be shown in the app before confirming the subscription.\n- After the free trial has ended, payment will be charged to your iTunes Account.\n- Your subscription will auto-renew unless cancelled 24 hours before the end of the current period (the auto-renew will continue with the same frequency that you select, either the monthly price for the  monthly subscription or yearly price for the yearly subscription).\n- Your account will be charged for renewal within 24-hours prior to the end of the current period, at the same price you initially paid.\n- Auto-renew can be turned off at any time from your iTunes Account Settings.\n- If you cancel your subscription or turn off auto renew in the middle of a billing cycle your account will remain premium until the end of that cycle.\n\nApple health integration:\nApple health syncing can be enabled in Settings -> Apple Health -> Enable Apple Health syncing for Premium users.\n\nWhen Apple Health is enabled:\n- your weight will automatically import and export when you login and when you view your user profile\n- nutrition information will automatically export for meals marked \"I ate this\" when they are first viewed in the app and as you edit them\n\nPrivacy policy: https://www.eatthismuch.com/privacy-policy/\nTerms of use: https://www.eatthismuch.com/terms/",
+    "bundleId": "EatThisMuch.com.ETM-iOS-App",
+    "minimumOsVersion": "15.5",
+    "userRatingCount": 22013
   }
 }

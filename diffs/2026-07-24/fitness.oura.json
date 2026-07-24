@@ -1,0 +1,30 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-07-24",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "curr_fetched_at": "2026-07-24T09:07:05.522Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Available",
+          "occurrences": 1
+        },
+        {
+          "text": "Affirm",
+          "occurrences": 2
+        },
+        {
+          "text": "Klarna",
+          "occurrences": 4
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 3
+    }
+  }
+}

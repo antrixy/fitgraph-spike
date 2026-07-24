@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-07-24",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:07:49.805Z",
+      "curr_fetched_at": "2026-07-24T09:05:03.466Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.46.1",
+          "new": "8.47.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
+          "new": "Your app just hit the legendary negative split. Faster, cleaner, and right on pace."
+        }
+      ]
+    }
+  }
+}

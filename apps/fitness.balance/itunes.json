@@ -1,14 +1,19 @@
 {
-  "fetched_at": "2026-07-23T09:12:11.109Z",
+  "fetched_at": "2026-07-24T09:09:05.854Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1361356590&country=us",
   "result": {
-    "features": [],
-    "isGameCenterEnabled": false,
-    "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
+    "features": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [],
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/the-mind-company/id875063459?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -138,35 +143,24 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/the-mind-company/id875063459?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/50/b3/2650b30e-7a9d-9cfa-73aa-668468ab6907/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "bundleId": "com.elevateapp.kamino.kamino",
-    "averageUserRatingForCurrentVersion": 4.88028,
     "sellerUrl": "https://themindcompany.com/apps/balance",
+    "minimumOsVersion": "16.0",
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "189313024",
-    "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 119986,
     "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.88028,
+    "releaseDate": "2019-09-03T07:00:00Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "artistId": 875063459,
     "artistName": "The Mind Company",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
     "price": 0,
+    "sellerName": "Elevate Labs, LLC",
     "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 1361356590,
-    "trackName": "Balance: Meditation & Sleep",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
+    "currentVersionReleaseDate": "2026-07-21T14:14:13Z",
     "releaseNotes": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "version": "1.206.0",
     "wrapperType": "software",
@@ -175,13 +169,19 @@
     "trackCensoredName": "Balance: Meditation & Sleep",
     "trackViewUrl": "https://apps.apple.com/us/app/balance-meditation-sleep/id1361356590?uo=4",
     "contentAdvisoryRating": "4+",
+    "formattedPrice": "Free",
+    "fileSizeBytes": "189313024",
     "averageUserRating": 4.88028,
-    "minimumOsVersion": "16.0",
-    "currentVersionReleaseDate": "2026-07-21T14:14:13Z",
-    "sellerName": "Elevate Labs, LLC",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2019-09-03T07:00:00Z",
+    "trackId": 1361356590,
+    "trackName": "Balance: Meditation & Sleep",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
     "userRatingCount": 119986
   }
 }

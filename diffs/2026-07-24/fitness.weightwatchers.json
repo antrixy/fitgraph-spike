@@ -1,0 +1,19 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-07-24",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:05:20.795Z",
+      "curr_fetched_at": "2026-07-24T09:02:22.582Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.24.0",
+          "new": "11.25.0"
+        }
+      ]
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "run_started": "2026-07-23T09:03:51.595Z",
+  "run_started": "2026-07-24T09:00:43.074Z",
   "sources": {
     "itunes": {
       "status": "ok",
-      "fetched_at": "2026-07-23T09:06:37.384Z"
+      "fetched_at": "2026-07-24T09:03:37.018Z"
     },
     "play": {
       "status": "absent"

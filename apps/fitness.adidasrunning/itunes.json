@@ -1,13 +1,18 @@
 {
-  "fetched_at": "2026-07-23T09:08:11.017Z",
+  "fetched_at": "2026-07-24T09:05:23.574Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=336599882&country=us",
   "result": {
-    "advisories": [],
-    "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/adidas/id336599885?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/66/5a/d8665ad3-96fd-9006-9c4a-fad64048fdf8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/66/5a/d8665ad3-96fd-9006-9c4a-fad64048fdf8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/66/5a/d8665ad3-96fd-9006-9c4a-fad64048fdf8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -139,30 +144,19 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/66/5a/d8665ad3-96fd-9006-9c4a-fad64048fdf8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.8002,
+    "averageUserRating": 4.80016,
     "trackCensoredName": "adidas Running: Run tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/adidas-running-run-tracker/id336599882?uo=4",
     "contentAdvisoryRating": "4+",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
+    "minimumOsVersion": "17.0",
     "price": 0,
-    "bundleId": "at.runtastic.gpssportapp",
     "releaseDate": "2009-11-23T17:28:58Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "trackId": 336599882,
-    "trackName": "adidas Running: Run tracker",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Adidas International Marketing B.V.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-06-02T07:21:40Z",
@@ -171,7 +165,6 @@
     "wrapperType": "software",
     "currency": "USD",
     "description": "adidas Running is an activity tracker designed for all levels of ability and experience, offering the ideal platform for beginners to start tracking their running journey and logging activities. To help introduce new users to running, numerous adidas Training Plans are available, providing step-by-step guidance that adapts to each user's fitness level—including plans for 3K, 5K, and 10K distances. These plans evolve as users train, making the Walk to Run Training Plan the perfect introduction to running, regardless of previous experience. As you progress, explore additional Training Plans to prepare for your first 10K, half-marathon, marathon, and beyond.\nGetting started with adidas Running is simple: download the app, create your account using your personal details, and set a goal to stay motivated and track your fitness journey. You can begin tracking and logging activities immediately, with nearly 100 options available—including running, walking, cycling, hiking, climbing, tennis, and yoga.\nSync your activities effortlessly with Health Connect and a wide range of apps and devices, including Garmin, Polar, Amazfit/Zepp, Coros, Suunto, Wañoo, and many more. This makes tracking your progress easier than ever.\nadidas Running is also home to adidas Runners—local and global communities of people staying active together. Find your community and track activities with like-minded individuals, whatever your pace. Stay motivated by joining Challenges and Virtual Races as a group, and earn Badges along the way.\nStaying active has never been more social. Share your tracked runs and other activities with your community, receive real-time Live Cheers from friends during workouts, and support others by following and liking their activities.\nA wide range of features are available to all users, including detailed activity stats like distance, duration, heart rate, pace, calories burned, and cadence. You’ll also benefit from the Progress Tab, Shoe Tracking, and recommendations. Plus, access expert guidance on Movement, Mindset, Recovery, and gear to support your fitness journey.\n\nRuntastic Terms of Service: https://www.runtastic.com/in-app/iphone/appstore/terms\nRuntastic Privacy Policy: https://www.runtastic.com/privacy-notice",
-    "minimumOsVersion": "17.0",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -187,12 +180,19 @@
     ],
     "fileSizeBytes": "281481216",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 106118,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.8002,
+    "averageUserRatingForCurrentVersion": 4.80016,
     "sellerUrl": "https://www.runtastic.com",
+    "userRatingCountForCurrentVersion": 106169,
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "bundleId": "at.runtastic.gpssportapp",
+    "trackId": 336599882,
+    "trackName": "adidas Running: Run tracker",
     "artistId": 336599885,
     "artistName": "adidas",
-    "userRatingCount": 106118
+    "userRatingCount": 106169
   }
 }

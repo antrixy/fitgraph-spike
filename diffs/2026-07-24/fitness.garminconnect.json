@@ -1,0 +1,19 @@
+{
+  "product": "fitness.garminconnect",
+  "name": "Garmin Connect",
+  "date": "2026-07-24",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "440c2f15463321651f006b319f8a1c886be3d4a2",
+      "prev_fetched_at": "2026-07-23T09:09:29.473Z",
+      "curr_fetched_at": "2026-07-24T09:06:32.719Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.26.1",
+          "new": "5.27"
+        }
+      ]
+    }
+  }
+}
