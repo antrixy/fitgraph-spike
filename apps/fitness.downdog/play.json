@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T09:08:48.175Z",
+  "fetched_at": "2026-07-25T08:35:22.972Z",
   "source": "google_play_scraper",
   "appId": "com.downdogapp",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "A new workout every time!",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 7782385,
-    "score": 4.865319,
+    "maxInstalls": 7782386,
+    "score": 4.865411,
     "scoreText": "4.9",
-    "ratings": 377375,
-    "reviews": 14660,
+    "ratings": 377422,
+    "reviews": 14661,
     "histogram": {
-      "1": 5625,
+      "1": 5619,
       "2": 2324,
-      "3": 2456,
-      "4": 16422,
-      "5": 350533
+      "3": 2450,
+      "4": 16410,
+      "5": 350598
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Feb 29, 2016",
-    "updated": 1782774316000,
-    "version": "8.2.5",
+    "updated": 1784662171000,
+    "version": "8.3.0",
     "recentChanges": "- Practice Yoga, Pilates, Meditation and HIIT, all in one app<br>- Personal Challenges. Set a goal, track your streak, stay consistent<br>- All-new design",
     "comments": [],
     "preregister": false,

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-07-25",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "12d0a8efb5336ad03f1df06066e04f34863b6db4",
+      "prev_fetched_at": "2026-07-24T09:02:58.002Z",
+      "curr_fetched_at": "2026-07-25T08:29:19.306Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.5",
+          "new": "3.1.6"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new in this update:\n\nDid you say liquid glass? Hevy now has new liquid glass components to make your navigation feel smooth and native!\nYou can now see your full Trainer program!\nBug fixes and performance improvements!",
+          "new": "What's new in this update:\n\nBug fixes and performance improvements!"
+        }
+      ]
+    }
+  }
+}

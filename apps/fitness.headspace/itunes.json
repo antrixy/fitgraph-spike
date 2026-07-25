@@ -1,8 +1,32 @@
 {
-  "fetched_at": "2026-07-24T09:08:55.640Z",
+  "fetched_at": "2026-07-25T08:35:29.121Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=493145008&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/5a/ec/725aec3b-ce7e-04e5-3fb2-c3eddd568959/6edb2838-55b4-46d0-b166-358beae09bf2_1242x2208bb__U002832_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/aa/29/17aa2961-e804-11d8-d196-58c486554ffe/7cfe3748-bd48-4629-8716-8735363c19b2_1242x2208bb__U002833_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/c2/9d/32c29ddf-48c3-99a3-1f38-e05fa2a739f5/4e362280-094d-45b5-9b86-4c93af24d424_1242x2208bb__U002834_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/70/b5/a770b5dd-1741-024e-7114-146bf77199e9/f32e2b88-f1b7-4170-86fc-0128b356a610_1242x2208bb__U002835_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/40/f3/db40f353-9106-7edf-1c8b-66521fbfe1c4/d751a414-cfe4-4f1c-962b-1504a6d5b8de_1242x2208bb__U002836_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/91/01/c0910165-055d-ef57-5e98-e366e792489b/bf64043f-3ed9-4277-aff3-2512724e7136_1242x2208bb__U002837_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/de/86/bade8653-87c6-24fa-387b-f5ad05f4acb6/5614444b-3f1b-4a61-961b-cbe8b14b294d_1242x2208bb__U002838_U0029.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/7b/7f/257b7f65-b836-3cda-e749-cd0c8620683f/c543a866-810f-4d1e-80ea-4f568a08ebc6_1242x2208bb__U002839_U0029.png/392x696bb.png"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/c1/e8/33c1e8bd-22f2-501b-3d45-b529bb7159f5/1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/88/48/d4884837-5c79-d7ee-4fcb-04267cac258a/2.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/64/48/096448fb-2317-ad5f-43b8-a0035700e66f/3.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/49/87/b3498772-5a46-5164-d96f-4bd94366a0fa/4.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/b1/68/2fb16854-b208-2845-5737-12c091c4196b/5.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/4d/e5/d14de561-3372-082a-ebf9-aba4010aea18/6.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/01/a1/9701a1b3-411a-f003-bc69-4712ffae3771/7.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/5d/94/665d9404-1d46-5eb0-9c5c-80a1dd731979/8.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/97/ff/2297ff0a-93f9-5044-f2c5-5befa35522cb/9.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/7f/18/027f189b-82cb-48d9-7c22-f34fd6a8ba0a/10.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c4/aa/d1c4aa35-fd8e-e6ff-579a-38ad6d16807d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -142,43 +166,36 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/headspace-inc/id384434796?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c4/aa/d1c4aa35-fd8e-e6ff-579a-38ad6d16807d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c4/aa/d1c4aa35-fd8e-e6ff-579a-38ad6d16807d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/c4/aa/d1c4aa35-fd8e-e6ff-579a-38ad6d16807d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/5a/ec/725aec3b-ce7e-04e5-3fb2-c3eddd568959/6edb2838-55b4-46d0-b166-358beae09bf2_1242x2208bb__U002832_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/aa/29/17aa2961-e804-11d8-d196-58c486554ffe/7cfe3748-bd48-4629-8716-8735363c19b2_1242x2208bb__U002833_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/c2/9d/32c29ddf-48c3-99a3-1f38-e05fa2a739f5/4e362280-094d-45b5-9b86-4c93af24d424_1242x2208bb__U002834_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/70/b5/a770b5dd-1741-024e-7114-146bf77199e9/f32e2b88-f1b7-4170-86fc-0128b356a610_1242x2208bb__U002835_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/40/f3/db40f353-9106-7edf-1c8b-66521fbfe1c4/d751a414-cfe4-4f1c-962b-1504a6d5b8de_1242x2208bb__U002836_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/91/01/c0910165-055d-ef57-5e98-e366e792489b/bf64043f-3ed9-4277-aff3-2512724e7136_1242x2208bb__U002837_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/de/86/bade8653-87c6-24fa-387b-f5ad05f4acb6/5614444b-3f1b-4a61-961b-cbe8b14b294d_1242x2208bb__U002838_U0029.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/7b/7f/257b7f65-b836-3cda-e749-cd0c8620683f/c543a866-810f-4d1e-80ea-4f568a08ebc6_1242x2208bb__U002839_U0029.png/392x696bb.png"
+    "userRatingCountForCurrentVersion": 973905,
+    "averageUserRatingForCurrentVersion": 4.84242,
+    "sellerUrl": "https://www.headspace.com/",
+    "languageCodesISO2A": [
+      "EN"
     ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/c1/e8/33c1e8bd-22f2-501b-3d45-b529bb7159f5/1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/88/48/d4884837-5c79-d7ee-4fcb-04267cac258a/2.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/64/48/096448fb-2317-ad5f-43b8-a0035700e66f/3.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/49/87/b3498772-5a46-5164-d96f-4bd94366a0fa/4.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/b1/68/2fb16854-b208-2845-5737-12c091c4196b/5.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/4d/e5/d14de561-3372-082a-ebf9-aba4010aea18/6.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/01/a1/9701a1b3-411a-f003-bc69-4712ffae3771/7.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/5d/94/665d9404-1d46-5eb0-9c5c-80a1dd731979/8.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/97/ff/2297ff0a-93f9-5044-f2c5-5befa35522cb/9.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/7f/18/027f189b-82cb-48d9-7c22-f34fd6a8ba0a/10.png/576x768bb.png"
+    "fileSizeBytes": "500205568",
+    "formattedPrice": "Free",
+    "trackContentRating": "12+",
+    "releaseNotes": "Thanks for using Headspace! This update includes bug fixes and performance improvements.\n\nAs always, if you run into any troubles, let us know at help@headspace.com",
+    "artistId": 384434796,
+    "artistName": "Headspace Inc.",
+    "genres": [
+      "Health & Fitness",
+      "Productivity"
     ],
-    "minimumOsVersion": "15.6",
     "price": 0,
     "releaseDate": "2012-02-02T18:57:49Z",
     "bundleId": "com.getsomeheadspace.headspace",
-    "sellerName": "Headspace Inc.",
-    "trackId": 493145008,
-    "trackName": "Headspace: Sleep & Meditation",
     "genreIds": [
       "6013",
       "6007"
     ],
+    "trackId": 493145008,
+    "trackName": "Headspace: Sleep & Meditation",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Headspace Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-20T17:41:04Z",
-    "releaseNotes": "Thanks for using Headspace! This update includes bug fixes and performance improvements.\n\nAs always, if you run into any troubles, let us know at help@headspace.com",
     "version": "8.24.2",
     "wrapperType": "software",
     "currency": "USD",
@@ -186,25 +203,8 @@
     "trackCensoredName": "Headspace: Sleep & Meditation",
     "trackViewUrl": "https://apps.apple.com/us/app/headspace-sleep-meditation/id493145008?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.84244,
-    "sellerUrl": "https://www.headspace.com/",
-    "averageUserRatingForCurrentVersion": 4.84244,
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "500205568",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 973916,
-    "trackContentRating": "12+",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "genres": [
-      "Health & Fitness",
-      "Productivity"
-    ],
-    "artistId": 384434796,
-    "artistName": "Headspace Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "userRatingCount": 973916
+    "averageUserRating": 4.84242,
+    "minimumOsVersion": "15.6",
+    "userRatingCount": 973905
   }
 }

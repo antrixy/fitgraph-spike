@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T09:06:39.415Z",
+  "fetched_at": "2026-07-25T08:33:07.615Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 277158419,
-    "score": 3.6894598,
+    "score": 3.6892238,
     "scoreText": "3.7",
-    "ratings": 1297317,
-    "reviews": 251819,
+    "ratings": 1297751,
+    "reviews": 251840,
     "histogram": {
-      "1": 295246,
-      "2": 77735,
-      "3": 72349,
-      "4": 141281,
-      "5": 710698
+      "1": 295351,
+      "2": 77801,
+      "3": 72395,
+      "4": 141455,
+      "5": 710743
     },
     "price": 0,
     "free": true,

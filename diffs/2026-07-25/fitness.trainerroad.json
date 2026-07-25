@@ -1,0 +1,46 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-25",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "12d0a8efb5336ad03f1df06066e04f34863b6db4",
+      "curr_fetched_at": "2026-07-25T08:32:21.251Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Triathlon Training Plans",
+          "occurrences": 1
+        },
+        {
+          "text": "Off-Road Training Plans",
+          "occurrences": 1
+        },
+        {
+          "text": "Pricing",
+          "occurrences": 1
+        },
+        {
+          "text": "Reviews",
+          "occurrences": 1
+        },
+        {
+          "text": "Compare Training Apps",
+          "occurrences": 1
+        },
+        {
+          "text": "W/kg Calculator",
+          "occurrences": 1
+        },
+        {
+          "text": "Strength Calculator",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 7,
+      "removed_total": 0
+    }
+  }
+}

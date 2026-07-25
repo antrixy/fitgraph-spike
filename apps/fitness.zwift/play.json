@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T09:06:04.655Z",
+  "fetched_at": "2026-07-25T08:32:29.640Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -9,10 +9,10 @@
     "summary": "Workout, Ride and Race at Home",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2675450,
+    "maxInstalls": 2675451,
     "score": 3.9773462,
     "scoreText": "4.0",
-    "ratings": 26728,
+    "ratings": 26729,
     "reviews": 1342,
     "histogram": {
       "1": 4580,
@@ -73,9 +73,9 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 13, 2019",
-    "updated": 1784310455000,
-    "version": "1.118.0 (163567)",
-    "recentChanges": "When equipping a bike in the garage, the last selected paint color for that frame will be restored. Clicking the paint icon to hide the color slider will also reset the equipped bike’s color to stock paint.<br>Fixed the end of ride screenshot selection toggling on drag instead of tap for phones and tablets.<br>Fixed reconnection bug with trainers&#39; relayed sensors.<br>Fixed an issue where some riders could face in reverse in the event paddock.",
+    "updated": 1784848561000,
+    "version": "1.118.2 (163827)",
+    "recentChanges": "Improved stability.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

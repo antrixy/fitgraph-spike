@@ -1,9 +1,8 @@
 {
-  "fetched_at": "2026-07-24T09:02:40.711Z",
+  "fetched_at": "2026-07-25T08:28:57.403Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=6480417616&country=us",
   "result": {
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/dd/5c/66dd5cab-7622-7caf-84c1-5fc5c16f5b39/28f8bc10-b990-4c88-be57-5003ba5d6483_SS1Small__U00281_U0029.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/52/fd/3352fd96-00a2-d63b-9362-f1fdaa21fe31/e93b538a-fce8-4568-94db-b2b5f69644e2_SS2Small__U00282_U0029.png/392x696bb.png",
@@ -12,11 +11,9 @@
     ],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "artistViewUrl": "https://apps.apple.com/us/developer/viral-development-llc/id1738939499?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "advisories": [],
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -147,13 +144,14 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [],
+    "advisories": [],
     "kind": "software",
-    "userRatingCountForCurrentVersion": 344432,
-    "averageUserRating": 4.8027,
-    "minimumOsVersion": "18.0",
+    "artistViewUrl": "https://apps.apple.com/us/developer/viral-development-llc/id1738939499?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/17/f8/5617f890-79de-8229-0f56-c061a41874ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "averageUserRatingForCurrentVersion": 4.8027,
     "sellerUrl": "https://www.calai.app/",
+    "userRatingCountForCurrentVersion": 344875,
     "languageCodesISO2A": [
       "AR",
       "AZ",
@@ -175,9 +173,7 @@
     "formattedPrice": "Free",
     "trackContentRating": "4+",
     "releaseNotes": "Improvements and tweaks to help you build and be your best",
-    "trackCensoredName": "Cal AI - Calorie Tracker",
-    "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
-    "contentAdvisoryRating": "4+",
+    "currentVersionReleaseDate": "2026-07-23T16:26:42Z",
     "artistId": 1738939499,
     "artistName": "Viral Development LLC",
     "genres": [
@@ -186,22 +182,26 @@
     ],
     "price": 0,
     "bundleId": "com.viraldevelopment.CalAI",
-    "currentVersionReleaseDate": "2026-07-23T16:26:42Z",
-    "releaseDate": "2024-04-08T07:00:00Z",
+    "sellerName": "Viral Development LLC",
     "genreIds": [
       "6013",
       "6023"
     ],
-    "isVppDeviceBasedLicensingEnabled": true,
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "trackId": 6480417616,
+    "trackName": "Cal AI - Calorie Tracker",
+    "releaseDate": "2024-04-08T07:00:00Z",
+    "isVppDeviceBasedLicensingEnabled": true,
     "version": "26.29.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.\n\nWe aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.\n\nIf you have any ideas or questions, please email us at team@calai.app.\n\nNOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.\n\n*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION\nTERMS: https://calai.app/tos",
-    "sellerName": "Viral Development LLC",
-    "trackId": 6480417616,
-    "trackName": "Cal AI - Calorie Tracker",
-    "userRatingCount": 344432
+    "trackCensoredName": "Cal AI - Calorie Tracker",
+    "minimumOsVersion": "18.0",
+    "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.8027,
+    "userRatingCount": 344875
   }
 }

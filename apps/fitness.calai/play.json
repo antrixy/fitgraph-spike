@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T09:02:42.347Z",
+  "fetched_at": "2026-07-25T08:28:59.714Z",
   "source": "google_play_scraper",
   "appId": "com.viraldevelopment.calai",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 4249102,
-    "score": 4.597531,
+    "score": 4.599179,
     "scoreText": "4.6",
-    "ratings": 271375,
-    "reviews": 1638,
+    "ratings": 271378,
+    "reviews": 1639,
     "histogram": {
-      "1": 10607,
-      "2": 3122,
-      "3": 10495,
-      "4": 36400,
-      "5": 210726
+      "1": 10583,
+      "2": 2998,
+      "3": 10470,
+      "4": 36438,
+      "5": 210853
     },
     "price": 0,
     "free": true,
@@ -82,7 +82,7 @@
     "adSupported": false,
     "released": "Jul 29, 2024",
     "updated": 1784844587000,
-    "version": "26.28.0",
+    "version": "26.28.1",
     "recentChanges": "Improvements and tweaks to help you build and be your best",
     "comments": [],
     "preregister": false,

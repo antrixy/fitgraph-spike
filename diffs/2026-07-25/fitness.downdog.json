@@ -1,0 +1,31 @@
+{
+  "product": "fitness.downdog",
+  "name": "Down Dog",
+  "date": "2026-07-25",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "12d0a8efb5336ad03f1df06066e04f34863b6db4",
+      "prev_fetched_at": "2026-07-24T09:08:43.486Z",
+      "curr_fetched_at": "2026-07-25T08:35:19.950Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.2.5",
+          "new": "8.3.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "12d0a8efb5336ad03f1df06066e04f34863b6db4",
+      "prev_fetched_at": "2026-07-24T09:08:48.175Z",
+      "curr_fetched_at": "2026-07-25T08:35:22.972Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.2.5",
+          "new": "8.3.0"
+        }
+      ]
+    }
+  }
+}

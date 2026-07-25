@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T09:04:01.598Z",
+  "fetched_at": "2026-07-25T08:30:23.825Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 583884,
-    "score": 4.6605744,
+    "score": 4.6614585,
     "scoreText": "4.7",
-    "ratings": 12568,
+    "ratings": 12573,
     "reviews": 549,
     "histogram": {
-      "1": 557,
-      "2": 98,
-      "3": 196,
-      "4": 1344,
-      "5": 10367
+      "1": 554,
+      "2": 95,
+      "3": 193,
+      "4": 1341,
+      "5": 10379
     },
     "price": 0,
     "free": true,
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Nov 3, 2020",
-    "updated": 1782703914000,
+    "updated": 1784943779000,
     "version": "262",
     "recentChanges": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
     "comments": [],
