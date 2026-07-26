@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T08:30:13.943Z",
+  "fetched_at": "2026-07-26T08:44:40.212Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 2371223,
-    "score": 4.3510175,
+    "score": 4.352352,
     "scoreText": "4.4",
-    "ratings": 101125,
-    "reviews": 13953,
+    "ratings": 101126,
+    "reviews": 13954,
     "histogram": {
-      "1": 14542,
+      "1": 14508,
       "2": 741,
       "3": 1180,
       "4": 2867,
-      "5": 81789
+      "5": 81823
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Dec 23, 2013",
-    "updated": 1782804061000,
+    "updated": 1784978926000,
     "version": "4.3.3.2",
     "recentChanges": "- Various fixes and improvements<br>",
     "comments": [],

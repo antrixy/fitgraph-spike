@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T08:27:58.011Z",
+  "fetched_at": "2026-07-26T08:42:34.001Z",
   "source": "google_play_scraper",
   "appId": "com.fourtechnologies.mynetdiary.ad",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9372417,
-    "score": 4.6693563,
+    "score": 4.66956,
     "scoreText": "4.7",
-    "ratings": 113195,
-    "reviews": 17787,
+    "ratings": 113256,
+    "reviews": 17794,
     "histogram": {
-      "1": 3332,
-      "2": 1345,
-      "3": 3127,
-      "4": 13792,
-      "5": 91592
+      "1": 3336,
+      "2": 1370,
+      "3": 3131,
+      "4": 13693,
+      "5": 91718
     },
     "price": 0,
     "free": true,
