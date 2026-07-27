@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T08:47:30.988Z",
+  "fetched_at": "2026-07-27T10:19:21.921Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=583446403&country=us",
   "result": {
@@ -17,6 +17,12 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/3c/7d2b3c28-ce60-aa04-7f1d-bea9c3a08de9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/3c/7d2b3c28-ce60-aa04-7f1d-bea9c3a08de9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/3c/7d2b3c28-ce60-aa04-7f1d-bea9c3a08de9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -146,14 +152,6 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [],
-    "advisories": [],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/3c/7d2b3c28-ce60-aa04-7f1d-bea9c3a08de9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2b/3c/7d2b3c28-ce60-aa04-7f1d-bea9c3a08de9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.3929,
-    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
     "languageCodesISO2A": [
       "AR",
       "BG",
@@ -194,9 +192,12 @@
     ],
     "fileSizeBytes": "981603328",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 57828,
     "trackContentRating": "4+",
+    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
+    "averageUserRatingForCurrentVersion": 4.39282,
     "minimumOsVersion": "18.2",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "artistId": 411046952,
     "artistName": "Garmin",
     "genres": [
@@ -204,19 +205,13 @@
       "Sports"
     ],
     "price": 0,
-    "bundleId": "com.garmin.connect.mobile",
-    "trackId": 583446403,
-    "trackName": "Garmin Connect™",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "releaseDate": "2013-01-10T06:26:44Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Garmin International",
-    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-21T12:52:07Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseDate": "2013-01-10T06:26:44Z",
     "releaseNotes": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
     "version": "5.27",
     "wrapperType": "software",
@@ -225,7 +220,12 @@
     "trackCensoredName": "Garmin Connect™",
     "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.3929,
-    "userRatingCount": 57828
+    "averageUserRating": 4.39282,
+    "userRatingCountForCurrentVersion": 57848,
+    "trackId": 583446403,
+    "trackName": "Garmin Connect™",
+    "bundleId": "com.garmin.connect.mobile",
+    "sellerName": "Garmin International",
+    "userRatingCount": 57848
   }
 }

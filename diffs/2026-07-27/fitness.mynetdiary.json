@@ -1,0 +1,65 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-27",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "b2a4fa3730478a13983b15067715b7ec886f4a23",
+      "prev_fetched_at": "2026-07-26T08:42:34.001Z",
+      "curr_fetched_at": "2026-07-27T10:14:06.963Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "b2a4fa3730478a13983b15067715b7ec886f4a23",
+      "curr_fetched_at": "2026-07-27T10:14:12.090Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Calorie cycling for weight loss: Finally, a flexible way to stick to your plan and rock your goals",
+          "occurrences": 1
+        },
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 4
+    }
+  }
+}

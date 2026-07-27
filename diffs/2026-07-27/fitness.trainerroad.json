@@ -1,0 +1,26 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-27",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "b2a4fa3730478a13983b15067715b7ec886f4a23",
+      "curr_fetched_at": "2026-07-27T10:18:44.138Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Group Workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "Train with your friends, reach your goals, and get faster together.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 2
+    }
+  }
+}
