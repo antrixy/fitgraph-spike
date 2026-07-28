@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.strava",
+  "integration": "oura",
+  "direction": "removed",
+  "observed_at": "2026-07-28T09:16:41.650Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "app_description",
+      "excerpt": "te Challenges: Participate in monthly challenges to chase new goals, collect digital badges and stay motivated while encouraging others. • Stay Connected: Your Strava feed is filled with real efforts from real people. Follow friends or your fa",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

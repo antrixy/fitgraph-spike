@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T10:21:21.442Z",
+  "fetched_at": "2026-07-28T09:20:12.232Z",
   "source": "google_play_scraper",
   "appId": "com.freeletics.lite",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "A personal trainer in your pocket. At-home HIIT workouts &amp; custom training plans",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 38651916,
-    "score": 4.1410694,
+    "maxInstalls": 38657923,
+    "score": 4.1420455,
     "scoreText": "4.1",
-    "ratings": 260059,
+    "ratings": 260064,
     "reviews": 4461,
     "histogram": {
-      "1": 37265,
-      "2": 9756,
-      "3": 8577,
-      "4": 27799,
-      "5": 176624
+      "1": 37227,
+      "2": 9737,
+      "3": 8558,
+      "4": 27761,
+      "5": 176724
     },
     "price": 0,
     "free": true,
@@ -64,7 +64,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Jan 2, 2014",
-    "updated": 1784548113000,
+    "updated": 1785147860000,
     "version": "26.28.0",
     "recentChanges": "We squashed some bugs. Let us know if you find more. Our developers will fix them faster than you can do an Aphrodite.",
     "comments": [],

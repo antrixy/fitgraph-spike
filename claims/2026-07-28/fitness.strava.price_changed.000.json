@@ -1,0 +1,21 @@
+{
+  "claim_type": "price_changed",
+  "product": "fitness.strava",
+  "field": "iap_range",
+  "old_value": "$2.99 - $249.99 per item",
+  "new_value": "$2.99 – $249.99 per item",
+  "observed_at": "2026-07-28T09:16:41.650Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "play_listing",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

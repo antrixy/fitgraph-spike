@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T10:18:50.840Z",
+  "fetched_at": "2026-07-28T09:17:49.229Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout, Ride and Race at Home",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2675451,
+    "maxInstalls": 2677678,
     "score": 3.9837134,
     "scoreText": "4.0",
-    "ratings": 26734,
+    "ratings": 26735,
     "reviews": 1342,
     "histogram": {
       "1": 4528,
       "2": 1129,
       "3": 1738,
       "4": 2172,
-      "5": 17147
+      "5": 17148
     },
     "price": 0,
     "free": true,

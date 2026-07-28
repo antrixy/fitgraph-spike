@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T10:13:44.332Z",
+  "fetched_at": "2026-07-28T09:12:39.265Z",
   "source": "google_play_scraper",
   "appId": "com.sbs.diet",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Reach your diet goals with the smartest macro tracker and nutrition coach",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1421940,
-    "score": 4.7611337,
+    "maxInstalls": 1427681,
+    "score": 4.760638,
     "scoreText": "4.8",
-    "ratings": 15619,
-    "reviews": 1750,
+    "ratings": 15648,
+    "reviews": 1755,
     "histogram": {
-      "1": 505,
-      "2": 125,
-      "3": 273,
-      "4": 778,
-      "5": 13931
+      "1": 498,
+      "2": 123,
+      "3": 290,
+      "4": 789,
+      "5": 13941
     },
     "price": 0,
     "free": true,

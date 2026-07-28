@@ -1,0 +1,27 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-07-28",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381",
+      "curr_fetched_at": "2026-07-28T09:16:12.956Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "1:1 Coaching",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Coaching",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

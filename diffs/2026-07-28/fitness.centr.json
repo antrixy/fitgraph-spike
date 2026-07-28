@@ -1,0 +1,20 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-07-28",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381",
+      "prev_fetched_at": "2026-07-27T10:20:48.971Z",
+      "curr_fetched_at": "2026-07-28T09:19:42.772Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "This release includes a number of bug fixes that were causing the app to crash or fail to store your workout progress - our apologies!  <br><br>If you have any questions or need a hand, please contact our Support team - support@centr.com",
+          "new": "This release brings fixes and improvements to screen casting and adds deeper screen mirroring support, making your big-screen workouts smoother and more reliable.<br><br>Need a hand or have feedback? Reach our team anytime at hello@centr.com."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-07-28",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381",
+      "prev_fetched_at": "2026-07-27T10:17:48.762Z",
+      "curr_fetched_at": "2026-07-28T09:16:48.931Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.46.1",
+          "new": "8.47.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "This one&#39;s like lacing up your shoes properly: easy to overlook, but it sets the tone for everything else. We&#39;re always on the look out for those marginal gains.",
+          "new": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!"
+        }
+      ]
+    }
+  }
+}

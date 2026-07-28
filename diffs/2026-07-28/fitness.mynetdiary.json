@@ -1,0 +1,61 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-28",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381",
+      "prev_fetched_at": "2026-07-27T10:14:06.963Z",
+      "curr_fetched_at": "2026-07-28T09:12:59.835Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381",
+      "curr_fetched_at": "2026-07-28T09:13:03.508Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What happens when you stop logging food (and how to restart without guilt)",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary: The most accurate, user-friendly macronutrient tracker available",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Calorie cycling for weight loss: Finally, a flexible way to stick to your plan and rock your goals",
+          "occurrences": 1
+        },
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 5
+    }
+  }
+}
