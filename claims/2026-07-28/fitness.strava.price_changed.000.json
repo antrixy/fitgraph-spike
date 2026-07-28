@@ -9,7 +9,7 @@
     {
       "tier": "vendor_asserted",
       "source": "play_listing",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
       "prev_ok_commit": "8625a825b02c500df806afb5c9c29d5e84151381"
     }
   ],
