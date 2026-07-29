@@ -1,0 +1,43 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-07-29",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
+      "prev_fetched_at": "2026-07-28T09:12:30.001Z",
+      "curr_fetched_at": "2026-07-29T09:18:20.899Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "What&#39;s New<br><br>A quick round of UI polish and bug fixes to keep things running smoothly.<br><br>Update now for a smoother, faster Cronometer experience!<br>Questions? Contact us at support@cronometer.com",
+          "new": "This release includes several bug fixes and stability improvements. Thank you for reporting these issues — please continue sharing feedback as you use the app. Happy tracking!"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
+      "curr_fetched_at": "2026-07-29T09:18:23.401Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Crono Coach",
+          "occurrences": 1
+        },
+        {
+          "text": "Crono Coach uses the help of AI to surface patterns and suggest where to focus.",
+          "occurrences": 1
+        },
+        {
+          "text": "From meal recommendations to reviewing your logging habits, every insight is grounded in your own data.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 0
+    }
+  }
+}

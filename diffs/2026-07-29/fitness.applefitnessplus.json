@@ -1,0 +1,22 @@
+{
+  "product": "fitness.applefitnessplus",
+  "name": "Apple Fitness+",
+  "date": "2026-07-29",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
+      "curr_fetched_at": "2026-07-29T09:25:26.669Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Apple Upgrade",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

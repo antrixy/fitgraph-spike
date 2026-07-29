@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T09:14:23.312Z",
+  "fetched_at": "2026-07-29T09:20:17.136Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1458862350&country=us",
   "result": {
@@ -166,14 +166,30 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/37/5a/9a375ae9-3047-0e89-3eed-b3ccd2c807ce/2e51c3bd-90bb-4d50-9a77-c20533fb3e3e_screenshot8.png/576x768bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/fb/82/8efb8270-e192-9a08-8f5b-9bd915caef27/d9b34ffb-89c8-466e-ae84-772c170e88cb_screenshot9.png/576x768bb.png"
     ],
-    "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/be/10/6bbe106f-2251-fcea-81ee-76d48d0042ac/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+    "appletvScreenshotUrls": [],
+    "bundleId": "com.hevyapp.hevy",
+    "minimumOsVersion": "15.1",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
     "artistId": 1458862349,
     "artistName": "Hevy Studios S.L.",
     "price": 0,
-    "releaseDate": "2019-07-01T04:30:20Z",
-    "releaseNotes": "What's new in this update:\n\nBug fixes and performance improvements!",
+    "sellerName": "Hevy Studios S.L.",
     "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2019-07-01T04:30:20Z",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "trackId": 1458862350,
+    "trackName": "Hevy - Workout Tracker Gym Log",
+    "currentVersionReleaseDate": "2026-07-24T13:49:57Z",
+    "releaseNotes": "What's new in this update:\n\nBug fixes and performance improvements!",
     "version": "3.1.6",
     "wrapperType": "software",
     "currency": "USD",
@@ -181,6 +197,7 @@
     "trackCensoredName": "Hevy - Workout Tracker Gym Log",
     "trackViewUrl": "https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350?uo=4",
     "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.92361,
     "averageUserRatingForCurrentVersion": 4.92361,
     "sellerUrl": "https://www.hevyapp.com",
     "languageCodesISO2A": [
@@ -199,25 +216,8 @@
     ],
     "fileSizeBytes": "249403392",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 82513,
+    "userRatingCountForCurrentVersion": 82739,
     "trackContentRating": "4+",
-    "averageUserRating": 4.92361,
-    "minimumOsVersion": "15.1",
-    "sellerName": "Hevy Studios S.L.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "currentVersionReleaseDate": "2026-07-24T13:49:57Z",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
-    "bundleId": "com.hevyapp.hevy",
-    "trackId": 1458862350,
-    "trackName": "Hevy - Workout Tracker Gym Log",
-    "userRatingCount": 82513
+    "userRatingCount": 82739
   }
 }

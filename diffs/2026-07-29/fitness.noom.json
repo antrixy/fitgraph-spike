@@ -1,0 +1,191 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-29",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
+      "curr_fetched_at": "2026-07-29T09:19:30.204Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Get Noom’s Most Powerful Program starting at $149 .",
+          "occurrences": 1
+        },
+        {
+          "text": "Try Noom GLP-1 Rx Plus",
+          "occurrences": 1
+        },
+        {
+          "text": "An Advanced GLP-1 Program",
+          "occurrences": 1
+        },
+        {
+          "text": "A Low Dose Way to Start",
+          "occurrences": 1
+        },
+        {
+          "text": "A smaller dose for an easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "A Preventive Health Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Tirzepatide injection sites: How to inject correctly and minimize discomfort",
+          "occurrences": 1
+        },
+        {
+          "text": "Does insurance cover liraglutide?",
+          "occurrences": 1
+        },
+        {
+          "text": "Check coverage in 2026",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medvi: What’s the difference in GLP-1 medications, pricing, and care?",
+          "occurrences": 1
+        },
+        {
+          "text": "Can a bone broth fast help you lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "The truth behind the trend",
+          "occurrences": 1
+        },
+        {
+          "text": "Are grits good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What you need to know",
+          "occurrences": 1
+        },
+        {
+          "text": "What is lymphatic walking?",
+          "occurrences": 1
+        },
+        {
+          "text": "The trend explained, plus what it means for weight loss",
+          "occurrences": 1
+        },
+        {
+          "text": "Initial 3 week subscription and 4 weeks of medication from $79 plus tax and $199 per month plus tax for 12 week subscription thereafter.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$49 Limited-Time Offer: Microdose Compounded Semaglutide, price includes medication.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn more",
+          "occurrences": 1
+        },
+        {
+          "text": "An Advanced GLP-1",
+          "occurrences": 1
+        },
+        {
+          "text": "Program",
+          "occurrences": 2
+        },
+        {
+          "text": "LIMITED-TIME INTRO OFFER",
+          "occurrences": 1
+        },
+        {
+          "text": "A New Low-Dose",
+          "occurrences": 1
+        },
+        {
+          "text": "Way To Start",
+          "occurrences": 1
+        },
+        {
+          "text": "Introducing Microdose Compounded Tirzepatide for a smaller, easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "A Preventive Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Cyclospora outbreak 2026: Is lettuce safe to eat?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know",
+          "occurrences": 2
+        },
+        {
+          "text": "What dose of Zepbound® is most effective?",
+          "occurrences": 1
+        },
+        {
+          "text": "What is a GLP-3?",
+          "occurrences": 1
+        },
+        {
+          "text": "Retatrutide’s popular nickname explained",
+          "occurrences": 1
+        },
+        {
+          "text": "People are using Smooth Move Tea for weight loss—here&#8217;s why that&#8217;s a bad idea",
+          "occurrences": 1
+        },
+        {
+          "text": "Are sunflower seeds good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Does insurance cover GLP-1s for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Check your coverage in 2026",
+          "occurrences": 1
+        },
+        {
+          "text": "2.Initial 3 week subscription and 4 weeks of medication from $79 plus tax and $199 per month plus tax for 12 week subscription thereafter.",
+          "occurrences": 1
+        },
+        {
+          "text": "Final pricing depends on program selection.Noom GLP-1Rx Plus Microdose Program involves medication (when appropriate), healthy diet, exercise and support.",
+          "occurrences": 1
+        },
+        {
+          "text": "Individual results vary.",
+          "occurrences": 1
+        },
+        {
+          "text": "Meds &#038; personalization based on need as determined by a third-party clinician.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medications are not reviewed by FDA for safety, efficacy, or quality.",
+          "occurrences": 1
+        },
+        {
+          "text": "No affiliation with Eli Lilly and Company, the only US source of FDA-approved tirzepatide.",
+          "occurrences": 1
+        },
+        {
+          "text": "Not available in all 50 US states.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 18,
+      "removed_total": 25
+    }
+  }
+}

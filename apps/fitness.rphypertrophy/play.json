@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T09:16:07.774Z",
+  "fetched_at": "2026-07-29T09:21:46.442Z",
   "source": "google_play_scraper",
   "appId": "com.rp.hypertrophy",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 31828,
     "score": 4.3194447,
     "scoreText": "4.3",
-    "ratings": 127,
-    "reviews": 45,
+    "ratings": 128,
+    "reviews": 46,
     "histogram": {
       "1": 17,
       "2": 0,
       "3": 5,
       "4": 5,
-      "5": 98
+      "5": 99
     },
     "price": 0,
     "free": true,

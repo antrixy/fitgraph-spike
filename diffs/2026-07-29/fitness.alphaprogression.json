@@ -1,0 +1,24 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-07-29",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "1031562e0e8de225b21f0630d211cf43478bc4ae",
+      "prev_fetched_at": "2026-07-28T09:15:50.430Z",
+      "curr_fetched_at": "2026-07-29T09:21:31.077Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.1.1",
+          "new": "7.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Spanish + French + Portuguese (BR)\n• We unlocked three new languages for all users.\n• If you notice any mistranslations, please tell us at info@alphaprogression.com.\n\nChanges\n• Performance improvements.\n• Various smaller changes.\n\nBugfixes\n• Various minor bugfixes.\n\nQuestions about the update? Send us an email at info@alphaprogression.com",
+          "new": "Turkish + Italian + Polish\n• We have added three new languages.\n• If you notice any mistranslations, please tell us at info@alphaprogression.com.\n\nChanges\n• Various smaller changes.\n\nBugfixes\n• Various minor bugfixes.\n\nQuestions about the update? Send us an email at info@alphaprogression.com"
+        }
+      ]
+    }
+  }
+}
