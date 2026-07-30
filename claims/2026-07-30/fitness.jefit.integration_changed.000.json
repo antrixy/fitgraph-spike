@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "app_description",
       "excerpt": "including barbells, dumbbells, kettlebells, and cardio machines, with detailed instructions and animations. - Sync with Apple Health: Integrate your workout data with Apple Health to monitor body weight, height, exercise time, and more. - In-Time Train",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
       "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20"
     }
   ],
