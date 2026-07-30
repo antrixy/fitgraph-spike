@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:24:16.066Z",
+  "fetched_at": "2026-07-30T09:14:19.114Z",
   "source": "google_play_scraper",
   "appId": "com.garmin.android.apps.connectmobile",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "beat yesterday.",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 50233353,
-    "score": 4.344307,
+    "maxInstalls": 50284880,
+    "score": 4.3452015,
     "scoreText": "4.3",
-    "ratings": 1101008,
-    "reviews": 54181,
+    "ratings": 1101151,
+    "reviews": 54186,
     "histogram": {
-      "1": 113713,
-      "2": 33613,
-      "3": 28259,
-      "4": 109678,
-      "5": 815726
+      "1": 113662,
+      "2": 33373,
+      "3": 28202,
+      "4": 109809,
+      "5": 816077
     },
     "price": 0,
     "free": true,
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jan 9, 2013",
-    "updated": 1784911359000,
+    "updated": 1785344181000,
     "version": "5.27.2",
     "recentChanges": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
     "comments": [],

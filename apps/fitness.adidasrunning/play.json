@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:22:58.789Z",
+  "fetched_at": "2026-07-30T09:12:59.265Z",
   "source": "google_play_scraper",
   "appId": "com.runtastic.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "From Walk to Marathon training",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 96819954,
-    "score": 4.6299067,
+    "maxInstalls": 96829575,
+    "score": 4.6307693,
     "scoreText": "4.6",
-    "ratings": 1718103,
-    "reviews": 25329,
+    "ratings": 1718508,
+    "reviews": 25327,
     "histogram": {
-      "1": 80267,
-      "2": 21675,
-      "3": 45746,
-      "4": 158158,
-      "5": 1412200
+      "1": 80105,
+      "2": 21625,
+      "3": 45648,
+      "4": 157815,
+      "5": 1413257
     },
     "price": 0,
     "free": true,
@@ -63,13 +63,10 @@
       "https://play-lh.googleusercontent.com/_6isOBt8HoiycPzs0zQf0jQMloQawN8DZHCDfcSvSefFCNFAnKKx5H3wiwpmeYU_bHozWz7XUfwtRslrRUCB",
       "https://play-lh.googleusercontent.com/oUhDEqN8Bv9nbkZaM5jy3xI74ZX6DJIXA7-AK8yC_ZILmKS4zPIn_fImObXIqH-Wle5h_8s4ga57qHTx62mv5w"
     ],
-    "video": "https://www.youtube.com/embed/82Jbx_5M6qY?vq=large&rel=0&autohide=1&showinfo=0",
-    "videoImage": "https://play-lh.googleusercontent.com/Db3V2XdGE0faqe0hcrPXL-CfHZeio0inY9h_wzwIeibPVF4W_vNbbTMcr7Q--OAnWo2-xZu3uCmGjcAEiUqWgA",
-    "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/82Jbx_5M6qY.mp4",
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "May 12, 2010",
-    "updated": 1780405229000,
+    "updated": 1785316708000,
     "version": "VARY",
     "recentChanges": "Just a little maintenance this time! Bug fixes and performance tweaks to keep your workouts running smooth.",
     "comments": [],

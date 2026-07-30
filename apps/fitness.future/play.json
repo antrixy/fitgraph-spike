@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:25:52.448Z",
+  "fetched_at": "2026-07-30T09:16:03.830Z",
   "source": "google_play_scraper",
   "appId": "co.future.future",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "1-on-1 Strength Workout Plans",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 15177,
+    "maxInstalls": 15189,
     "score": 4.41,
     "scoreText": "4.4",
     "ratings": 387,

@@ -1,0 +1,35 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-07-30",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "curr_fetched_at": "2026-07-30T09:15:55.622Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "A stronger you starts here",
+          "occurrences": 1
+        },
+        {
+          "text": "A trainer and a plan in your pocket",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "We have a feeling you're going to love Sweat",
+          "occurrences": 1
+        },
+        {
+          "text": "That's why the first week is on us.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 2
+    }
+  }
+}

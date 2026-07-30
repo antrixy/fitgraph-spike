@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-07-30",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "prev_fetched_at": "2026-07-29T09:23:42.252Z",
+      "curr_fetched_at": "2026-07-30T09:13:43.819Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.118.0",
+          "new": "1.118.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "When equipping a bike in the garage, the last selected paint color for that frame will be restored. Clicking the paint icon to hide the color slider will also reset the equipped bike’s color to stock paint.\nFixed the end of ride screenshot selection toggling on drag instead of tap for phones and tablets.\nFixed reconnection bug with trainers' relayed sensors.\nFixed an issue where some riders could face in reverse in the event paddock.",
+          "new": "Improved stability."
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:23:56.759Z",
+  "fetched_at": "2026-07-30T09:13:58.467Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 42746396,
-    "score": 4.117647,
+    "maxInstalls": 42765366,
+    "score": 4.1171546,
     "scoreText": "4.1",
-    "ratings": 408444,
-    "reviews": 2116,
+    "ratings": 408892,
+    "reviews": 2118,
     "histogram": {
-      "1": 54052,
-      "2": 22294,
-      "3": 17964,
-      "4": 41141,
-      "5": 272830
+      "1": 53818,
+      "2": 22217,
+      "3": 17886,
+      "4": 42749,
+      "5": 271979
     },
     "price": 0,
     "free": true,
@@ -77,7 +77,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1784758448000,
+    "updated": 1785327983000,
     "version": "VARY",
     "recentChanges": "What&#39;s new?<br>- Elevation gain is now more accurate for recorded activities.<br><br>Bug fixes<br>- Fixed several crashes for improved stability.<br>- Fixed weather information shown on routes.<br><br>Coming soon<br>- A new and improved route planner!",
     "comments": [],

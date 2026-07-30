@@ -1,0 +1,25 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-07-30",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "prev_fetched_at": "2026-07-29T09:17:59.198Z",
+      "curr_fetched_at": "2026-07-30T09:08:23.804Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.29.0",
+          "new": "26.30.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "prev_fetched_at": "2026-07-29T09:18:02.994Z",
+      "curr_fetched_at": "2026-07-30T09:08:25.490Z",
+      "version_unreported": true
+    }
+  }
+}

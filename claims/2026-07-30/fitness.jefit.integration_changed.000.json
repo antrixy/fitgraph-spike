@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.jefit",
+  "integration": "apple_health",
+  "direction": "removed",
+  "observed_at": "2026-07-30T09:10:41.446Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "app_description",
+      "excerpt": "including barbells, dumbbells, kettlebells, and cardio machines, with detailed instructions and animations. - Sync with Apple Health: Integrate your workout data with Apple Health to monitor body weight, height, exercise time, and more. - In-Time Train",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

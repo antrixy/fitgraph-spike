@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:25:34.036Z",
+  "fetched_at": "2026-07-30T09:15:44.265Z",
   "source": "google_play_scraper",
   "appId": "com.centr.app",
   "result": {
@@ -12,13 +12,13 @@
     "maxInstalls": 2157586,
     "score": 4.372849,
     "scoreText": "4.4",
-    "ratings": 17213,
+    "ratings": 17214,
     "reviews": 2459,
     "histogram": {
-      "1": 1808,
+      "1": 1809,
       "2": 361,
       "3": 460,
-      "4": 1545,
+      "4": 1546,
       "5": 13033
     },
     "price": 0,

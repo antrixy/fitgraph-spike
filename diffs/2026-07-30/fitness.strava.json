@@ -1,0 +1,30 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-07-30",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "prev_fetched_at": "2026-07-29T09:22:14.515Z",
+      "curr_fetched_at": "2026-07-30T09:12:20.610Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "473.0.0",
+          "new": "474.0.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Strength update: Now you can multi-select exercises on your strength activities when adding them manually.",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "267a3973a6a45d0384ab4c510d2d6448e41dec20",
+      "prev_fetched_at": "2026-07-29T09:22:18.560Z",
+      "curr_fetched_at": "2026-07-30T09:12:24.481Z",
+      "version_unreported": true
+    }
+  }
+}
