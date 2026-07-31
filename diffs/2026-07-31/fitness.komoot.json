@@ -1,0 +1,33 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-07-31",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:13:58.467Z",
+      "curr_fetched_at": "2026-07-31T09:27:09.736Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "curr_fetched_at": "2026-07-31T09:27:14.375Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Routes Route planner Features Redeem a voucher Hikes MTB Trails Road cycling routes Bikepacking Sitemap",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Routes Route planner Features Hikes MTB Trails Road cycling routes Bikepacking Sitemap",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-07-31",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:13:32.021Z",
+      "curr_fetched_at": "2026-07-31T09:26:46.357Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.28.1",
+          "new": "2026.29.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• Fixed an issue that could leave the app stuck on a blank screen or showing a 'Connection Trouble' error.",
+          "new": "• Various under-the-hood improvements."
+        }
+      ]
+    }
+  }
+}

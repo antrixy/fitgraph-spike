@@ -1,0 +1,24 @@
+{
+  "product": "fitness.stronglifts",
+  "name": "StrongLifts 5x5",
+  "date": "2026-07-31",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:11:22.400Z",
+      "curr_fetched_at": "2026-07-31T09:24:37.162Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.3.3.2",
+          "new": "4.4"
+        },
+        {
+          "field": "recentChanges",
+          "old": "- Various fixes and improvements<br>",
+          "new": "- NEW: adjust weights, dates or workouts directly from the home screen<br>- NEW: estimated workout duration<br>- NEW: annotations showing weight increases<br>- NEW: plus various design improvements.<br>- Next: we have a lot more coming in the coming months.<br>"
+        }
+      ]
+    }
+  }
+}

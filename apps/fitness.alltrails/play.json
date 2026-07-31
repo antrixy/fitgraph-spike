@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T09:14:10.375Z",
+  "fetched_at": "2026-07-31T09:27:21.960Z",
   "source": "google_play_scraper",
   "appId": "com.alltrails.alltrails",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 50398971,
-    "score": 4.573053,
+    "score": 4.573284,
     "scoreText": "4.6",
-    "ratings": 384813,
-    "reviews": 25279,
+    "ratings": 384849,
+    "reviews": 25290,
     "histogram": {
-      "1": 23090,
-      "2": 6647,
-      "3": 8012,
-      "4": 35953,
-      "5": 311104
+      "1": 23080,
+      "2": 6646,
+      "3": 8007,
+      "4": 35936,
+      "5": 311173
     },
     "price": 0,
     "free": true,
@@ -70,7 +70,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Sep 13, 2011",
-    "updated": 1784925658000,
+    "updated": 1785347391000,
     "version": "VARY",
     "recentChanges": "Thanks for using AllTrails! This update includes:<br>• Minor bug fixes",
     "comments": [],

@@ -1,0 +1,31 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-07-31",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:10:30.503Z",
+      "curr_fetched_at": "2026-07-31T09:23:45.778Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.6",
+          "new": "3.1.7"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:10:35.203Z",
+      "curr_fetched_at": "2026-07-31T09:23:50.380Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.6",
+          "new": "3.1.7"
+        }
+      ]
+    }
+  }
+}

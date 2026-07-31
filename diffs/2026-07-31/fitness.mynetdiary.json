@@ -1,0 +1,61 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-07-31",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:09:11.409Z",
+      "curr_fetched_at": "2026-07-31T09:22:26.565Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.27",
+          "new": "10.28"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:09:14.519Z",
+      "curr_fetched_at": "2026-07-31T09:22:29.041Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "curr_fetched_at": "2026-07-31T09:22:31.183Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How Accurate Is AI Photo Food Logging?",
+          "occurrences": 1
+        },
+        {
+          "text": "New NIH Data",
+          "occurrences": 1
+        },
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 2
+    }
+  }
+}

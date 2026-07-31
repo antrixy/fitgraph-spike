@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T09:12:24.481Z",
+  "fetched_at": "2026-07-31T09:25:44.462Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 129134582,
-    "score": 4.592426,
+    "maxInstalls": 129229278,
+    "score": 4.5942683,
     "scoreText": "4.6",
-    "ratings": 1154323,
-    "reviews": 34083,
+    "ratings": 1154958,
+    "reviews": 34089,
     "histogram": {
-      "1": 63639,
-      "2": 18134,
-      "3": 29434,
-      "4": 102593,
-      "5": 940490
+      "1": 63526,
+      "2": 17951,
+      "3": 29241,
+      "4": 102115,
+      "5": 942103
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "released": "Jun 9, 2011",
     "updated": 1785172786000,
     "version": "VARY",
-    "recentChanges": "Strength update: Now you can multi-select exercises on your strength activities when adding them manually.<br>",
+    "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

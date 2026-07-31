@@ -1,0 +1,19 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-07-31",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:09:39.846Z",
+      "curr_fetched_at": "2026-07-31T09:22:56.324Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "14.27.0",
+          "new": "14.28.0"
+        }
+      ]
+    }
+  }
+}

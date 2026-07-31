@@ -1,9 +1,12 @@
 {
-  "fetched_at": "2026-07-30T09:14:16.662Z",
+  "fetched_at": "2026-07-31T09:27:26.606Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=583446403&country=us",
   "result": {
-    "ipadScreenshotUrls": [],
+    "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/99/9e/ca999ecb-bcf5-2975-d5a0-687f1f909316/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/99/9e/ca999ecb-bcf5-2975-d5a0-687f1f909316/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ac/4a/9cac4adf-40c3-5b58-3c1a-b06b2cac335e/898b1d91-1dfe-47d3-96b3-418fa5c52ebc_5.5-Phone-EN-01.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/c8/ba/2cc8ba34-9574-2901-dba4-429c920881c8/bea409c6-0d83-435a-b71c-b031d2f6b930_5.5-Phone-EN-02.png/392x696bb.png",
@@ -14,11 +17,9 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/06/6b/17066ba7-f5ad-dda4-5b3c-44d8cbddbb6d/063ba4c1-83ab-460e-9073-208f8cb9d268_5.5-Phone-EN-07.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/47/23/4a472350-b7ab-e4a0-ae43-683f0b6aba9a/149fe180-b514-4a45-9f96-bc8d57f81d23_5.5-Phone-EN-08.png/392x696bb.png"
     ],
+    "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/99/9e/ca999ecb-bcf5-2975-d5a0-687f1f909316/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-    "advisories": [],
-    "isGameCenterEnabled": false,
-    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -148,23 +149,11 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "features": [],
+    "advisories": [],
     "kind": "software",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/99/9e/ca999ecb-bcf5-2975-d5a0-687f1f909316/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/99/9e/ca999ecb-bcf5-2975-d5a0-687f1f909316/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
+    "minimumOsVersion": "18.2",
     "sellerUrl": "http://www.garmin.com/apps/gcmobile",
-    "currentVersionReleaseDate": "2026-07-28T15:33:14Z",
-    "artistId": 411046952,
-    "artistName": "Garmin",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "price": 0,
-    "bundleId": "com.garmin.connect.mobile",
-    "releaseDate": "2013-01-10T06:26:44Z",
-    "trackName": "Garmin Connect™",
-    "trackId": 583446403,
     "languageCodesISO2A": [
       "AR",
       "BG",
@@ -205,27 +194,38 @@
     ],
     "fileSizeBytes": "981625856",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 57879,
     "trackContentRating": "4+",
+    "userRatingCountForCurrentVersion": 57894,
+    "averageUserRatingForCurrentVersion": 4.39267,
+    "averageUserRating": 4.39267,
+    "trackCensoredName": "Garmin Connect™",
+    "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
+    "contentAdvisoryRating": "4+",
+    "releaseNotes": "With the bug fixes and performance improvements in this version of Garmin Connect, tracking your health and fitness stats is easier than ever before.",
+    "price": 0,
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "artistId": 411046952,
+    "artistName": "Garmin",
+    "trackName": "Garmin Connect™",
+    "trackId": 583446403,
+    "bundleId": "com.garmin.connect.mobile",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "averageUserRatingForCurrentVersion": 4.39269,
     "sellerName": "Garmin International",
-    "releaseNotes": "With the bug fixes and performance improvements in this version of Garmin Connect, tracking your health and fitness stats is easier than ever before.",
     "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-07-28T15:33:14Z",
     "version": "5.27.1",
     "wrapperType": "software",
     "currency": "USD",
     "description": "The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. \n \nOnce you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. \n \nWith Garmin Connect you can: \n \n- Personalize your home screen, so the most helpful information is instantly visible \n- Analyze your activities with detailed statistics(3)\n- Create customized workouts and courses \n- Review trends in health metrics like heart rate and steps \n- Earn badges for accomplishments \n- Sync with other apps like Apple Health, MyFitnessPal and Strava \n- Get support for Garmin devices and their features \n \nLearn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. \n \n(1) See compatibility requirements at Garmin.com/BLE \n(2) See a full list of compatible devices at Garmin.com/devices\n(3) See Garmin.com/ataccuracy  \n \nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
-    "averageUserRating": 4.39269,
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Garmin Connect™",
-    "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
-    "minimumOsVersion": "18.2",
-    "userRatingCount": 57879
+    "releaseDate": "2013-01-10T06:26:44Z",
+    "userRatingCount": 57894
   }
 }

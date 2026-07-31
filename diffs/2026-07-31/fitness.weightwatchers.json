@@ -1,0 +1,19 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-07-31",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:09:51.380Z",
+      "curr_fetched_at": "2026-07-31T09:23:06.000Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.25.0",
+          "new": "11.26.0"
+        }
+      ]
+    }
+  }
+}

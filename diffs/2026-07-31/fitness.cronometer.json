@@ -1,0 +1,37 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-07-31",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "prev_fetched_at": "2026-07-30T09:08:43.871Z",
+      "curr_fetched_at": "2026-07-31T09:21:53.782Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "ce0c0d71b8d4e749ccf3cff27b78636dbdf99463",
+      "curr_fetched_at": "2026-07-31T09:21:57.099Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Cronometer's in-app assistant that turns a user's own data, goals, and settings into short, personalized guidance.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Crono Coach uses the help of AI to surface patterns and suggest where to focus.",
+          "occurrences": 1
+        },
+        {
+          "text": "From meal recommendations to reviewing your logging habits, every insight is grounded in your own data.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 2
+    }
+  }
+}
