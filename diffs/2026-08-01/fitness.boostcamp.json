@@ -1,0 +1,24 @@
+{
+  "product": "fitness.boostcamp",
+  "name": "Boostcamp",
+  "date": "2026-08-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "c433e98f4337ac79d9c60860020600b490727771",
+      "prev_fetched_at": "2026-07-31T09:24:46.208Z",
+      "curr_fetched_at": "2026-08-01T08:40:37.106Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "262",
+          "new": "263"
+        },
+        {
+          "field": "recentChanges",
+          "old": "In this version, you can now reset your PRs to a new baseline, so every workout shows a reachable target while your full PR history stays safe. Also, it includes bug fixes and general improvements to the app for better user experience.",
+          "new": "In this version, we&#39;re introducing some exciting new features:<br>- Community: a new social feed to follow your friends, share workouts, and stay motivated<br>- Save programs: tap Save on any coach or user program to bookmark it, then find them all in one tab<br>Plus bug fixes and general improvements to the app for better user experience."
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T09:25:44.462Z",
+  "fetched_at": "2026-08-01T08:41:29.729Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 129229278,
-    "score": 4.5942683,
+    "maxInstalls": 129229477,
+    "score": 4.5949073,
     "scoreText": "4.6",
-    "ratings": 1154958,
-    "reviews": 34089,
+    "ratings": 1155520,
+    "reviews": 34095,
     "histogram": {
-      "1": 63526,
-      "2": 17951,
-      "3": 29241,
-      "4": 102115,
-      "5": 942103
+      "1": 63452,
+      "2": 18126,
+      "3": 29122,
+      "4": 101637,
+      "5": 943160
     },
     "price": 0,
     "free": true,
@@ -50,7 +50,7 @@
       }
     ],
     "icon": "https://play-lh.googleusercontent.com/J4LN2qH2PQkZ3sFQonz-HWYkd7M38BtEO4Grzh1Xn7L2J6NUILHPkhYvPjdhMZQzrdm4BarUj547wfthyMz_vWM",
-    "headerImage": "https://play-lh.googleusercontent.com/iPeaoxpMvh9SegxOXUSrmqlAT4l1QzRPWtHgv7iWF2mLkK4OTnbs6pq3O6BzRa2QUhBU0A4iRHtsn-RwcvSkpg",
+    "headerImage": "https://play-lh.googleusercontent.com/D7gInUs6uPbJEqpkODMRsL9v042OwdAkcjgdsiSAUFYolQkeRVfmlp9m8YbeDrtLgM5P-h5TKnyeNMb1tJAX8MI",
     "screenshots": [
       "https://play-lh.googleusercontent.com/A6tzOmAEAZMirzO_o7ddyHn_100dCu9z5FeApDZkCTjqG2eX8dao08sA2I1XXx0aoqZIeoWzMwXS7naTnJDpnTU",
       "https://play-lh.googleusercontent.com/xeaN_5fEHoy99nTiWYWij9b_5x5BvcN18CVMrroqUzKyye8eINBGLD2O80Xedxk_UPm-K3KJRNj-1PWO5AD1",

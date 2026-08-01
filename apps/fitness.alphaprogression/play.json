@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T09:24:56.146Z",
+  "fetched_at": "2026-08-01T08:40:48.944Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1967594,
-    "score": 4.8472905,
+    "score": 4.847666,
     "scoreText": "4.8",
-    "ratings": 20627,
+    "ratings": 20630,
     "reviews": 1610,
     "histogram": {
       "1": 300,
       "2": 249,
       "3": 249,
       "4": 656,
-      "5": 19150
+      "5": 19158
     },
     "price": 0,
     "free": true,
@@ -65,8 +65,8 @@
     "adSupported": false,
     "released": "Dec 16, 2019",
     "updated": 1785180919000,
-    "version": "7.1.1",
-    "recentChanges": "Spanish + French + Portuguese (BR)<br>• We unlocked three new languages for all users.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Performance improvements.<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+    "version": "7.2",
+    "recentChanges": "Turkish + Italian + Polish<br>• We have added three new languages.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

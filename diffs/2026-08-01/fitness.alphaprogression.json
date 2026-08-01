@@ -1,0 +1,24 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-08-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "c433e98f4337ac79d9c60860020600b490727771",
+      "prev_fetched_at": "2026-07-31T09:24:56.146Z",
+      "curr_fetched_at": "2026-08-01T08:40:48.944Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.1.1",
+          "new": "7.2"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Spanish + French + Portuguese (BR)<br>• We unlocked three new languages for all users.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Performance improvements.<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+          "new": "Turkish + Italian + Polish<br>• We have added three new languages.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com"
+        }
+      ]
+    }
+  }
+}

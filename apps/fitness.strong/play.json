@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T09:23:39.732Z",
+  "fetched_at": "2026-08-01T08:39:24.252Z",
   "source": "google_play_scraper",
   "appId": "io.strongapp.strong",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "The cleanest, most intuitive, and easy-to-use workout tracker.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4229242,
+    "maxInstalls": 4229257,
     "score": 4.2964897,
     "scoreText": "4.3",
     "ratings": 42635,

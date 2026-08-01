@@ -1,0 +1,25 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-08-01",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c433e98f4337ac79d9c60860020600b490727771",
+      "prev_fetched_at": "2026-07-31T09:25:40.781Z",
+      "curr_fetched_at": "2026-08-01T08:41:26.763Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "474.0.0",
+          "new": "474.0.2"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "c433e98f4337ac79d9c60860020600b490727771",
+      "prev_fetched_at": "2026-07-31T09:25:44.462Z",
+      "curr_fetched_at": "2026-08-01T08:41:29.729Z",
+      "version_unreported": true
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-01",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "c433e98f4337ac79d9c60860020600b490727771",
+      "curr_fetched_at": "2026-08-01T08:38:50.017Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "^$25/month for your first month with a 12-month or 6-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "After the first month, membership continues for $74/mo for the remainder of the 12-month plan, or $84/mo for the remainder of the 6-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Plans auto-renew for another 12-month or 6-month period respectively at the same monthly rate at the end of each plan.",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "^$25/month for your first month with a 12-month plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "After the first month, membership continues for $74/mo for remainder of the 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Plan auto-renews for another 12-month period at the same monthly rate at the end of each plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "^$25 for your first month with a 12-month plan.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 4
+    }
+  }
+}

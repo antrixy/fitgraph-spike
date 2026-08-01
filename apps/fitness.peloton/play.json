@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T09:28:38.829Z",
+  "fetched_at": "2026-08-01T08:44:09.491Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3780225,
-    "score": 4.036095,
+    "score": 4.0368853,
     "scoreText": "4.0",
     "ratings": 15292,
     "reviews": 5734,
     "histogram": {
-      "1": 2358,
-      "2": 789,
-      "3": 777,
-      "4": 1379,
-      "5": 9985
+      "1": 2355,
+      "2": 788,
+      "3": 776,
+      "4": 1377,
+      "5": 9989
     },
     "price": 0,
     "free": true,
@@ -93,7 +93,7 @@
     "contentRatingDescription": "Language",
     "adSupported": false,
     "released": "Dec 20, 2018",
-    "updated": 1784927033000,
+    "updated": 1785446935000,
     "version": "3.74.0",
     "recentChanges": "This release includes under-the-hood improvements to make the Peloton App faster, more reliable, and power future features.",
     "comments": [],
