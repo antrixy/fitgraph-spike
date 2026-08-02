@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T08:39:36.785Z",
+  "fetched_at": "2026-08-02T08:43:24.934Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 7667245,
-    "score": 4.870156,
+    "score": 4.87002,
     "scoreText": "4.9",
-    "ratings": 246715,
-    "reviews": 6582,
+    "ratings": 247099,
+    "reviews": 6588,
     "histogram": {
       "1": 1254,
       "2": 697,
-      "3": 2438,
-      "4": 20025,
-      "5": 222285
+      "3": 2367,
+      "4": 20243,
+      "5": 222521
     },
     "price": 0,
     "free": true,

@@ -1,17 +1,21 @@
 {
-  "fetched_at": "2026-08-01T08:42:19.934Z",
+  "fetched_at": "2026-08-02T08:46:08.489Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=408047715&country=us",
   "result": {
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/df/b4/6ddfb457-cb58-cc60-eaaf-f1a5d92bf37e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [],
+    "ipadScreenshotUrls": [],
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/peaksware-llc/id408047718?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/df/b4/6ddfb457-cb58-cc60-eaaf-f1a5d92bf37e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/df/b4/6ddfb457-cb58-cc60-eaaf-f1a5d92bf37e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-    "advisories": [],
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/df/b4/6ddfb457-cb58-cc60-eaaf-f1a5d92bf37e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -141,16 +145,8 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [
-      "iosUniversal"
-    ],
-    "kind": "software",
-    "trackCensoredName": "TrainingPeaks: Plan Train Lift",
-    "averageUserRating": 4.7035,
-    "trackViewUrl": "https://apps.apple.com/us/app/trainingpeaks-plan-train-lift/id408047715?uo=4",
-    "contentAdvisoryRating": "4+",
-    "currentVersionReleaseDate": "2026-07-27T15:14:49Z",
     "sellerUrl": "http://www.trainingpeaks.com/",
+    "averageUserRatingForCurrentVersion": 4.7035,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -165,32 +161,36 @@
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 12668,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.7035,
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "bundleId": "com.peaksware.trainingpeaks",
     "artistId": 408047718,
     "artistName": "Peaksware, LLC",
-    "sellerName": "Peaksware, LLC",
-    "price": 0,
-    "releaseNotes": "Bug fixes and behind-the-scenes work to prep for what's coming.\n\nThanks for training with TrainingPeaks.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "version": "12.111.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "The world’s most complete training platform for coaches and athletes to plan, lift, and train.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, lift, and train for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n • Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n • Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n • Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n • Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n • Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n • Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n • Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and           in-workout commenting.\n • Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n • Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\nBuild community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use",
-    "minimumOsVersion": "17.0",
+    "trackName": "TrainingPeaks: Plan Train Lift",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "trackName": "TrainingPeaks: Plan Train Lift",
-    "trackId": 408047715,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Peaksware, LLC",
+    "releaseDate": "2010-12-15T18:54:30Z",
+    "currentVersionReleaseDate": "2026-07-27T15:14:49Z",
+    "releaseNotes": "Bug fixes and behind-the-scenes work to prep for what's coming.\n\nThanks for training with TrainingPeaks.",
+    "version": "12.111.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "The world’s most complete training platform for coaches and athletes to plan, lift, and train.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, lift, and train for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n • Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n • Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n • Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n • Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n • Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n • Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n • Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and           in-workout commenting.\n • Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n • Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\nBuild community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use",
+    "trackCensoredName": "TrainingPeaks: Plan Train Lift",
+    "trackViewUrl": "https://apps.apple.com/us/app/trainingpeaks-plan-train-lift/id408047715?uo=4",
+    "contentAdvisoryRating": "4+",
+    "bundleId": "com.peaksware.trainingpeaks",
+    "averageUserRating": 4.7035,
+    "minimumOsVersion": "17.0",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "releaseDate": "2010-12-15T18:54:30Z",
+    "trackId": 408047715,
     "userRatingCount": 12668
   }
 }

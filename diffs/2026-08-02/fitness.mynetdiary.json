@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f6e694162ee292570fefce7e97e0eba52f3bea58",
+      "prev_fetched_at": "2026-08-01T08:38:04.351Z",
+      "curr_fetched_at": "2026-08-02T08:42:04.226Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "f6e694162ee292570fefce7e97e0eba52f3bea58",
+      "curr_fetched_at": "2026-08-02T08:42:08.728Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Does calorie counting work to lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Science says, \"Yes\"",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 2
+    }
+  }
+}

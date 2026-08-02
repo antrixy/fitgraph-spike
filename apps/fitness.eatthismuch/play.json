@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T08:38:58.959Z",
+  "fetched_at": "2026-08-02T08:42:53.546Z",
   "source": "google_play_scraper",
   "appId": "com.eatthismuch",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 2607153,
     "score": 4.6564417,
     "scoreText": "4.7",
-    "ratings": 10421,
+    "ratings": 10422,
     "reviews": 1798,
     "histogram": {
       "1": 233,
       "2": 125,
       "3": 317,
       "4": 1618,
-      "5": 8118
+      "5": 8119
     },
     "price": 0,
     "free": true,

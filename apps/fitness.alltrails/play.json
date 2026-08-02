@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T08:42:57.400Z",
+  "fetched_at": "2026-08-02T08:46:47.292Z",
   "source": "google_play_scraper",
   "appId": "com.alltrails.alltrails",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 50399078,
-    "score": 4.572559,
+    "score": 4.572656,
     "scoreText": "4.6",
-    "ratings": 384906,
-    "reviews": 25297,
+    "ratings": 384938,
+    "reviews": 25304,
     "histogram": {
-      "1": 23131,
-      "2": 6657,
-      "3": 8037,
-      "4": 35938,
-      "5": 311135
+      "1": 23119,
+      "2": 6672,
+      "3": 8034,
+      "4": 35935,
+      "5": 311175
     },
     "price": 0,
     "free": true,

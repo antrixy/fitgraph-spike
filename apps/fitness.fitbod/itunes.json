@@ -1,9 +1,8 @@
 {
-  "fetched_at": "2026-08-01T08:39:51.452Z",
+  "fetched_at": "2026-08-02T08:43:44.125Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1041517543&country=us",
   "result": {
-    "features": [],
     "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -135,6 +134,7 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/fitbod-inc/id980399690?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3a/db/833adb56-5f12-0f7f-14ed-9de3913935fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
@@ -154,23 +154,26 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3a/db/833adb56-5f12-0f7f-14ed-9de3913935fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "advisories": [],
-    "bundleId": "com.fitbod",
+    "features": [],
+    "artistName": "Fitbod Inc.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
     "price": 0,
+    "bundleId": "com.fitbod",
+    "releaseDate": "2015-09-26T20:05:57Z",
+    "trackId": 1041517543,
+    "trackName": "Fitbod: Gym & Fitness Planner",
     "genreIds": [
       "6013",
       "6004"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Fitbod Inc.",
-    "releaseDate": "2015-09-26T20:05:57Z",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-21T17:01:29Z",
-    "trackId": 1041517543,
-    "trackName": "Fitbod: Gym & Fitness Planner",
     "version": "8.26.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -178,9 +181,6 @@
     "trackCensoredName": "Fitbod: Gym & Fitness Planner",
     "trackViewUrl": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.81009,
-    "minimumOsVersion": "18.0",
-    "averageUserRatingForCurrentVersion": 4.81009,
     "sellerUrl": "http://fitbod.me/",
     "languageCodesISO2A": [
       "EN",
@@ -189,13 +189,13 @@
     ],
     "fileSizeBytes": "196493312",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 279106,
+    "userRatingCountForCurrentVersion": 279192,
     "trackContentRating": "4+",
+    "averageUserRating": 4.81006,
+    "averageUserRatingForCurrentVersion": 4.81006,
+    "minimumOsVersion": "18.0",
     "releaseNotes": "Release Notes for 8.26.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "artistId": 980399690,
-    "artistName": "Fitbod Inc.",
-    "userRatingCount": 279106
+    "userRatingCount": 279192
   }
 }
