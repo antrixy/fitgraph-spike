@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T08:41:19.305Z",
+  "fetched_at": "2026-08-03T10:09:58.279Z",
   "source": "google_play_scraper",
   "appId": "com.fitnow.loseit",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Lose weight &amp; reach your health goals with Lose It! diet app and food tracker!",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 21464895,
-    "score": 4.5717287,
+    "maxInstalls": 21473012,
+    "score": 4.5719237,
     "scoreText": "4.6",
-    "ratings": 181067,
-    "reviews": 43796,
+    "ratings": 181112,
+    "reviews": 43799,
     "histogram": {
-      "1": 6940,
-      "2": 2753,
-      "3": 7433,
-      "4": 26646,
-      "5": 137289
+      "1": 6971,
+      "2": 2735,
+      "3": 7375,
+      "4": 26679,
+      "5": 137346
     },
     "price": 0,
     "free": true,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T08:46:08.489Z",
+  "fetched_at": "2026-08-03T10:14:55.451Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=408047715&country=us",
   "result": {
@@ -146,7 +146,7 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "sellerUrl": "http://www.trainingpeaks.com/",
-    "averageUserRatingForCurrentVersion": 4.7035,
+    "averageUserRatingForCurrentVersion": 4.70382,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -186,7 +186,7 @@
     "trackViewUrl": "https://apps.apple.com/us/app/trainingpeaks-plan-train-lift/id408047715?uo=4",
     "contentAdvisoryRating": "4+",
     "bundleId": "com.peaksware.trainingpeaks",
-    "averageUserRating": 4.7035,
+    "averageUserRating": 4.70382,
     "minimumOsVersion": "17.0",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,

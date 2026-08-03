@@ -1,9 +1,10 @@
 {
-  "fetched_at": "2026-08-02T08:43:44.125Z",
+  "fetched_at": "2026-08-03T10:12:29.160Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1041517543&country=us",
   "result": {
     "isGameCenterEnabled": false,
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -154,7 +155,8 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3a/db/833adb56-5f12-0f7f-14ed-9de3913935fd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "features": [],
+    "userRatingCountForCurrentVersion": 279316,
+    "artistId": 980399690,
     "artistName": "Fitbod Inc.",
     "genres": [
       "Health & Fitness",
@@ -162,16 +164,17 @@
     ],
     "price": 0,
     "bundleId": "com.fitbod",
-    "releaseDate": "2015-09-26T20:05:57Z",
-    "trackId": 1041517543,
-    "trackName": "Fitbod: Gym & Fitness Planner",
+    "releaseNotes": "Release Notes for 8.26.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me",
     "genreIds": [
       "6013",
       "6004"
     ],
+    "trackId": 1041517543,
+    "trackName": "Fitbod: Gym & Fitness Planner",
+    "releaseDate": "2015-09-26T20:05:57Z",
+    "sellerName": "Fitbod Inc.",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "Fitbod Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-21T17:01:29Z",
     "version": "8.26.0",
@@ -181,6 +184,8 @@
     "trackCensoredName": "Fitbod: Gym & Fitness Planner",
     "trackViewUrl": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4",
     "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.81004,
+    "averageUserRatingForCurrentVersion": 4.81004,
     "sellerUrl": "http://fitbod.me/",
     "languageCodesISO2A": [
       "EN",
@@ -189,13 +194,8 @@
     ],
     "fileSizeBytes": "196493312",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 279192,
     "trackContentRating": "4+",
-    "averageUserRating": 4.81006,
-    "averageUserRatingForCurrentVersion": 4.81006,
     "minimumOsVersion": "18.0",
-    "releaseNotes": "Release Notes for 8.26.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me",
-    "artistId": 980399690,
-    "userRatingCount": 279192
+    "userRatingCount": 279316
   }
 }

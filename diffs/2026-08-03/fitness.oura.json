@@ -1,0 +1,24 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-08-03",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "prev_fetched_at": "2026-08-02T08:47:24.476Z",
+      "curr_fetched_at": "2026-08-03T10:16:12.504Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.20.0",
+          "new": "7.21.1"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Small fixes, big improvements—Oura just got a little better.",
+          "new": "We&#39;re continuously working to delight you with innovations and improve your experience by fixing bugs."
+        }
+      ]
+    }
+  }
+}

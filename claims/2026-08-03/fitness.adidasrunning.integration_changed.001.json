@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.adidasrunning",
+  "integration": "health_connect",
+  "direction": "removed",
+  "observed_at": "2026-08-03T10:14:31.777Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "app_description",
+      "excerpt": "ailable—including running, walking, cycling, hiking, climbing, tennis, and yoga. Sync your activities effortlessly with Health Connect and a wide range of apps and devices, including Garmin, Polar, Amazfit/Zepp, Coros, Suunto, Wañoo, and many more. This",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

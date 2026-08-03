@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-03",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "prev_fetched_at": "2026-08-02T08:42:04.226Z",
+      "curr_fetched_at": "2026-08-03T10:10:43.325Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "curr_fetched_at": "2026-08-03T10:10:46.850Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 4
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-08-03",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "prev_fetched_at": "2026-08-02T08:46:36.294Z",
+      "curr_fetched_at": "2026-08-03T10:15:25.215Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "What&#39;s new?<br>- Elevation gain is now more accurate for recorded activities.<br><br>Bug fixes<br>- Fixed several crashes for improved stability.<br>- Fixed weather information shown on routes.<br><br>Coming soon<br>- A new and improved route planner!",
+          "new": "What&#39;s new?<br>- Improved the accuracy of elevation during recording and navigation.<br><br>Bug fixes<br>- Improved the stability of route planning and navigation.<br>- Fixed several crashes and app freezes.<br>- Fixed map positioning and route framing in the Planner."
+        }
+      ]
+    }
+  }
+}

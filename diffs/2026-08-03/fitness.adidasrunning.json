@@ -1,0 +1,42 @@
+{
+  "product": "fitness.adidasrunning",
+  "name": "adidas Running",
+  "date": "2026-08-03",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "prev_fetched_at": "2026-08-02T08:45:48.744Z",
+      "curr_fetched_at": "2026-08-03T10:14:31.777Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "14.8.0",
+          "new": "14.9.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Just a little maintenance this time! Bug fixes and performance tweaks to keep your workouts running smooth.",
+          "new": "Goal widgets have arrived! It's now easy to see your active goals and progress at a glance. Update now and enjoy the latest version."
+        },
+        {
+          "field": "description",
+          "old": "adidas Running is an activity tracker designed for all levels of ability and experience, offering the ideal platform for beginners to start tracking their running journey and logging activities. To help introduce new users to running, numerous adidas Training Plans are available, providing step-by-step guidance that adapts to each user's fitness level—including plans for 3K, 5K, and 10K distances. These plans evolve as users train, making the Walk to Run Training Plan the perfect introduction to running, regardless of previous experience. As you progress, explore additional Training Plans to prepare for your first 10K, half-marathon, marathon, and beyond.\nGetting started with adidas Running is simple: download the app, create your account using your personal details, and set a goal to stay motivated and track your fitness journey. You can begin tracking and logging activities immediately, with nearly 100 options available—including running, walking, cycling, hiking, climbing, tennis, and yoga.\nSync your activities effortlessly with Health Connect and a wide range of apps and devices, including Garmin, Polar, Amazfit/Zepp, Coros, Suunto, Wañoo, and many more. This makes tracking your progress easier than ever.\nadidas Running is also home to adidas Runners—local and global communities of people staying active together. Find your community and track activities with like-minded individuals, whatever your pace. Stay motivated by joining Challenges and Virtual Races as a group, and earn Badges along the way.\nStaying active has never been more social. Share your tracked runs and other activities with your community, receive real-time Live Cheers from friends during workouts, and support others by following and liking their activities.\nA wide range of features are available to all users, including detailed activity stats like distance, duration, heart rate, pace, calories burned, and cadence. You’ll also benefit from the Progress Tab, Shoe Tracking, and recommendations. Plus, access expert guidance on Movement, Mindset, Recovery, and gear to support your fitness journey.\n\nRuntastic Terms of Service: https://www.runtastic.com/in-app/iphone/appstore/terms\nRuntastic Privacy Policy: https://www.runtastic.com/privacy-notice",
+          "new": "Welcome to the adidas Running app — your all-in-one fitness companion. Move more, train smarter, and stay motivated every day. Track your runs, walks, and workouts, discover new challenges, and turn your activity into real progress. \n \nDesigned for athletes of all levels, the adidas Running app helps you build healthy habits and stay consistent. Whether you're just starting your fitness journey, returning after a break, or working toward your next goal, you’ll find guidance and motivation to move you forward step by step.  \n \nTrack activities, monitor your stats, and see your progress over time. Stay inspired by joining global challenges. Connect with a supportive community and celebrate every milestone along the way. With the adidas Running app, every effort counts and is rewarded. \n \nTrack and log runs, walks, cycling, swimming, and more, all in one place. Follow your performance with real-time tracking. Get detailed insights and stay on target with personalized plans tailored to you. From your first run to your next personal best, the adidas Running app helps you keep moving towards your goal. \n \nDownload today and join the 70 million people using the adidas Running app to stay active, build healthy routines, and unlock their potential. \n  \nADIDAS RUNNING APP FEATURES: \n \nTRACK YOUR ACTIVITIES WITH EASE \n•Track running, walking, cycling, and 90+ other sports with GPS and real-time stats \n•Monitor distance, pace, time, and calories burned \n•Get a full overview of your activities with detailed activity summaries and progress tracking \n•Easily sync with your favourite wearable devices \n \nGUIDANCE TO REACH YOUR GOALS \n•Explore personalized training plans for runners of all levels \n•Get voice coaching and insights to support every workout \n•Set goals and build routines that fit your lifestyle \n•Track your improvements and stay consistent over time \n \nSTAY MOTIVATED WITH COMMUNITY CHALLENGES \n•Join global challenges and virtual races to stay inspired \n•Connect with a worldwide fitness community \n•Share your progress and celebrate achievements \n \nREWARDS THAT KEEP YOU MOVING \n•Earn rewards through activity and engagement \n•Get exclusive adidas experiences and products \n•Stay connected to the wider digital world of adidas  \n \nBUILT FOR EVERYONE \n•Download and get started in just a few clicks \n•Supports all types of activities and fitness goals \n•Designed to help you build habits that last "
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d",
+      "prev_fetched_at": "2026-08-02T08:45:51.828Z",
+      "curr_fetched_at": "2026-08-03T10:14:36.311Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Just a little maintenance this time! Bug fixes and performance tweaks to keep your workouts running smooth.",
+          "new": "Goal widgets have arrived! It&#39;s now easy to see your active goals and progress at a glance. Update now and enjoy the latest version."
+        }
+      ]
+    }
+  }
+}

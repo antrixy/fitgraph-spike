@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T08:44:59.141Z",
+  "fetched_at": "2026-08-03T10:13:47.010Z",
   "source": "google_play_scraper",
   "appId": "com.github.jamesgay.fitnotes",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "A clean, simple, powerful workout tracker. Free to use, and no ads - ever.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4085719,
-    "score": 4.8327465,
+    "maxInstalls": 4087818,
+    "score": 4.8392224,
     "scoreText": "4.8",
-    "ratings": 31311,
+    "ratings": 31314,
     "reviews": 5125,
     "histogram": {
-      "1": 548,
+      "1": 496,
       "2": 219,
-      "3": 493,
-      "4": 1376,
-      "5": 28663
+      "3": 496,
+      "4": 1382,
+      "5": 28713
     },
     "price": 0,
     "free": true,

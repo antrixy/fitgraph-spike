@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T08:43:35.138Z",
+  "fetched_at": "2026-08-03T10:12:17.170Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Build muscle with JEFIT: Gym workout app with plan/track/sync tools.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9884877,
-    "score": 4.4281983,
+    "maxInstalls": 9884881,
+    "score": 4.4290385,
     "scoreText": "4.4",
-    "ratings": 89675,
+    "ratings": 89677,
     "reviews": 11709,
     "histogram": {
-      "1": 6848,
-      "2": 2633,
-      "3": 3685,
-      "4": 8604,
-      "5": 67898
+      "1": 6860,
+      "2": 2579,
+      "3": 3692,
+      "4": 8621,
+      "5": 67917
     },
     "price": 0,
     "free": true,

@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.oura",
+  "integration": "oura",
+  "direction": "removed",
+  "observed_at": "2026-08-03T10:16:12.504Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "Small fixes, big improvements—Oura just got a little better.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "f15173b5eb4ee29bfbe7112ce0fac275eed5d28d"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}
