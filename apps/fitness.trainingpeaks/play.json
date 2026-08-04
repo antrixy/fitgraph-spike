@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T10:14:58.551Z",
+  "fetched_at": "2026-08-04T09:22:16.839Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Training plans and workout tracking for triathlon, cycling, running, &amp; marathon.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1853371,
+    "maxInstalls": 1853448,
     "score": 4.189781,
     "scoreText": "4.2",
-    "ratings": 33242,
+    "ratings": 33249,
     "reviews": 2015,
     "histogram": {
-      "1": 3392,
+      "1": 3394,
       "2": 1536,
       "3": 2183,
-      "4": 4366,
-      "5": 21752
+      "4": 4367,
+      "5": 21760
     },
     "price": 0,
     "free": true,
@@ -62,9 +62,9 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 4, 2011",
-    "updated": 1783657553000,
-    "version": "12.110.0",
-    "recentChanges": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We&#39;ve been working as hard as you train to fix bugs and improve your experience.<br>",
+    "updated": 1785778050000,
+    "version": "12.111.0",
+    "recentChanges": "Bug fixes and behind-the-scenes work to prep for what&#39;s coming.<br><br>Thanks for training with TrainingPeaks.<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

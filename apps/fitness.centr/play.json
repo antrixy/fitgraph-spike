@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T10:17:01.221Z",
+  "fetched_at": "2026-08-04T09:24:30.548Z",
   "source": "google_play_scraper",
   "appId": "com.centr.app",
   "result": {
@@ -9,14 +9,14 @@
     "summary": "Fitness tracking, personal training, core workouts for your daily fitness goals",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2158065,
+    "maxInstalls": 2158073,
     "score": 4.372849,
     "scoreText": "4.4",
-    "ratings": 17222,
-    "reviews": 2459,
+    "ratings": 17225,
+    "reviews": 2460,
     "histogram": {
-      "1": 1810,
-      "2": 362,
+      "1": 1809,
+      "2": 361,
       "3": 460,
       "4": 1546,
       "5": 13039
@@ -87,7 +87,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Dec 15, 2019",
-    "updated": 1784663507000,
+    "updated": 1785784689000,
     "version": "VARY",
     "recentChanges": "This release brings fixes and improvements to screen casting and adds deeper screen mirroring support, making your big-screen workouts smoother and more reliable.<br><br>Need a hand or have feedback? Reach our team anytime at hello@centr.com.",
     "comments": [],

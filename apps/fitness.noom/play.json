@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T10:11:13.586Z",
+  "fetched_at": "2026-08-04T09:18:35.149Z",
   "source": "google_play_scraper",
   "appId": "com.wsl.noom",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 22817927,
-    "score": 4.0825815,
+    "score": 4.082179,
     "scoreText": "4.1",
-    "ratings": 314348,
-    "reviews": 89694,
+    "ratings": 314309,
+    "reviews": 89689,
     "histogram": {
-      "1": 42914,
-      "2": 17333,
-      "3": 18240,
-      "4": 28238,
-      "5": 207615
+      "1": 42922,
+      "2": 17325,
+      "3": 18290,
+      "4": 28224,
+      "5": 207541
     },
     "price": 0,
     "free": true,
@@ -84,7 +84,7 @@
     "adSupported": false,
     "released": "Mar 17, 2011",
     "updated": 1785233440000,
-    "version": "14.26.0",
+    "version": "14.28.0",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,23 +1,16 @@
 {
-  "fetched_at": "2026-08-03T10:10:06.252Z",
+  "fetched_at": "2026-08-04T09:17:27.115Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1145935738&country=us",
   "result": {
-    "features": [
-      "iosUniversal"
-    ],
-    "isGameCenterEnabled": false,
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/cronometer-software-inc/id465173201?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/47/38e0470c-29f2-9bb2-c62c-19d86b0ddde8/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/47/38e0470c-29f2-9bb2-c62c-19d86b0ddde8/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "screenshotUrls": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/47/38e0470c-29f2-9bb2-c62c-19d86b0ddde8/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -148,25 +141,39 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+    ],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/cronometer-software-inc/id465173201?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/47/38e0470c-29f2-9bb2-c62c-19d86b0ddde8/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/e0/47/38e0470c-29f2-9bb2-c62c-19d86b0ddde8/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "minimumOsVersion": "15.5",
+    "sellerUrl": "https://cronometer.com",
+    "releaseNotes": "Bug fixes and general improvements, including a fix for a black screen that could appear when importing AH data.",
+    "averageUserRatingForCurrentVersion": 4.77332,
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "154796032",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 95617,
+    "trackContentRating": "12+",
+    "averageUserRating": 4.77332,
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Food & Drink"
     ],
+    "bundleId": "CRONOMETER-GOLD",
     "genreIds": [
       "6013",
       "6023"
     ],
-    "artistId": 465173201,
-    "artistName": "Cronometer Software Inc",
-    "price": 0,
-    "bundleId": "CRONOMETER-GOLD",
     "isVppDeviceBasedLicensingEnabled": true,
-    "trackName": "Cronometer: Calorie Counter",
     "trackId": 1145935738,
-    "sellerName": "Cronometer Software Inc",
+    "trackName": "Cronometer: Calorie Counter",
     "currentVersionReleaseDate": "2026-07-29T15:15:45Z",
-    "releaseDate": "2016-09-09T21:18:55Z",
-    "releaseNotes": "Bug fixes and general improvements, including a fix for a black screen that could appear when importing AH data.",
     "version": "4.57.3",
     "wrapperType": "software",
     "currency": "USD",
@@ -174,19 +181,12 @@
     "trackCensoredName": "Cronometer: Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/cronometer-calorie-counter/id1145935738?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.7733,
-    "userRatingCountForCurrentVersion": 95561,
-    "sellerUrl": "https://cronometer.com",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "154796032",
-    "formattedPrice": "Free",
-    "trackContentRating": "12+",
-    "minimumOsVersion": "15.5",
-    "averageUserRatingForCurrentVersion": 4.7733,
+    "sellerName": "Cronometer Software Inc",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "userRatingCount": 95561
+    "releaseDate": "2016-09-09T21:18:55Z",
+    "artistId": 465173201,
+    "artistName": "Cronometer Software Inc",
+    "userRatingCount": 95617
   }
 }

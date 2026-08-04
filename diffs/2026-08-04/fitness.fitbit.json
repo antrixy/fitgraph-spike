@@ -1,0 +1,37 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-04",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8b5421a485597e6b3d73df555267d34df08b6e17",
+      "prev_fetched_at": "2026-08-03T10:15:51.675Z",
+      "curr_fetched_at": "2026-08-04T09:23:18.189Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "8b5421a485597e6b3d73df555267d34df08b6e17",
+      "curr_fetched_at": "2026-08-04T09:23:20.351Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Skip Navigation 00 Days 00 Hrs 00 Mins 00 Secs",
+          "occurrences": 1
+        },
+        {
+          "text": "Mark your calendar to pre-order the new Google Pixel 11.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Skip Navigation",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 1
+    }
+  }
+}
