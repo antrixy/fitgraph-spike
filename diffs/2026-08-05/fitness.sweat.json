@@ -1,0 +1,206 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-08-05",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "curr_fetched_at": "2026-08-05T09:22:14.928Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "The leading fitness app designed by women, for women",
+          "occurrences": 1
+        },
+        {
+          "text": "Start 7-day free trial Cancel Anytime • 100% Risk-Free",
+          "occurrences": 1
+        },
+        {
+          "text": "*]:mx-2 [&>*]:my-2 md:[&>*]:mx-4 lg:[&>*]:mx-[30px] lg:[&>*]:my-6 text-white mb-12 lg:mb-40 svelte-dzj2xm\">",
+          "occurrences": 1
+        },
+        {
+          "text": "2.7M+ Star Ratings",
+          "occurrences": 1
+        },
+        {
+          "text": "39M+ Downloads",
+          "occurrences": 1
+        },
+        {
+          "text": "Workout plans that",
+          "occurrences": 1
+        },
+        {
+          "text": "actually fit your life",
+          "occurrences": 1
+        },
+        {
+          "text": "No matter your goal, level or lifestyle, we&#39;ve got you.",
+          "occurrences": 1
+        },
+        {
+          "text": "Thousands of workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "70+ programs",
+          "occurrences": 1
+        },
+        {
+          "text": "500+ recipes",
+          "occurrences": 1
+        },
+        {
+          "text": "Home & gym options",
+          "occurrences": 1
+        },
+        {
+          "text": "Start 7-day free trial",
+          "occurrences": 3
+        },
+        {
+          "text": "Track your progress",
+          "occurrences": 1
+        },
+        {
+          "text": "You show up.",
+          "occurrences": 1
+        },
+        {
+          "text": "You keep going.",
+          "occurrences": 1
+        },
+        {
+          "text": "And it all adds up.",
+          "occurrences": 1
+        },
+        {
+          "text": "On your best days and your worst, you can see how far you&#39;ve come.",
+          "occurrences": 1
+        },
+        {
+          "text": "Find what you love, switch it up when you need, and build a routine that lasts",
+          "occurrences": 1
+        },
+        {
+          "text": "A program for every goal",
+          "occurrences": 1
+        },
+        {
+          "text": "View all programs",
+          "occurrences": 1
+        },
+        {
+          "text": "Your first week is free",
+          "occurrences": 1
+        },
+        {
+          "text": "Start today and see how good it feels.",
+          "occurrences": 1
+        },
+        {
+          "text": "Browse programs, try your first workout and build momentum.",
+          "occurrences": 1
+        },
+        {
+          "text": "Sweat",
+          "occurrences": 1
+        },
+        {
+          "text": "Follow on Instagram",
+          "occurrences": 1
+        },
+        {
+          "text": "Sweat Support",
+          "occurrences": 1
+        },
+        {
+          "text": "Got a question?",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything you need to know to get started with Sweat",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I do a free trial?",
+          "occurrences": 1
+        },
+        {
+          "text": "Do I need to give a credit card to start a trial?",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I change my plan later?",
+          "occurrences": 1
+        },
+        {
+          "text": "How do I cancel my Sweat subscription?",
+          "occurrences": 1
+        },
+        {
+          "text": "I can’t log in to my Sweat account.",
+          "occurrences": 1
+        },
+        {
+          "text": "What do I do?",
+          "occurrences": 2
+        },
+        {
+          "text": "How do I choose the right program for me?",
+          "occurrences": 1
+        },
+        {
+          "text": "Can you combine programs?",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I change my program or week once I’ve chosen?",
+          "occurrences": 1
+        },
+        {
+          "text": "Are there options for home and gym?",
+          "occurrences": 1
+        },
+        {
+          "text": "What if I don’t have the right equipment?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is Sweat suitable for beginners?",
+          "occurrences": 1
+        },
+        {
+          "text": "How do I navigate the app?",
+          "occurrences": 1
+        },
+        {
+          "text": "My app is stuck or not working.",
+          "occurrences": 1
+        },
+        {
+          "text": "Where can I find my subscription details?",
+          "occurrences": 1
+        },
+        {
+          "text": "I have another question.",
+          "occurrences": 1
+        },
+        {
+          "text": "How do I contact Sweat?",
+          "occurrences": 1
+        },
+        {
+          "text": "Show more",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 47,
+      "removed_total": 0
+    }
+  }
+}

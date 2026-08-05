@@ -1,12 +1,35 @@
 {
-  "fetched_at": "2026-08-04T09:24:06.520Z",
+  "fetched_at": "2026-08-05T09:21:39.155Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=792750948&country=us",
   "result": {
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/70/58407005-8659-0194-8ff0-ec9823b6d05a/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "artistViewUrl": "https://apps.apple.com/us/developer/peloton-interactive-inc/id792750951?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/70/58407005-8659-0194-8ff0-ec9823b6d05a/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/70/58407005-8659-0194-8ff0-ec9823b6d05a/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/1e/84/aa1e84ca-c5c4-05ee-00ba-8cfbee85d4c0/agnostic_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/dd/c3/a4ddc37e-9137-f800-031c-1ea6575c3f47/agnostic_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/4a/63/234a6343-850c-c605-2761-a55083fe3258/agnostic_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/8a/fe/a78afe56-bb34-fd85-1e1a-de6a1fad6e91/agnostic_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/c7/b3/04c7b34c-bf88-5319-bbc7-1c5089002885/agnostic_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/d7/81/dcd781fb-70e8-44af-7f18-a6e90cc8ca04/agnostic_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/eb/50/d3eb502f-f614-232b-350a-0ecafa139953/agnostic_7.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/d6/bb/25d6bba2-170f-f29a-ab36-26f34bb3bae8/iPad_Agnostic_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/82/f4/d582f4a8-4327-917a-4ddc-ce238d6502c5/iPad_Agnostic_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/0c/99/5c0c99c3-08ee-cc57-081a-d7bc17dcaad5/iPad_Agnostic_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/a9/ea/96a9ead1-fc16-f3b5-9f82-aa6d5ac83091/iPad_Agnostic_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/12/6e/f9126ee2-53b9-767f-ff22-52703811bd6d/iPad_Agnostic_5.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/35/ce/b835cecb-097e-8ca8-71cd-9a37ee2bbc95/iPad_Agnostic_6.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/9e/18/599e1861-2c7c-f1d1-d898-d28ed13af618/iPad_Agnostic_7.png/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/70/58407005-8659-0194-8ff0-ec9823b6d05a/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,65 +160,18 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [
-      "iosUniversal"
-    ],
     "advisories": [
       "Infrequent/Mild Medical/Treatment Information",
       "Infrequent/Mild Profanity or Crude Humor",
       "Infrequent/Mild Mature/Suggestive Themes"
     ],
     "kind": "software",
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/d6/bb/25d6bba2-170f-f29a-ab36-26f34bb3bae8/iPad_Agnostic_1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/82/f4/d582f4a8-4327-917a-4ddc-ce238d6502c5/iPad_Agnostic_2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/0c/99/5c0c99c3-08ee-cc57-081a-d7bc17dcaad5/iPad_Agnostic_3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/a9/ea/96a9ead1-fc16-f3b5-9f82-aa6d5ac83091/iPad_Agnostic_4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/12/6e/f9126ee2-53b9-767f-ff22-52703811bd6d/iPad_Agnostic_5.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/35/ce/b835cecb-097e-8ca8-71cd-9a37ee2bbc95/iPad_Agnostic_6.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/9e/18/599e1861-2c7c-f1d1-d898-d28ed13af618/iPad_Agnostic_7.png/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/40/70/58407005-8659-0194-8ff0-ec9823b6d05a/peloton-white-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/1e/84/aa1e84ca-c5c4-05ee-00ba-8cfbee85d4c0/agnostic_1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/dd/c3/a4ddc37e-9137-f800-031c-1ea6575c3f47/agnostic_2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/4a/63/234a6343-850c-c605-2761-a55083fe3258/agnostic_3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/8a/fe/a78afe56-bb34-fd85-1e1a-de6a1fad6e91/agnostic_4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/c7/b3/04c7b34c-bf88-5319-bbc7-1c5089002885/agnostic_5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/d7/81/dcd781fb-70e8-44af-7f18-a6e90cc8ca04/agnostic_6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/eb/50/d3eb502f-f614-232b-350a-0ecafa139953/agnostic_7.png/320x480bb.jpg"
-    ],
+    "contentAdvisoryRating": "12+",
     "averageUserRating": 4.91843,
+    "bundleId": "com.Peloton.PelotonApp",
     "trackCensoredName": "Peloton: Fitness & Workouts",
     "trackViewUrl": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948?uo=4",
-    "contentAdvisoryRating": "12+",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "artistId": 792750951,
-    "artistName": "Peloton Interactive, Inc.",
-    "price": 0,
-    "trackId": 792750948,
-    "trackName": "Peloton: Fitness & Workouts",
-    "bundleId": "com.Peloton.PelotonApp",
-    "releaseDate": "2014-02-15T00:26:48Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Peloton Interactive, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-27T14:57:30Z",
-    "releaseNotes": "Bug fixes and performance improvements.",
-    "version": "15.129.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Work out where you want, when you want. From strength and meditation, to outdoor running and yoga, the Peloton App makes fitness classes and workout tracking fun and easy. No equipment needed.\n\nWHAT'S IN IT FOR YOU?\n• Take your workout with you: Find a variety of workouts to fulfill your fitness goals, including strength training, indoor and outdoor running, cycling, yoga, HIIT, meditation, stretching, and more. Whether you’re at home, outside, or at the gym, our workouts are available on your iPhone or iPad. Plus, stream to your TV with Apple TV, AirPlay, or Chromecast.\n• Here to hype. Here to help: Peloton is designed to keep you going with artist series, goal-based offerings, and challenges that make working out on the Peloton App a fun and exhilarating experience.\n• More burn for your buck: Experience what Peloton is all about with a Peloton App membership.\n\nDISCOVER, LOVE, REPEAT\n• Variety that you crave: Thousands of workouts you can take anytime, anywhere—with or without any equipment. From cardio to stretching to gym-inspired routines, we’ve got you covered. Guided workouts can help you reach your goals, no matter where you train.\n• Workouts you can work in: Let our world-class instructors motivate and captivate you during every workout. Track your stats and progress using the Peloton Watch App, available on Apple Watch—whether you're training at home, outside, or in the gym.\n• Whenever you're ready to sweat: Join live classes, or explore our library of instructor-led workouts for a studio fitness experience to get moving whenever you're ready to sweat- on the go, at the gym, or at home.\n• Features that take your experience to the next level: Schedule, stack, and bookmark classes so once you’re ready to get moving, all you need to do is show up and sweat—whether it’s your living room or the gym floor.\n\nTRANSFORM YOUR FITNESS JOURNEY\n• Just bring you: Filter workouts by length, time, and music type to help you hit your health and fitness goals—on your terms, at home, or in the gym. No strings, no equipment required.\n• Energize Your Fitness: A full suite of content to energize your routine: Featuring expert trainers and great music, our classes offer an engaging blend of guidance and rhythm to enhance your fitness journey.\n• Stay connected: Track your classes and freeform activities like outdoor walks, runs and more. Connect a heart rate monitor or download the Peloton Watch App for Apple Watch in order to get metrics in real time to keep you going.\n\n\nJOIN THE PELOTON COMMUNITY\nWhether you’re working out on your phone, tablet, or TV, Peloton is designed to fit your life. Try Peloton for free—no equipment or gym membership needed.\n\n\nPayment for this plan will be charged to your iTunes Account at confirmation of purchase. The membership will automatically renew at the applicable price and frequency (i.e., monthly or annually) (exclusive of taxes) unless auto-renew is turned off at least 24-hours before the end of the current period. By completing your purchase, you certify that you are at least 18 years old and that you understand and agree to the Terms of Service (https://www.onepeloton.com/terms-of-service) and acknowledge the Privacy Policy (https://www.onepeloton.com/privacy-policy). Auto-renewal may be turned off in your Account Setting in iTunes after purchase. No cancellation of the current subscription is allowed during an active subscription period. A user that cancels during a subscription month will not be charged for the following month.",
-    "minimumOsVersion": "17.0",
+    "averageUserRatingForCurrentVersion": 4.91843,
     "sellerUrl": "https://www.onepeloton.com",
     "languageCodesISO2A": [
       "EN",
@@ -204,9 +180,33 @@
     ],
     "fileSizeBytes": "501004288",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 814520,
+    "userRatingCountForCurrentVersion": 814599,
     "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.91843,
-    "userRatingCount": 814520
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "artistId": 792750951,
+    "artistName": "Peloton Interactive, Inc.",
+    "price": 0,
+    "releaseNotes": "Bug fixes and performance improvements.",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "releaseDate": "2014-02-15T00:26:48Z",
+    "trackName": "Peloton: Fitness & Workouts",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 792750948,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Peloton Interactive, Inc.",
+    "currentVersionReleaseDate": "2026-07-27T14:57:30Z",
+    "version": "15.129.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Work out where you want, when you want. From strength and meditation, to outdoor running and yoga, the Peloton App makes fitness classes and workout tracking fun and easy. No equipment needed.\n\nWHAT'S IN IT FOR YOU?\n• Take your workout with you: Find a variety of workouts to fulfill your fitness goals, including strength training, indoor and outdoor running, cycling, yoga, HIIT, meditation, stretching, and more. Whether you’re at home, outside, or at the gym, our workouts are available on your iPhone or iPad. Plus, stream to your TV with Apple TV, AirPlay, or Chromecast.\n• Here to hype. Here to help: Peloton is designed to keep you going with artist series, goal-based offerings, and challenges that make working out on the Peloton App a fun and exhilarating experience.\n• More burn for your buck: Experience what Peloton is all about with a Peloton App membership.\n\nDISCOVER, LOVE, REPEAT\n• Variety that you crave: Thousands of workouts you can take anytime, anywhere—with or without any equipment. From cardio to stretching to gym-inspired routines, we’ve got you covered. Guided workouts can help you reach your goals, no matter where you train.\n• Workouts you can work in: Let our world-class instructors motivate and captivate you during every workout. Track your stats and progress using the Peloton Watch App, available on Apple Watch—whether you're training at home, outside, or in the gym.\n• Whenever you're ready to sweat: Join live classes, or explore our library of instructor-led workouts for a studio fitness experience to get moving whenever you're ready to sweat- on the go, at the gym, or at home.\n• Features that take your experience to the next level: Schedule, stack, and bookmark classes so once you’re ready to get moving, all you need to do is show up and sweat—whether it’s your living room or the gym floor.\n\nTRANSFORM YOUR FITNESS JOURNEY\n• Just bring you: Filter workouts by length, time, and music type to help you hit your health and fitness goals—on your terms, at home, or in the gym. No strings, no equipment required.\n• Energize Your Fitness: A full suite of content to energize your routine: Featuring expert trainers and great music, our classes offer an engaging blend of guidance and rhythm to enhance your fitness journey.\n• Stay connected: Track your classes and freeform activities like outdoor walks, runs and more. Connect a heart rate monitor or download the Peloton Watch App for Apple Watch in order to get metrics in real time to keep you going.\n\n\nJOIN THE PELOTON COMMUNITY\nWhether you’re working out on your phone, tablet, or TV, Peloton is designed to fit your life. Try Peloton for free—no equipment or gym membership needed.\n\n\nPayment for this plan will be charged to your iTunes Account at confirmation of purchase. The membership will automatically renew at the applicable price and frequency (i.e., monthly or annually) (exclusive of taxes) unless auto-renew is turned off at least 24-hours before the end of the current period. By completing your purchase, you certify that you are at least 18 years old and that you understand and agree to the Terms of Service (https://www.onepeloton.com/terms-of-service) and acknowledge the Privacy Policy (https://www.onepeloton.com/privacy-policy). Auto-renewal may be turned off in your Account Setting in iTunes after purchase. No cancellation of the current subscription is allowed during an active subscription period. A user that cancels during a subscription month will not be charged for the following month.",
+    "minimumOsVersion": "17.0",
+    "userRatingCount": 814599
   }
 }

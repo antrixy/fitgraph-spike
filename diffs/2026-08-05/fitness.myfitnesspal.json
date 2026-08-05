@@ -1,0 +1,30 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-08-05",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "prev_fetched_at": "2026-08-04T09:17:10.593Z",
+      "curr_fetched_at": "2026-08-05T09:14:34.233Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.30.0",
+          "new": "26.31.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
+          "new": "Fixed: After changing your Total Daily Goal from the Calories By Meal screen, the old goal wouldn’t update. Now your new goal shows up the moment you hit Save.\n\nFixed: For non-english users, food logged using Quick Add wasn’t showing up in your Diary. The calories counted, but the food vanished. Now your food entries show up where they should.\n\n*Bugs: great for the environment, bad for your logging experience.\n*For all the latest fixes, update to the latest app version"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "prev_fetched_at": "2026-08-04T09:17:12.737Z",
+      "curr_fetched_at": "2026-08-05T09:14:36.040Z",
+      "version_unreported": true
+    }
+  }
+}

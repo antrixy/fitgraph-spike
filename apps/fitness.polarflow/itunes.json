@@ -1,17 +1,38 @@
 {
-  "fetched_at": "2026-08-04T09:23:49.369Z",
+  "fetched_at": "2026-08-05T09:21:18.320Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=717172678&country=us",
   "result": {
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
+    "artistViewUrl": "https://apps.apple.com/us/developer/polar-electro/id532468555?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/49/b0/4649b0ab-2375-4ba8-67be-1842dee71c9a/ios-1490x2796-_U00231.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9f/62/409f629e-44b2-d370-cd56-9f80783731c4/ios-1490x2796-_U00232.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/0d/dd/d60ddd7a-db9a-697f-5d8a-1c1920f86a02/ios-1490x2796-_U00233.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b2/f5/57b2f5ff-cc98-0223-5ec1-a6566215c951/ios-1490x2796-_U00234.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/d5/08/1bd508e8-4190-c667-aa7b-ed34dc6afd2b/ios-1490x2796-_U00235.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/4d/50/3b4d5011-bb77-de8a-5836-043a83b06e0e/ios-1490x2796-_U00236.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/b2/f0/95b2f01c-a5d9-a71d-426e-3b4e203785b9/ios-1490x2796-_U00237.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/8a/e3/4a8ae315-0448-e96e-bb31-1e4adc55bd91/ios-1490x2796-_U00238.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/c3/4c/9ec34cd6-c0ec-c540-45c9-a78c1a512eff/ios-1490x2796-_U00239.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/99/5c/25995c46-dc3e-1c0f-55c8-2d91ead6a45c/ios-1490x2796-_U002310.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/8f/d0/4c8fd0de-dfdf-38a0-3834-6acf43b43db7/ios-2048x2732-_U00231.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/55/bd/8555bd5a-bc6c-e620-3ee8-508ef3dced98/ios-2048x2732-_U00232.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/d5/ef/c3d5efea-1793-f855-f9a4-37a0a57ea772/ios-2048x2732-_U00233.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/61/cf/d361cf82-a5c0-65e4-638a-26f9a0ce77da/ios-2048x2732-_U00234.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/6f/1c/946f1c45-8494-fca0-a401-2286f7a2b444/ios-2048x2732-_U00235.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/30/be/e630be28-8fa1-ffc8-0f73-4a5f9725ddc4/ios-2048x2732-_U00236.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/22/5f/61225f80-9e65-e5fe-f563-289f4e089a35/ios-2048x2732-_U00237.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/b4/a0/01b4a07e-3297-d2e7-42ed-8121db3f0052/ios-2048x2732-_U00238.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/7d/98/097d985c-2c0f-d89b-73b9-f17a649b37ec/ios-2048x2732-_U00239.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9f/99/449f99fb-274d-6613-a382-97acfaac0916/ios-2048x2732-_U002310.jpg/360x480bb.jpg"
+    ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
-    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -142,12 +163,17 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/polar-electro/id532468555?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5a/a8/c65aa844-f1bd-cc98-3ca0-74db8cf94f19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-    "releaseNotes": "This update fixes a firmware update issue affecting certain Polar Loop Gen 2 devices.",
-    "averageUserRatingForCurrentVersion": 4.61737,
+    "features": [
+      "iosUniversal"
+    ],
+    "advisories": [],
+    "trackCensoredName": "Polar Flow",
+    "trackViewUrl": "https://apps.apple.com/us/app/polar-flow/id717172678?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.61734,
+    "minimumOsVersion": "17.0",
     "sellerUrl": "http://www.polar.com",
+    "averageUserRatingForCurrentVersion": 4.61734,
     "languageCodesISO2A": [
       "CS",
       "DA",
@@ -174,24 +200,21 @@
     ],
     "fileSizeBytes": "197280768",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 49574,
     "trackContentRating": "4+",
-    "userRatingCountForCurrentVersion": 49554,
-    "artistId": 532468555,
-    "artistName": "Polar Electro",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
+    "releaseNotes": "This update fixes a firmware update issue affecting certain Polar Loop Gen 2 devices.",
     "price": 0,
-    "bundleId": "fi.polar.polarflow",
+    "artistId": 532468555,
+    "artistName": "Polar Electro",
+    "isVppDeviceBasedLicensingEnabled": true,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "releaseDate": "2013-10-28T11:03:45Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "sellerName": "Polar Electro Oy",
     "trackId": 717172678,
     "trackName": "Polar Flow",
@@ -200,11 +223,10 @@
     "wrapperType": "software",
     "currency": "USD",
     "description": "Polar Flow: Your Personal Sports, Fitness, and Health Companion\n\nThe exclusive app designed to maximize the potential of your Polar devices.\n\nKey Features:\n\nActivity Tracking: Monitor your daily activity, steps, calories burned, and distance to stay motivated throughout the day.\nTraining Analysis: Dive deep into your workouts with detailed data on heart rate, speed, pace, distance, power, and more. Understand the impact of each session and optimize your training routines.\nSleep Insights: Discover how well you sleep with advanced sleep tracking. Get feedback on sleep stages and quality to improve your rest and recovery. See how sleep boosts your day and track skin temperature changes.\nTraining Load & Recovery: Understand how your training sessions strain your body and get recommendations on recovery time to prevent overtraining.\nManage your watch and profile: Customize and manage your Polar device, Sports profiles for different activities, Routes, and Training Targets.\nWireless Syncing: Automatically sync data from your Polar devices for real-time updates, notifications, and other insights.\nStay Connected: Connect your profile and sync your data with Strava, TrainingPeaks, Adidas, komoot, and many other services.\nWhy Choose Polar Flow?\n\nPersonalized Guidance: Receive personalized feedback and guidance and understand your progress.\nComprehensive Ecosystem: Integrates seamlessly with Polar watches, heart rate monitors, and more for a holistic experience.\nUser-Friendly Interface: Navigate your data effortlessly with our intuitive and clean design.\nNotification support: Your Polar watch will receive the same notifications as your phone screen—incoming calls, messages, and app notifications.\nSecure and Private: Your data is safely stored and protected, giving you peace of mind as you focus on your journey.\n\n\nPolar Flow app allows you to share some of your wellness data with Apple Health. This includes details of your training, your heart rate, and steps.\n\nPlease note Polar Flow app is not intended for medical or diagnostic use.\n\n\n\nGet Started Today!\n\nDownload Polar Flow and unlock the full potential of your Polar devices. You can find more info at https://www.polar.com/flow\n\n\nConnect with us!\nInstagram: www.instagram.com/polarglobal\nFacebook: www.facebook.com/polarglobal\nYouTube: www.youtube.com/polarglobal\n\nFind out more about Polar products at https://www.polar.com/en/products",
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Polar Flow",
-    "trackViewUrl": "https://apps.apple.com/us/app/polar-flow/id717172678?uo=4",
-    "averageUserRating": 4.61737,
-    "minimumOsVersion": "17.0",
-    "userRatingCount": 49554
+    "bundleId": "fi.polar.polarflow",
+    "releaseDate": "2013-10-28T11:03:45Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "userRatingCount": 49574
   }
 }

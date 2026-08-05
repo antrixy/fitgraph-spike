@@ -1,0 +1,26 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-05",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "curr_fetched_at": "2026-08-05T09:16:12.360Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Then, $74/month.",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 meds cost not included",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "product": "fitness.future",
+  "name": "Future",
+  "date": "2026-08-05",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "prev_fetched_at": "2026-08-04T09:24:45.512Z",
+      "curr_fetched_at": "2026-08-05T09:22:18.227Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.13",
+          "new": "2026.14"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "curr_fetched_at": "2026-08-05T09:22:25.353Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "NEW: health coaching— nutrition, sleep, and more",
+          "occurrences": 2
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

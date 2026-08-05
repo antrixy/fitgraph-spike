@@ -1,22 +1,9 @@
 {
-  "fetched_at": "2026-08-04T09:19:50.643Z",
+  "fetched_at": "2026-08-05T09:17:19.598Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1482405410&country=us",
   "result": {
-    "screenshotUrls": [],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "features": [],
-    "advisories": [
-      "Infrequent/Mild Profanity or Crude Humor",
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/caliber-fitness-inc/id1482405409?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -146,31 +133,47 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "userRatingCountForCurrentVersion": 5813,
-    "averageUserRatingForCurrentVersion": 4.83967,
-    "sellerUrl": "https://caliberstrong.com",
-    "languageCodesISO2A": [
-      "EN"
+    "advisories": [
+      "Infrequent/Mild Profanity or Crude Humor",
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
     ],
-    "fileSizeBytes": "67522560",
-    "formattedPrice": "Free",
-    "trackContentRating": "12+",
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/caliber-fitness-inc/id1482405409?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f9/ba/3ff9ba41-292f-5500-888e-033358c24c7a/App_Store__U00281242_x_2688_U0029_-1c.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/55/67/80556782-eaf4-fb63-2f87-78bb73bb3684/App_Store__U00281242_x_2688_U0029-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/6f/02/746f0205-94c0-ac1e-d185-1cfa8fbfdad9/App_Store__U00281242_x_2688_U0029-9.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/54/83/b75483a7-bfde-de96-d58a-8ca4a7ced1c9/App_Store__U00281242_x_2688_U0029-3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/aa/09/10aa09e9-bc2e-686f-7f62-b5c99dce2827/App_Store__U00281242_x_2688_U0029-4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/68/5a/ad685a45-b17b-aeac-a98d-8fa41a7b4330/App_Store__U00281242_x_2688_U0029-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/f1/43/38f14389-b66d-f144-e400-af2f563054ca/App_Store__U00281242_x_2688_U0029-6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/dd/27/e8dd2703-6959-c174-db28-ff7861b7b856/App_Store__U00281242_x_2688_U0029-5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/bc/1f/e7bc1f9d-d117-8780-55e3-243b3bf66b28/App_Store__U00281242_x_2688_U0029-7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/fd/00/09fd0017-fc47-2847-d660-52876915ca85/App_Store__U00281242_x_2688_U0029-8.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/22/23/5b222343-1bc9-1248-a1be-9b55b9ade883/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "features": [],
+    "releaseNotes": "* Introducing Caliber's MCP server, with support for both ChatGPT and Claude! This can now be set up in Menu > Connected Apps\n* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!",
+    "artistId": 1482405409,
+    "artistName": "Caliber Fitness, Inc",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 1482405409,
-    "artistName": "Caliber Fitness, Inc",
-    "bundleId": "com.caliberfitness.app",
-    "trackId": 1482405410,
+    "price": 0,
     "trackName": "Caliber: Strength Training",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Caliber Fitness, Inc.",
+    "trackId": 1482405410,
     "genreIds": [
       "6013",
       "6012"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Caliber Fitness, Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-23T14:42:26Z",
     "version": "5.15.1",
@@ -180,11 +183,19 @@
     "trackCensoredName": "Caliber: Strength Training",
     "trackViewUrl": "https://apps.apple.com/us/app/caliber-strength-training/id1482405410?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.83967,
+    "averageUserRating": 4.83978,
+    "averageUserRatingForCurrentVersion": 4.83978,
+    "sellerUrl": "https://caliberstrong.com",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "67522560",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 5817,
+    "trackContentRating": "12+",
     "minimumOsVersion": "15.1",
     "releaseDate": "2020-07-31T07:00:00Z",
-    "releaseNotes": "* Introducing Caliber's MCP server, with support for both ChatGPT and Claude! This can now be set up in Menu > Connected Apps\n* Added a variety of Hyrox-focused exercises, including: Hand-Over-Hand Sled Pull, Lateral Sled Drag, Wall Ball, Double Kettlebell Gorilla Row, Sandbag Bear Hug Carry, Sandbag Shoulder Carry, Burpee Broad Jumps, Tibialis Raises, and more!",
-    "price": 0,
-    "userRatingCount": 5813
+    "bundleId": "com.caliberfitness.app",
+    "userRatingCount": 5817
   }
 }

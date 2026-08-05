@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:18:24.185Z",
+  "fetched_at": "2026-08-05T09:15:46.000Z",
   "source": "google_play_scraper",
   "appId": "com.sillens.shapeupclub",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Calorie Counter, Nutrition and Macro Tracker, Meal Plans for Weight Loss.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 29514007,
-    "score": 4.408265,
+    "maxInstalls": 29514293,
+    "score": 4.4074507,
     "scoreText": "4.4",
-    "ratings": 377017,
-    "reviews": 13836,
+    "ratings": 377061,
+    "reviews": 13837,
     "histogram": {
-      "1": 24087,
-      "2": 12591,
-      "3": 19001,
-      "4": 50931,
-      "5": 270385
+      "1": 24106,
+      "2": 12600,
+      "3": 19020,
+      "4": 51098,
+      "5": 270205
     },
     "price": 0,
     "free": true,

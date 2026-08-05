@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:21:44.194Z",
+  "fetched_at": "2026-08-05T09:19:01.423Z",
   "source": "google_play_scraper",
   "appId": "com.nike.plusgps",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Running for Beginners to Regulars: Guided Runs for 5k, 10k, Half Marathon &amp; More",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 56784540,
-    "score": 4.206915,
+    "maxInstalls": 56787585,
+    "score": 4.2063293,
     "scoreText": "4.2",
-    "ratings": 1110826,
+    "ratings": 1110867,
     "reviews": 69333,
     "histogram": {
-      "1": 120310,
-      "2": 51922,
-      "3": 54275,
-      "4": 135396,
-      "5": 748905
+      "1": 120395,
+      "2": 51846,
+      "3": 54402,
+      "4": 135712,
+      "5": 748498
     },
     "price": 0,
     "free": true,
@@ -70,7 +70,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 21, 2012",
-    "updated": 1779472184000,
+    "updated": 1785875570000,
     "version": "VARY",
     "recentChanges": "Easily Re-Run Guided Runs: After you finish a run, your activity details now show which Guided Run you listened to. Tap on any of your runs in the Activity Tab to view the details, run it again, or save it for next time.",
     "comments": [],

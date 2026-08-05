@@ -1,0 +1,20 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-08-05",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "prev_fetched_at": "2026-08-04T09:17:30.679Z",
+      "curr_fetched_at": "2026-08-05T09:14:53.639Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "This release includes several bug fixes and stability improvements. Thank you for reporting these issues — please continue sharing feedback as you use the app. Happy tracking!",
+          "new": "Water widget settings where they affect change, additional Pro Mobile support &amp; bug fixes"
+        }
+      ]
+    }
+  }
+}

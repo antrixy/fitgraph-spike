@@ -1,0 +1,347 @@
+{
+  "product": "fitness.boostcamp",
+  "name": "Boostcamp",
+  "date": "2026-08-05",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "curr_fetched_at": "2026-08-05T09:17:54.308Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Boostcamp - Free Workout Tracker & Program App for Every Level",
+          "occurrences": 1
+        },
+        {
+          "text": "A free workout tracker and program app: 11,000+ programs, including coach-designed programs from Geoffrey Schofield , Dr.",
+          "occurrences": 1
+        },
+        {
+          "text": "Eric Helms , and Cody Lefever .",
+          "occurrences": 1
+        },
+        {
+          "text": "Set, rep, and PR tracking built in.",
+          "occurrences": 1
+        },
+        {
+          "text": "No paywall on programs.",
+          "occurrences": 2
+        },
+        {
+          "text": "nSuns 5/3/1",
+          "occurrences": 1
+        },
+        {
+          "text": "r/Fitness",
+          "occurrences": 3
+        },
+        {
+          "text": "Free Muscle 4 days / week",
+          "occurrences": 3
+        },
+        {
+          "text": "4.31",
+          "occurrences": 1
+        },
+        {
+          "text": "43,530 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP)",
+          "occurrences": 1
+        },
+        {
+          "text": "Cody Lefever",
+          "occurrences": 2
+        },
+        {
+          "text": "4.36",
+          "occurrences": 2
+        },
+        {
+          "text": "38,232 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Brandon Campbell",
+          "occurrences": 2
+        },
+        {
+          "text": "4.20",
+          "occurrences": 1
+        },
+        {
+          "text": "30,575 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big",
+          "occurrences": 1
+        },
+        {
+          "text": "Jim Wendler",
+          "occurrences": 2
+        },
+        {
+          "text": "Free Strength 4 days / week",
+          "occurrences": 1
+        },
+        {
+          "text": "4.26",
+          "occurrences": 2
+        },
+        {
+          "text": "26,183 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL",
+          "occurrences": 1
+        },
+        {
+          "text": "Free Muscle 6 days / week",
+          "occurrences": 1
+        },
+        {
+          "text": "24,937 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks",
+          "occurrences": 1
+        },
+        {
+          "text": "Alex Bromley",
+          "occurrences": 2
+        },
+        {
+          "text": "Free Muscle 5 days / week",
+          "occurrences": 1
+        },
+        {
+          "text": "19,849 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "How Boostcamp compares",
+          "occurrences": 1
+        },
+        {
+          "text": "Full tracker.",
+          "occurrences": 1
+        },
+        {
+          "text": "Full program library.",
+          "occurrences": 1
+        },
+        {
+          "text": "vs Strong",
+          "occurrences": 1
+        },
+        {
+          "text": "Go beyond a blank workout tracker.",
+          "occurrences": 1
+        },
+        {
+          "text": "Boostcamp matches the logging and adds a library of 11,000+ programs, 130+ coach-designed.",
+          "occurrences": 2
+        },
+        {
+          "text": "See the full comparison",
+          "occurrences": 4
+        },
+        {
+          "text": "vs Hevy",
+          "occurrences": 1
+        },
+        {
+          "text": "Go beyond a social workout logger.",
+          "occurrences": 1
+        },
+        {
+          "text": "vs Fitbod",
+          "occurrences": 1
+        },
+        {
+          "text": "Generates each session algorithmically, free for a 3-workout trial, then paid.",
+          "occurrences": 1
+        },
+        {
+          "text": "Boostcamp gives you a personalized workout program, free forever, compared to $95.99/year charged by Fitbod.",
+          "occurrences": 1
+        },
+        {
+          "text": "vs JEFIT",
+          "occurrences": 1
+        },
+        {
+          "text": "Go beyond an ad-supported exercise database.",
+          "occurrences": 1
+        },
+        {
+          "text": "Boostcamp has no ads, superior UI and intelligent progressions with a matching library of programs.",
+          "occurrences": 1
+        },
+        {
+          "text": "Programming is included in the free tier, no Elite subscription required.",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,530 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 24,937 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,232 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,755 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 19,849 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,391 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,183 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,313 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 30,575 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "r/BodyweightFitness",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,793 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,362 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "From there, you&#x27;ll be guided step-by-step through each workout.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can easily browse through our program library based on your experience (beginner, intermediate, advanced) and select the one that aligns with your fitness objectives, whether it&#x27;s strength, endurance, or general fitness.",
+          "occurrences": 1
+        },
+        {
+          "text": "You&#x27;ll never have to guess what to do next.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can see exactly how far you&#x27;ve come and make adjustments as you improve.",
+          "occurrences": 1
+        },
+        {
+          "text": "Once you start, you&#x27;ll follow a structured plan with daily workouts, so you always know exactly what to do next.",
+          "occurrences": 1
+        },
+        {
+          "text": "There are no long-term commitments, and you&#x27;ll still have access to Pro features until the end of your billing cycle.",
+          "occurrences": 1
+        },
+        {
+          "text": "Is Boostcamp better than Strong, Hevy, or Fitbod?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends on what you need.",
+          "occurrences": 1
+        },
+        {
+          "text": "Strong and Hevy are workout loggers you build your own routines around; Boostcamp includes the same kind of logging plus a free library of 11,000+ programs, including 130+ coach-designed.",
+          "occurrences": 1
+        },
+        {
+          "text": "Fitbod generates each session algorithmically and is free for a 3-workout trial, then paid; Boostcamp&#x27;s tracker and program library are free permanently, and it adds an AI program builder on top.",
+          "occurrences": 1
+        },
+        {
+          "text": "Hevy has the stronger social feed, and Fitbod&#x27;s algorithmic generation is more hands-off day to day — those are real reasons to pick them instead.",
+          "occurrences": 1
+        },
+        {
+          "text": "Does Boostcamp work with Apple Watch or Wear OS?",
+          "occurrences": 1
+        },
+        {
+          "text": "No, Boostcamp doesn&#x27;t currently have an Apple Watch or Wear OS app.",
+          "occurrences": 1
+        },
+        {
+          "text": "On iOS, Boostcamp supports Live Activities, so your current set and rest timer show up on the Lock Screen and in the Dynamic Island without opening the app.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Boostcamp - Free Workout Programs, Tracking & Progress for Every Level",
+          "occurrences": 1
+        },
+        {
+          "text": "Programs from coaches like Geoffrey Schofield , Dr.",
+          "occurrences": 1
+        },
+        {
+          "text": "Eric Helms , and Cody Lefever , plus thousands of community routines.",
+          "occurrences": 1
+        },
+        {
+          "text": "Tracking built in.",
+          "occurrences": 1
+        },
+        {
+          "text": "From there, you&apos;ll be guided step-by-step through each workout.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can easily browse through our program library based on your experience (beginner, intermediate, advanced) and select the one that aligns with your fitness objectives, whether it&apos;s strength, endurance, or general fitness.",
+          "occurrences": 1
+        },
+        {
+          "text": "You&apos;ll never have to guess what to do next.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can see exactly how far you&apos;ve come and make adjustments as you improve.",
+          "occurrences": 1
+        },
+        {
+          "text": "Once you start, you&apos;ll follow a structured plan with daily workouts, so you always know exactly what to do next.",
+          "occurrences": 1
+        },
+        {
+          "text": "There are no long-term commitments, and you&apos;ll still have access to Pro features until the end of your billing cycle.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 72,
+      "removed_total": 10
+    }
+  }
+}

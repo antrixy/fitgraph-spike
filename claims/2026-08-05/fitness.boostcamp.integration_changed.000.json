@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.boostcamp",
+  "integration": "wear_os",
+  "direction": "added",
+  "observed_at": "2026-08-05T09:17:54.308Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Does Boostcamp work with Apple Watch or Wear OS?",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

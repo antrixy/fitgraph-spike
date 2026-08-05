@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:25:32.173Z",
+  "fetched_at": "2026-08-05T09:23:09.451Z",
   "source": "google_play_scraper",
   "appId": "com.getsomeheadspace.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Meditation and mindfulness for sleep, anxiety relief, stress, and mental health",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 42346361,
+    "maxInstalls": 42346613,
     "score": 4.2634964,
     "scoreText": "4.3",
-    "ratings": 339969,
-    "reviews": 31741,
+    "ratings": 339972,
+    "reviews": 31743,
     "histogram": {
       "1": 41764,
       "2": 12540,
       "3": 10797,
       "4": 24094,
-      "5": 250762
+      "5": 250764
     },
     "price": 0,
     "free": true,

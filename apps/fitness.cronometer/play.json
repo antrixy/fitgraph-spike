@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:17:30.679Z",
+  "fetched_at": "2026-08-05T09:14:53.639Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Macro and micronutrient tracker for accurate food, diet and nutrition analysis.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 5958425,
-    "score": 4.5767827,
+    "maxInstalls": 5959310,
+    "score": 4.575928,
     "scoreText": "4.6",
-    "ratings": 56636,
-    "reviews": 8432,
+    "ratings": 56676,
+    "reviews": 8439,
     "histogram": {
-      "1": 2140,
-      "2": 1125,
-      "3": 1914,
-      "4": 8188,
-      "5": 43259
+      "1": 2142,
+      "2": 1127,
+      "3": 1935,
+      "4": 8211,
+      "5": 43257
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "released": "Jul 13, 2016",
     "updated": 1785278676000,
     "version": "VARY",
-    "recentChanges": "This release includes several bug fixes and stability improvements. Thank you for reporting these issues — please continue sharing feedback as you use the app. Happy tracking!",
+    "recentChanges": "Water widget settings where they affect change, additional Pro Mobile support &amp; bug fixes",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

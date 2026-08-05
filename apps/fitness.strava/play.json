@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:21:23.144Z",
+  "fetched_at": "2026-08-05T09:18:40.159Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 129531203,
-    "score": 4.5966873,
+    "maxInstalls": 129628873,
+    "score": 4.593377,
     "scoreText": "4.6",
-    "ratings": 1157232,
-    "reviews": 34118,
+    "ratings": 1158391,
+    "reviews": 34131,
     "histogram": {
-      "1": 63441,
-      "2": 17974,
-      "3": 29262,
-      "4": 100439,
-      "5": 946083
+      "1": 64369,
+      "2": 17537,
+      "3": 29436,
+      "4": 101990,
+      "5": 945026
     },
     "price": 0,
     "free": true,

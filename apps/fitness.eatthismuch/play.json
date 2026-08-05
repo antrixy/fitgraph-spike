@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:18:51.345Z",
+  "fetched_at": "2026-08-05T09:16:21.094Z",
   "source": "google_play_scraper",
   "appId": "com.eatthismuch",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Automatic meal planner with personalized diets, grocery lists, calories &amp; macros",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2608529,
-    "score": 4.6564417,
+    "maxInstalls": 2608604,
+    "score": 4.6551023,
     "scoreText": "4.7",
-    "ratings": 10422,
+    "ratings": 10423,
     "reviews": 1798,
     "histogram": {
       "1": 233,
       "2": 125,
       "3": 317,
-      "4": 1618,
-      "5": 8119
+      "4": 1636,
+      "5": 8103
     },
     "price": 0,
     "free": true,

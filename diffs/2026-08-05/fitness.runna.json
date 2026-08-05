@@ -1,0 +1,35 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-08-05",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "6e7a90e67f0741bba6b7be8f406b048c84806ee8",
+      "curr_fetched_at": "2026-08-05T09:18:54.148Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Exclusive events",
+          "occurrences": 1
+        },
+        {
+          "text": "Refer a Friend prize giveaways",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Free Couch to 5K",
+          "occurrences": 1
+        },
+        {
+          "text": "Exclusive events & prize giveaways",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 2
+    }
+  }
+}

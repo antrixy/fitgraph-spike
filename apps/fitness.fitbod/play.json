@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T09:19:44.105Z",
+  "fetched_at": "2026-08-05T09:17:12.432Z",
   "source": "google_play_scraper",
   "appId": "com.fitbod.fitbod",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym &amp; home workout plans with strength training, exercise tracking, HIIT &amp; more.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4514324,
-    "score": 4.4473686,
+    "maxInstalls": 4514584,
+    "score": 4.449777,
     "scoreText": "4.4",
-    "ratings": 30318,
-    "reviews": 3880,
+    "ratings": 30337,
+    "reviews": 3881,
     "histogram": {
-      "1": 2573,
+      "1": 2566,
       "2": 405,
-      "3": 1022,
-      "4": 3190,
-      "5": 23121
+      "3": 1019,
+      "4": 3166,
+      "5": 23176
     },
     "price": 0,
     "free": true,

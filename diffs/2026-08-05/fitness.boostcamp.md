@@ -1,0 +1,90 @@
+# Boostcamp (fitness.boostcamp) — 2026-08-05
+
+fetched_at: {"itunes":"2026-08-05T09:17:46.987Z","play":"2026-08-05T09:17:49.309Z","pricing":"2026-08-05T09:17:54.308Z"}
+
+## pricing_page (sentence-level)
+**Added (72):**
+- Boostcamp - Free Workout Tracker & Program App for Every Level
+- A free workout tracker and program app: 11,000+ programs, including coach-designed programs from Geoffrey Schofield , Dr.
+- Eric Helms , and Cody Lefever .
+- Set, rep, and PR tracking built in.
+- No paywall on programs. _(×2)_
+- nSuns 5/3/1
+- r/Fitness _(×3)_
+- Free Muscle 4 days / week _(×3)_
+- 4.31
+- 43,530 athletes joined
+- GZCL Program (GZCLP)
+- Cody Lefever _(×2)_
+- 4.36 _(×2)_
+- 38,232 athletes joined
+- PHUL Workout Program
+- Brandon Campbell _(×2)_
+- 4.20
+- 30,575 athletes joined
+- 5/3/1 Boring But Big
+- Jim Wendler _(×2)_
+- Free Strength 4 days / week
+- 4.26 _(×2)_
+- 26,183 athletes joined
+- Reddit PPL
+- Free Muscle 6 days / week
+- 24,937 athletes joined
+- KONG: Savage Size in 12 Weeks
+- Alex Bromley _(×2)_
+- Free Muscle 5 days / week
+- 19,849 athletes joined
+- How Boostcamp compares
+- Full tracker.
+- Full program library.
+- vs Strong
+- Go beyond a blank workout tracker.
+- Boostcamp matches the logging and adds a library of 11,000+ programs, 130+ coach-designed. _(×2)_
+- See the full comparison _(×4)_
+- vs Hevy
+- Go beyond a social workout logger.
+- vs Fitbod
+- Generates each session algorithmically, free for a 3-workout trial, then paid.
+- Boostcamp gives you a personalized workout program, free forever, compared to $95.99/year charged by Fitbod.
+- vs JEFIT
+- Go beyond an ad-supported exercise database.
+- Boostcamp has no ads, superior UI and intelligent progressions with a matching library of programs.
+- Programming is included in the free tier, no Elite subscription required.
+- nSuns 5/3/1 43,530 joined
+- Reddit PPL 24,937 joined
+- GZCL Program (GZCLP) 38,232 joined
+- Jacked and Tan 2.0 4,755 joined
+- KONG: Savage Size in 12 Weeks 19,849 joined
+- Bullmastiff 17,391 joined
+- 5/3/1 Boring But Big 26,183 joined
+- 5/3/1 for Beginners 8,313 joined
+- PHUL Workout Program 30,575 joined
+- r/BodyweightFitness
+- Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,793 joined
+- Reddit&#x27;s Bodyweight Fitness Primer 7,362 joined
+- From there, you&#x27;ll be guided step-by-step through each workout.
+- You can easily browse through our program library based on your experience (beginner, intermediate, advanced) and select the one that aligns with your fitness objectives, whether it&#x27;s strength, endurance, or general fitness.
+- You&#x27;ll never have to guess what to do next.
+- You can see exactly how far you&#x27;ve come and make adjustments as you improve.
+- Once you start, you&#x27;ll follow a structured plan with daily workouts, so you always know exactly what to do next.
+- There are no long-term commitments, and you&#x27;ll still have access to Pro features until the end of your billing cycle.
+- Is Boostcamp better than Strong, Hevy, or Fitbod?
+- It depends on what you need.
+- Strong and Hevy are workout loggers you build your own routines around; Boostcamp includes the same kind of logging plus a free library of 11,000+ programs, including 130+ coach-designed.
+- Fitbod generates each session algorithmically and is free for a 3-workout trial, then paid; Boostcamp&#x27;s tracker and program library are free permanently, and it adds an AI program builder on top.
+- Hevy has the stronger social feed, and Fitbod&#x27;s algorithmic generation is more hands-off day to day — those are real reasons to pick them instead.
+- Does Boostcamp work with Apple Watch or Wear OS?
+- No, Boostcamp doesn&#x27;t currently have an Apple Watch or Wear OS app.
+- On iOS, Boostcamp supports Live Activities, so your current set and rest timer show up on the Lock Screen and in the Dynamic Island without opening the app.
+
+**Removed (10):**
+- Boostcamp - Free Workout Programs, Tracking & Progress for Every Level
+- Programs from coaches like Geoffrey Schofield , Dr.
+- Eric Helms , and Cody Lefever , plus thousands of community routines.
+- Tracking built in.
+- From there, you&apos;ll be guided step-by-step through each workout.
+- You can easily browse through our program library based on your experience (beginner, intermediate, advanced) and select the one that aligns with your fitness objectives, whether it&apos;s strength, endurance, or general fitness.
+- You&apos;ll never have to guess what to do next.
+- You can see exactly how far you&apos;ve come and make adjustments as you improve.
+- Once you start, you&apos;ll follow a structured plan with daily workouts, so you always know exactly what to do next.
+- There are no long-term commitments, and you&apos;ll still have access to Pro features until the end of your billing cycle.
