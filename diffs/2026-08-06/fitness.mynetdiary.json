@@ -1,0 +1,74 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:15:19.403Z",
+      "curr_fetched_at": "2026-08-06T09:18:03.317Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.28",
+          "new": "10.29"
+        },
+        {
+          "field": "description",
+          "old": "MyNetDiary is the calorie tracker you'll actually stick with. Log meals in seconds with a free barcode scanner, Meal Scan (just photograph your plate), or quick search. No ads, no account required. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Highest-rated by the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian, alongside WW and Noom.\n\n\nWHY PEOPLE SWITCH\n\nOur food database has over 2 million staff-verified items with up to 108 nutrients. That matters because most apps rely on crowdsourced data full of duplicates and errors.\n\nWe're also fast. We logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker. Less time logging means you actually keep doing it.\n\nThe free version is generous: barcode scanning, macro and 108 nutrient tracking, food diary, calorie calculator, and progress charts. No ads, no paywall tricks.\n\nActive members lose an average of 1.4 lb per week, according to the MyNetDiary Efficacy Report. \n\nMany switched from other diet and nutrition apps.\n\n\nWHAT YOU GET FOR FREE\n\n• Food log with barcode scanner, search, favorites, and recent meals.\n• The largest and most accurate verified food database — 2x larger than competition.\n• Macro and protein tracking with custom daily targets.\n• Nutrition tracking across 108 nutrients — vitamins, minerals, omegas, amino acids — plus water and exercise.\n• Calorie calculator, deficit tracking, customizable dashboard, and progress charts.\n• Coaching tips, meal reminders, shopping lists.\n• Professional Connect: share your diary with a dietitian or coach.\n• Inspiring community with daily success stories.\n• Articles by Registered Dietitians and how-to videos.\n\n\nPREMIUM\n\nUnlock the full power of MyNetDiary with Premium:\n\n• Meal Scan: photograph your plate and log it instantly.\n• Sync with Apple Health, Fitbit, Garmin, and Withings for automatic exercise, steps, and weight.\n• Apple Watch and widgets for quick logging and progress checks on the go.\n• Calorie and macro day cycling.\n• Autologging: set your regular meals once — foods, amounts, days, mealtimes — and MyNetDiary logs them for you.\n• Intermittent fasting with multiple protocols.\n• Diet Autopilot: your calorie budget adjusts automatically as you lose weight.\n• Health tracking: blood pressure, cholesterol, blood glucose, A1C, ketones, medications, and more.\n• Import recipes from the web with full nutrient counts.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Mediterranean, Low-Carb, Keto, and more.\n\n\nGLP-1 COMPANION\n\nA dedicated tracking system inside MyNetDiary, built for people on Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications. Turn it on and the app reconfigures around what matters most on GLP-1.\n\n• Medication tracker with reminders so you never miss a dose.\n• Protein-first dashboard that keeps muscle protection front and center.\n• Fiber and hydration tracking — GLP-1 side effects hit harder when you skip them.\n• Symptom logging to spot patterns and share with your doctor.\n• GLP-1 recipes and meal plans built around high protein and easy digestion.\n• Trend charts for weight, protein, hydration, and symptoms in one place.\n\n\nPREMIUM PLUS — AI COACH\n\nAI Coach is built on 20 years of nutrition expertise. Once you try it, you'll wonder how you tracked without it.\n\n• Daily guidance based on what you actually ate, not just what you planned.\n• GLP-1 specific coaching that adjusts advice for medication users.\n• Meal suggestions matched to your calorie budget and preferences.\n• Restaurant menu scan to find the best options when eating out.\n• Voice logging: say your meal and MyNetDiary logs it.\n\nResults may vary. Not medical advice.\n\nPrivacy Policy: www.mynetdiary.com/privacy.html\nTerms of Use: www.mynetdiary.com/terms.html",
+          "new": "MyNetDiary is the calorie tracker you'll actually stick with: fast, accurate, and ad-free. Log meals in seconds with the free barcode scanner, Meal Scan (just photograph your plate), or quick search. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Scored highest of 30 apps for behavioral strategies in the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian.\n\nWHY PEOPLE SWITCH\n\nAccuracy: MyNetDiary runs on a staff-verified food database of over 2 million foods with up to 108 nutrients per entry, built on USDA and NCC research-grade sources, the same databases used in clinical research. Most apps rely on crowdsourced data full of duplicates and errors. Our team reviews and updates 2,500-3,500 foods every day.\n\nSpeed: In our January 2026 test, we logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker. Less time logging means you actually keep doing it.\n\nValue: The free version is generous, with barcode scanning, full macro tracking, water tracking, a calorie calculator, and progress charts. No ads, no account required, no paywall tricks.\n\nWHAT YOU GET FOR FREE\n\n• Food diary with search, favorites, recent meals, and copy-from-day.\n• Free barcode scanner with accurate nutrition data from the verified database.\n• Voice logging for quick, hands-free food entry.\n• Full macro and protein tracking.\n• Accurate nutrition planning and tracking for free: up to 108 nutrients (vitamins, minerals, omegas, amino acids)\n• Exercise tracking\n• Water tracking.\n• Calorie calculator, deficit tracking, and customizable dashboard.\n• Apple Watch app and widgets for quick logging and progress checks.\n• Comprehensive sync with Apple Health - writes 51 data types and reads 14\n• Coaching tips, meal reminders, shopping lists.\n• Professional Connect: share your diary with a dietitian, coach, or doctor. Used by dietitians and health professionals at no cost.\n• Inspiring community with daily success stories.\n• Articles by Registered Dietitians and how-to videos.\n\nPREMIUM\n\n• Meal Scan: photograph your plate and log it instantly, matched against the staff-verified database.\n• AI voice logging: describe your meal out loud and MyNetDiary logs it.\n• Sync with Fitbit, Garmin, and Withings for automatic exercise, steps, and weight.\n• GLP-1 Companion: nutrition-first support for Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications, focused on protecting muscle and meeting protein targets while you lose weight.\n• Calorie and macro cycling.\n• Autologging: set your regular meals once (foods, amounts, days, mealtimes) and MyNetDiary logs them automatically.\n• Intermittent fasting with multiple protocols.\n• Diet Autopilot: your calorie budget adjusts automatically as you lose weight. \n• Advanced AutoPilot adapts targets to your actual metabolism.\n• Health tracking: measurements, blood pressure, cholesterol, blood glucose, A1C, ketones, medications, and more.\n• Trend Analysis to spot patterns and optimize your diet.\n• Meal Planner with shopping lists.\n• Recipe import from the web with reliable nutrient counts.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Mediterranean, Low-Carb, Keto, Vegetarian, and more.\n\nPREMIUM PLUS: AI COACH\n\nAI Coach is built on 20 years of nutrition expertise.\n• Daily guidance based on what you actually ate, not just what you planned.\n• Meal suggestions matched to your calorie budget and preferences.\n• AI Restaurant Menu Scan: find the best options when eating out.\n\nResults may vary. MyNetDiary does not provide medical advice.\n\nAll product names, logos, and brands are the property of their respective owners.\n\nPrivacy Policy: www.mynetdiary.com/privacy.html\nTerms of Use: www.mynetdiary.com/terms.html"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:15:21.419Z",
+      "curr_fetched_at": "2026-08-06T09:18:08.253Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "curr_fetched_at": "2026-08-06T09:18:12.109Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How Accurate Is AI Photo Food Logging?",
+          "occurrences": 1
+        },
+        {
+          "text": "New NIH Data",
+          "occurrences": 1
+        },
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Learn the meaning of calorie deficit for weight loss and how MyNetDiary's Daily Analysis can help along the way",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 3
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.balance",
+  "name": "Balance",
+  "date": "2026-08-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:23:18.864Z",
+      "curr_fetched_at": "2026-08-06T09:25:39.783Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.206.0",
+          "new": "1.207.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
+          "new": "New Single: \n\n  • Ocean Escape:  Take a moment to rest as you immerse yourself in a visualized ocean setting."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "product": "fitness.headspace",
+  "name": "Headspace",
+  "date": "2026-08-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:23:05.122Z",
+      "curr_fetched_at": "2026-08-06T09:25:31.712Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.26.0",
+          "new": "8.26.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:23:09.451Z",
+      "curr_fetched_at": "2026-08-06T09:25:35.868Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.25.2",
+          "new": "8.26.1"
+        },
+        {
+          "field": "recentChanges",
+          "old": "A steady meditation practice can calm the mind. But sometimes a bug appears in the app and it distracts us. We removed that bug from this latest version, and we already feel more at ease.<br><br>If you run into any trouble, let us know at help@headspace.com",
+          "new": null
+        },
+        {
+          "field": "description",
+          "old": "Headspace is your guide to mental health, mindfulness, and meditation. Access guided meditations, mindfulness tools, therapy for anxiety, mental health coaching, and Ebb, your AI companion for meditation and sleep support. Manage emotions and anxiety, and follow your mental health journey with hundreds of meditations to meditate, sleep better, reduce stress, practice breathing exercises, and use relaxation techniques for anxiety relief and everyday wellbeing.\n\nHeadspace supports mental health and emotional wellbeing with online therapy, mental health resources, meditation tools, and daily mindfulness practices. Meditate, practice mindfulness, relax with calming routines, and build healthy habits that support balance, self care, sound sleep and overall welllbeing.\n\n🧘‍♂️ DAILY MEDITATIONS & MINDFULNESS\nBoost mental wellness and mindfulness with over 500 guided meditations. Meditate daily and make meditation a steady practice with 3-minute mental resets or longer mindful meditations. Build habits for stress and anxiety management, letting go of stress, and supporting mental wellness with relaxation, breathing techniques, meditation tools, and self care practices. Learn mindfulness for anxiety and explore calming guidance that fits your routine to support wellbeing.\n\n🌙 SLEEP MEDITATIONS & RELAXING SOUNDS\nEnjoy better sleep with soothing sounds, relaxing music, calming sounds for sleep, and guided sleep meditation. Drift off with bedtime soundscapes and gentle breathing techniques. Explore meditation for sleeping to reduce stress, support sleep quality, and ease anxiety and insomnia with relaxation exercises designed for sound sleep and stronger wellbeing to meditate.\n\n🌬️ STRESS RELIEF & BREATHING\nExperiencing anxiety? Meditate, relax, and manage stress with breathing exercises, guided meditations, and AI-powered mental health coaching. Learn breathwork and calming breathing techniques for stress relief, improve stress management, reduce stress, practice meditation for anxiety, and explore daily sessions for emotional balance.\n\n👥 MINDFUL COACH & MENTAL HEALTH AI\nHeadspace gives you access to licensed therapists, mental health tips, coaches, and Ebb, your empathetic AI companion. Get AI support on how to manage stress symptoms, improve stress management, understand depression signs, navigate anxiety or panic, and explore CBT for depression.\n\n💖 SELF-CARE\nExplore self care practices for wellness. Empower yourself with tools to avoid burnout, manage anxiety symptoms, and improve stress management. Get guidance for emotional distress with mindfulness practices and routines that help maintain balance and improve wellbeing.\n\n🚀 WELLNESS & BALANCE\nIncrease balance with guided meditation, breathing tools, and focus music. Calm your mind with quick breathing exercises, relaxation music, and mindful meditation for emotional clarity. Use a self care tracker to follow your mental health journey, develop healthy habits, and maintain everyday wellbeing while managing stress and anxiety.\n\n💪 MINDFUL MOVEMENT\nTry yoga for anxiety and stress relief, and mindful movement to strengthen your mind-body connection and support better sleep. Meditate and practice CBT techniques to overcome negative thoughts, reduce stress, and support consistent relaxation and balance.\n\nHeadspace is the everyday mental health app that supports anxiety, sleep, meditation, mindfulness, stress relief, and wellbeing. Access AI-powered mental health tools, mindfulness exercises, guided sleep meditation, breathing techniques, and relaxation practices for better sleep, anxiety and stress management, and healthier habits for mental health and happiness.\n\nAccess online therapy through your organization.* (Check coverage with your coach or benefits team.)\n\nStart your free trial and explore meditation, mindfulness, mental health therapy, and sleep support. Subscriptions: $12.99/mo, $69.99/yr (U.S. pricing; local rates may vary). Charges apply at purchase confirmation.",
+          "new": "Headspace is your guide to mental health, mindfulness, and meditation. Access guided meditations, mindfulness tools, therapy for anxiety, mental health coaching, and Ebb, your AI companion for meditation & sleep support. Manage emotions and anxiety, and follow your mental health journey with hundreds of meditations to meditate, sleep better, reduce stress, practice breathing exercises, and use relaxation techniques for anxiety relief and everyday wellbeing.\n\nHeadspace supports mental health and emotional wellbeing with online therapy, mental health resources, meditation tools, and daily mindfulness practices. Meditate, practice mindfulness, relax with calming sleep routines, and build healthy habits that support balance, self care, sound sleep and overall welllbeing.\n\n🧘‍♂️ DAILY MEDITATIONS & MINDFULNESS\nBoost mental wellness and mindfulness with over 500 guided meditations. Meditate daily and make meditation a steady practice with 3-minute mental resets or longer mindful meditations. Build habits for stress and anxiety management, let go of stress, and support mental wellness with relaxation, breathing techniques, meditation tools, and self care practices. Learn mindfulness for anxiety and explore calming sleep guidance that fits your routine to support wellbeing.\n\n🌙 SLEEP MEDITATIONS & RELAXING SOUNDS\nEnjoy better sleep with soothing sounds, relaxing music, calming sounds for sleep, and guided sleep meditation. Drift off with bedtime soundscapes and gentle breathing techniques. Explore meditation for sleeping to reduce stress, support sleep quality, and ease anxiety and insomnia with relaxation exercises designed for sound sleep and stronger wellbeing to meditate.\n\n🌬️ STRESS RELIEF & BREATHING\nExperiencing anxiety? Meditate, relax, and manage stress with breathing exercises, guided meditations, and AI-powered mental health coaching. Learn breathwork and calming breathing techniques for stress relief, improve stress management, reduce stress, practice meditation for anxiety, and explore daily sessions for emotional balance.\n\n👥 MINDFUL COACH & MENTAL HEALTH AI\nHeadspace gives you access to licensed therapists, mental health tips, coaches, and Ebb, your empathetic AI companion. Get AI support on how to manage stress symptoms, improve stress management, understand depression signs, navigate anxiety or panic, and explore CBT for depression.\n\n💖 SELF-CARE\nExplore self care practices for wellness. Empower yourself with tools to avoid burnout, manage anxiety symptoms, and improve stress management. Get guidance for emotional distress with mindfulness practices and sleep routines that help maintain balance and improve wellbeing.\n\n🚀 WELLNESS & BALANCE\nIncrease balance with guided meditation, breathing tools, and focus music. Calm your mind with quick breathing exercises, relaxation music, and mindful meditation for emotional clarity. Use a self care tracker to follow your mental health journey, develop healthy sleep habits, and maintain everyday wellbeing while managing stress and anxiety.\n\n💪 MINDFUL MOVEMENT\nYoga for anxiety and stress relief, and mindful movement to strengthen your mind-body connection and support better sleep. Meditate and practice CBT techniques to overcome negative thoughts, reduce stress, and support consistent relaxation and balance.\nHeadspace is the everyday mental health app that supports anxiety, sleep, meditation, mindfulness, stress relief, and wellbeing. Access AI-powered mental health tools, mindfulness exercises, guided sleep meditation, breathing techniques, and relaxation practices for better sleep, anxiety and stress management, and healthier habits for mental health and happiness.\n\nAccess online therapy through your organization.* (Check coverage with your coach or benefits team.)\n\nStart your free trial and explore meditation, mindfulness, mental health therapy, and sleep support. Subscriptions: $12.99/mo, $69.99/yr (U.S. pricing; local rates may vary). Charges apply at purchase confirmation."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "curr_fetched_at": "2026-08-06T09:25:37.702Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Find some headspace today",
+          "occurrences": 1
+        },
+        {
+          "text": "Be kind to your mind",
+          "occurrences": 1
+        },
+        {
+          "text": "After your free trial, the annual subscription is null USD and automatically renews each year.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your free trial",
+          "occurrences": 1
+        },
+        {
+          "text": "Try for free",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Limited time offer",
+          "occurrences": 1
+        },
+        {
+          "text": "Get 40% off Headspace",
+          "occurrences": 1
+        },
+        {
+          "text": "Annual: Now 40% off the first year, then your subscription will annually renew at the full price.",
+          "occurrences": 1
+        },
+        {
+          "text": "Get this deal",
+          "occurrences": 1
+        },
+        {
+          "text": "Get 40% off",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 5
+    }
+  }
+}

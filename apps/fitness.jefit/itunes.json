@@ -1,10 +1,9 @@
 {
-  "fetched_at": "2026-08-05T09:16:57.427Z",
+  "fetched_at": "2026-08-06T09:19:39.292Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=449810000&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -142,6 +141,9 @@
     ],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/jefit-inc/id449810003?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/47/81/db4781e1-53b0-1be9-795c-172f48d4118c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/47/81/db4781e1-53b0-1be9-795c-172f48d4118c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+    "features": [],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/0b/72/140b725c-437f-a1c1-82cc-990c1092cca7/ddc04d23-cf65-40b0-b03f-9afbb84afc86_i1.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/c8/24/5fc82455-7994-6f69-1bbd-4d3328f77568/dd155421-3c8a-4720-bda5-7f9c56f9d778_i2.jpg/392x696bb.jpg",
@@ -155,24 +157,24 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/47/81/db4781e1-53b0-1be9-795c-172f48d4118c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/47/81/db4781e1-53b0-1be9-795c-172f48d4118c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/47/81/db4781e1-53b0-1be9-795c-172f48d4118c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
     "artistId": 449810003,
     "artistName": "Jefit Inc.",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "isVppDeviceBasedLicensingEnabled": true,
-    "bundleId": "com.Jefit.JEFIT",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "price": 0,
     "trackId": 449810000,
     "trackName": "JEFIT Workout Plan Gym Tracker",
+    "sellerName": "Jefit Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2011-07-25T23:33:09Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
     "currentVersionReleaseDate": "2026-07-28T17:35:17Z",
     "releaseNotes": "Tapping a workout reminder now drops you straight into your current training plan — no extra taps needed. Load progression status is tracked more accurately so your program updates reflect your real progress, the calendar layout has been refreshed, and unit conversions between feet and meters are dialed in. Plus a handful of bug fixes and reliability improvements along the way.",
     "version": "17.0.15",
@@ -182,7 +184,11 @@
     "minimumOsVersion": "15.0",
     "trackCensoredName": "JEFIT Workout Plan Gym Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4",
-    "averageUserRating": 4.76363,
+    "contentAdvisoryRating": "17+",
+    "averageUserRating": 4.76366,
+    "bundleId": "com.Jefit.JEFIT",
+    "averageUserRatingForCurrentVersion": 4.76366,
+    "sellerUrl": "https://www.jefit.com/",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -193,14 +199,8 @@
     ],
     "fileSizeBytes": "286355456",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 46794,
+    "userRatingCountForCurrentVersion": 46802,
     "trackContentRating": "17+",
-    "contentAdvisoryRating": "17+",
-    "averageUserRatingForCurrentVersion": 4.76363,
-    "sellerUrl": "https://www.jefit.com/",
-    "releaseDate": "2011-07-25T23:33:09Z",
-    "sellerName": "Jefit Inc.",
-    "price": 0,
-    "userRatingCount": 46794
+    "userRatingCount": 46802
   }
 }

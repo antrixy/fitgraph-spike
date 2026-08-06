@@ -1,0 +1,31 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:16:05.410Z",
+      "curr_fetched_at": "2026-08-06T09:18:45.001Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.26.0",
+          "new": "11.26.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "6c18e1ed51508b63bec215bce8b1bd093692bfc1",
+      "prev_fetched_at": "2026-08-05T09:16:08.096Z",
+      "curr_fetched_at": "2026-08-06T09:18:49.833Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.25.0",
+          "new": "11.26.0"
+        }
+      ]
+    }
+  }
+}

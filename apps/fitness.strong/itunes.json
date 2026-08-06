@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-08-05T09:16:38.273Z",
+  "fetched_at": "2026-08-06T09:19:19.420Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=464254577&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/11/95/1e11958f-697e-56f2-afad-aadf3b2b52b6/261be85e-403c-46b2-a7b9-fffcf72fde11_three-million-small-dis.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/7f/1e/1c7f1e91-708e-606b-bfb0-c010610945e2/mzl.qtzamdcd.png/392x696bb.png",
@@ -14,7 +15,6 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/14/a4/6214a42b-5d51-a540-21f4-d3f1f26fbc92/AppIcon_PROD-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -151,7 +151,7 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/strong-fitness-pte-limited/id1525345716?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/14/a4/6214a42b-5d51-a540-21f4-d3f1f26fbc92/AppIcon_PROD-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/14/a4/6214a42b-5d51-a540-21f4-d3f1f26fbc92/AppIcon_PROD-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.8628,
+    "minimumOsVersion": "15.0",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -165,12 +165,10 @@
       "ES",
       "ZH"
     ],
+    "averageUserRatingForCurrentVersion": 4.8628,
     "fileSizeBytes": "122204160",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 108483,
     "trackContentRating": "4+",
-    "sellerUrl": "https://strong.app/",
-    "minimumOsVersion": "15.0",
     "artistId": 1525345716,
     "artistName": "Strong Fitness PTE Limited",
     "genres": [
@@ -178,8 +176,19 @@
       "Lifestyle"
     ],
     "price": 0,
-    "trackName": "Strong Workout Tracker Gym Log",
+    "userRatingCountForCurrentVersion": 108486,
+    "bundleId": "com.cameronchow.Strong",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "releaseDate": "2011-09-15T23:36:10Z",
     "trackId": 464254577,
+    "sellerName": "Strong Fitness PTE Limited",
+    "trackName": "Strong Workout Tracker Gym Log",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "currentVersionReleaseDate": "2026-07-23T06:20:15Z",
     "releaseNotes": "• Fix: Chart plot markers could show outdated theme colors\n• Fix: Add Measurement date pickers not themed correctly\n• Fix: Apple Watch - Issues with timer and workout updates during Live Sync",
     "version": "6.4.3",
@@ -190,16 +199,7 @@
     "trackViewUrl": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.8628,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "Strong Fitness PTE Limited",
-    "releaseDate": "2011-09-15T23:36:10Z",
-    "bundleId": "com.cameronchow.Strong",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "userRatingCount": 108483
+    "sellerUrl": "https://strong.app/",
+    "userRatingCount": 108486
   }
 }
