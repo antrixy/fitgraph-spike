@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:17:54.688Z",
+  "fetched_at": "2026-08-07T07:49:54.270Z",
   "source": "google_play_scraper",
   "appId": "com.fatsecret.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 62880927,
-    "score": 4.5532894,
+    "score": 4.552701,
     "scoreText": "4.6",
-    "ratings": 543507,
-    "reviews": 24668,
+    "ratings": 543555,
+    "reviews": 24671,
     "histogram": {
-      "1": 31103,
-      "2": 10006,
-      "3": 13943,
-      "4": 60429,
-      "5": 428007
+      "1": 31148,
+      "2": 10024,
+      "3": 13961,
+      "4": 60509,
+      "5": 427894
     },
     "price": 0,
     "free": true,
@@ -72,7 +72,8 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "updated": 1785729933000,
-    "version": "11.6.2.1",
+    "version": "11.7.0.1",
+    "recentChanges": "In this release:<br>- Food logging streaks are now more flexible. Choose a weekly food logging goal of 1 day, 3 days or every day, and build a streak based on the goal you choose.<br>- Incidental bug fixes and app optimizations.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

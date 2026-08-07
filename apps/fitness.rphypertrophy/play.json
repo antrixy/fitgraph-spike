@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:20:59.193Z",
+  "fetched_at": "2026-08-07T07:52:49.827Z",
   "source": "google_play_scraper",
   "appId": "com.rp.hypertrophy",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Hypertrophy, Training, Workout, Muscle Growth, Fat Loss",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 32612,
+    "maxInstalls": 32730,
     "score": 4.324324,
     "scoreText": "4.3",
     "ratings": 130,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:23:21.875Z",
+  "fetched_at": "2026-08-07T07:55:11.869Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 280206528,
-    "score": 3.6704557,
+    "score": 3.6680117,
     "scoreText": "3.7",
-    "ratings": 1301609,
-    "reviews": 252271,
+    "ratings": 1301756,
+    "reviews": 252306,
     "histogram": {
-      "1": 301768,
-      "2": 78814,
-      "3": 72772,
-      "4": 141475,
-      "5": 706773
+      "1": 302460,
+      "2": 78995,
+      "3": 72872,
+      "4": 141338,
+      "5": 706082
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Mar 16, 2012",
-    "updated": 1785451320000,
+    "updated": 1786039904000,
     "version": "VARY",
     "recentChanges": "- General stability improvements and bug fixes.<br>- Smart Health Links. Create a Smart Health Link to share your health records with your doctor or family.",
     "comments": [],

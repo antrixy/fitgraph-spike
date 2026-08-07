@@ -1,0 +1,30 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-08-07",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "b1e2b22ecb08ce7f2d9eff7f84d7ea53754d6169",
+      "prev_fetched_at": "2026-08-06T09:17:27.367Z",
+      "curr_fetched_at": "2026-08-07T07:49:33.271Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.57.3",
+          "new": "4.57.4"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Bug fixes and general improvements, including a fix for a black screen that could appear when importing AH data.",
+          "new": "This release includes several bug fixes and stability improvements. Thank you for reporting these issues — please continue sharing feedback as you use the app. Happy tracking!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "b1e2b22ecb08ce7f2d9eff7f84d7ea53754d6169",
+      "prev_fetched_at": "2026-08-06T09:17:31.511Z",
+      "curr_fetched_at": "2026-08-07T07:49:35.347Z",
+      "version_unreported": true
+    }
+  }
+}

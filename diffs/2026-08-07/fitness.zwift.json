@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-08-07",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "b1e2b22ecb08ce7f2d9eff7f84d7ea53754d6169",
+      "prev_fetched_at": "2026-08-06T09:22:40.830Z",
+      "curr_fetched_at": "2026-08-07T07:54:34.559Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.118.2 (163827)",
+          "new": "1.119.0 (164079)"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Improved stability.",
+          "new": "Added Canyon Aeroad CFR CANYON//SRAM <br>Improved Android graphics and texture quality, improving the clarity of kits, accessories, bikes, and terrain.<br>Fixed an issue that could cause settings sliders to not be draggable on touch screen devices.<br>Added achievement badges and XP available for runners on six routes.<br>Fixed an issue that could cause Power Bests shown in the post-ride Progress Report to be inconsistent.<br>Improved the accuracy of estimated route completion times for climbing routes."
+        }
+      ]
+    }
+  }
+}

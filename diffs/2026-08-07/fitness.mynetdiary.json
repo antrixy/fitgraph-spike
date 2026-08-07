@@ -1,0 +1,61 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-07",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "b1e2b22ecb08ce7f2d9eff7f84d7ea53754d6169",
+      "prev_fetched_at": "2026-08-06T09:18:08.253Z",
+      "curr_fetched_at": "2026-08-07T07:50:07.157Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "b1e2b22ecb08ce7f2d9eff7f84d7ea53754d6169",
+      "curr_fetched_at": "2026-08-07T07:50:09.889Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "How Accurate Is AI Photo Food Logging?",
+          "occurrences": 1
+        },
+        {
+          "text": "New NIH Data",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 4
+    }
+  }
+}

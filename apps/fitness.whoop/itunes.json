@@ -1,15 +1,32 @@
 {
-  "fetched_at": "2026-08-06T09:23:27.374Z",
+  "fetched_at": "2026-08-07T07:55:21.593Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=933944389&country=us",
   "result": {
-    "isGameCenterEnabled": false,
-    "artistViewUrl": "https://apps.apple.com/us/developer/whoop/id933944388?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f5/16/9df51606-3b18-45aa-817a-ded7b5327352/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f5/16/9df51606-3b18-45aa-817a-ded7b5327352/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.jpg",
     "features": [
       "iosUniversal"
     ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/03/f3/3a03f346-e3b1-242c-22da-48b57bed0234/EN-iPad-2752x2064-Horizontal-Frame-01__U00281_U0029.png/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/84/17/c884178e-32b0-9635-4cd0-5a68d5f302e9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/84/17/c884178e-32b0-9635-4cd0-5a68d5f302e9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/84/17/c884178e-32b0-9635-4cd0-5a68d5f302e9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/whoop/id933944388?uo=4",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e2/b0/fce2b02e-b884-ba73-de72-89e990ffc324/EN-iOS-6.9-1320x2868-Vertical-Frame-01.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bf/d5/76bfd516-c685-e66e-1d9b-2d924c6206f9/iOS-6.9-1320x2868-Vertical-Frame_02-SLEEP.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/2d/39/e02d396d-8f85-c005-3e43-142c98528280/iOS-6.9-1320x2868-Vertical-Frame_03-RECOVERY.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/e8/fd/59e8fdcf-3e7f-389d-26b1-e6bba00650fa/iOS-6.9-1320x2868-Vertical-Frame_04-STRAIN.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/5f/db/e25fdb11-4826-3d29-362c-f156a6d784c1/iOS-6.9-1320x2868-Vertical-Frame_05-HEALTHSPAN.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/45/15/174515e9-36f3-a978-8ff9-f3683e98cd04/iOS-6.9-1320x2868-Vertical-Frame_06-COACH.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/d0/3e/ebd03e42-7da7-8f3a-0431-7b7cb9f77360/iOS-6.9-1320x2868-Vertical-Frame_07-JOURNAL.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/70/74/1a7074d8-9f84-0abc-8dcc-acc33fb21b5e/iOS-6.9-1320x2868-Vertical-Frame_08-MCI.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c9/9a/90c99ae7-4216-7d05-a673-8b52a095432d/iOS-6.9-1320x2868-Vertical-Frame_09-STRESS.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d7/0c/0bd70cbd-0724-a4a1-d304-a4582b9c4bae/iOS-6.9-1320x2868-Vertical-Frame_10-WEEKLY.png/320x480bb.jpg"
+    ],
+    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -141,54 +158,12 @@
     ],
     "advisories": [],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/e2/b0/fce2b02e-b884-ba73-de72-89e990ffc324/EN-iOS-6.9-1320x2868-Vertical-Frame-01.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/bf/d5/76bfd516-c685-e66e-1d9b-2d924c6206f9/iOS-6.9-1320x2868-Vertical-Frame_02-SLEEP.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/2d/39/e02d396d-8f85-c005-3e43-142c98528280/iOS-6.9-1320x2868-Vertical-Frame_03-RECOVERY.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/e8/fd/59e8fdcf-3e7f-389d-26b1-e6bba00650fa/iOS-6.9-1320x2868-Vertical-Frame_04-STRAIN.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/5f/db/e25fdb11-4826-3d29-362c-f156a6d784c1/iOS-6.9-1320x2868-Vertical-Frame_05-HEALTHSPAN.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/45/15/174515e9-36f3-a978-8ff9-f3683e98cd04/iOS-6.9-1320x2868-Vertical-Frame_06-COACH.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/d0/3e/ebd03e42-7da7-8f3a-0431-7b7cb9f77360/iOS-6.9-1320x2868-Vertical-Frame_07-JOURNAL.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/70/74/1a7074d8-9f84-0abc-8dcc-acc33fb21b5e/iOS-6.9-1320x2868-Vertical-Frame_08-MCI.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/c9/9a/90c99ae7-4216-7d05-a673-8b52a095432d/iOS-6.9-1320x2868-Vertical-Frame_09-STRESS.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/d7/0c/0bd70cbd-0724-a4a1-d304-a4582b9c4bae/iOS-6.9-1320x2868-Vertical-Frame_10-WEEKLY.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/03/f3/3a03f346-e3b1-242c-22da-48b57bed0234/EN-iPad-2752x2064-Horizontal-Frame-01__U00281_U0029.png/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f5/16/9df51606-3b18-45aa-817a-ded7b5327352/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
-    "contentAdvisoryRating": "12+",
-    "artistId": 933944388,
-    "artistName": "WHOOP",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "price": 0,
+    "averageUserRatingForCurrentVersion": 4.78494,
     "bundleId": "com.whoop.iphone",
-    "releaseDate": "2015-09-02T18:16:44Z",
-    "trackId": 933944389,
-    "trackName": "WHOOP",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Whoop Incorporated",
-    "averageUserRating": 4.78304,
-    "releaseNotes": "Various bug fixes and performance improvements",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-28T22:22:12Z",
-    "version": "5.63.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "WHOOP is the leading wearable that turns comprehensive health insights into daily action. By capturing dozens of data points every second, WHOOP delivers personalized Sleep, Strain, Recovery, Stress, and health insights—24/7. WHOOP uses those insights to provide coaching based on your body’s unique physiology and recommends everything from when to go to bed to new daily behaviors that will help you reach your goals.\n\nIf you’re new to WHOOP, you can try both the wearable and app free for 1 month. Terms and conditions apply.\n\nWHOOP is screenless, so all your data lives in the WHOOP app—for a distraction-free focus on your health. The WHOOP app requires a WHOOP wearable.\n\nHow it works:\n\nHealthspan*: A powerful way to quantify your age and slow your Pace of Aging. Backed by leading longevity research, it pinpoints the daily habits that impact your long-term health.\n\nSleep: WHOOP helps you understand how well you sleep each night by measuring your Sleep Performance. Every morning, WHOOP provides a Sleep score from 0 to 100%. Sleep Planner calculates how much sleep you need to recover, tailored to your habits, schedule, and goals. You can even set a Haptic Alarm that wakes when you're fully rested, or at a specific time, with gentle vibration. Quality sleep is essential for improving your healthspan, metabolic mental resilience, recovery, and performance.\n\nRecovery: WHOOP lets you know how ready you are to perform by measuring your heart rate variability, resting heart rate, sleep, and respiratory rate. You'll get a daily Recovery score on a scale of 1 to 99%. When you're in the green, you're ready for strain, when you're in the yellow or red, you may want to evaluate your training program.\n\nStrain: WHOOP does more than just track your activity–it measures cardiovascular and muscular exertion to give you the most comprehensive view of the demands you put on your body. Each day, Strain Target will provide a Strain score from 0 to 21 and recommend your optimal target exertion range based on your Recovery score.\n\nStress: WHOOP gives you daily insights to pinpoint your stressors, understand your physiological response, and discover techniques to help manage. Get a real-time stress score from 0-3 and, based on your score, choose a breathwork session to enhance your alertness or increase relaxation.\n\nBehaviors: WHOOP tracks over 160+ daily habits and behaviors—like alcohol intake, medication, and more—to better understand how these behaviors impact your body. WHOOP provides weekly guidance for behavior change and helps set accountability goals with the Journal and Weekly Plan features.\n\nWHOOP Coach: Ask questions about your health & fitness and get highly personalized, on-demand answers. Using your unique biometric data, the latest performance science, and generative AI, WHOOP Coach generates responses on everything from training plans to why you’re feeling tired.\n\nMenstrual Cycle Insights: Go beyond period tracking to better understand your fifth vital sign and get tailored cycle-based insights.\n\nWhat else you can do in the WHOOP app:\n\n• Dig into the details: See heart rate zones, VO₂ Max, steps, and more trends over time to adjust your behaviors, training, sleep and more based on your goals.\n\n• Join a team: Stay motivated and accountable by joining a team. Chat directly with your teammates in the app, or as a coach, see how your team's training is going.\n\n• Apple Health: WHOOP integrates with Apple's Health app to sync activities and personalize your experience.\n\nWHOOP provides products and services designed for general fitness and wellness purposes. WHOOP products and services are not medical devices, not intended to treat or diagnose any disease, and should not be used as a substitute for professional medical advice, diagnosis or treatment. All content available through WHOOP products and services is for general informational purposes only.\n\nDiscover the future of health and performance.\n\n*Some availability restrictions apply.",
+    "averageUserRating": 4.78494,
     "minimumOsVersion": "17.0",
-    "trackCensoredName": "WHOOP",
-    "trackViewUrl": "https://apps.apple.com/us/app/whoop/id933944389?uo=4",
     "sellerUrl": "http://whoop.com",
+    "trackCensoredName": "WHOOP",
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -197,11 +172,36 @@
       "PT",
       "ES"
     ],
-    "fileSizeBytes": "534848512",
+    "fileSizeBytes": "537080832",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 53836,
+    "contentAdvisoryRating": "12+",
+    "userRatingCountForCurrentVersion": 55007,
+    "trackViewUrl": "https://apps.apple.com/us/app/whoop/id933944389?uo=4",
     "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.78304,
-    "userRatingCount": 53836
+    "artistName": "WHOOP",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "artistId": 933944388,
+    "price": 0,
+    "sellerName": "Whoop Incorporated",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "trackId": 933944389,
+    "trackName": "WHOOP",
+    "currentVersionReleaseDate": "2026-08-06T11:51:39Z",
+    "releaseNotes": "Various bug fixes and performance improvements",
+    "version": "5.64.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "WHOOP is the leading wearable that turns comprehensive health insights into daily action. By capturing dozens of data points every second, WHOOP delivers personalized Sleep, Strain, Recovery, Stress, and health insights—24/7. WHOOP uses those insights to provide coaching based on your body’s unique physiology and recommends everything from when to go to bed to new daily behaviors that will help you reach your goals.\n\nIf you’re new to WHOOP, you can try both the wearable and app free for 1 month. Terms and conditions apply.\n\nWHOOP is screenless, so all your data lives in the WHOOP app—for a distraction-free focus on your health. The WHOOP app requires a WHOOP wearable.\n\nHow it works:\n\nHealthspan*: A powerful way to quantify your age and slow your Pace of Aging. Backed by leading longevity research, it pinpoints the daily habits that impact your long-term health.\n\nSleep: WHOOP helps you understand how well you sleep each night by measuring your Sleep Performance. Every morning, WHOOP provides a Sleep score from 0 to 100%. Sleep Planner calculates how much sleep you need to recover, tailored to your habits, schedule, and goals. You can even set a Haptic Alarm that wakes when you're fully rested, or at a specific time, with gentle vibration. Quality sleep is essential for improving your healthspan, metabolic mental resilience, recovery, and performance.\n\nRecovery: WHOOP lets you know how ready you are to perform by measuring your heart rate variability, resting heart rate, sleep, and respiratory rate. You'll get a daily Recovery score on a scale of 1 to 99%. When you're in the green, you're ready for strain, when you're in the yellow or red, you may want to evaluate your training program.\n\nStrain: WHOOP does more than just track your activity–it measures cardiovascular and muscular exertion to give you the most comprehensive view of the demands you put on your body. Each day, Strain Target will provide a Strain score from 0 to 21 and recommend your optimal target exertion range based on your Recovery score.\n\nStress: WHOOP gives you daily insights to pinpoint your stressors, understand your physiological response, and discover techniques to help manage. Get a real-time stress score from 0-3 and, based on your score, choose a breathwork session to enhance your alertness or increase relaxation.\n\nBehaviors: WHOOP tracks over 160+ daily habits and behaviors—like alcohol intake, medication, and more—to better understand how these behaviors impact your body. WHOOP provides weekly guidance for behavior change and helps set accountability goals with the Journal and Weekly Plan features.\n\nWHOOP Coach: Ask questions about your health & fitness and get highly personalized, on-demand answers. Using your unique biometric data, the latest performance science, and generative AI, WHOOP Coach generates responses on everything from training plans to why you’re feeling tired.\n\nMenstrual Cycle Insights: Go beyond period tracking to better understand your fifth vital sign and get tailored cycle-based insights.\n\nWhat else you can do in the WHOOP app:\n\n• Dig into the details: See heart rate zones, VO₂ Max, steps, and more trends over time to adjust your behaviors, training, sleep and more based on your goals.\n\n• Join a team: Stay motivated and accountable by joining a team. Chat directly with your teammates in the app, or as a coach, see how your team's training is going.\n\n• Apple Health: WHOOP integrates with Apple's Health app to sync activities and personalize your experience.\n\nWHOOP provides products and services designed for general fitness and wellness purposes. WHOOP products and services are not medical devices, not intended to treat or diagnose any disease, and should not be used as a substitute for professional medical advice, diagnosis or treatment. All content available through WHOOP products and services is for general informational purposes only.\n\nDiscover the future of health and performance.\n\n*Some availability restrictions apply.",
+    "releaseDate": "2015-09-02T18:16:44Z",
+    "userRatingCount": 55007
   }
 }

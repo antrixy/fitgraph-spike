@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:22:40.830Z",
+  "fetched_at": "2026-08-07T07:54:34.559Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -12,10 +12,10 @@
     "maxInstalls": 2683429,
     "score": 3.974026,
     "scoreText": "4.0",
-    "ratings": 26744,
+    "ratings": 26745,
     "reviews": 1344,
     "histogram": {
-      "1": 4597,
+      "1": 4598,
       "2": 1121,
       "3": 1729,
       "4": 2164,
@@ -74,8 +74,8 @@
     "adSupported": false,
     "released": "May 13, 2019",
     "updated": 1785447353000,
-    "version": "1.118.2 (163827)",
-    "recentChanges": "Improved stability.",
+    "version": "1.119.0 (164079)",
+    "recentChanges": "Added Canyon Aeroad CFR CANYON//SRAM <br>Improved Android graphics and texture quality, improving the clarity of kits, accessories, bikes, and terrain.<br>Fixed an issue that could cause settings sliders to not be draggable on touch screen devices.<br>Added achievement badges and XP available for runners on six routes.<br>Fixed an issue that could cause Power Bests shown in the post-ride Progress Report to be inconsistent.<br>Improved the accuracy of estimated route completion times for climbing routes.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

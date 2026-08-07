@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T09:21:32.293Z",
+  "fetched_at": "2026-08-07T07:53:21.899Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 129631866,
-    "score": 4.5812645,
+    "score": 4.5820875,
     "scoreText": "4.6",
-    "ratings": 1159816,
-    "reviews": 34136,
+    "ratings": 1160383,
+    "reviews": 34141,
     "histogram": {
-      "1": 67234,
-      "2": 17956,
-      "3": 30273,
-      "4": 102260,
-      "5": 942071
+      "1": 67006,
+      "2": 17784,
+      "3": 30530,
+      "4": 102433,
+      "5": 942597
     },
     "price": 0,
     "free": true,
