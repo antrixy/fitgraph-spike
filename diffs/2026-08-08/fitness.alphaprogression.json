@@ -1,0 +1,19 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-08-08",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d",
+      "prev_fetched_at": "2026-08-07T07:52:38.481Z",
+      "curr_fetched_at": "2026-08-08T07:28:33.283Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.2.1",
+          "new": "7.2.2"
+        }
+      ]
+    }
+  }
+}

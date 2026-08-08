@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.oura",
+  "integration": "oura",
+  "direction": "removed",
+  "observed_at": "2026-08-08T07:31:56.055Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Your Oura Membership provides a comprehensive view of your health for just $5.99 USD /month.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-08",
+  "apps_total": 50,
+  "apps_changed": 10,
+  "apps_with_failures": 0,
+  "interesting": 1,
+  "rows": [
+    {
+      "product_id": "fitness.oura",
+      "changed": [
+        "pricing_page"
+      ],
+      "price_signal": true,
+      "integration_signal": true,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.hevy",
+      "changed": [
+        "itunes:version",
+        "itunes:releaseNotes"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.strava",
+      "changed": [
+        "itunes:version",
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.loseit",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.mynetdiary",
+      "changed": [
+        "pricing_page"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.noom",
+      "changed": [
+        "itunes:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.boostcamp",
+      "changed": [
+        "pricing_page"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.alphaprogression",
+      "changed": [
+        "play:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.centr",
+      "changed": [
+        "play:recentChanges"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.headspace",
+      "changed": [
+        "itunes:version"
+      ],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": false,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.myfitnesspal",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.cronometer",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.lifesum",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.jefit",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.fitbod",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.nikerunclub",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.adidasrunning",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.komoot",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.alltrails",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.fitbit",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.samsunghealth",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    },
+    {
+      "product_id": "fitness.sleepcycle",
+      "changed": [],
+      "price_signal": false,
+      "integration_signal": false,
+      "version_unreported": true,
+      "failed_sources": []
+    }
+  ]
+}

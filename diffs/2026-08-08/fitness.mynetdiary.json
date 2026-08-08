@@ -1,0 +1,73 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-08",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d",
+      "prev_fetched_at": "2026-08-07T07:50:07.157Z",
+      "curr_fetched_at": "2026-08-08T07:26:09.476Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d",
+      "curr_fetched_at": "2026-08-08T07:26:13.380Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How Accurate Is AI Photo Food Logging?",
+          "occurrences": 1
+        },
+        {
+          "text": "New NIH Data",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 6
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-08-08",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d",
+      "prev_fetched_at": "2026-08-07T07:51:25.752Z",
+      "curr_fetched_at": "2026-08-08T07:27:20.384Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.7",
+          "new": "3.1.8"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new in this update:\n\nBug fixes and performance improvements!",
+          "new": "What's new in this update:\n\nProgram Variety setting lets you control how often your Trainer exercises change.\nInjury Management lets you flag injuries so Trainer can adapt your program around them.\nBug fixes and performance improvements!"
+        }
+      ]
+    }
+  }
+}

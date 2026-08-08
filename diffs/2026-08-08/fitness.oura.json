@@ -1,0 +1,51 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-08-08",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d",
+      "curr_fetched_at": "2026-08-08T07:31:56.055Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "A comprehensive view of your health for just $5.99 USD /month.",
+          "occurrences": 1
+        },
+        {
+          "text": "New members get their first month free.",
+          "occurrences": 1
+        },
+        {
+          "text": "* Available on iOS and Android.",
+          "occurrences": 1
+        },
+        {
+          "text": "Language Preference: English",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "iOS & Android compatible",
+          "occurrences": 2
+        },
+        {
+          "text": "Your Oura Membership provides a comprehensive view of your health for just $5.99 USD /month.",
+          "occurrences": 1
+        },
+        {
+          "text": "New members, get your first month on us.",
+          "occurrences": 1
+        },
+        {
+          "text": "English",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 4
+    }
+  }
+}
