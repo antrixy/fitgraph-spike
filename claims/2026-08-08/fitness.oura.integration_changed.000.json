@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "pricing_page",
       "excerpt": "Your Oura Membership provides a comprehensive view of your health for just $5.99 USD /month.",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "ddde9cea3b5cc74e283252f47cff9a08797682ef",
       "prev_ok_commit": "4915aa29754eb5d661092daa532357fb4856657d"
     }
   ],
