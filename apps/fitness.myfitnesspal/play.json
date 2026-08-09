@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T07:25:17.979Z",
+  "fetched_at": "2026-08-09T07:27:23.347Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track calories, macros &amp; nutrition with AI. Log fitness, workouts &amp; meals daily",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 135660639,
-    "score": 4.3987217,
+    "maxInstalls": 135751053,
+    "score": 4.399059,
     "scoreText": "4.4",
-    "ratings": 2908282,
-    "reviews": 454148,
+    "ratings": 2908679,
+    "reviews": 454153,
     "histogram": {
-      "1": 207822,
-      "2": 85060,
-      "3": 145506,
-      "4": 371194,
-      "5": 2098694
+      "1": 207720,
+      "2": 84867,
+      "3": 145278,
+      "4": 371888,
+      "5": 2098916
     },
     "price": 0,
     "free": true,

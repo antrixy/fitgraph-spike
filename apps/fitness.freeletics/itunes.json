@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T07:33:13.847Z",
+  "fetched_at": "2026-08-09T07:34:52.981Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=654810212&country=us",
   "result": {
@@ -7,6 +7,9 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/freeletics-gmbh/id579309595?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f7/a4/84f7a4c8-4caf-8c43-e701-1f4cb83303ed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f7/a4/84f7a4c8-4caf-8c43-e701-1f4cb83303ed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "advisories": [
+      "Infrequent/Mild Contests"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -158,34 +161,32 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f7/a4/84f7a4c8-4caf-8c43-e701-1f4cb83303ed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-    "advisories": [
-      "Infrequent/Mild Contests"
-    ],
     "features": [
       "iosUniversal"
     ],
+    "averageUserRating": 4.63602,
     "minimumOsVersion": "17.0",
     "trackCensoredName": "Freeletics: Workouts & Fitness",
     "trackViewUrl": "https://apps.apple.com/us/app/freeletics-workouts-fitness/id654810212?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.63595,
-    "artistId": 579309595,
-    "artistName": "Freeletics GmbH",
-    "bundleId": "com.Freeletics.Freeletics-Lite",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "price": 0,
+    "trackId": 654810212,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackName": "Freeletics: Workouts & Fitness",
+    "sellerName": "Freeletics GmbH",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2013-06-26T02:12:26Z",
     "genreIds": [
       "6013",
       "6012"
     ],
     "currentVersionReleaseDate": "2026-08-05T06:35:36Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "releaseDate": "2013-06-26T02:12:26Z",
-    "sellerName": "Freeletics GmbH",
-    "trackId": 654810212,
-    "trackName": "Freeletics: Workouts & Fitness",
     "releaseNotes": "We squashed some bugs. Let us know if you find more. Our developers will fix them faster than you can do an Aphrodite.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "version": "26.30.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -204,14 +205,13 @@
     ],
     "fileSizeBytes": "163268608",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 22233,
+    "userRatingCountForCurrentVersion": 22232,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.63595,
     "sellerUrl": "https://www.freeletics.com/",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "userRatingCount": 22233
+    "averageUserRatingForCurrentVersion": 4.63602,
+    "bundleId": "com.Freeletics.Freeletics-Lite",
+    "artistId": 579309595,
+    "artistName": "Freeletics GmbH",
+    "userRatingCount": 22232
   }
 }

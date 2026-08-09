@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-08-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ddde9cea3b5cc74e283252f47cff9a08797682ef",
+      "prev_fetched_at": "2026-08-08T07:30:39.617Z",
+      "curr_fetched_at": "2026-08-09T07:32:27.318Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.118.2",
+          "new": "1.119.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Improved stability.",
+          "new": "• Increased the minimum required iOS/tvOS versions to 15.0 (released in 2021). Good news -  nearly every iPad and iPhone currently supported are capable of updating to OS 15. Zwifters running versions older than 15.0 will need to update their OS software.\n• Added Canyon Aeroad CFR CANYON//SRAM \n• Added achievement badges and XP available for runners on six routes.\n• Fixed an issue that could cause Power Bests shown in the post-ride Progress Report to be inconsistent.\n• Improved the accuracy of estimated route completion times for climbing routes.\n• Fixed an issue that could cause settings sliders to not be draggable on touch screen devices."
+        }
+      ]
+    }
+  }
+}

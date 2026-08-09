@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T07:27:51.524Z",
+  "fetched_at": "2026-08-09T07:29:54.085Z",
   "source": "google_play_scraper",
   "appId": "com.caliberfitness.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout Planner &amp; Tracker",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 677965,
-    "score": 4.612245,
+    "maxInstalls": 680601,
+    "score": 4.6153846,
     "scoreText": "4.6",
-    "ratings": 4010,
+    "ratings": 4012,
     "reviews": 549,
     "histogram": {
-      "1": 202,
-      "2": 18,
-      "3": 79,
-      "4": 509,
-      "5": 3190
+      "1": 204,
+      "2": 20,
+      "3": 81,
+      "4": 493,
+      "5": 3209
     },
     "price": 0,
     "free": true,

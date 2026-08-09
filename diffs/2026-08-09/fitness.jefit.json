@@ -1,0 +1,30 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-08-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ddde9cea3b5cc74e283252f47cff9a08797682ef",
+      "prev_fetched_at": "2026-08-08T07:27:30.412Z",
+      "curr_fetched_at": "2026-08-09T07:29:29.965Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "17.0.15",
+          "new": "17.0.16"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Tapping a workout reminder now drops you straight into your current training plan — no extra taps needed. Load progression status is tracked more accurately so your program updates reflect your real progress, the calendar layout has been refreshed, and unit conversions between feet and meters are dialed in. Plus a handful of bug fixes and reliability improvements along the way.",
+          "new": "Sharing your workouts just got a whole lot more fun — you can now scroll through beautiful new share cards including milestone achievements and personal 1RM records, pick your favorite, and post straight to your social apps. The end-workout screen also has a smoother animation, and day order now stays correct when copying or editing your routines. Plus a handful of reliability improvements and bug fixes."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "ddde9cea3b5cc74e283252f47cff9a08797682ef",
+      "prev_fetched_at": "2026-08-08T07:27:32.800Z",
+      "curr_fetched_at": "2026-08-09T07:29:33.226Z",
+      "version_unreported": true
+    }
+  }
+}
