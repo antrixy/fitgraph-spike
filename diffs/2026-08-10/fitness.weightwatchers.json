@@ -1,0 +1,27 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-10",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "56d9b406e07cc00e92fcc37fee9dac1e0d7aa46c",
+      "curr_fetched_at": "2026-08-10T08:11:52.477Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Starting at $25 /mo for first two months^",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Starting at $25 /mo for first two month^",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

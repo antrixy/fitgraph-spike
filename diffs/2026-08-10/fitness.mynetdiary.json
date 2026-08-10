@@ -1,0 +1,61 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-10",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "56d9b406e07cc00e92fcc37fee9dac1e0d7aa46c",
+      "prev_fetched_at": "2026-08-09T07:28:09.513Z",
+      "curr_fetched_at": "2026-08-10T08:11:05.311Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "56d9b406e07cc00e92fcc37fee9dac1e0d7aa46c",
+      "curr_fetched_at": "2026-08-10T08:11:07.414Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "MyNetDiary: The most accurate, user-friendly macronutrient tracker available",
+          "occurrences": 1
+        },
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "How Accurate Is AI Photo Food Logging?",
+          "occurrences": 1
+        },
+        {
+          "text": "New NIH Data",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for editing and customizing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 4
+    }
+  }
+}

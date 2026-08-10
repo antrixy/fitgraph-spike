@@ -1,0 +1,25 @@
+{
+  "product": "fitness.lifesum",
+  "name": "Lifesum",
+  "date": "2026-08-10",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "56d9b406e07cc00e92fcc37fee9dac1e0d7aa46c",
+      "prev_fetched_at": "2026-08-09T07:28:21.636Z",
+      "curr_fetched_at": "2026-08-10T08:11:23.027Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "23.12.0",
+          "new": "23.12.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "56d9b406e07cc00e92fcc37fee9dac1e0d7aa46c",
+      "prev_fetched_at": "2026-08-09T07:28:25.330Z",
+      "curr_fetched_at": "2026-08-10T08:11:25.792Z",
+      "version_unreported": true
+    }
+  }
+}
