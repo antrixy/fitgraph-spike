@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T08:10:25.443Z",
+  "fetched_at": "2026-08-11T07:43:34.243Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=297368629&country=us",
   "result": {
@@ -8,36 +8,6 @@
       "iosUniversal"
     ],
     "advisories": [],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/fitnow/id297368632?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/27/4a/98274a15-0b3d-0cdb-9119-f4fe35d34db1/SC-1.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/b7/a8/0ab7a8fe-582c-3a29-2997-0b73489ca78f/SC-2.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/fe/53/8bfe53c7-ccdc-fdc6-66f2-81f789ac17a5/SC-3.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/e9/89/38e98929-9ce1-f516-d4e4-2d81fbcbdd5c/SC-4.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/bc/1ecabc55-9c26-8c0f-4dc9-f0e0cb830a64/SC-5.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/5b/32/085b32f5-42b5-19e0-99a6-60c4f20e35cd/SC-6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/25/76/c725762c-2f2d-a0ba-a7fd-5347a0f7d6e4/SC-7.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/bf/40/d8bf405d-a0ef-9009-1fba-a60cfc33ee24/SC-8.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/e2/fd/e1e2fdc3-24d1-cf8f-1ce0-927762ff882e/SC-9.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/49/b7/5149b77e-f102-0d0c-95ef-b63146ab9ee2/SC-10.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/4a/5b/504a5b95-c5aa-f58c-4b74-cd9ee0538e2c/SC-1.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/f5/de/c5f5de6a-2c07-4a75-4163-e12ccd2f0785/SC-2.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/29/da/2e29da56-5caa-947a-a0b1-07df8d931059/SC-3.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/67/ab/2967ab41-7d0c-79f0-74ab-815e18bdb5c6/SC-4.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/25/e2/7025e23c-6868-ad22-b431-2209af5070a5/SC-5.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/74/b7/7e74b719-b54e-60dd-58f9-e69d7ff62b67/SC-6.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/23/74/f42374d9-e1a9-9d81-4383-66a73cd0f2d6/SC-7.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/b6/73/55b67331-077b-9278-c0ff-9dda5dfc48e5/SC-8.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/f7/52/84f752c8-97c1-8ee6-440d-3137fa36c43f/SC-9.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/dc/be/4ddcbe37-aea4-25c8-11e4-9461a80be406/SC-10.jpg/360x480bb.jpg"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -168,9 +138,37 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/fitnow/id297368632?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/27/4a/98274a15-0b3d-0cdb-9119-f4fe35d34db1/SC-1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/b7/a8/0ab7a8fe-582c-3a29-2997-0b73489ca78f/SC-2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/fe/53/8bfe53c7-ccdc-fdc6-66f2-81f789ac17a5/SC-3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/e9/89/38e98929-9ce1-f516-d4e4-2d81fbcbdd5c/SC-4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/bc/1ecabc55-9c26-8c0f-4dc9-f0e0cb830a64/SC-5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/5b/32/085b32f5-42b5-19e0-99a6-60c4f20e35cd/SC-6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/25/76/c725762c-2f2d-a0ba-a7fd-5347a0f7d6e4/SC-7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/bf/40/d8bf405d-a0ef-9009-1fba-a60cfc33ee24/SC-8.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/e2/fd/e1e2fdc3-24d1-cf8f-1ce0-927762ff882e/SC-9.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/49/b7/5149b77e-f102-0d0c-95ef-b63146ab9ee2/SC-10.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/4a/5b/504a5b95-c5aa-f58c-4b74-cd9ee0538e2c/SC-1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/f5/de/c5f5de6a-2c07-4a75-4163-e12ccd2f0785/SC-2.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/29/da/2e29da56-5caa-947a-a0b1-07df8d931059/SC-3.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/67/ab/2967ab41-7d0c-79f0-74ab-815e18bdb5c6/SC-4.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/25/e2/7025e23c-6868-ad22-b431-2209af5070a5/SC-5.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/74/b7/7e74b719-b54e-60dd-58f9-e69d7ff62b67/SC-6.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/23/74/f42374d9-e1a9-9d81-4383-66a73cd0f2d6/SC-7.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/b6/73/55b67331-077b-9278-c0ff-9dda5dfc48e5/SC-8.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/f7/52/84f752c8-97c1-8ee6-440d-3137fa36c43f/SC-9.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/dc/be/4ddcbe37-aea4-25c8-11e4-9461a80be406/SC-10.jpg/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/88/65/e68865d8-6c0d-fe1a-9ef3-91c992ba4813/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
     "minimumOsVersion": "18.0",
-    "releaseNotes": "Lose It! is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day.\n\nNot a ton to see here, folks! Just squashing some bugs and keeping things neat and tidy for ya.",
-    "releaseDate": "2008-11-21T22:54:04Z",
     "artistId": 297368632,
     "artistName": "FitNow",
     "genres": [
@@ -178,15 +176,20 @@
       "Lifestyle"
     ],
     "price": 0,
+    "currentVersionReleaseDate": "2026-08-05T13:45:10Z",
+    "trackId": 297368629,
+    "trackName": "Lose It! – Calorie Counter",
+    "bundleId": "com.fitnow.loseit",
+    "releaseDate": "2008-11-21T22:54:04Z",
     "sellerName": "FitNow, Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6012"
     ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-05T13:45:10Z",
+    "releaseNotes": "Lose It! is the #1 app for improving your health and reaching your goals.\n\n\nFood Tracking Made Easy\nWhether you're looking to lose weight, tone up, or just watch what you eat, food tracking is key. With an intuitive interface, best in class barcode scanner, database of over 50 million foods, and calorie schedule that lets you plan to eat more on the weekends, Lose It! makes tracking easy.\n\n\nA Completely Personalized Program\nEveryone's approach is different which is why Lose It! lets you build the exact program that you want. Interested in intermittent fasting? Eating more protein? Fewer carbs? Less sodium? Calorie cycling? Drinking more water? Integrating with your fitness device? Great -- we'll help you build a program that will let you thrive.\n\n\nAnd So Much More\nLose It! is a one-stop shop where you can build a logging streak, reach weight loss milestones, track health metrics, learn from healthy living articles, connect with other Lose It! members, and get insights into your behaviors. We're excited to welcome you aboard!\n\nWith over 50 million users worldwide, we're helping people reach a healthy weight every day.\n\nNot a ton to see here, folks! Just squashing some bugs and keeping things neat and tidy for ya.",
     "version": "18.4.400",
     "wrapperType": "software",
     "currency": "USD",
@@ -194,8 +197,7 @@
     "trackCensoredName": "Lose It! – Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
     "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.76633,
-    "averageUserRatingForCurrentVersion": 4.76633,
+    "averageUserRating": 4.76635,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -208,12 +210,10 @@
     ],
     "fileSizeBytes": "227805184",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 770564,
+    "userRatingCountForCurrentVersion": 770632,
     "trackContentRating": "17+",
+    "averageUserRatingForCurrentVersion": 4.76635,
     "sellerUrl": "http://www.loseit.com",
-    "trackId": 297368629,
-    "trackName": "Lose It! – Calorie Counter",
-    "bundleId": "com.fitnow.loseit",
-    "userRatingCount": 770564
+    "userRatingCount": 770632
   }
 }

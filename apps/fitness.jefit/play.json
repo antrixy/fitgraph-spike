@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T08:12:51.260Z",
+  "fetched_at": "2026-08-11T07:45:59.488Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Plan &amp; track gym workouts. Sync routines &amp; build muscle with strength log tools.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9884892,
-    "score": 4.4311023,
+    "maxInstalls": 9884893,
+    "score": 4.4314756,
     "scoreText": "4.4",
-    "ratings": 89696,
+    "ratings": 89698,
     "reviews": 11712,
     "histogram": {
-      "1": 6944,
-      "2": 2412,
-      "3": 3648,
-      "4": 8709,
-      "5": 67978
+      "1": 6998,
+      "2": 2351,
+      "3": 3646,
+      "4": 8643,
+      "5": 68052
     },
     "price": 0,
     "free": true,

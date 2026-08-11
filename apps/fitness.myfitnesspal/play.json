@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T08:10:17.809Z",
+  "fetched_at": "2026-08-11T07:43:27.173Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track calories, macros &amp; nutrition with AI. Log fitness, workouts &amp; meals daily",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 135751053,
-    "score": 4.399943,
+    "maxInstalls": 135771829,
+    "score": 4.400272,
     "scoreText": "4.4",
-    "ratings": 2908725,
-    "reviews": 454144,
+    "ratings": 2908830,
+    "reviews": 454131,
     "histogram": {
-      "1": 207385,
-      "2": 84640,
-      "3": 144970,
-      "4": 371983,
-      "5": 2099738
+      "1": 207396,
+      "2": 84436,
+      "3": 144874,
+      "4": 371846,
+      "5": 2100269
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "released": "Apr 26, 2010",
     "updated": 1785873264000,
     "version": "VARY",
-    "recentChanges": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
+    "recentChanges": "✅Fixed: Any saved meals Meals that included from My Foods or My Recipes would log 0 calories or disappear when you switched devices. Now your saved meals log correctly from any device.<br><br>✅For those using GLP-1 tools, pausing and resuming support would cause symptom tracking to be listed as “coming soon.” Now you can log your side effects the moment you resume support.<br><br>🐛 Bugs: great for the environment, bad for your logging experience.<br>*For all the latest fixes, update to the latest app version",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T08:18:57.225Z",
+  "fetched_at": "2026-08-11T07:52:03.154Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Get support for whatever life brings. Meditate and improve your mental health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3652550,
-    "score": 4.6416297,
+    "maxInstalls": 3653064,
+    "score": 4.6414495,
     "scoreText": "4.6",
-    "ratings": 48406,
+    "ratings": 48412,
     "reviews": 3308,
     "histogram": {
       "1": 2554,
       "2": 676,
       "3": 614,
-      "4": 3848,
-      "5": 40702
+      "4": 3876,
+      "5": 40684
     },
     "price": 0,
     "free": true,
@@ -81,8 +81,8 @@
     "adSupported": false,
     "released": "May 3, 2021",
     "updated": 1785855915000,
-    "version": "1.206.0",
-    "recentChanges": "We’ve fixed various bugs throughout the app.<br><br>For more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
+    "version": "1.207.0",
+    "recentChanges": "New Single: <br><br>  • Ocean Escape:  Take a moment to rest as you immerse yourself in a visualized ocean setting.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

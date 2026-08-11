@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T08:16:02.177Z",
+  "fetched_at": "2026-08-11T07:49:04.148Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 42985591,
-    "score": 4.215321,
+    "maxInstalls": 42986232,
+    "score": 4.2268043,
     "scoreText": "4.2",
-    "ratings": 414412,
+    "ratings": 415015,
     "reviews": 2121,
     "histogram": {
-      "1": 48900,
-      "2": 17986,
-      "3": 15416,
-      "4": 44564,
-      "5": 287382
+      "1": 47880,
+      "2": 17914,
+      "3": 15344,
+      "4": 44425,
+      "5": 289209
     },
     "price": 0,
     "free": true,
