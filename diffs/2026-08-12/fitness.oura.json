@@ -1,0 +1,36 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-08-12",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:49:51.740Z",
+      "curr_fetched_at": "2026-08-12T08:03:38.650Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.21.0",
+          "new": "7.22.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:49:54.501Z",
+      "curr_fetched_at": "2026-08-12T08:03:40.841Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.21.1",
+          "new": "7.22.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "We&#39;re continuously working to delight you with innovations and improve your experience by fixing bugs.",
+          "new": "Small fixes, big improvements—Oura just got a little better."
+        }
+      ]
+    }
+  }
+}

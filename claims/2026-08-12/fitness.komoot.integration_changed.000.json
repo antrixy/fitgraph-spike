@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.komoot",
+  "integration": "garmin",
+  "direction": "added",
+  "observed_at": "2026-08-12T08:02:47.201Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "images. Bug fixes - Fixed several crashes and app freezes. - Improved the 'Tips for you' recommendations. - Fixed the Garmin connection screen in dark mode.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

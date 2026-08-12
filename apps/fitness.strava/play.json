@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T07:47:42.109Z",
+  "fetched_at": "2026-08-12T08:01:23.360Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 130371627,
-    "score": 4.5861273,
+    "maxInstalls": 130472745,
+    "score": 4.5881977,
     "scoreText": "4.6",
-    "ratings": 1162706,
-    "reviews": 34156,
+    "ratings": 1163311,
+    "reviews": 34163,
     "histogram": {
-      "1": 66509,
-      "2": 17103,
-      "3": 30947,
-      "4": 101918,
-      "5": 946196
+      "1": 66411,
+      "2": 16636,
+      "3": 30755,
+      "4": 101925,
+      "5": 947551
     },
     "price": 0,
     "free": true,
@@ -67,7 +67,7 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 9, 2011",
-    "updated": 1785794435000,
+    "updated": 1786461740000,
     "version": "VARY",
     "recentChanges": "A bolder map for every move. Ranked trails, difficulty grades, and MTB grading come to every hike and ride, plus new POIs: trailheads, viewpoints, water, first aid, and more.  Your personal heatmap now has a high-contrast option, so it&#39;s easier to see where you&#39;ve been and where you haven&#39;t.<br>",
     "comments": [],

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-08-12",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:47:46.876Z",
+      "curr_fetched_at": "2026-08-12T08:01:29.908Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.49.0",
+          "new": "8.50.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "A few behind-the-scenes tweaks for peak performance. Call it a tech deload week.",
+          "new": "We cleaned things up so your app doesn't DNF. Now let's help you go get that PR."
+        }
+      ]
+    }
+  }
+}

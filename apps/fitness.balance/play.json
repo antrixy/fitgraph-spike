@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T07:52:03.154Z",
+  "fetched_at": "2026-08-12T08:05:42.976Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -9,8 +9,8 @@
     "summary": "Get support for whatever life brings. Meditate and improve your mental health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3653064,
-    "score": 4.6414495,
+    "maxInstalls": 3653558,
+    "score": 4.6412215,
     "scoreText": "4.6",
     "ratings": 48412,
     "reviews": 3308,
@@ -18,8 +18,8 @@
       "1": 2554,
       "2": 676,
       "3": 614,
-      "4": 3876,
-      "5": 40684
+      "4": 3879,
+      "5": 40680
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 3, 2021",
-    "updated": 1785855915000,
+    "updated": 1786456549000,
     "version": "1.207.0",
     "recentChanges": "New Single: <br><br>  • Ocean Escape:  Take a moment to rest as you immerse yourself in a visualized ocean setting.",
     "comments": [],

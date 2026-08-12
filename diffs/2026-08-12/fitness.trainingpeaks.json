@@ -1,0 +1,41 @@
+{
+  "product": "fitness.trainingpeaks",
+  "name": "TrainingPeaks",
+  "date": "2026-08-12",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:48:25.295Z",
+      "curr_fetched_at": "2026-08-12T08:02:13.992Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "12.111.0",
+          "new": "12.112.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:48:28.849Z",
+      "curr_fetched_at": "2026-08-12T08:02:16.229Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "12.111.0",
+          "new": "12.112.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Bug fixes and behind-the-scenes work to prep for what&#39;s coming.<br><br>Thanks for training with TrainingPeaks.<br>",
+          "new": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We&#39;ve been working as hard as you train to fix bugs and improve your experience.<br>"
+        },
+        {
+          "field": "description",
+          "old": "The world’s most complete training platform for coaches and athletes to plan, train, and lift.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, train, and lift for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n\n• Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n• Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n• Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n• Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n• Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n\n• Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n• Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and in-workout commenting.\n• Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n• Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\n• Build community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use",
+          "new": "The world’s most complete training platform for coaches and athletes to plan, train, and lift.\n\nUse TrainingPeaks to maximize your potential. Connect the ability to plan, train, and lift for your endurance events and adventures.\n\nWhether you are training to run a half marathon, finish a Gran Fondo, or complete a full-distance triathlon, TrainingPeaks provides the ultimate tools you need for your journey. Simply connect with your coach or load a training plan to fill your schedule and get started.\n\nTrainingPeaks for Athletes\n\n• Flexible planning to fit your life: Easily adjust your schedule and sync your training with your daily routine.\n• Actionable Insights to keep you on track: Data-driven feedback that helps you understand your progress and stay motivated.\n• Build strength to be unbreakable: Integrated strength training plans designed to improve durability and performance.\n• Ride inside on TrainingPeaks Virtual: Experience world-class indoor training and ride with a global community.\n• Any sport, any device, any time: Seamlessly sync with your favorite wearable or head unit, ensuring your data is always where you need it.\n\nTrainingPeaks for Coaches\n\n• Advanced tools for planning: Annual season planning and individual workout creation tools to make planning clear and quick.\n• Time-Saving Tools to Streamline Your Coaching: Keep your athletes on track with powerful performance dashboards, easy-to-understand compliance scores, notifications, and in-workout commenting.\n• Look pro. Feel pro. Manage payment, athlete groups, schedules and communication all in one streamlined tool.\n• Any sport, any device, any time: Athletes seamlessly sync with your favorite wearable or head unit, ensuring data is always where you need it.\n• Build community and engagement on TrainingPeaks Virtual: Keep athletes engaged year-round with the only indoor cycling platform designed for coaching.\n\nGo to trainingpeaks.com to sign up for your coach account.\n\nTrusted Partner of: \nUSA Cycling, USA Triathlon, British Cycling, British Triathlon, AusTriathlon, Road Runners Club of America, INEOS Grenadiers Cycling Team and more\n\nThis app is a training tool to measure performance metrics. It is not a medical device and is not intended to diagnose, treat, cure, or prevent any medical condition.\n\nPrivacy Policy: https://home.trainingpeaks.com/privacy-policy\nTerms of Use: https://home.trainingpeaks.com/terms-of-use"
+        }
+      ]
+    }
+  }
+}

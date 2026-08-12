@@ -1,0 +1,13 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-12",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "89ea50c73397410885f94f2af840499bcd2b5d95",
+      "prev_fetched_at": "2026-08-11T07:49:33.771Z",
+      "curr_fetched_at": "2026-08-12T08:03:23.452Z",
+      "version_unreported": true
+    }
+  }
+}
