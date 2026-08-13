@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "• New: Live Activity and Dynamic Island support for rest timers • Fix: Large measurement histories from Apple Health could fail to import • Fix: Exercises could appear misaligned in workout history • Fix: Apple Watch - Workout calories",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
       "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed"
     }
   ],
