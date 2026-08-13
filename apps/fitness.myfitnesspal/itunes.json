@@ -1,38 +1,12 @@
 {
-  "fetched_at": "2026-08-12T07:56:55.315Z",
+  "fetched_at": "2026-08-13T07:58:37.923Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=341232718&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/myfitnesspal-inc/id341232721?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/90/0e/04900ea5-3aba-b487-8185-a8daa4677500/MFP_iOS_US_6.9_Screen_1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/43/87/da4387d7-4e0a-5842-fc88-7a7108ba730a/MFP_iOS_US_6.9_Screen_2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/e0/0f/cde00f0e-b9b4-34ed-0384-70d4e41cf06d/MFP_iOS_US_6.9_Screen_3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/6b/a2/e16ba2a3-ef9b-bfa5-9072-65818d686100/MFP_iOS_US_6.9_Screen_5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/75/a9/9875a98c-f00f-4138-d71c-b9e40fb06cf3/MFP_iOS_US_6.9_Screen_4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/0f/15/9f0f156b-7a74-302a-9b4e-38f387014f72/MFP_iOS_US_6.9_Screen_6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/06/13/92061313-2d4c-b908-0d47-2cfd6a43d9ce/MFP_iOS_US_6.9_Screen_7.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/3b/e7/1e3be759-679c-6dac-d2b6-edb52224721c/MFP_iOS_US_6.9_Screen_8.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/61/02/226102b1-e76c-fcd3-a24a-315abd329ed9/MFP_iOS_US_6.9_Screen_9.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/ac/b8/27acb887-5caf-4594-96eb-2ca95589f07d/MFP_iOS_US_6.9_Screen_10.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/42/9f/37429f87-7217-6a64-a059-e911850f3f55/MFP_iOS_US_iPad_Screen_1.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/7f/02/c67f02da-a151-dab2-a5b1-c5c1e8a4a71f/MFP_iOS_US_iPad_Screen_2.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/ee/8f/c7ee8f03-0cad-e557-50f4-786c998d6bde/MFP_iOS_US_iPad_Screen_3.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e9/22/95e9225c-46e1-a06b-ec54-8ce5fcadfa45/MFP_iOS_US_iPad_Screen_4.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/5c/33/495c3379-74bc-3d69-0b6c-e2febda780be/MFP_iOS_US_iPad_Screen_5.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/11/e9/0c11e99e-f013-6910-76d4-2e7e6d84f91b/MFP_iOS_US_iPad_Screen_6.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/f4/c1/19f4c104-a0bb-944e-35b7-17647aee8f4a/MFP_iOS_US_iPad_Screen_7.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/8f/38/428f38d7-d2b4-b2be-b344-ef34c8f165e7/MFP_iOS_US_iPad_Screen_8.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/82/5e/8c825e91-1349-b875-4dd6-aa86b007fc64/MFP_iOS_US_iPad_Screen_9.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/17/61/c1176103-ebec-cbf1-a5e0-3df3e139252a/MFP_iOS_US_iPad_Screen_10.jpg/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -163,20 +137,68 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [
-      "iosUniversal"
-    ],
     "advisories": [
       "Frequent/Intense Medical/Treatment Information"
     ],
     "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/90/0e/04900ea5-3aba-b487-8185-a8daa4677500/MFP_iOS_US_6.9_Screen_1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/43/87/da4387d7-4e0a-5842-fc88-7a7108ba730a/MFP_iOS_US_6.9_Screen_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/e0/0f/cde00f0e-b9b4-34ed-0384-70d4e41cf06d/MFP_iOS_US_6.9_Screen_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/6b/a2/e16ba2a3-ef9b-bfa5-9072-65818d686100/MFP_iOS_US_6.9_Screen_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/75/a9/9875a98c-f00f-4138-d71c-b9e40fb06cf3/MFP_iOS_US_6.9_Screen_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/0f/15/9f0f156b-7a74-302a-9b4e-38f387014f72/MFP_iOS_US_6.9_Screen_6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/06/13/92061313-2d4c-b908-0d47-2cfd6a43d9ce/MFP_iOS_US_6.9_Screen_7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/3b/e7/1e3be759-679c-6dac-d2b6-edb52224721c/MFP_iOS_US_6.9_Screen_8.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/61/02/226102b1-e76c-fcd3-a24a-315abd329ed9/MFP_iOS_US_6.9_Screen_9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/ac/b8/27acb887-5caf-4594-96eb-2ca95589f07d/MFP_iOS_US_6.9_Screen_10.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/42/9f/37429f87-7217-6a64-a059-e911850f3f55/MFP_iOS_US_iPad_Screen_1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/7f/02/c67f02da-a151-dab2-a5b1-c5c1e8a4a71f/MFP_iOS_US_iPad_Screen_2.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/ee/8f/c7ee8f03-0cad-e557-50f4-786c998d6bde/MFP_iOS_US_iPad_Screen_3.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e9/22/95e9225c-46e1-a06b-ec54-8ce5fcadfa45/MFP_iOS_US_iPad_Screen_4.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/5c/33/495c3379-74bc-3d69-0b6c-e2febda780be/MFP_iOS_US_iPad_Screen_5.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/11/e9/0c11e99e-f013-6910-76d4-2e7e6d84f91b/MFP_iOS_US_iPad_Screen_6.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/f4/c1/19f4c104-a0bb-944e-35b7-17647aee8f4a/MFP_iOS_US_iPad_Screen_7.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/8f/38/428f38d7-d2b4-b2be-b344-ef34c8f165e7/MFP_iOS_US_iPad_Screen_8.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/82/5e/8c825e91-1349-b875-4dd6-aa86b007fc64/MFP_iOS_US_iPad_Screen_9.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/17/61/c1176103-ebec-cbf1-a5e0-3df3e139252a/MFP_iOS_US_iPad_Screen_10.jpg/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/d1/591bd196-8fd9-fab5-09d4-f3f22ade99a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/myfitnesspal-inc/id341232721?uo=4",
+    "releaseNotes": "New! Premium users with access to the AI coach can now save meal suggestions as a repeatable meal that can be easily logged again and again. Great feature if you need simple dinner ideas ... and a shortcut for logging them.\n\nFixed: Accessing GLP-1 support through the more menu was taking some users back to the home screen instead of medication logging. Now all GLP-1 users can log meds quickly without a detour. (Feature is currently available in the U.S. only.)",
     "minimumOsVersion": "17.0",
-    "averageUserRating": 4.71253,
-    "trackCensoredName": "MyFitnessPal: Calorie Counter",
-    "trackViewUrl": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
-    "contentAdvisoryRating": "17+",
+    "genres": [
+      "Health & Fitness",
+      "Food & Drink"
+    ],
+    "artistId": 341232721,
+    "artistName": "MyFitnessPal, Inc.",
+    "price": 0,
+    "genreIds": [
+      "6013",
+      "6023"
+    ],
+    "bundleId": "com.myfitnesspal.mfp",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "MyFitnessPal, Inc.",
+    "releaseDate": "2009-12-08T02:04:45Z",
+    "trackId": 341232718,
+    "trackName": "MyFitnessPal: Calorie Counter",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-08-11T18:23:31Z",
+    "version": "26.32.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Achieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goals, build better habits around food, nutrition & calorie tracking and monitor your water intake. Download the app & start your free Premium trial today. With MyFitnessPal, you get food inspiration, an intermittent fasting tracker, science backed nutrition, and powerful fitness logging tools. MyFitnessPal is the #1 nutrition, macro & calorie tracking app in the U.S. – as featured in the New York Times, Forbes, the Today Show & U.S. News & World Report.\n\nMore than a calorie tracker & food journal – MyFitnessPal is an AI-powered health, nutrition & fitness platform built to help you track macros, monitor nutrition progress & crush your fitness goals.\n\nNEW FEATURE: AI COACH \n■ Nutrition insights tailored to your goals, habits, and logging history \n■ Guidance to find what you need in the app, faster\n\nNEW FEATURE: GLP-1 TRACKING\n■ Log & track how you feel on your GLP-1 medications to spot patterns in your symptoms & side effects.\n■ Stick to your schedule with custom reminders for your GLP-1 medication\n■ Build healthy habits that actually stick with simple, effective nutrition & medication for tracking your GLP-1 journey\n\nTRACK FOOD, CALORIES & MACROS WITH AI \n■ Log meals effortlessly from 20.5M+ foods, including restaurant dishes – nutrition & calorie tracking made simple \n■ Full nutrition & macro tracker breakdown – carbs, fat & protein – with custom targets for macros, protein, sodium, fiber & more \n■ Stay hydrated with the built-in water tracker\n\nFITNESS TRACKING, WORKOUTS & PROGRESS \n■ Log workouts & steps to monitor health, nutrition & calorie burn \n■ Track calories, macros, nutrition stats & health insights at a glance or dive deep into the details \n■ See how fitness activity, nutrition & diet affect your daily calorie goals \n■ Wear OS support – calorie tracker, water tracker & macro tracker on your wrist. Add complications to the home screen for faster logging and the tile for tracking nutrients at a glance\n\nPERSONALIZED FITNESS PLANS & NUTRITION TOOLS \n■ Customize calorie, nutrition & fitness goals – weight loss, gain, maintenance, or performance \n■ Personalized nutrition & health dashboard – stats all in one place \n■ Save meals & recipes for quick calorie, nutrition & macro logging \n■ Streamlined meal planner to simplify nutrition tracking & hit your calorie & macro targets \n■ Connect 40+ fitness trackers, smartwatches & health apps via one unified nutrition & fitness ecosystem \n■ Find friends & motivation in the MyFitnessPal community\n\nPREMIUM \n■ Faster nutrition, calorie & macro tracking with barcode scan, meal scan & voice logging \n■ Customized macro, calorie & nutrition goals tailored to your fitness targets \n■ Ad-free logging with built-in nutrition insights & calorie & macro progress comparisons \n■ Net Carbs Mode – track net carbs across all food, nutrition & macro logs for keto and low-carb diets\n\nPREMIUM PLUS \n■ All Premium features, including barcode scanning, now paired with full nutrition-focused meal planning \n■ Personalized meal plans, integrated grocery delivery & smart calorie, nutrition & macro tracking tools \n■ 1500+ healthy recipes tailored to your calorie, macro, nutrition & fitness goals\n\nMyFitnessPal is the leading health and fitness tracking app to help you conquer your calorie, nutrition & fitness goals.\n\nDownload today & start your free Premium trial.\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service \nhttps://www.myfitnesspal.com/privacy-policy",
     "averageUserRatingForCurrentVersion": 4.71253,
     "sellerUrl": "http://www.myfitnesspal.com/",
+    "trackCensoredName": "MyFitnessPal: Calorie Counter",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -200,33 +222,11 @@
     ],
     "fileSizeBytes": "356684800",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 2350083,
+    "contentAdvisoryRating": "17+",
+    "userRatingCountForCurrentVersion": 2350314,
+    "trackViewUrl": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
     "trackContentRating": "17+",
-    "artistId": 341232721,
-    "artistName": "MyFitnessPal, Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Food & Drink"
-    ],
-    "price": 0,
-    "bundleId": "com.myfitnesspal.mfp",
-    "trackId": 341232718,
-    "trackName": "MyFitnessPal: Calorie Counter",
-    "releaseDate": "2009-12-08T02:04:45Z",
-    "genreIds": [
-      "6013",
-      "6023"
-    ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "MyFitnessPal, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-11T18:23:31Z",
-    "releaseNotes": "New! Premium users with access to the AI coach can now save meal suggestions as a repeatable meal that can be easily logged again and again. Great feature if you need simple dinner ideas ... and a shortcut for logging them.\n\nFixed: Accessing GLP-1 support through the more menu was taking some users back to the home screen instead of medication logging. Now all GLP-1 users can log meds quickly without a detour. (Feature is currently available in the U.S. only.)",
-    "version": "26.32.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Achieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goals, build better habits around food, nutrition & calorie tracking and monitor your water intake. Download the app & start your free Premium trial today. With MyFitnessPal, you get food inspiration, an intermittent fasting tracker, science backed nutrition, and powerful fitness logging tools. MyFitnessPal is the #1 nutrition, macro & calorie tracking app in the U.S. – as featured in the New York Times, Forbes, the Today Show & U.S. News & World Report.\n\nMore than a calorie tracker & food journal – MyFitnessPal is an AI-powered health, nutrition & fitness platform built to help you track macros, monitor nutrition progress & crush your fitness goals.\n\nNEW FEATURE: AI COACH \n■ Nutrition insights tailored to your goals, habits, and logging history \n■ Guidance to find what you need in the app, faster\n\nNEW FEATURE: GLP-1 TRACKING\n■ Log & track how you feel on your GLP-1 medications to spot patterns in your symptoms & side effects.\n■ Stick to your schedule with custom reminders for your GLP-1 medication\n■ Build healthy habits that actually stick with simple, effective nutrition & medication for tracking your GLP-1 journey\n\nTRACK FOOD, CALORIES & MACROS WITH AI \n■ Log meals effortlessly from 20.5M+ foods, including restaurant dishes – nutrition & calorie tracking made simple \n■ Full nutrition & macro tracker breakdown – carbs, fat & protein – with custom targets for macros, protein, sodium, fiber & more \n■ Stay hydrated with the built-in water tracker\n\nFITNESS TRACKING, WORKOUTS & PROGRESS \n■ Log workouts & steps to monitor health, nutrition & calorie burn \n■ Track calories, macros, nutrition stats & health insights at a glance or dive deep into the details \n■ See how fitness activity, nutrition & diet affect your daily calorie goals \n■ Wear OS support – calorie tracker, water tracker & macro tracker on your wrist. Add complications to the home screen for faster logging and the tile for tracking nutrients at a glance\n\nPERSONALIZED FITNESS PLANS & NUTRITION TOOLS \n■ Customize calorie, nutrition & fitness goals – weight loss, gain, maintenance, or performance \n■ Personalized nutrition & health dashboard – stats all in one place \n■ Save meals & recipes for quick calorie, nutrition & macro logging \n■ Streamlined meal planner to simplify nutrition tracking & hit your calorie & macro targets \n■ Connect 40+ fitness trackers, smartwatches & health apps via one unified nutrition & fitness ecosystem \n■ Find friends & motivation in the MyFitnessPal community\n\nPREMIUM \n■ Faster nutrition, calorie & macro tracking with barcode scan, meal scan & voice logging \n■ Customized macro, calorie & nutrition goals tailored to your fitness targets \n■ Ad-free logging with built-in nutrition insights & calorie & macro progress comparisons \n■ Net Carbs Mode – track net carbs across all food, nutrition & macro logs for keto and low-carb diets\n\nPREMIUM PLUS \n■ All Premium features, including barcode scanning, now paired with full nutrition-focused meal planning \n■ Personalized meal plans, integrated grocery delivery & smart calorie, nutrition & macro tracking tools \n■ 1500+ healthy recipes tailored to your calorie, macro, nutrition & fitness goals\n\nMyFitnessPal is the leading health and fitness tracking app to help you conquer your calorie, nutrition & fitness goals.\n\nDownload today & start your free Premium trial.\n\nView our terms & conditions and privacy policy: \nhttps://www.myfitnesspal.com/terms-of-service \nhttps://www.myfitnesspal.com/privacy-policy",
-    "userRatingCount": 2350083
+    "averageUserRating": 4.71253,
+    "userRatingCount": 2350314
   }
 }

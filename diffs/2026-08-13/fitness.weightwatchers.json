@@ -1,0 +1,27 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-13",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "curr_fetched_at": "2026-08-13T08:00:14.313Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "SUMMER FLASH SALE ENDS TODAY!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "SUMMER FLASH SALE ENDS TOMORROW!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "product": "fitness.adidasrunning",
+  "name": "adidas Running",
+  "date": "2026-08-13",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T08:01:51.570Z",
+      "curr_fetched_at": "2026-08-13T08:03:15.280Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "14.9.0",
+          "new": "14.9.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T08:01:53.658Z",
+      "curr_fetched_at": "2026-08-13T08:03:18.235Z",
+      "version_unreported": true
+    }
+  }
+}

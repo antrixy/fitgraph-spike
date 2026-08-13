@@ -1,0 +1,170 @@
+# Centr (fitness.centr) — 2026-08-13
+
+fetched_at: {"itunes":"2026-08-13T08:05:45.626Z","play":"2026-08-13T08:05:49.424Z","pricing":"2026-08-13T08:05:52.735Z"}
+
+## pricing_page (sentence-level)
+**Added (362):**
+- Centr | The Home of Strength - Performance Equipment & Coaching
+- Skip to content
+- Cart _(×2)_
+- Close cart
+- Your cart is empty
+- Start building your system.
+- Explore equipment
+- Shop by goal
+- Train for longevity _(×3)_
+- Build strength _(×2)_
+- Create a routine _(×3)_
+- Train for HYROX _(×3)_
+- Your coach. _(×2)_
+- Your plan.
+- GET CENTR COACH
+- Fall race season is coming
+- Train HYROX
+- Bring strength home
+- Shop Home Gyms
+- Centr _(×5)_
+- Cart (0) _(×2)_
+- Equipment _(×3)_
+- Best Sellers _(×3)_
+- New Arrivals _(×2)_
+- Official HYROX _(×2)_
+- Categories _(×2)_
+- Home Gyms _(×5)_
+- Multi-Gyms _(×3)_
+- Cardio Equipment _(×3)_
+- Benches & Racks _(×4)_
+- Weights & Bars _(×5)_
+- HYROX Equipment _(×3)_
+- Bundles & Kits _(×3)_
+- Accessories _(×3)_
+- Goals _(×3)_
+- I want to... _(×2)_
+- Get Stronger _(×2)_
+- Train For Longevity _(×2)_
+- Start A Fitness Foundation _(×2)_
+- Create A Routine _(×2)_
+- Train For HYROX _(×2)_
+- HYROX _(×11)_
+- Shop Hyrox _(×2)_
+- HYROX Official Competition Equipment _(×3)_
+- HYROX Youngstars _(×3)_
+- HYROX Bundles & Kits _(×3)_
+- Train _(×2)_
+- HYROX Training Hub _(×2)_
+- Centr Coach _(×6)_
+- Centr Coach App _(×2)_
+- Explore the App _(×3)_
+- Subscription Benefits _(×3)_
+- Get Started _(×2)_
+- Start Your Fitquiz _(×2)_
+- Get the App _(×2)_
+- Already a member _(×2)_
+- Log-In _(×2)_
+- Account _(×4)_
+- Your Account
+- Account Dashboard
+- Order History & Management
+- Warranty Registration _(×2)_
+- Subscription Management _(×2)_
+- Commercial Equipment
+- Gyms, Clubs & Studios _(×3)_
+- HYROX Affiliate Program _(×3)_
+- F45 Store _(×3)_
+- Commercial Sales _(×3)_
+- For Gyms
+- Support / Help
+- Search _(×3)_
+- Shop all
+- Featured
+- Shop collection _(×3)_
+- HYROX Competition Equipment
+- most popular
+- Get stronger _(×2)_
+- Build real strength
+- Get fit for the long run
+- Start a fitness foundation _(×2)_
+
+**Removed (221):**
+- Fitness App & Wellness Programs Inspired by Chris Hemsworth | Centr
+- Join Centr and Save 15% today!
+- More than a home gym.
+- A connected system.
+- Build your next level of strength.
+- Centr’s connected equipment and training bring everything together into a complete performance system, including three new hybrid training programs built for Centr equipment.
+- EXPLORE HYBRID TRAINING SHOP EQUIPMENT
+- MILLIONS OF CENTR MEMBERS HIT THEIR GOALS.
+- YOU&#x27;RE NEXT.
+- App of the Day App Store
+- Best Personal Growth Google Play
+- 4.7 Stars out of 5 49,000+ reviews
+- 4.5 Stars out of 5 16,000+ reviews
+- HYROX-CERTIFIED TRAINING + OFFICIAL COMPETITION GEAR
+- You don&#x27;t fake a HYROX finish – you earn it.
+- Get Centr&#x27;s Official Competition Equipment + pair it with HYROX-certified training in the Centr App.
+- START TRAINING
+- THINK LESS.
+- LIFT MORE.
+- Your goal: get stronger.
+- Ours: build the plan that gets you there—tailored to your workout preferences, no guesswork required.
+- START YOUR FITQUIZ _(×5)_
+- BUILD STRENGTH YOUR WAY
+- Train on your terms with Centr&#x27;s premium equipment, paired for performance with training in the Centr App.
+- SHOP EQUIPMENT
+- TRAIN ANYWHERE.
+- NO EXCUSES.
+- The Centr App gives you many ways to train.
+- From fully coached workouts, to audio and self-guided training – you can do at home, in the gym, or on-the-go.
+- No skipped session.
+- Just progress.
+- WE MATCH YOUR FITNESS LEVEL.
+- THEN RAISE IT.
+- Beginner, intermediate, or advanced—we program the reps, weight, and intensity to match your level.
+- MEET THE TEAM
+- Training shouldn’t feel like a chore.
+- Our coaches bring the fun, the focus, and the reason to show up again.
+- Chris Hemsworth
+- Founder
+- Luke Zocchi
+- HIIT, HIRT, Strength _(×2)_
+- Alexz Parvi
+- HILIT
+- Ingrid Clay
+- Tahl Rinsky
+- Yoga, Meditation
+- Dan Churchill
+- Nutrition, HIIT, HIRT
+- Michael Oldajide Jr.
+- Boxing, Meditation
+- Maricris Lapaix
+- Cardio, Strength
+- Angie Asche
+- Nutrition, Performance
+- Bobby Holland Hanton
+- Muscle-Building, Plyo
+- Sylvia Roberts
+- Pilates
+- Jorge Blanco
+- MMA
+- Da Rulk
+- Raw Functional Training
+- Jess Kilts
+- Strength, Meditation
+- Ashley Joi
+- HIIT, Strength
+- Torre Washington
+- Muscle-Building
+- Sergio Perera
+- Recipes, Meditation
+- Results Backed by Reviews: 65,000 and Counting
+- App Store Reviews Testimonials
+- Getting strong & thriving… made easy!
+- You get the best, most diverse workouts, for all levels… these programs are made in such (a) way that they are easy to follow and soon enough you will feel strong & thriving!
+- SurfingRose
+- The one App that’s made a difference
+- I’ve had Centr for around 4 years.
+- I used to just cycle and was out of balance.
+- I’ve had 4 big tummy surgeries and my core was weak.
+- Now I’m fitter, healthier, balanced, strong and my core is awesome.
+
+_(truncated to 80 per side; full counts above; raw HTML in git)_

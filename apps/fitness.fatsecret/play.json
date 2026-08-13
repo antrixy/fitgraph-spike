@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T07:57:48.565Z",
+  "fetched_at": "2026-08-13T07:59:19.454Z",
   "source": "google_play_scraper",
   "appId": "com.fatsecret.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Diet and Weight Loss Tracker with Meal Planning and Food Nutrition Calculator",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 62894583,
-    "score": 4.5544553,
+    "maxInstalls": 62896137,
+    "score": 4.5557756,
     "scoreText": "4.6",
-    "ratings": 543798,
-    "reviews": 24674,
+    "ratings": 543832,
+    "reviews": 24676,
     "histogram": {
-      "1": 30868,
+      "1": 30867,
       "2": 10046,
-      "3": 13638,
-      "4": 61373,
-      "5": 427853
+      "3": 13273,
+      "4": 61380,
+      "5": 428238
     },
     "price": 0,
     "free": true,

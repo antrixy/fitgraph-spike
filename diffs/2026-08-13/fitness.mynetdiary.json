@@ -1,0 +1,69 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-13",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T07:57:55.151Z",
+      "curr_fetched_at": "2026-08-13T07:59:24.841Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.30",
+          "new": "10.31"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T07:57:59.964Z",
+      "curr_fetched_at": "2026-08-13T07:59:26.987Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "curr_fetched_at": "2026-08-13T07:59:31.149Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Import recipes to your MyNetDiary account for easy and accurate tracking",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn the meaning of calorie deficit for weight loss and how MyNetDiary's Daily Analysis can help along the way",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 4
+    }
+  }
+}

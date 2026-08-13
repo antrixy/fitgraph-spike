@@ -1,0 +1,121 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-13",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T08:03:23.452Z",
+      "curr_fetched_at": "2026-08-13T08:04:35.008Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "curr_fetched_at": "2026-08-13T08:04:38.826Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Skip Navigation The new Google Pixel devices have arrived, packed with special offers.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop all offers",
+          "occurrences": 1
+        },
+        {
+          "text": "Pixel 11 Pro and Pro XL",
+          "occurrences": 2
+        },
+        {
+          "text": "Pixel 11 Pro Fold",
+          "occurrences": 2
+        },
+        {
+          "text": "Pixel 11",
+          "occurrences": 2
+        },
+        {
+          "text": "Google Pixel Watch 5",
+          "occurrences": 2
+        },
+        {
+          "text": "Finder Tag",
+          "occurrences": 2
+        },
+        {
+          "text": "Personalized sleep summaries with coaching insights help you understand and improve your sleep.",
+          "occurrences": 2
+        },
+        {
+          "text": "Stephen Curry and his performance team join forces with Google’s trusted innovators to bring you Google Health and a special edition band collection.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Stephen Curry Collection",
+          "occurrences": 1
+        },
+        {
+          "text": "Google Pixel Watch 5 ,",
+          "occurrences": 1
+        },
+        {
+          "text": "A smarter way to a healthier you.",
+          "occurrences": 1
+        },
+        {
+          "text": "Google Pixel Watch 5 Special Edition Stephen Curry",
+          "occurrences": 1
+        },
+        {
+          "text": "Lock in like Stephen Curry.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Skip Navigation 00 Days 00 Hrs 00 Mins 00 Secs",
+          "occurrences": 1
+        },
+        {
+          "text": "Mark your calendar to pre-order the new Google Pixel 11.",
+          "occurrences": 1
+        },
+        {
+          "text": "Get detailed insights and weekly coaching spotlights that help you understand and improve your sleep.",
+          "occurrences": 2
+        },
+        {
+          "text": ", ,",
+          "occurrences": 2
+        },
+        {
+          "text": "Stephen Curry and his performance team join forces with Google’s trusted innovators to bring you Google Health and a special edition band for Google Fitbit Air.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Google Fitbit Air",
+          "occurrences": 1
+        },
+        {
+          "text": "Google Pixel Watch 3",
+          "occurrences": 1
+        },
+        {
+          "text": "Goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Guidance.",
+          "occurrences": 1
+        },
+        {
+          "text": "Gorgeous.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 14,
+      "removed_total": 10
+    }
+  }
+}

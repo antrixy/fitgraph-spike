@@ -1,0 +1,187 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-08-13",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T07:58:24.869Z",
+      "curr_fetched_at": "2026-08-13T07:59:59.554Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "14.29.0",
+          "new": "14.30.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "curr_fetched_at": "2026-08-13T08:00:04.898Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "An Advanced GLP-1 Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Introducing Microdose Compounded",
+          "occurrences": 1
+        },
+        {
+          "text": "Tirzepatide for a smaller, easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "with medication alone.",
+          "occurrences": 1
+        },
+        {
+          "text": "Access to trusted, powerful weight-loss medications with Noom Med",
+          "occurrences": 1
+        },
+        {
+          "text": "Aug",
+          "occurrences": 6
+        },
+        {
+          "text": "Can a daily apple cider vinegar shot help you lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s the truth",
+          "occurrences": 1
+        },
+        {
+          "text": "How long does it take tirzepatide to work?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is seaweed good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What you need to know",
+          "occurrences": 1
+        },
+        {
+          "text": "How much protein do you need on a GLP-1?",
+          "occurrences": 1
+        },
+        {
+          "text": "What the experts say",
+          "occurrences": 1
+        },
+        {
+          "text": "Wegovy® pill vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "phentermine: Which one works best in 2026?",
+          "occurrences": 1
+        },
+        {
+          "text": "Which states have been affected by cyclosporiasis?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know before your next salad",
+          "occurrences": 1
+        },
+        {
+          "text": "Initial 3 week subscription and 4 weeks of medication from $79 plus tax and $199 per month plus tax for 12 week subscription thereafter.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "An Advanced GLP-1",
+          "occurrences": 1
+        },
+        {
+          "text": "Introducing Microdose Compounded Tirzepatide for a smaller, easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "with medication alone .",
+          "occurrences": 1
+        },
+        {
+          "text": "Jul",
+          "occurrences": 6
+        },
+        {
+          "text": "Are peanuts good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s what to keep in mind",
+          "occurrences": 1
+        },
+        {
+          "text": "Retatrutide vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "tirzepatide: Which one works best for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Cyclospora outbreak 2026: Is lettuce safe to eat?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know",
+          "occurrences": 1
+        },
+        {
+          "text": "What dose of Zepbound® is most effective?",
+          "occurrences": 1
+        },
+        {
+          "text": "What is a GLP-3?",
+          "occurrences": 1
+        },
+        {
+          "text": "Retatrutide’s popular nickname explained",
+          "occurrences": 1
+        },
+        {
+          "text": "People are using Smooth Move Tea for weight loss—here&#8217;s why that&#8217;s a bad idea",
+          "occurrences": 1
+        },
+        {
+          "text": "2.Initial 3 week subscription and 4 weeks of medication from $79 plus tax and $199 per month plus tax for 12 week subscription thereafter.",
+          "occurrences": 1
+        },
+        {
+          "text": "Final pricing depends on program selection.Noom GLP-1Rx Plus Microdose Program involves medication (when appropriate), healthy diet, exercise and support.",
+          "occurrences": 1
+        },
+        {
+          "text": "Individual results vary.",
+          "occurrences": 1
+        },
+        {
+          "text": "Meds &#038; personalization based on need as determined by a third-party clinician.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medications are not reviewed by FDA for safety, efficacy, or quality.",
+          "occurrences": 1
+        },
+        {
+          "text": "No affiliation with Eli Lilly and Company, the only US source of FDA-approved tirzepatide.",
+          "occurrences": 1
+        },
+        {
+          "text": "Not available in all 50 US states.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 18,
+      "removed_total": 21
+    }
+  }
+}

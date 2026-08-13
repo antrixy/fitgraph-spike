@@ -1,0 +1,665 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-13",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "prev_fetched_at": "2026-08-12T08:04:25.421Z",
+      "curr_fetched_at": "2026-08-13T08:05:49.424Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed",
+      "curr_fetched_at": "2026-08-13T08:05:52.735Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Centr | The Home of Strength - Performance Equipment & Coaching",
+          "occurrences": 1
+        },
+        {
+          "text": "Skip to content",
+          "occurrences": 1
+        },
+        {
+          "text": "Cart",
+          "occurrences": 2
+        },
+        {
+          "text": "Close cart",
+          "occurrences": 1
+        },
+        {
+          "text": "Your cart is empty",
+          "occurrences": 1
+        },
+        {
+          "text": "Start building your system.",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop by goal",
+          "occurrences": 1
+        },
+        {
+          "text": "Train for longevity",
+          "occurrences": 3
+        },
+        {
+          "text": "Build strength",
+          "occurrences": 2
+        },
+        {
+          "text": "Create a routine",
+          "occurrences": 3
+        },
+        {
+          "text": "Train for HYROX",
+          "occurrences": 3
+        },
+        {
+          "text": "Your coach.",
+          "occurrences": 2
+        },
+        {
+          "text": "Your plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "GET CENTR COACH",
+          "occurrences": 1
+        },
+        {
+          "text": "Fall race season is coming",
+          "occurrences": 1
+        },
+        {
+          "text": "Train HYROX",
+          "occurrences": 1
+        },
+        {
+          "text": "Bring strength home",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Home Gyms",
+          "occurrences": 1
+        },
+        {
+          "text": "Centr",
+          "occurrences": 5
+        },
+        {
+          "text": "Cart (0)",
+          "occurrences": 2
+        },
+        {
+          "text": "Equipment",
+          "occurrences": 3
+        },
+        {
+          "text": "Best Sellers",
+          "occurrences": 3
+        },
+        {
+          "text": "New Arrivals",
+          "occurrences": 2
+        },
+        {
+          "text": "Official HYROX",
+          "occurrences": 2
+        },
+        {
+          "text": "Categories",
+          "occurrences": 2
+        },
+        {
+          "text": "Home Gyms",
+          "occurrences": 5
+        },
+        {
+          "text": "Multi-Gyms",
+          "occurrences": 3
+        },
+        {
+          "text": "Cardio Equipment",
+          "occurrences": 3
+        },
+        {
+          "text": "Benches & Racks",
+          "occurrences": 4
+        },
+        {
+          "text": "Weights & Bars",
+          "occurrences": 5
+        },
+        {
+          "text": "HYROX Equipment",
+          "occurrences": 3
+        },
+        {
+          "text": "Bundles & Kits",
+          "occurrences": 3
+        },
+        {
+          "text": "Accessories",
+          "occurrences": 3
+        },
+        {
+          "text": "Goals",
+          "occurrences": 3
+        },
+        {
+          "text": "I want to...",
+          "occurrences": 2
+        },
+        {
+          "text": "Get Stronger",
+          "occurrences": 2
+        },
+        {
+          "text": "Train For Longevity",
+          "occurrences": 2
+        },
+        {
+          "text": "Start A Fitness Foundation",
+          "occurrences": 2
+        },
+        {
+          "text": "Create A Routine",
+          "occurrences": 2
+        },
+        {
+          "text": "Train For HYROX",
+          "occurrences": 2
+        },
+        {
+          "text": "HYROX",
+          "occurrences": 11
+        },
+        {
+          "text": "Shop Hyrox",
+          "occurrences": 2
+        },
+        {
+          "text": "HYROX Official Competition Equipment",
+          "occurrences": 3
+        },
+        {
+          "text": "HYROX Youngstars",
+          "occurrences": 3
+        },
+        {
+          "text": "HYROX Bundles & Kits",
+          "occurrences": 3
+        },
+        {
+          "text": "Train",
+          "occurrences": 2
+        },
+        {
+          "text": "HYROX Training Hub",
+          "occurrences": 2
+        },
+        {
+          "text": "Centr Coach",
+          "occurrences": 6
+        },
+        {
+          "text": "Centr Coach App",
+          "occurrences": 2
+        },
+        {
+          "text": "Explore the App",
+          "occurrences": 3
+        },
+        {
+          "text": "Subscription Benefits",
+          "occurrences": 3
+        },
+        {
+          "text": "Get Started",
+          "occurrences": 2
+        },
+        {
+          "text": "Start Your Fitquiz",
+          "occurrences": 2
+        },
+        {
+          "text": "Get the App",
+          "occurrences": 2
+        },
+        {
+          "text": "Already a member",
+          "occurrences": 2
+        },
+        {
+          "text": "Log-In",
+          "occurrences": 2
+        },
+        {
+          "text": "Account",
+          "occurrences": 4
+        },
+        {
+          "text": "Your Account",
+          "occurrences": 1
+        },
+        {
+          "text": "Account Dashboard",
+          "occurrences": 1
+        },
+        {
+          "text": "Order History & Management",
+          "occurrences": 1
+        },
+        {
+          "text": "Warranty Registration",
+          "occurrences": 2
+        },
+        {
+          "text": "Subscription Management",
+          "occurrences": 2
+        },
+        {
+          "text": "Commercial Equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Gyms, Clubs & Studios",
+          "occurrences": 3
+        },
+        {
+          "text": "HYROX Affiliate Program",
+          "occurrences": 3
+        },
+        {
+          "text": "F45 Store",
+          "occurrences": 3
+        },
+        {
+          "text": "Commercial Sales",
+          "occurrences": 3
+        },
+        {
+          "text": "For Gyms",
+          "occurrences": 1
+        },
+        {
+          "text": "Support / Help",
+          "occurrences": 1
+        },
+        {
+          "text": "Search",
+          "occurrences": 3
+        },
+        {
+          "text": "Shop all",
+          "occurrences": 1
+        },
+        {
+          "text": "Featured",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop collection",
+          "occurrences": 3
+        },
+        {
+          "text": "HYROX Competition Equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "most popular",
+          "occurrences": 1
+        },
+        {
+          "text": "Get stronger",
+          "occurrences": 2
+        },
+        {
+          "text": "Build real strength",
+          "occurrences": 1
+        },
+        {
+          "text": "Get fit for the long run",
+          "occurrences": 1
+        },
+        {
+          "text": "Start a fitness foundation",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Fitness App & Wellness Programs Inspired by Chris Hemsworth | Centr",
+          "occurrences": 1
+        },
+        {
+          "text": "Join Centr and Save 15% today!",
+          "occurrences": 1
+        },
+        {
+          "text": "More than a home gym.",
+          "occurrences": 1
+        },
+        {
+          "text": "A connected system.",
+          "occurrences": 1
+        },
+        {
+          "text": "Build your next level of strength.",
+          "occurrences": 1
+        },
+        {
+          "text": "Centr’s connected equipment and training bring everything together into a complete performance system, including three new hybrid training programs built for Centr equipment.",
+          "occurrences": 1
+        },
+        {
+          "text": "EXPLORE HYBRID TRAINING SHOP EQUIPMENT",
+          "occurrences": 1
+        },
+        {
+          "text": "MILLIONS OF CENTR MEMBERS HIT THEIR GOALS.",
+          "occurrences": 1
+        },
+        {
+          "text": "YOU&#x27;RE NEXT.",
+          "occurrences": 1
+        },
+        {
+          "text": "App of the Day App Store",
+          "occurrences": 1
+        },
+        {
+          "text": "Best Personal Growth Google Play",
+          "occurrences": 1
+        },
+        {
+          "text": "4.7 Stars out of 5 49,000+ reviews",
+          "occurrences": 1
+        },
+        {
+          "text": "4.5 Stars out of 5 16,000+ reviews",
+          "occurrences": 1
+        },
+        {
+          "text": "HYROX-CERTIFIED TRAINING + OFFICIAL COMPETITION GEAR",
+          "occurrences": 1
+        },
+        {
+          "text": "You don&#x27;t fake a HYROX finish – you earn it.",
+          "occurrences": 1
+        },
+        {
+          "text": "Get Centr&#x27;s Official Competition Equipment + pair it with HYROX-certified training in the Centr App.",
+          "occurrences": 1
+        },
+        {
+          "text": "START TRAINING",
+          "occurrences": 1
+        },
+        {
+          "text": "THINK LESS.",
+          "occurrences": 1
+        },
+        {
+          "text": "LIFT MORE.",
+          "occurrences": 1
+        },
+        {
+          "text": "Your goal: get stronger.",
+          "occurrences": 1
+        },
+        {
+          "text": "Ours: build the plan that gets you there—tailored to your workout preferences, no guesswork required.",
+          "occurrences": 1
+        },
+        {
+          "text": "START YOUR FITQUIZ",
+          "occurrences": 5
+        },
+        {
+          "text": "BUILD STRENGTH YOUR WAY",
+          "occurrences": 1
+        },
+        {
+          "text": "Train on your terms with Centr&#x27;s premium equipment, paired for performance with training in the Centr App.",
+          "occurrences": 1
+        },
+        {
+          "text": "SHOP EQUIPMENT",
+          "occurrences": 1
+        },
+        {
+          "text": "TRAIN ANYWHERE.",
+          "occurrences": 1
+        },
+        {
+          "text": "NO EXCUSES.",
+          "occurrences": 1
+        },
+        {
+          "text": "The Centr App gives you many ways to train.",
+          "occurrences": 1
+        },
+        {
+          "text": "From fully coached workouts, to audio and self-guided training – you can do at home, in the gym, or on-the-go.",
+          "occurrences": 1
+        },
+        {
+          "text": "No skipped session.",
+          "occurrences": 1
+        },
+        {
+          "text": "Just progress.",
+          "occurrences": 1
+        },
+        {
+          "text": "WE MATCH YOUR FITNESS LEVEL.",
+          "occurrences": 1
+        },
+        {
+          "text": "THEN RAISE IT.",
+          "occurrences": 1
+        },
+        {
+          "text": "Beginner, intermediate, or advanced—we program the reps, weight, and intensity to match your level.",
+          "occurrences": 1
+        },
+        {
+          "text": "MEET THE TEAM",
+          "occurrences": 1
+        },
+        {
+          "text": "Training shouldn’t feel like a chore.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our coaches bring the fun, the focus, and the reason to show up again.",
+          "occurrences": 1
+        },
+        {
+          "text": "Chris Hemsworth",
+          "occurrences": 1
+        },
+        {
+          "text": "Founder",
+          "occurrences": 1
+        },
+        {
+          "text": "Luke Zocchi",
+          "occurrences": 1
+        },
+        {
+          "text": "HIIT, HIRT, Strength",
+          "occurrences": 2
+        },
+        {
+          "text": "Alexz Parvi",
+          "occurrences": 1
+        },
+        {
+          "text": "HILIT",
+          "occurrences": 1
+        },
+        {
+          "text": "Ingrid Clay",
+          "occurrences": 1
+        },
+        {
+          "text": "Tahl Rinsky",
+          "occurrences": 1
+        },
+        {
+          "text": "Yoga, Meditation",
+          "occurrences": 1
+        },
+        {
+          "text": "Dan Churchill",
+          "occurrences": 1
+        },
+        {
+          "text": "Nutrition, HIIT, HIRT",
+          "occurrences": 1
+        },
+        {
+          "text": "Michael Oldajide Jr.",
+          "occurrences": 1
+        },
+        {
+          "text": "Boxing, Meditation",
+          "occurrences": 1
+        },
+        {
+          "text": "Maricris Lapaix",
+          "occurrences": 1
+        },
+        {
+          "text": "Cardio, Strength",
+          "occurrences": 1
+        },
+        {
+          "text": "Angie Asche",
+          "occurrences": 1
+        },
+        {
+          "text": "Nutrition, Performance",
+          "occurrences": 1
+        },
+        {
+          "text": "Bobby Holland Hanton",
+          "occurrences": 1
+        },
+        {
+          "text": "Muscle-Building, Plyo",
+          "occurrences": 1
+        },
+        {
+          "text": "Sylvia Roberts",
+          "occurrences": 1
+        },
+        {
+          "text": "Pilates",
+          "occurrences": 1
+        },
+        {
+          "text": "Jorge Blanco",
+          "occurrences": 1
+        },
+        {
+          "text": "MMA",
+          "occurrences": 1
+        },
+        {
+          "text": "Da Rulk",
+          "occurrences": 1
+        },
+        {
+          "text": "Raw Functional Training",
+          "occurrences": 1
+        },
+        {
+          "text": "Jess Kilts",
+          "occurrences": 1
+        },
+        {
+          "text": "Strength, Meditation",
+          "occurrences": 1
+        },
+        {
+          "text": "Ashley Joi",
+          "occurrences": 1
+        },
+        {
+          "text": "HIIT, Strength",
+          "occurrences": 1
+        },
+        {
+          "text": "Torre Washington",
+          "occurrences": 1
+        },
+        {
+          "text": "Muscle-Building",
+          "occurrences": 1
+        },
+        {
+          "text": "Sergio Perera",
+          "occurrences": 1
+        },
+        {
+          "text": "Recipes, Meditation",
+          "occurrences": 1
+        },
+        {
+          "text": "Results Backed by Reviews: 65,000 and Counting",
+          "occurrences": 1
+        },
+        {
+          "text": "App Store Reviews Testimonials",
+          "occurrences": 1
+        },
+        {
+          "text": "Getting strong & thriving… made easy!",
+          "occurrences": 1
+        },
+        {
+          "text": "You get the best, most diverse workouts, for all levels… these programs are made in such (a) way that they are easy to follow and soon enough you will feel strong & thriving!",
+          "occurrences": 1
+        },
+        {
+          "text": "SurfingRose",
+          "occurrences": 1
+        },
+        {
+          "text": "The one App that’s made a difference",
+          "occurrences": 1
+        },
+        {
+          "text": "I’ve had Centr for around 4 years.",
+          "occurrences": 1
+        },
+        {
+          "text": "I used to just cycle and was out of balance.",
+          "occurrences": 1
+        },
+        {
+          "text": "I’ve had 4 big tummy surgeries and my core was weak.",
+          "occurrences": 1
+        },
+        {
+          "text": "Now I’m fitter, healthier, balanced, strong and my core is awesome.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": true,
+      "added_total": 362,
+      "removed_total": 221
+    }
+  }
+}

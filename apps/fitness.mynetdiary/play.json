@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T07:57:59.964Z",
+  "fetched_at": "2026-08-13T07:59:26.987Z",
   "source": "google_play_scraper",
   "appId": "com.fourtechnologies.mynetdiary.ad",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Diet &amp; nutrition tracker with barcode scanner. Track food, calories, macros",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9435840,
-    "score": 4.668605,
+    "maxInstalls": 9438561,
+    "score": 4.668135,
     "scoreText": "4.7",
-    "ratings": 114414,
-    "reviews": 17866,
+    "ratings": 114478,
+    "reviews": 17873,
     "histogram": {
-      "1": 3370,
+      "1": 3391,
       "2": 1306,
-      "3": 3118,
-      "4": 14266,
-      "5": 92346
+      "3": 3116,
+      "4": 14259,
+      "5": 92397
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Sep 17, 2010",
-    "updated": 1785169051000,
+    "updated": 1786553713000,
     "version": "VARY",
     "recentChanges": "New interactive multi-chart views of everything you track—nutrition, exercise, weight, and health. Explore suggested Timelines and customize them to discover what’s driving your results. See the big picture, then drill down to the details.",
     "comments": [],

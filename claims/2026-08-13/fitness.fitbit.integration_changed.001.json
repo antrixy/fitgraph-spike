@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.fitbit",
+  "integration": "fitbit",
+  "direction": "removed",
+  "observed_at": "2026-08-13T08:04:38.826Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Stephen Curry and his performance team join forces with Google’s trusted innovators to bring you Google Health and a special edition band for Google Fitbit Air.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "69d978bed4c3e82593583a3e3ff13d3fd92206ed"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

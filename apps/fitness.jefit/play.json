@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T07:59:35.742Z",
+  "fetched_at": "2026-08-13T08:01:02.422Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 9884895,
     "score": 4.4314756,
     "scoreText": "4.4",
-    "ratings": 89697,
+    "ratings": 89698,
     "reviews": 11712,
     "histogram": {
       "1": 6998,
       "2": 2351,
       "3": 3646,
       "4": 8644,
-      "5": 68050
+      "5": 68051
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "adSupported": false,
     "released": "Sep 15, 2010",
     "updated": 1785970396000,
-    "version": "VARY",
-    "recentChanges": "Logging your sets just got more fluid — hitting Done on the keyboard now instantly logs the set and dismisses the keyboard in one go, so nothing breaks your workout rhythm. Plus a handful of bug fixes along the way.",
+    "version": "17.2.12",
+    "recentChanges": "Adaptive Plans now offer a 7-day free trial — try personalized programming before you commit. The Progress Index has a fresh redesign with new charts, cards, and a how-to-read walkthrough. Injuries you mark now sync to your adaptive plan so your program reflects your actual training state, and weight predictions snap to equipment increments for cleaner logging. Plus a handful of bug fixes along the way.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T08:01:53.658Z",
+  "fetched_at": "2026-08-13T08:03:18.235Z",
   "source": "google_play_scraper",
   "appId": "com.runtastic.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "From Walk to Marathon training",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 96963257,
-    "score": 4.637769,
+    "maxInstalls": 96972668,
+    "score": 4.6365337,
     "scoreText": "4.6",
-    "ratings": 1722807,
-    "reviews": 25321,
+    "ratings": 1723103,
+    "reviews": 25320,
     "histogram": {
-      "1": 76685,
-      "2": 21786,
-      "3": 46011,
-      "4": 159839,
-      "5": 1418447
+      "1": 76662,
+      "2": 22584,
+      "3": 46001,
+      "4": 159794,
+      "5": 1418022
     },
     "price": 0,
     "free": true,
