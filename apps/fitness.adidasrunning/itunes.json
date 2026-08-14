@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-08-13T08:03:15.280Z",
+  "fetched_at": "2026-08-14T07:59:26.725Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=336599882&country=us",
   "result": {
+    "isGameCenterEnabled": false,
+    "advisories": [],
+    "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/ca/e1/35cae1e6-9f25-2873-356e-3d7afda14c52/1.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/d4/da/91d4da31-6bd6-1c30-2496-8d9f6a14cc04/2.jpg/320x480bb.jpg",
@@ -15,13 +18,11 @@
     ],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/adidas/id336599885?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/adidas/id336599885?uo=4",
     "features": [],
-    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -152,7 +153,26 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
+    "artistId": 336599885,
+    "artistName": "adidas",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "price": 0,
+    "sellerName": "Adidas International Marketing B.V.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseDate": "2009-11-23T17:28:58Z",
+    "releaseNotes": "Goal widgets have arrived! It's now easy to see your active goals and progress at a glance. Update now and enjoy the latest version.",
+    "currentVersionReleaseDate": "2026-08-13T06:51:25Z",
+    "version": "14.9.1",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Welcome to the adidas Running app — your all-in-one fitness companion. Move more, train smarter, and stay motivated every day. Track your runs, walks, and workouts, discover new challenges, and turn your activity into real progress. \n \nDesigned for athletes of all levels, the adidas Running app helps you build healthy habits and stay consistent. Whether you're just starting your fitness journey, returning after a break, or working toward your next goal, you’ll find guidance and motivation to move you forward step by step.  \n \nTrack activities, monitor your stats, and see your progress over time. Stay inspired by joining global challenges. Connect with a supportive community and celebrate every milestone along the way. With the adidas Running app, every effort counts and is rewarded. \n \nTrack and log runs, walks, cycling, swimming, and more, all in one place. Follow your performance with real-time tracking. Get detailed insights and stay on target with personalized plans tailored to you. From your first run to your next personal best, the adidas Running app helps you keep moving towards your goal. \n \nDownload today and join the 70 million people using the adidas Running app to stay active, build healthy routines, and unlock their potential. \n  \nADIDAS RUNNING APP FEATURES: \n \nTRACK YOUR ACTIVITIES WITH EASE \n•Track running, walking, cycling, and 90+ other sports with GPS and real-time stats \n•Monitor distance, pace, time, and calories burned \n•Get a full overview of your activities with detailed activity summaries and progress tracking \n•Easily sync with your favourite wearable devices \n \nGUIDANCE TO REACH YOUR GOALS \n•Explore personalized training plans for runners of all levels \n•Get voice coaching and insights to support every workout \n•Set goals and build routines that fit your lifestyle \n•Track your improvements and stay consistent over time \n \nSTAY MOTIVATED WITH COMMUNITY CHALLENGES \n•Join global challenges and virtual races to stay inspired \n•Connect with a worldwide fitness community \n•Share your progress and celebrate achievements \n \nREWARDS THAT KEEP YOU MOVING \n•Earn rewards through activity and engagement \n•Get exclusive adidas experiences and products \n•Stay connected to the wider digital world of adidas  \n \nBUILT FOR EVERYONE \n•Download and get started in just a few clicks \n•Supports all types of activities and fitness goals \n•Designed to help you build habits that last ",
+    "averageUserRating": 4.80008,
+    "trackCensoredName": "adidas Running: Run tracker",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -168,40 +188,20 @@
     ],
     "fileSizeBytes": "284751872",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 106859,
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 106891,
+    "trackViewUrl": "https://apps.apple.com/us/app/adidas-running-run-tracker/id336599882?uo=4",
     "trackContentRating": "4+",
     "sellerUrl": "https://www.runtastic.com",
-    "trackCensoredName": "adidas Running: Run tracker",
-    "trackViewUrl": "https://apps.apple.com/us/app/adidas-running-run-tracker/id336599882?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.80009,
-    "averageUserRatingForCurrentVersion": 4.80009,
-    "artistId": 336599885,
-    "artistName": "adidas",
-    "sellerName": "Adidas International Marketing B.V.",
-    "price": 0,
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "averageUserRatingForCurrentVersion": 4.80008,
     "bundleId": "at.runtastic.gpssportapp",
-    "releaseDate": "2009-11-23T17:28:58Z",
+    "minimumOsVersion": "17.0",
     "trackId": 336599882,
     "trackName": "adidas Running: Run tracker",
-    "currentVersionReleaseDate": "2026-08-13T06:51:25Z",
-    "releaseNotes": "Goal widgets have arrived! It's now easy to see your active goals and progress at a glance. Update now and enjoy the latest version.",
-    "version": "14.9.1",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Welcome to the adidas Running app — your all-in-one fitness companion. Move more, train smarter, and stay motivated every day. Track your runs, walks, and workouts, discover new challenges, and turn your activity into real progress. \n \nDesigned for athletes of all levels, the adidas Running app helps you build healthy habits and stay consistent. Whether you're just starting your fitness journey, returning after a break, or working toward your next goal, you’ll find guidance and motivation to move you forward step by step.  \n \nTrack activities, monitor your stats, and see your progress over time. Stay inspired by joining global challenges. Connect with a supportive community and celebrate every milestone along the way. With the adidas Running app, every effort counts and is rewarded. \n \nTrack and log runs, walks, cycling, swimming, and more, all in one place. Follow your performance with real-time tracking. Get detailed insights and stay on target with personalized plans tailored to you. From your first run to your next personal best, the adidas Running app helps you keep moving towards your goal. \n \nDownload today and join the 70 million people using the adidas Running app to stay active, build healthy routines, and unlock their potential. \n  \nADIDAS RUNNING APP FEATURES: \n \nTRACK YOUR ACTIVITIES WITH EASE \n•Track running, walking, cycling, and 90+ other sports with GPS and real-time stats \n•Monitor distance, pace, time, and calories burned \n•Get a full overview of your activities with detailed activity summaries and progress tracking \n•Easily sync with your favourite wearable devices \n \nGUIDANCE TO REACH YOUR GOALS \n•Explore personalized training plans for runners of all levels \n•Get voice coaching and insights to support every workout \n•Set goals and build routines that fit your lifestyle \n•Track your improvements and stay consistent over time \n \nSTAY MOTIVATED WITH COMMUNITY CHALLENGES \n•Join global challenges and virtual races to stay inspired \n•Connect with a worldwide fitness community \n•Share your progress and celebrate achievements \n \nREWARDS THAT KEEP YOU MOVING \n•Earn rewards through activity and engagement \n•Get exclusive adidas experiences and products \n•Stay connected to the wider digital world of adidas  \n \nBUILT FOR EVERYONE \n•Download and get started in just a few clicks \n•Supports all types of activities and fitness goals \n•Designed to help you build habits that last ",
-    "minimumOsVersion": "17.0",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "userRatingCount": 106859
+    "userRatingCount": 106891
   }
 }

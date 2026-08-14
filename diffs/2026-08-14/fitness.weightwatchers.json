@@ -1,0 +1,143 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-08-14",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:00:08.438Z",
+      "curr_fetched_at": "2026-08-14T07:56:25.673Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.26.1",
+          "new": "11.27.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "curr_fetched_at": "2026-08-14T07:56:34.044Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "50% off with a 12-month plan",
+          "occurrences": 1
+        },
+        {
+          "text": "*Pricing based on a 12-month commitment.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews at the end of each plan term for another 12-month period unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "^$25 for your first month with a 12-month or 6-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "After the first month, membership continues for $74/mo (12-month plan) or $84/mo (6-month plan) for the remainder of your applicable plan term.",
+          "occurrences": 2
+        },
+        {
+          "text": "Plans auto-renew for another 12-month or 6-month period at the same monthly rate at the end of each plan term.",
+          "occurrences": 2
+        },
+        {
+          "text": "Starting at $12 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $22 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $25 /first month^",
+          "occurrences": 1
+        },
+        {
+          "text": "Access to medication, clinical care, and comprehensive support.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "SUMMER FLASH SALE ENDS TODAY!",
+          "occurrences": 1
+        },
+        {
+          "text": "Save 66% on your first two months of Med+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start for just $25!",
+          "occurrences": 1
+        },
+        {
+          "text": "*Offer ends 8/13/2026.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $10/month for your first 12 months when you purchase a 12-month Weight Watchers Core membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews for another 12-month period at the regular price at the end of each plan term unless canceled.",
+          "occurrences": 2
+        },
+        {
+          "text": "Excludes all other Weight Watchers plans, packages and services.",
+          "occurrences": 1
+        },
+        {
+          "text": "†Offer ends 8/13/2026.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $20/month for your first 12 months when you purchase a 12-month Weight Watchers Core+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Offer available in participating areas only .",
+          "occurrences": 1
+        },
+        {
+          "text": "^Offer ends 8/13/26 at 11:59 PM PDT.",
+          "occurrences": 2
+        },
+        {
+          "text": "$25/month for the first two months with a 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "After the first two months, membership continues for $74/mo for remainder of the 12-month plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Plan auto-renews for another 12-month period at the same monthly rate at the end of each plan.",
+          "occurrences": 2
+        },
+        {
+          "text": "Starting at $10 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $20 /month†",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $25 /mo for first two months^",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 prescriptions, clinical care, and comprehensive support.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 10,
+      "removed_total": 18
+    }
+  }
+}

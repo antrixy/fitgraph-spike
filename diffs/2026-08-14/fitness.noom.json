@@ -1,0 +1,31 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-08-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "curr_fetched_at": "2026-08-14T07:56:22.054Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What to eat on semaglutide: A simple diet plan for the best results",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Which states have been affected by cyclosporiasis?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know before your next salad",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 2
+    }
+  }
+}

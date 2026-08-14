@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T08:07:07.417Z",
+  "fetched_at": "2026-08-14T08:03:24.570Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3653558,
-    "score": 4.6412215,
+    "score": 4.6414495,
     "scoreText": "4.6",
-    "ratings": 48411,
+    "ratings": 48414,
     "reviews": 3308,
     "histogram": {
       "1": 2554,
       "2": 676,
       "3": 614,
-      "4": 3879,
-      "5": 40679
+      "4": 3876,
+      "5": 40685
     },
     "price": 0,
     "free": true,
@@ -81,8 +81,8 @@
     "adSupported": false,
     "released": "May 3, 2021",
     "updated": 1786456549000,
-    "version": "1.207.0",
-    "recentChanges": "New Single: <br><br>  • Ocean Escape:  Take a moment to rest as you immerse yourself in a visualized ocean setting.",
+    "version": "1.208.0",
+    "recentChanges": "We’ve fixed various bugs throughout the app.<br><br>For more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

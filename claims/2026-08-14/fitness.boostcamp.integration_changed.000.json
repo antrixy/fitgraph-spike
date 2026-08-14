@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.boostcamp",
+  "integration": "apple_health",
+  "direction": "added",
+  "observed_at": "2026-08-14T07:58:10.715Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "ome new features: - Redesigned Program Creator: build and edit your entire program from one screen, set it up faster. - Apple Health: keep your bodyweight in sync, in addition to your workouts. Plus bug fixes and general improvements to the app for bet",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

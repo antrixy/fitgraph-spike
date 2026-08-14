@@ -1,0 +1,19 @@
+{
+  "product": "fitness.freeletics",
+  "name": "Freeletics",
+  "date": "2026-08-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:06:22.829Z",
+      "curr_fetched_at": "2026-08-14T08:02:39.625Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.30.2",
+          "new": "26.31.1"
+        }
+      ]
+    }
+  }
+}

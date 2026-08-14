@@ -1,12 +1,33 @@
 {
-  "fetched_at": "2026-08-13T08:06:32.241Z",
+  "fetched_at": "2026-08-14T08:02:48.012Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=320606217&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/10/b95f10a9-f830-56a7-9eb7-8baef37dce10/6.9__Non-EN_Master_ASO_iPhone_Screen_2.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/76/30/9c763065-aa90-4ff3-4e2c-cd8bd3177d3b/6.9__Non-EN_Master_ASO_iPhone_Screen_3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/e0/1ecae0b2-9e2b-52b7-e389-a83f9e568c53/6.9__Non-EN_Master_ASO_iPhone_Screen_4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/de/2a/39de2a27-1d1b-45e0-e688-fa736c6beb1a/6.9__Non-EN_Master_ASO_iPhone_Screen_5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/46/20/cf46201e-4960-2b97-eb78-d49b630c3161/6.9__Non-EN_Master_ASO_iPhone_Screen_7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b5/27/76b52794-ecf9-f5e2-1698-ebb3225a41c4/6.9__Non-EN_Master_ASO_iPhone_Screen_8.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/84/d4/8e84d4ca-be94-a288-20fa-407d1dcf5d8e/6.9__Non-EN_Master_ASO_iPhone_Screen_9.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ca/53/4aca53d6-68a2-22f9-7f57-62bd68c7d368/6.9__Non-EN_Master_ASO_iPhone_Screen_6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/6f/8f/156f8fd6-01e6-6604-5938-f9156f301842/6.9__Non-EN_Master_ASO_iPhone_Screen_10.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/54/1a/d0541a50-455c-f47e-d79f-14849cb4b1b9/EN_1.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/06/4ef606f7-c397-9c83-9779-df1f10bd384c/Screen_24.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d5/c4/c2d5c4c0-ce46-395a-5df0-438d95161086/Screen3.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c3/e9/40c3e9c1-6bf7-e92f-de4e-ea50a16d9a13/Screen_39.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/aa/78/27aa78f9-d297-c940-a4a7-ed973e14a92d/Screen_54.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/fa/44/2bfa444c-08c7-499d-0d9b-404e40de429c/Screen_69.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/5f/fa/ac5ffa70-92a4-1211-7164-42e436797002/Screen_83.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/4e/c0/b04ec041-46df-c497-3fd7-5189e998c104/Screen_98.jpg/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "artistViewUrl": "https://apps.apple.com/us/developer/sleep-cycle-ab/id320606220?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
     "features": [
       "iosUniversal"
     ],
@@ -142,61 +163,10 @@
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/34/10/3034100b-4c93-5831-fd26-272f37bf6ff7/6.9__Non-EN_Master_ASO_iPhone_Screen_1.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/10/b95f10a9-f830-56a7-9eb7-8baef37dce10/6.9__Non-EN_Master_ASO_iPhone_Screen_2.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/76/30/9c763065-aa90-4ff3-4e2c-cd8bd3177d3b/6.9__Non-EN_Master_ASO_iPhone_Screen_3.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ca/e0/1ecae0b2-9e2b-52b7-e389-a83f9e568c53/6.9__Non-EN_Master_ASO_iPhone_Screen_4.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/de/2a/39de2a27-1d1b-45e0-e688-fa736c6beb1a/6.9__Non-EN_Master_ASO_iPhone_Screen_5.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/46/20/cf46201e-4960-2b97-eb78-d49b630c3161/6.9__Non-EN_Master_ASO_iPhone_Screen_7.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b5/27/76b52794-ecf9-f5e2-1698-ebb3225a41c4/6.9__Non-EN_Master_ASO_iPhone_Screen_8.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/84/d4/8e84d4ca-be94-a288-20fa-407d1dcf5d8e/6.9__Non-EN_Master_ASO_iPhone_Screen_9.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ca/53/4aca53d6-68a2-22f9-7f57-62bd68c7d368/6.9__Non-EN_Master_ASO_iPhone_Screen_6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/6f/8f/156f8fd6-01e6-6604-5938-f9156f301842/6.9__Non-EN_Master_ASO_iPhone_Screen_10.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/54/1a/d0541a50-455c-f47e-d79f-14849cb4b1b9/EN_1.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/f6/06/4ef606f7-c397-9c83-9779-df1f10bd384c/Screen_24.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d5/c4/c2d5c4c0-ce46-395a-5df0-438d95161086/Screen3.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/c3/e9/40c3e9c1-6bf7-e92f-de4e-ea50a16d9a13/Screen_39.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/aa/78/27aa78f9-d297-c940-a4a7-ed973e14a92d/Screen_54.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/fa/44/2bfa444c-08c7-499d-0d9b-404e40de429c/Screen_69.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/5f/fa/ac5ffa70-92a4-1211-7164-42e436797002/Screen_83.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/4e/c0/b04ec041-46df-c497-3fd7-5189e998c104/Screen_98.jpg/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.6775,
-    "trackCensoredName": "Sleep Cycle - Tracker & Sounds",
-    "trackViewUrl": "https://apps.apple.com/us/app/sleep-cycle-tracker-sounds/id320606217?uo=4",
-    "contentAdvisoryRating": "4+",
-    "artistId": 320606220,
-    "artistName": "Sleep Cycle AB",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "releaseDate": "2009-07-23T23:52:39Z",
-    "currentVersionReleaseDate": "2026-08-12T08:56:40Z",
-    "trackName": "Sleep Cycle - Tracker & Sounds",
-    "trackId": 320606217,
-    "releaseNotes": "Bug fixes and improvements.",
-    "version": "6.26.31",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Built on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awarded Best Sleep App in 2024 by Digital Health Magazine and featured as App of the Month in Wellness Today. In 2024, Sleep Cycle won two Merit Healthcare Awards: Gold for Mobile Digital Health Resources and Silver for Best Use of Artificial Intelligence.\n\nWITH SLEEP CYCLE YOU CAN\n• Get guidance based on your sleep patterns with our AI sleep coach Luma. \n• Wake up gently during your lightest sleep phase with our Smart Alarm clock.\n• Track every night using patented sound technology or accelerometer-based sleep detection, no wearables needed.\n• Detect nighttime noises like snoring, coughing, or sleep talking, for a path to quieter sleep.\n• Drift off easily using our sleep sounds library of relaxing stories, sleepy soundscapes and guided meditations.\n• Understand your sleep patterns with long-term trends and compare your sleep to global benchmarks.\n• Log sleep notes to understand how caffeine, stress, or exercise affect your rest.\n\nWHY USE SLEEP CYCLE?\n• Wake feeling refreshed with no more groggy mornings.\n• Get daily stats to help you understand your rest.\n• Sleep guidance based on your tracked nights.\n• Health insights with snoring and cough tracking for wellness.\n• No gadgets, just place your phone on the nightstand.\n• Premium tools like supportive soundscapes, sleep stories, data export, Philips HUE sunrise and Apple Health sync.\n\nABOUT SLEEP CYCLE\nSleep Cycle helps you sleep smarter. Track your nights, gain valuable insights into your sleep patterns, and wake at just the right time to start the day energized. Sleep Cycle gives you science-backed tools and an AI sleep coach Luma to help you improve your sleep for brighter days.\n\nOur popular features include:\n• Superior sleep tracker.\n• AI sleep coach.\n• Smart Alarm clock.\n• Sleep talking recorder.\n• Advanced sleep analysis.\n• Snore tracker.\n• Sleep timer. \n• Cough recorder.\n• Sleep stages.\n• Sleep programs.\n• SleepGPT.\n• Sleep goal and score.\n• Relaxing sleep sounds like nature, rain and ocean sounds.\n• Sleep Aid including calming meditations and breathing exercises.\n• And more features to help you improve your rest.\n\n\nTALK TO US\nIf you need any help please contact our customer service at support.sleepcycle.com\n \nJOIN THE COMMUNITY\n ▶ Web: https://sleepcycle.com/\n ▶ Instagram: https://www.instagram.com/sleepcycleapp/\n ▶ TikTok: https://www.tiktok.com/@sleep_cycle\n ▶ Reddit: https://www.reddit.com/r/sleepcycle/\n\nTerms & Privacy\nhttps://www.sleepcycle.com/privacy-policy/ \n\nDOWNLOAD NOW – Sleep Better with Sleep Cycle",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/sleep-cycle-ab/id320606220?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c3/b1/92c3b17e-59c3-eec3-9537-06d6e4aff85d/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "sellerUrl": "https://www.sleepcycle.com",
-    "fileSizeBytes": "476213248",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 27929,
-    "trackContentRating": "4+",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -213,11 +183,41 @@
       "ZH",
       "TR"
     ],
+    "fileSizeBytes": "476213248",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 27963,
+    "trackContentRating": "4+",
     "minimumOsVersion": "16.2",
-    "averageUserRatingForCurrentVersion": 4.6775,
+    "averageUserRatingForCurrentVersion": 4.67781,
+    "releaseDate": "2009-07-23T23:52:39Z",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "price": 0,
+    "trackId": 320606217,
+    "trackName": "Sleep Cycle - Tracker & Sounds",
     "bundleId": "com.lexwarelabs.goodmorning",
     "sellerName": "Sleep Cycle AB",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-08-12T08:56:40Z",
     "isVppDeviceBasedLicensingEnabled": true,
-    "userRatingCount": 27929
+    "releaseNotes": "Bug fixes and improvements.",
+    "version": "6.26.31",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Built on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awarded Best Sleep App in 2024 by Digital Health Magazine and featured as App of the Month in Wellness Today. In 2024, Sleep Cycle won two Merit Healthcare Awards: Gold for Mobile Digital Health Resources and Silver for Best Use of Artificial Intelligence.\n\nWITH SLEEP CYCLE YOU CAN\n• Get guidance based on your sleep patterns with our AI sleep coach Luma. \n• Wake up gently during your lightest sleep phase with our Smart Alarm clock.\n• Track every night using patented sound technology or accelerometer-based sleep detection, no wearables needed.\n• Detect nighttime noises like snoring, coughing, or sleep talking, for a path to quieter sleep.\n• Drift off easily using our sleep sounds library of relaxing stories, sleepy soundscapes and guided meditations.\n• Understand your sleep patterns with long-term trends and compare your sleep to global benchmarks.\n• Log sleep notes to understand how caffeine, stress, or exercise affect your rest.\n\nWHY USE SLEEP CYCLE?\n• Wake feeling refreshed with no more groggy mornings.\n• Get daily stats to help you understand your rest.\n• Sleep guidance based on your tracked nights.\n• Health insights with snoring and cough tracking for wellness.\n• No gadgets, just place your phone on the nightstand.\n• Premium tools like supportive soundscapes, sleep stories, data export, Philips HUE sunrise and Apple Health sync.\n\nABOUT SLEEP CYCLE\nSleep Cycle helps you sleep smarter. Track your nights, gain valuable insights into your sleep patterns, and wake at just the right time to start the day energized. Sleep Cycle gives you science-backed tools and an AI sleep coach Luma to help you improve your sleep for brighter days.\n\nOur popular features include:\n• Superior sleep tracker.\n• AI sleep coach.\n• Smart Alarm clock.\n• Sleep talking recorder.\n• Advanced sleep analysis.\n• Snore tracker.\n• Sleep timer. \n• Cough recorder.\n• Sleep stages.\n• Sleep programs.\n• SleepGPT.\n• Sleep goal and score.\n• Relaxing sleep sounds like nature, rain and ocean sounds.\n• Sleep Aid including calming meditations and breathing exercises.\n• And more features to help you improve your rest.\n\n\nTALK TO US\nIf you need any help please contact our customer service at support.sleepcycle.com\n \nJOIN THE COMMUNITY\n ▶ Web: https://sleepcycle.com/\n ▶ Instagram: https://www.instagram.com/sleepcycleapp/\n ▶ TikTok: https://www.tiktok.com/@sleep_cycle\n ▶ Reddit: https://www.reddit.com/r/sleepcycle/\n\nTerms & Privacy\nhttps://www.sleepcycle.com/privacy-policy/ \n\nDOWNLOAD NOW – Sleep Better with Sleep Cycle",
+    "trackViewUrl": "https://apps.apple.com/us/app/sleep-cycle-tracker-sounds/id320606217?uo=4",
+    "trackCensoredName": "Sleep Cycle - Tracker & Sounds",
+    "averageUserRating": 4.67781,
+    "contentAdvisoryRating": "4+",
+    "artistId": 320606220,
+    "artistName": "Sleep Cycle AB",
+    "userRatingCount": 27963
   }
 }

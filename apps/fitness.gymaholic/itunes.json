@@ -1,31 +1,16 @@
 {
-  "fetched_at": "2026-08-13T08:01:25.466Z",
+  "fetched_at": "2026-08-14T07:57:48.503Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=648518560&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
+    "isGameCenterEnabled": false,
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d8/9c/7dd89c59-6e9b-c71a-ad06-9d203e85887a/Slice_1.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/da/37/b3da3769-a0e5-a314-f714-5dc085a2f91d/Slice_2.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/73/d2/bc73d255-f88c-5b35-4ee4-5afbe2d43d77/Slice_3.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/0a/f8/3f0af8c1-dba8-1560-11f7-2320b42f30d3/Slice_4.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/e4/67/3ee467ab-9159-d760-ddce-86aaa09417cf/Slice_5.png/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/77/47/497747af-9ed6-4c6f-fdf0-3a775ad496c7/Slice_2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/48/4c/05484ccd-f14d-d080-bc03-9d646820a0be/Slice_3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/9c/93/a09c933d-36b6-7c28-bc26-cf965554eea1/Slice_4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9b/29/449b294e-0792-5901-6b88-01b18caa0ca4/Slice_5.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/f7/09/e8f7092f-0119-094f-a591-819d3c2f3035/Slice_6.png/320x480bb.jpg"
-    ],
+    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
     "features": [
       "iosUniversal"
     ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -156,15 +141,51 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/77/47/497747af-9ed6-4c6f-fdf0-3a775ad496c7/Slice_2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/48/4c/05484ccd-f14d-d080-bc03-9d646820a0be/Slice_3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/9c/93/a09c933d-36b6-7c28-bc26-cf965554eea1/Slice_4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9b/29/449b294e-0792-5901-6b88-01b18caa0ca4/Slice_5.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/f7/09/e8f7092f-0119-094f-a591-819d3c2f3035/Slice_6.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d8/9c/7dd89c59-6e9b-c71a-ad06-9d203e85887a/Slice_1.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/da/37/b3da3769-a0e5-a314-f714-5dc085a2f91d/Slice_2.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/73/d2/bc73d255-f88c-5b35-4ee4-5afbe2d43d77/Slice_3.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/0a/f8/3f0af8c1-dba8-1560-11f7-2320b42f30d3/Slice_4.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/e4/67/3ee467ab-9159-d760-ddce-86aaa09417cf/Slice_5.png/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "minimumOsVersion": "26.0",
+    "contentAdvisoryRating": "4+",
     "trackCensoredName": "Gymaholic: Workout Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.57875,
+    "formattedPrice": "Free",
+    "fileSizeBytes": "180323328",
+    "averageUserRating": 4.57857,
+    "artistId": 648518563,
+    "artistName": "Devenyi Gabor",
+    "genres": [
+      "Health & Fitness"
+    ],
+    "price": 0,
+    "genreIds": [
+      "6013"
+    ],
+    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 648518560,
+    "trackName": "Gymaholic: Workout Tracker",
+    "sellerName": "Devenyi Gabor",
+    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
+    "releaseDate": "2013-07-03T03:46:34Z",
+    "releaseNotes": "Bug fixes and general improvements",
+    "version": "16.4",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Log every set from your Apple Watch. No phone, no fumbling.\n\nBuild muscle, gain strength, and track every workout. Log every rep, every plate, and every personal record across 850+ exercises with interactive 3D animations. Used by serious lifters for over a decade.\n\nAPPLE WATCH — YOUR WRIST IS ENOUGH\n\nStart, track, and log workouts directly from your Apple Watch. Record sets, reps, weight, heart rate, and calories without taking your phone out of your pocket.\n\nTRACK EVERY SET, OWN EVERY PR\n\nSmart progress charts show your strength gains and personal records over time. Monitor workout volume, training history, and performance trends with a clean, distraction-free interface built for the gym floor.\n\n850+ EXERCISES WITH 3D ANIMATIONS\n\nExplore a complete exercise library covering every major muscle group. Learn proper form with detailed instructions and interactive 3D animations available on iPhone, Apple Watch, Mac, Apple TV, and Vision Pro.\n\nPLANS THAT FIT YOUR TRAINING\n\n• Pre-made programs created by a competitive bodybuilding champion\n• Build your own routines from scratch\n• Modify any workout plan to match your goals\n• Train at the gym or at home\n• Strength training, bodybuilding, powerlifting, and functional fitness\n\nBUILT FOR THE ENTIRE APPLE ECOSYSTEM\n\n• iPhone for planning workouts and tracking progress\n• Apple Watch for logging workouts in the gym\n• Mac for analyzing your training history\n• Apple TV for following workouts on a bigger screen\n• Vision Pro for immersive fitness experiences\n\nEVERYTHING ELSE\n\n• Voice guidance to keep you focused during workouts\n• Rest timers and HIIT interval timers\n• Body metrics tracking including weight, body fat, and measurements\n• Apple Health integration for workouts, calories, and body metrics\n\nTry Gymaholic free for 7 days. No commitment.\n\nPremium is available as a monthly or annual subscription. Payment is charged to your Apple ID at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in App Store Account Settings.\n\nTerms of Use: https://www.gymaholic.app/termsofuse.html\nPrivacy Policy: https://www.gymaholic.app/privacypolicy.html",
     "sellerUrl": "https://www.gymaholic.app",
-    "userRatingCountForCurrentVersion": 3454,
-    "averageUserRatingForCurrentVersion": 4.57875,
     "languageCodesISO2A": [
       "AR",
       "NL",
@@ -182,33 +203,12 @@
       "ZH",
       "TR"
     ],
-    "fileSizeBytes": "180323328",
-    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 3455,
     "trackContentRating": "4+",
-    "artistId": 648518563,
-    "artistName": "Devenyi Gabor",
-    "genres": [
-      "Health & Fitness"
-    ],
-    "price": 0,
-    "trackName": "Gymaholic: Workout Tracker",
-    "trackId": 648518560,
+    "averageUserRatingForCurrentVersion": 4.57857,
     "bundleId": "mportal.Gymaholic",
-    "releaseDate": "2013-07-03T03:46:34Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "Devenyi Gabor",
-    "genreIds": [
-      "6013"
-    ],
-    "releaseNotes": "Bug fixes and general improvements",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
-    "version": "16.4",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Log every set from your Apple Watch. No phone, no fumbling.\n\nBuild muscle, gain strength, and track every workout. Log every rep, every plate, and every personal record across 850+ exercises with interactive 3D animations. Used by serious lifters for over a decade.\n\nAPPLE WATCH — YOUR WRIST IS ENOUGH\n\nStart, track, and log workouts directly from your Apple Watch. Record sets, reps, weight, heart rate, and calories without taking your phone out of your pocket.\n\nTRACK EVERY SET, OWN EVERY PR\n\nSmart progress charts show your strength gains and personal records over time. Monitor workout volume, training history, and performance trends with a clean, distraction-free interface built for the gym floor.\n\n850+ EXERCISES WITH 3D ANIMATIONS\n\nExplore a complete exercise library covering every major muscle group. Learn proper form with detailed instructions and interactive 3D animations available on iPhone, Apple Watch, Mac, Apple TV, and Vision Pro.\n\nPLANS THAT FIT YOUR TRAINING\n\n• Pre-made programs created by a competitive bodybuilding champion\n• Build your own routines from scratch\n• Modify any workout plan to match your goals\n• Train at the gym or at home\n• Strength training, bodybuilding, powerlifting, and functional fitness\n\nBUILT FOR THE ENTIRE APPLE ECOSYSTEM\n\n• iPhone for planning workouts and tracking progress\n• Apple Watch for logging workouts in the gym\n• Mac for analyzing your training history\n• Apple TV for following workouts on a bigger screen\n• Vision Pro for immersive fitness experiences\n\nEVERYTHING ELSE\n\n• Voice guidance to keep you focused during workouts\n• Rest timers and HIIT interval timers\n• Body metrics tracking including weight, body fat, and measurements\n• Apple Health integration for workouts, calories, and body metrics\n\nTry Gymaholic free for 7 days. No commitment.\n\nPremium is available as a monthly or annual subscription. Payment is charged to your Apple ID at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in App Store Account Settings.\n\nTerms of Use: https://www.gymaholic.app/termsofuse.html\nPrivacy Policy: https://www.gymaholic.app/privacypolicy.html",
-    "minimumOsVersion": "26.0",
-    "userRatingCount": 3454
+    "userRatingCount": 3455
   }
 }

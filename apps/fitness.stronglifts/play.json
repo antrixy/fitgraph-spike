@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T08:01:35.153Z",
+  "fetched_at": "2026-08-14T07:58:02.496Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "The simplest, most proven barbell program. Get stronger in 3 workouts a week.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2372784,
-    "score": 4.335705,
+    "maxInstalls": 2372867,
+    "score": 4.3329945,
     "scoreText": "4.3",
-    "ratings": 101163,
-    "reviews": 13957,
+    "ratings": 101164,
+    "reviews": 13958,
     "histogram": {
-      "1": 14838,
+      "1": 14920,
       "2": 787,
       "3": 1267,
-      "4": 2946,
-      "5": 81320
+      "4": 2879,
+      "5": 81299
     },
     "price": 0,
     "free": true,

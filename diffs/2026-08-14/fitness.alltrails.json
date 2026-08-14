@@ -1,0 +1,25 @@
+{
+  "product": "fitness.alltrails",
+  "name": "AllTrails",
+  "date": "2026-08-14",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:04:13.762Z",
+      "curr_fetched_at": "2026-08-14T08:00:28.125Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.8.10",
+          "new": "26.8.20"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:04:15.782Z",
+      "curr_fetched_at": "2026-08-14T08:00:32.071Z",
+      "version_unreported": true
+    }
+  }
+}

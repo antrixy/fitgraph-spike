@@ -1,0 +1,13 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-08-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T07:59:01.838Z",
+      "curr_fetched_at": "2026-08-14T07:55:16.133Z",
+      "version_unreported": true
+    }
+  }
+}

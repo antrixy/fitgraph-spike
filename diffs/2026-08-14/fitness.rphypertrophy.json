@@ -1,0 +1,24 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-08-14",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:02:07.832Z",
+      "curr_fetched_at": "2026-08-14T07:58:25.923Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.3.0",
+          "new": "1.4.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Improves keyboard handling and fixes various layout issues.",
+          "new": "Fixes some layout bugs when entering text"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-08-14",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "0b2b8c571700ff23e1e07e31cd21d209a8f4cbf8",
+      "prev_fetched_at": "2026-08-13T08:02:41.969Z",
+      "curr_fetched_at": "2026-08-14T07:59:00.732Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "A bolder map for every move. Ranked trails, difficulty grades, and MTB grading come to every hike and ride, plus new POIs: trailheads, viewpoints, water, first aid, and more.  Your personal heatmap now has a high-contrast option, so it&#39;s easier to see where you&#39;ve been and where you haven&#39;t.<br>",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>"
+        }
+      ]
+    }
+  }
+}
