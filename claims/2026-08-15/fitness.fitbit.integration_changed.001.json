@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "- General stability improvements and bug fixes. - Sync to Apple Health. Share your data like your exercise records, sleep, vitals, steps and more from Google Health to Apple Health. - Smart",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "914ce7cabec163a818ba136e89d109ace357e9c4",
       "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218"
     }
   ],

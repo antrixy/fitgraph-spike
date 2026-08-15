@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "images. Bug fixes - Fixed several crashes and app freezes. - Improved the 'Tips for you' recommendations. - Fixed the Garmin connection screen in dark mode.",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "914ce7cabec163a818ba136e89d109ace357e9c4",
       "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218"
     }
   ],
