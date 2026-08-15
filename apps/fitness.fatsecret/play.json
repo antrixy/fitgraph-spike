@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T07:55:33.212Z",
+  "fetched_at": "2026-08-15T07:03:48.722Z",
   "source": "google_play_scraper",
   "appId": "com.fatsecret.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 62896137,
-    "score": 4.5560684,
+    "score": 4.5551157,
     "scoreText": "4.6",
-    "ratings": 543882,
-    "reviews": 24679,
+    "ratings": 543923,
+    "reviews": 24680,
     "histogram": {
-      "1": 30852,
-      "2": 10038,
-      "3": 13266,
-      "4": 61340,
-      "5": 428359
+      "1": 30870,
+      "2": 10047,
+      "3": 13283,
+      "4": 61748,
+      "5": 427956
     },
     "price": 0,
     "free": true,

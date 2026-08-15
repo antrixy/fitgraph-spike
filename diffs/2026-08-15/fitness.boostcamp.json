@@ -1,0 +1,159 @@
+{
+  "product": "fitness.boostcamp",
+  "name": "Boostcamp",
+  "date": "2026-08-15",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "curr_fetched_at": "2026-08-15T07:06:33.216Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "43,612 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,442 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "30,915 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,253 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "4.27",
+          "occurrences": 1
+        },
+        {
+          "text": "24,996 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "19,954 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,612 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 24,996 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,442 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,776 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 19,954 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,462 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,253 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,350 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 30,915 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,847 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,401 joined",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "43,605 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,433 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "30,901 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,247 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "24,993 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "19,947 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,605 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 24,993 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,433 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,773 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 19,947 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,456 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,247 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,347 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 30,901 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,843 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,397 joined",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 18,
+      "removed_total": 17
+    }
+  }
+}

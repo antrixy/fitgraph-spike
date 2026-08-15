@@ -1,0 +1,119 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-08-15",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "curr_fetched_at": "2026-08-15T07:08:32.208Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "100% satisfaction guaranteed or your money back in the first 30 days!",
+          "occurrences": 1
+        },
+        {
+          "text": "Save $54 a year!",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed Annually $17.45 $ 17 .45 USD / month $209.99 USD / year Start Training",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed Monthly $21.99 $ 21 .99 USD / month Start Training",
+          "occurrences": 1
+        },
+        {
+          "text": "See how TrainerRoad + Zwift works &rarr;",
+          "occurrences": 1
+        },
+        {
+          "text": "&ldquo;",
+          "occurrences": 14
+        },
+        {
+          "text": "It plays a major role in my training and in all honesty, I&#39;d be lost without it.",
+          "occurrences": 4
+        },
+        {
+          "text": "I&#39;ve gotten so much stronger and faster on the bike using the TR platform that I&#39;m now crushing fellow cyclists that used to destroy me.",
+          "occurrences": 4
+        },
+        {
+          "text": "It&#39;s constantly updated with useful improvements.",
+          "occurrences": 4
+        },
+        {
+          "text": "I couldn&#39;t be happier!!!",
+          "occurrences": 4
+        },
+        {
+          "text": "TrainerRoad is easily one of the best purchases I&#39;ve ever made for training.",
+          "occurrences": 2
+        },
+        {
+          "text": "I can&#39;t recommend this enough.",
+          "occurrences": 2
+        },
+        {
+          "text": "Ready to write your own success story?",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "100% satisfaction guaranteed",
+          "occurrences": 1
+        },
+        {
+          "text": "or your money back in the first 30 days!",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed Annually $17.45 / month $ 209 99 USD / year Start Training 30-day money-back guarantee.",
+          "occurrences": 1
+        },
+        {
+          "text": "Save $54 / year",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed Monthly $ 21 99 USD / month Start Training 30-day money-back guarantee.",
+          "occurrences": 1
+        },
+        {
+          "text": "See how TrainerRoad + Zwift works →",
+          "occurrences": 1
+        },
+        {
+          "text": "It plays a major role in my training and in all honesty, I&#x27;d be lost without it.",
+          "occurrences": 4
+        },
+        {
+          "text": "I&#x27;ve gotten so much stronger and faster on the bike using the TR platform that I&#x27;m now crushing fellow cyclists that used to destroy me.",
+          "occurrences": 4
+        },
+        {
+          "text": "It&#x27;s constantly updated with useful improvements.",
+          "occurrences": 4
+        },
+        {
+          "text": "I couldn&#x27;t be happier!!!",
+          "occurrences": 4
+        },
+        {
+          "text": "TrainerRoad is easily one of the best purchases I&#x27;ve ever made for training.",
+          "occurrences": 2
+        },
+        {
+          "text": "I can&#x27;t recommend this enough.",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 13,
+      "removed_total": 12
+    }
+  }
+}

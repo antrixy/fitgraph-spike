@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-08-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "prev_fetched_at": "2026-08-14T08:00:17.170Z",
+      "curr_fetched_at": "2026-08-15T07:08:46.103Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.32.4",
+          "new": "2026.33.3"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- Improved the accuracy of elevation during recording and navigation.\n- Pinch to zoom on Highlight images.\n\nBug fixes\n- Fixed several crashes and app freezes.\n- Improved the 'Tips for you' recommendations.\n- Fixed the Garmin connection screen in dark mode.",
+          "new": "What's new?\n- Get reminders to stop recording when your activity appears to be finished.\n\nBug fixes\n- Fixed several issues with offline maps and saved routes.\n- Fixed an issue on the Routes tab where the bottom sheet became transparent.\n- Improved translations in Spanish."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "prev_fetched_at": "2026-08-14T08:00:19.300Z",
+      "curr_fetched_at": "2026-08-15T07:08:48.758Z",
+      "version_unreported": true
+    }
+  }
+}

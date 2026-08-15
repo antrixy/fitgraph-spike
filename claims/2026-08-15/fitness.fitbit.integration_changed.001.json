@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.fitbit",
+  "integration": "apple_health",
+  "direction": "removed",
+  "observed_at": "2026-08-15T07:09:20.205Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "- General stability improvements and bug fixes. - Sync to Apple Health. Share your data like your exercise records, sleep, vitals, steps and more from Google Health to Apple Health. - Smart",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

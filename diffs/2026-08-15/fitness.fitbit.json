@@ -1,0 +1,45 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "prev_fetched_at": "2026-08-14T08:00:50.664Z",
+      "curr_fetched_at": "2026-08-15T07:09:20.205Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.05.1",
+          "new": "5.06"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "- General stability improvements and bug fixes.\n- Sync to Apple Health. Share your data like your exercise records, sleep, vitals, steps and more from Google Health to Apple Health.\n- Smart Health Links. Create a Smart Health Link to share your medical records with your provider or family.",
+          "new": "Performance improvements and bug fixes."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "prev_fetched_at": "2026-08-14T08:00:52.741Z",
+      "curr_fetched_at": "2026-08-15T07:09:23.679Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "c0c23b04a9d7567cd6bef4a0ea8c265b20bb4218",
+      "curr_fetched_at": "2026-08-15T07:09:25.956Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Pixel Watch 5",
+          "occurrences": 2
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-08-14T07:55:41.368Z",
+  "fetched_at": "2026-08-15T07:03:56.561Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=287529757&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/83/7e/e5837eb4-3a04-2efc-226f-d1c36e5502c1/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/83/7e/e5837eb4-3a04-2efc-226f-d1c36e5502c1/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -134,9 +137,6 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/cf/ec/0bcfecae-6ffc-606e-f6a6-92232a1af6a2/Screen1.png/320x480bb.jpg",
@@ -150,9 +150,6 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/72/b0/af72b041-5bf3-beb8-e422-b2e168829e1d/Screen9.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/94/69/699469e0-3215-5da7-dda4-32198a016b47/Screen10.png/320x480bb.jpg"
     ],
-    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/83/7e/e5837eb4-3a04-2efc-226f-d1c36e5502c1/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/83/7e/e5837eb4-3a04-2efc-226f-d1c36e5502c1/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
     "ipadScreenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/c1/19/b6c119df-d6ba-74e9-cbd6-7f5fa3804c7e/Screen1.png/360x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c6/1e/8cc61e94-29d4-a57f-111c-005ca2e8c23e/Screen2.png/360x480bb.jpg",
@@ -170,45 +167,48 @@
     "features": [
       "iosUniversal"
     ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+    ],
+    "averageUserRating": 4.81046,
+    "trackCensoredName": "Calorie Counter - MyNetDiary",
+    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
+    "contentAdvisoryRating": "12+",
     "artistId": 287529760,
     "artistName": "MyNetDiary Inc.",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "price": 0,
-    "releaseDate": "2019-02-03T08:00:00Z",
-    "currentVersionReleaseDate": "2026-08-12T21:35:07Z",
-    "trackId": 287529757,
     "trackName": "Calorie Counter - MyNetDiary",
+    "releaseDate": "2019-02-03T08:00:00Z",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "currentVersionReleaseDate": "2026-08-12T21:35:07Z",
+    "trackId": 287529757,
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "MyNetDiary Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "MyNetDiary Inc.",
     "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
     "version": "10.31",
     "wrapperType": "software",
     "currency": "USD",
     "description": "MyNetDiary is the calorie tracker you'll actually stick with: fast, accurate, and ad-free. Log meals in seconds with the free barcode scanner, Meal Scan (just photograph your plate), or quick search. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Scored highest of 30 apps for behavioral strategies in the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian.\n\nWHY PEOPLE SWITCH\n\nAccuracy: MyNetDiary runs on a staff-verified food database of over 2 million foods with up to 108 nutrients per entry, built on USDA and NCC research-grade sources, the same databases used in clinical research. Most apps rely on crowdsourced data full of duplicates and errors. Our team reviews and updates 2,500-3,500 foods every day.\n\nSpeed: In our January 2026 test, we logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker. Less time logging means you actually keep doing it.\n\nValue: The free version is generous, with barcode scanning, full macro tracking, water tracking, a calorie calculator, and progress charts. No ads, no account required, no paywall tricks.\n\nWHAT YOU GET FOR FREE\n\n• Food diary with search, favorites, recent meals, and copy-from-day.\n• Free barcode scanner with accurate nutrition data from the verified database.\n• Voice logging for quick, hands-free food entry.\n• Full macro and protein tracking.\n• Accurate nutrition planning and tracking for free: up to 108 nutrients (vitamins, minerals, omegas, amino acids)\n• Exercise tracking\n• Water tracking.\n• Calorie calculator, deficit tracking, and customizable dashboard.\n• Apple Watch app and widgets for quick logging and progress checks.\n• Comprehensive sync with Apple Health - writes 51 data types and reads 14\n• Coaching tips, meal reminders, shopping lists.\n• Professional Connect: share your diary with a dietitian, coach, or doctor. Used by dietitians and health professionals at no cost.\n• Inspiring community with daily success stories.\n• Articles by Registered Dietitians and how-to videos.\n\nPREMIUM\n\n• Meal Scan: photograph your plate and log it instantly, matched against the staff-verified database.\n• AI voice logging: describe your meal out loud and MyNetDiary logs it.\n• Sync with Fitbit, Garmin, and Withings for automatic exercise, steps, and weight.\n• GLP-1 Companion: nutrition-first support for Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications, focused on protecting muscle and meeting protein targets while you lose weight.\n• Calorie and macro cycling.\n• Autologging: set your regular meals once (foods, amounts, days, mealtimes) and MyNetDiary logs them automatically.\n• Intermittent fasting with multiple protocols.\n• Diet Autopilot: your calorie budget adjusts automatically as you lose weight. \n• Advanced AutoPilot adapts targets to your actual metabolism.\n• Health tracking: measurements, blood pressure, cholesterol, blood glucose, A1C, ketones, medications, and more.\n• Trend Analysis to spot patterns and optimize your diet.\n• Meal Planner with shopping lists.\n• Recipe import from the web with reliable nutrient counts.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Mediterranean, Low-Carb, Keto, Vegetarian, and more.\n\nPREMIUM PLUS: AI COACH\n\nAI Coach is built on 20 years of nutrition expertise.\n• Daily guidance based on what you actually ate, not just what you planned.\n• Meal suggestions matched to your calorie budget and preferences.\n• AI Restaurant Menu Scan: find the best options when eating out.\n\nResults may vary. MyNetDiary does not provide medical advice.\n\nAll product names, logos, and brands are the property of their respective owners.\n\nPrivacy Policy: www.mynetdiary.com/privacy.html\nTerms of Use: www.mynetdiary.com/terms.html",
-    "averageUserRating": 4.8105,
-    "averageUserRatingForCurrentVersion": 4.8105,
-    "trackCensoredName": "Calorie Counter - MyNetDiary",
-    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
-    "contentAdvisoryRating": "12+",
-    "minimumOsVersion": "17.0",
+    "averageUserRatingForCurrentVersion": 4.81046,
     "sellerUrl": "https://www.mynetdiary.com/iPhone.html",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "347212800",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 161484,
+    "userRatingCountForCurrentVersion": 161495,
     "trackContentRating": "12+",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
     "bundleId": "com.mynetdiary.MyNetDiary",
-    "userRatingCount": 161484
+    "minimumOsVersion": "17.0",
+    "userRatingCount": 161495
   }
 }

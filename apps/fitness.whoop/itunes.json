@@ -1,18 +1,17 @@
 {
-  "fetched_at": "2026-08-14T08:01:00.988Z",
+  "fetched_at": "2026-08-15T07:09:31.698Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=933944389&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/whoop/id933944388?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/ed/b1/7fedb1cc-cb79-2a51-9ee8-411ebce9eb95/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/ed/b1/7fedb1cc-cb79-2a51-9ee8-411ebce9eb95/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
     "advisories": [],
     "kind": "software",
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/ed/b1/7fedb1cc-cb79-2a51-9ee8-411ebce9eb95/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/1f/0e/291f0e97-c984-9e74-93a9-ce811afe5846/Frame_01_-_OVERVIEW.png/360x480bb.jpg"
+    ],
     "appletvScreenshotUrls": [],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/c3/66/0ac3660f-26d5-541c-0591-376fe5530c74/iOS-6.9-1320x2868-Vertical-Frame_01-OVERVIEW.png/320x480bb.jpg",
@@ -26,8 +25,9 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/5d/71/055d7128-c9f6-0d79-8f9f-43b864fa58da/iOS-6.9-1320x2868-Vertical-Frame_09-STRESS.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/e5/88/dae588e1-ee28-155c-59c8-c0ad0398f26f/iOS-6.9-1320x2868-Vertical-Frame_10-WEEKLY.png/320x480bb.jpg"
     ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/1f/0e/291f0e97-c984-9e74-93a9-ce811afe5846/Frame_01_-_OVERVIEW.png/360x480bb.jpg"
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/ed/b1/7fedb1cc-cb79-2a51-9ee8-411ebce9eb95/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "features": [
+      "iosUniversal"
     ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -158,29 +158,27 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "averageUserRating": 4.79347,
     "trackCensoredName": "WHOOP",
     "trackViewUrl": "https://apps.apple.com/us/app/whoop/id933944389?uo=4",
     "contentAdvisoryRating": "12+",
-    "minimumOsVersion": "17.0",
+    "averageUserRating": 4.79432,
+    "artistId": 933944388,
+    "artistName": "WHOOP",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 933944388,
-    "artistName": "WHOOP",
     "genreIds": [
       "6013",
       "6012"
     ],
-    "bundleId": "com.whoop.iphone",
-    "releaseNotes": "Various bug fixes and performance improvements",
     "releaseDate": "2015-09-02T18:16:44Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Whoop Incorporated",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-08-11T13:24:26Z",
+    "releaseNotes": "Various bug fixes and performance improvements",
     "version": "5.65.1",
     "wrapperType": "software",
     "currency": "USD",
@@ -193,15 +191,17 @@
       "PT",
       "ES"
     ],
-    "sellerUrl": "http://whoop.com",
-    "averageUserRatingForCurrentVersion": 4.79347,
-    "fileSizeBytes": "525087744",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 61269,
+    "userRatingCountForCurrentVersion": 61925,
     "trackContentRating": "12+",
+    "formattedPrice": "Free",
+    "fileSizeBytes": "525087744",
+    "averageUserRatingForCurrentVersion": 4.79432,
+    "sellerUrl": "http://whoop.com",
+    "bundleId": "com.whoop.iphone",
+    "minimumOsVersion": "17.0",
     "price": 0,
     "trackId": 933944389,
     "trackName": "WHOOP",
-    "userRatingCount": 61269
+    "userRatingCount": 61925
   }
 }
