@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T07:06:30.406Z",
+  "fetched_at": "2026-08-16T07:09:09.313Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Strength Training &amp; Muscle Building Training Plans. Gym Log &amp; Workout Tracker.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 600986,
-    "score": 4.655527,
+    "maxInstalls": 606179,
+    "score": 4.6658096,
     "scoreText": "4.7",
-    "ratings": 12745,
+    "ratings": 12750,
     "reviews": 557,
     "histogram": {
-      "1": 556,
+      "1": 523,
       "2": 98,
       "3": 229,
-      "4": 1407,
-      "5": 10451
+      "4": 1406,
+      "5": 10485
     },
     "price": 0,
     "free": true,
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Nov 3, 2020",
-    "updated": 1784943779000,
+    "updated": 1786595218000,
     "version": "263",
     "recentChanges": "In this version, we&#39;re introducing some exciting new features:<br>- Community: a new social feed to follow your friends, share workouts, and stay motivated<br>- Save programs: tap Save on any coach or user program to bookmark it, then find them all in one tab<br>Plus bug fixes and general improvements to the app for better user experience.",
     "comments": [],

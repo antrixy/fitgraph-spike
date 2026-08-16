@@ -1,0 +1,13 @@
+{
+  "product": "fitness.nikerunclub",
+  "name": "Nike Run Club",
+  "date": "2026-08-16",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "914ce7cabec163a818ba136e89d109ace357e9c4",
+      "prev_fetched_at": "2026-08-15T07:07:45.201Z",
+      "curr_fetched_at": "2026-08-16T07:10:18.132Z",
+      "version_unreported": true
+    }
+  }
+}

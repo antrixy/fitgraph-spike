@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T07:04:31.753Z",
+  "fetched_at": "2026-08-16T07:07:08.078Z",
   "source": "google_play_scraper",
   "appId": "com.wsl.noom",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 22817927,
-    "score": 4.081955,
+    "score": 4.082211,
     "scoreText": "4.1",
-    "ratings": 314309,
-    "reviews": 89709,
+    "ratings": 314313,
+    "reviews": 89712,
     "histogram": {
-      "1": 42901,
-      "2": 17347,
-      "3": 18339,
-      "4": 28210,
-      "5": 207503
+      "1": 42889,
+      "2": 17342,
+      "3": 18335,
+      "4": 28203,
+      "5": 207536
     },
     "price": 0,
     "free": true,

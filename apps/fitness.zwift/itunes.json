@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T07:08:35.024Z",
+  "fetched_at": "2026-08-16T07:11:07.832Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1134655040&country=us",
   "result": {
@@ -20,14 +20,15 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/2f/75/562f7589-3782-930d-66be-3e5cec93d617/_U005bEN_U005d_iPad_12.9_06.jpg/552x414bb.jpg"
     ],
     "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/5a/89/865a8909-6007-944e-2626-463617e35724/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/5a/89/865a8909-6007-944e-2626-463617e35724/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/5a/89/865a8909-6007-944e-2626-463617e35724/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/5a/89/865a8909-6007-944e-2626-463617e35724/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -158,21 +159,21 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "averageUserRatingForCurrentVersion": 4.7365,
     "sellerUrl": "http://www.zwift.com",
+    "averageUserRating": 4.7365,
+    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
     "languageCodesISO2A": [
       "EN"
     ],
-    "averageUserRating": 4.7365,
     "fileSizeBytes": "3937507328",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21366,
-    "trackContentRating": "4+",
-    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
-    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
     "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 21366,
+    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
+    "trackContentRating": "4+",
+    "releaseDate": "2016-12-10T04:14:55Z",
     "minimumOsVersion": "15.0",
     "artistId": 934083689,
     "artistName": "Zwift, Inc",
@@ -180,18 +181,17 @@
       "Health & Fitness"
     ],
     "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Zwift, Inc",
-    "bundleId": "com.zwift.ZwiftGame",
     "genreIds": [
       "6013"
     ],
-    "releaseDate": "2016-12-10T04:14:55Z",
-    "trackId": 1134655040,
-    "trackName": "Zwift: Indoor Cycling Fitness",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "bundleId": "com.zwift.ZwiftGame",
     "currentVersionReleaseDate": "2026-08-07T15:18:49Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Zwift, Inc",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "trackName": "Zwift: Indoor Cycling Fitness",
+    "trackId": 1134655040,
     "releaseNotes": "• Increased the minimum required iOS/tvOS versions to 15.0 (released in 2021). Good news -  nearly every iPad and iPhone currently supported are capable of updating to OS 15. Zwifters running versions older than 15.0 will need to update their OS software.\n• Added Canyon Aeroad CFR CANYON//SRAM \n• Added achievement badges and XP available for runners on six routes.\n• Fixed an issue that could cause Power Bests shown in the post-ride Progress Report to be inconsistent.\n• Improved the accuracy of estimated route completion times for climbing routes.\n• Fixed an issue that could cause settings sliders to not be draggable on touch screen devices.",
     "version": "1.119.0",
     "wrapperType": "software",

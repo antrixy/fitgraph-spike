@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T07:09:35.917Z",
+  "fetched_at": "2026-08-16T07:12:07.921Z",
   "source": "google_play_scraper",
   "appId": "com.whoop.android",
   "result": {
@@ -9,16 +9,16 @@
     "summary": "Your personalized fitness and health coach",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1199339,
-    "score": 4.7815027,
+    "maxInstalls": 1199344,
+    "score": 4.7771297,
     "scoreText": "4.8",
-    "ratings": 26497,
-    "reviews": 1887,
+    "ratings": 26606,
+    "reviews": 1889,
     "histogram": {
-      "1": 579,
-      "2": 211,
-      "3": 336,
-      "4": 2143,
+      "1": 588,
+      "2": 214,
+      "3": 339,
+      "4": 2234,
       "5": 23219
     },
     "price": 0,
