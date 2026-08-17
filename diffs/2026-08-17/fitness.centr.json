@@ -1,0 +1,13 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-17",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "829b857a5f5f5863e4f1da01eb759d6550b440e9",
+      "prev_fetched_at": "2026-08-16T07:13:13.965Z",
+      "curr_fetched_at": "2026-08-17T07:35:05.079Z",
+      "version_unreported": true
+    }
+  }
+}

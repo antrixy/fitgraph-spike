@@ -1,0 +1,19 @@
+{
+  "product": "fitness.strong",
+  "name": "Strong",
+  "date": "2026-08-17",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "829b857a5f5f5863e4f1da01eb759d6550b440e9",
+      "prev_fetched_at": "2026-08-16T07:07:51.754Z",
+      "curr_fetched_at": "2026-08-17T07:29:58.759Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "v6.2.2",
+          "new": "v6.2.4"
+        }
+      ]
+    }
+  }
+}

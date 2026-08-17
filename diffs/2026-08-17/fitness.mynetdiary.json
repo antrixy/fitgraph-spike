@@ -1,0 +1,72 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-17",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "829b857a5f5f5863e4f1da01eb759d6550b440e9",
+      "prev_fetched_at": "2026-08-16T07:06:37.054Z",
+      "curr_fetched_at": "2026-08-17T07:28:44.609Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "New interactive multi-chart views of everything you track—nutrition, exercise, weight, and health. Explore suggested Timelines and customize them to discover what’s driving your results. See the big picture, then drill down to the details.",
+          "new": "AI Coach answers now include interactive Timelines. See how your weight, calories, exercise, and more change together, spot patterns at a glance, and tap any chart to dig into the details."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "829b857a5f5f5863e4f1da01eb759d6550b440e9",
+      "curr_fetched_at": "2026-08-17T07:28:49.366Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Learn the meaning of calorie deficit for weight loss and how MyNetDiary's Daily Analysis can help along the way",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for the best food tracking app while working from home?",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 4
+    }
+  }
+}

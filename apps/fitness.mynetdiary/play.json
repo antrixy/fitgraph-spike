@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T07:06:37.054Z",
+  "fetched_at": "2026-08-17T07:28:44.609Z",
   "source": "google_play_scraper",
   "appId": "com.fourtechnologies.mynetdiary.ad",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Diet &amp; nutrition tracker with barcode scanner. Food, calories, macros, protein.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9445699,
-    "score": 4.667935,
+    "maxInstalls": 9458453,
+    "score": 4.6681266,
     "scoreText": "4.7",
-    "ratings": 114667,
-    "reviews": 17886,
+    "ratings": 114719,
+    "reviews": 17892,
     "histogram": {
-      "1": 3351,
-      "2": 1376,
-      "3": 3098,
-      "4": 14328,
-      "5": 92503
+      "1": 3334,
+      "2": 1369,
+      "3": 3127,
+      "4": 14364,
+      "5": 92518
     },
     "price": 0,
     "free": true,
@@ -90,7 +90,7 @@
     "released": "Sep 17, 2010",
     "updated": 1786553713000,
     "version": "VARY",
-    "recentChanges": "New interactive multi-chart views of everything you track—nutrition, exercise, weight, and health. Explore suggested Timelines and customize them to discover what’s driving your results. See the big picture, then drill down to the details.",
+    "recentChanges": "AI Coach answers now include interactive Timelines. See how your weight, calories, exercise, and more change together, spot patterns at a glance, and tap any chart to dig into the details.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

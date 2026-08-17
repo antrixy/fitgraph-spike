@@ -1,8 +1,11 @@
 {
-  "fetched_at": "2026-08-16T07:06:54.492Z",
+  "fetched_at": "2026-08-17T07:29:02.736Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=286906691&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/lifesum-ab/id286906694?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/14/d9/b914d9e0-5785-09c0-4521-72bd19487609/1_hero_ios69_en.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/3b/09/173b0983-f364-1b93-e280-0dc2f9ad8964/2_photo_ios69_EN.jpg/320x480bb.jpg",
@@ -26,9 +29,6 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -163,10 +163,15 @@
       "Infrequent/Mild Medical/Treatment Information"
     ],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/lifesum-ab/id286906694?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.64632,
+    "features": [
+      "iosUniversal"
+    ],
+    "trackCensoredName": "Lifesum: AI Calorie Counter",
+    "trackViewUrl": "https://apps.apple.com/us/app/lifesum-ai-calorie-counter/id286906691?uo=4",
+    "contentAdvisoryRating": "12+",
+    "averageUserRating": 4.64633,
+    "sellerUrl": "http://lifesum.com",
+    "averageUserRatingForCurrentVersion": 4.64633,
     "languageCodesISO2A": [
       "CS",
       "DA",
@@ -185,39 +190,34 @@
     ],
     "fileSizeBytes": "251218944",
     "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 150462,
     "trackContentRating": "12+",
     "minimumOsVersion": "16.0",
-    "sellerUrl": "http://lifesum.com",
-    "userRatingCountForCurrentVersion": 150445,
-    "releaseNotes": "For this newest version, we've given the app some tender loving care and squashed some bugs to give you an even better experience.",
-    "artistId": 286906694,
-    "artistName": "Lifesum AB",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
+    "artistId": 286906694,
+    "artistName": "Lifesum AB",
     "price": 0,
-    "bundleId": "com.sillens.iShape",
-    "releaseDate": "2019-02-05T08:00:00Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "bundleId": "com.sillens.iShape",
     "sellerName": "Lifesum AB",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "trackId": 286906691,
+    "trackName": "Lifesum: AI Calorie Counter",
+    "releaseDate": "2019-02-05T08:00:00Z",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-08-10T05:51:58Z",
+    "releaseNotes": "For this newest version, we've given the app some tender loving care and squashed some bugs to give you an even better experience.",
     "version": "23.12.1",
     "wrapperType": "software",
     "currency": "USD",
     "description": "A revolutionary way to track your meals, enhanced by AI.\nWelcome to a new era of nutrition tracking, tailored to your style. With the new Lifesum experience, you can choose to log your meals by snapping a photo, using your voice, typing a text or scanning a barcode. \nWe made food tracking easy so you can make more healthy choices for your body and mind.\n\nJOIN 65 MILLION USERS ON THE PATH TO BETTER HEALTH.\nHealth isn’t about perfection—it’s about progress. Lifesum encourages small, manageable changes that add up to lasting results. \nWhether it’s drinking more water, adding more fruits and veggies to your plate, or choosing healthier snacks, Lifesum celebrates every win, no matter how small.\n\nSMARTER, SIMPLER MEAL TRACKING\nTrack your meals your way:\n• Snap a photo to get instant nutrition details\n• Speak for easy, hands-free logging\n• Type for more detailed tracking\n• Scan barcodes for fast info\n• Use quick tracking for simple entries\n\nTOP LIFESUM FEATURES\n• Calorie counter\n• Macro tracker and food rating\n• Nutrition plans for weight management and body composition\n• Water tracker\n• Fruit, vegetable and fish tracker\n• Meal plans with grocery lists included\n• Integration with fitness trackers for in-depth health monitoring\n• Life Score test for personalized nutrition recommendations\n\nWEIGHT MANAGEMENT AND HEALTHY EATING\nWhether you're looking to manage your weight, eat healthier or simply feel better in your everyday life, Lifesum provides the tools and support to make your goals achievable, sustainable and enjoyable.\nFrom balanced meal plans to specialized lifestyles like keto, paleo, or high protein, Lifesum adapts to your preferences and needs. \nSimply share your goals, preferences, restrictions, and activity levels, and Lifesum creates nutrition plans just for you.\nLifesum also offers a massive library of delicious recipes, all crafted to help you eat smarter.\n\nBEYOND CALORIES: A COMPLETE WELNESS SOLUTION\nLifesum goes beyond simple calorie counting. With its unique Life Score feature, the app evaluates your overall health based on your eating habits, hydration, and activity levels. \nThis helps you focus on long-term well-being instead of short-term fixes. Additionally, you’ll find helpful tips and reminders to build healthy habits that last.\n\nSEAMLESS INTEGRATION WITH YOUR LIFESTYLE\nConnect with your favorite apps and devices to get a holistic view of your health. Sync with Apple Health to import exercise calories, weight, steps, active calories, and exercise time — and export food calories, nutrition, water, and weight back to your health profile. Connect to apps like Oura, Withings, and Runkeeper via Apple Health to bring all your health data together. Progress stays at your fingertips, making it easy to stay motivated and on track.\n\nALL YOU NEED FOR A CUSTOMIZED EXPERIENCE\n• Calorie counter, with the option to adjust your daily calorie goal and add/exclude calories burned through exercise\n• Macro tracking and adjustable goals for carbs, protein, and fat intake\n• Create and save your favorite foods, recipes, meals, and exercises\n• Body measurement tracking (weight, waist, body fat, chest, arm, BMI)\n• Library of thousands of recipes with smart filters for quick results\n• Weekly Life Score based on nutrition and exercise measurements, so you understand where you are and what's next to build the healthiest version of you\n• Sync with health and fitness apps to track your steps and exercise in real time\n\nLifesum is free to download and use with limited features. For the full Lifesum experience, we offer 1-month, 3-month, and annual Premium auto-renewing subscriptions.\n\nPayment is charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless you turn off auto-renewal in iTunes account settings or cancel your subscription at least 24 hours prior to the end of the subscription period.\n\nView our Terms & Conditions and Privacy Policy: http://api.lifesum.com/mobile-terms",
-    "averageUserRating": 4.64632,
-    "contentAdvisoryRating": "12+",
-    "trackCensoredName": "Lifesum: AI Calorie Counter",
-    "trackViewUrl": "https://apps.apple.com/us/app/lifesum-ai-calorie-counter/id286906691?uo=4",
-    "trackId": 286906691,
-    "trackName": "Lifesum: AI Calorie Counter",
-    "userRatingCount": 150445
+    "userRatingCount": 150462
   }
 }

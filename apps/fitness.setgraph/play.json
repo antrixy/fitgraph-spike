@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T07:09:47.356Z",
+  "fetched_at": "2026-08-17T07:31:53.586Z",
   "source": "google_play_scraper",
   "appId": "app.setgraph",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Achieve Progressive Overload: Log, Track, &amp; Optimize your Weight Lifting",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 86638,
+    "maxInstalls": 86826,
     "score": 3.983871,
     "scoreText": "4.0",
     "ratings": 342,

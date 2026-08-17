@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T07:06:28.097Z",
+  "fetched_at": "2026-08-17T07:28:35.592Z",
   "source": "google_play_scraper",
   "appId": "com.fatsecret.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Diet and Weight Loss Tracker with Meal Planning and Food Nutrition Calculator",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 62900283,
-    "score": 4.5551157,
+    "maxInstalls": 62910897,
+    "score": 4.5574636,
     "scoreText": "4.6",
-    "ratings": 543974,
-    "reviews": 24680,
+    "ratings": 544016,
+    "reviews": 24681,
     "histogram": {
-      "1": 30871,
-      "2": 10047,
-      "3": 13283,
-      "4": 61751,
-      "5": 427993
+      "1": 30537,
+      "2": 10057,
+      "3": 13294,
+      "4": 61802,
+      "5": 428307
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     ],
     "contentRating": "Everyone",
     "adSupported": false,
-    "updated": 1785729933000,
+    "updated": 1786922749000,
     "version": "11.7.0.1",
     "recentChanges": "In this release:<br>- Food logging streaks are now more flexible. Choose a weekly food logging goal of 1 day, 3 days or every day, and build a streak based on the goal you choose.<br>- Incidental bug fixes and app optimizations.",
     "comments": [],
