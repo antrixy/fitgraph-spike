@@ -1,0 +1,95 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-08-18",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "e4cd73e288791c7873cdf0c0108a358343c36f90",
+      "curr_fetched_at": "2026-08-18T07:18:03.003Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Get Stronger with 25% off",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock offer",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock 25% off",
+          "occurrences": 5
+        },
+        {
+          "text": "One app.",
+          "occurrences": 1
+        },
+        {
+          "text": "25% off.",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything you need to get stronger.",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock 25% off *]:mx-2 [&>*]:my-2 md:[&>*]:mx-4 lg:[&>*]:mx-[30px] lg:[&>*]:my-6 text-white mb-12 lg:mb-40 svelte-dzj2xm\">",
+          "occurrences": 1
+        },
+        {
+          "text": "Join now and save 25%",
+          "occurrences": 1
+        },
+        {
+          "text": "Get stronger with a program you really love",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "The first week is on us.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your 7-day free trial.",
+          "occurrences": 1
+        },
+        {
+          "text": "7-day free trial",
+          "occurrences": 1
+        },
+        {
+          "text": "The leading fitness app designed by women, for women",
+          "occurrences": 1
+        },
+        {
+          "text": "Start 7-day free trial Cancel Anytime • 100% Risk-Free",
+          "occurrences": 1
+        },
+        {
+          "text": "*]:mx-2 [&>*]:my-2 md:[&>*]:mx-4 lg:[&>*]:mx-[30px] lg:[&>*]:my-6 text-white mb-12 lg:mb-40 svelte-dzj2xm\">",
+          "occurrences": 1
+        },
+        {
+          "text": "Start 7-day free trial",
+          "occurrences": 3
+        },
+        {
+          "text": "A stronger you starts here",
+          "occurrences": 1
+        },
+        {
+          "text": "A trainer and a plan in your pocket",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your 7-day free trial today",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 9,
+      "removed_total": 10
+    }
+  }
+}

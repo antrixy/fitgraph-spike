@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T07:29:23.386Z",
+  "fetched_at": "2026-08-18T07:12:14.568Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=331308914&country=us",
   "result": {
@@ -7,6 +7,13 @@
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/b9/bf/79b9bf3e-040f-cddc-adb6-51e9165e4a26/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/b9/bf/79b9bf3e-040f-cddc-adb6-51e9165e4a26/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+      "Infrequent/Mild Medical/Treatment Information"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,13 +144,6 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "features": [
-      "iosUniversal"
-    ],
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-      "Infrequent/Mild Medical/Treatment Information"
-    ],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/ad/49/03ad497e-52c4-a8dd-f550-992b79378170/Slide_1_U002c_Intro.png/392x696bb.png",
@@ -170,30 +170,26 @@
     "trackViewUrl": "https://apps.apple.com/us/app/weightwatchers-program/id331308914?uo=4",
     "contentAdvisoryRating": "17+",
     "minimumOsVersion": "16.0",
-    "artistId": 331308917,
-    "artistName": "WW International, Inc.",
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "price": 0,
+    "artistId": 331308917,
+    "artistName": "WW International, Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseDate": "2009-09-19T00:05:27Z",
     "trackId": 331308914,
     "trackName": "WeightWatchers Program",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "WW International, Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
     "genreIds": [
       "6013",
       "6012"
     ],
-    "releaseDate": "2009-09-19T00:05:27Z",
-    "currentVersionReleaseDate": "2026-08-13T15:33:18Z",
-    "releaseNotes": "We've debugged and improved your app experience, worked on issues that caused crashes, and fine-tuned a handful of things behind the scenes, all to empower your WW journey and help you build habits for a happy, healthy life.",
     "version": "11.27.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "The #1 Doctor-Recommended Weight Loss Program†\n\nGet a science-backed weight loss tracker and diet plan tailored to your body. Whether you want to lose weight, maintain, or manage weight loss medication, Weight Watchers provides the tools for lasting results.\n\nNEW: GLP-1 & Clinical Support\nGLP-1 Success Program: Specialized nutrition, dose tracking, and side-effect management for members on weight-loss medications.\nWeight Watchers Med+: Access clinical experts and weight-loss medication prescriptions (if eligible).\n\nAI-Powered Progress Tracking\nAI Body Scanner: See 3D progress beyond the scale, including muscle and body fat changes.\nWeight Health Score: Get a holistic view of how your sleep, activity, and nutrition impact your health.\n\nFlexible Weight Loss Tools\nCustomized Modes: Choose your path—Lose, Maintain, go All-In, or take a break from tracking with new Vacation Mode.\nMenopause Support: Manage symptoms and weight changes with tailored guidance.\nPoints® Program: Our famous calorie counter alternative—track foods easily with ZeroPoint® foods and a barcode scanner.\nMacro Tracking: Monitor protein, fiber, carbs, and calories in one place.\n\nIntegration & Coaching\nApp and Device Syncs: Connect Apple Health™, Fitbit®, and more to track activity and sleep automatically.\nVirtual Experiences: Join live sessions led by expert Weight Loss Coaches.\nRegistered Dietitians: Get 1:1 meal planning and nutrition support.*\n\nFood & Recipes\nLog Meals Instantly: Snap a photo or search our database of 12,000+ recipes and 450+ restaurants.\nCommunity: Join an exclusive social network of members for daily motivation.\n\nMEMBERSHIP TERMS\n\nPrivacy Policy: https://www.weightwatchers.com/us/privacy/policy\n\nTerms of Service: https://www.weightwatchers.com/us/termsandconditions/membership\n\n†Based on a 2023 survey by Cerner Enviza of 500 doctors who recommend weight-loss programs to patients.\n\n*For as low as $0 for WeightWatchers members with qualified insurance coverage. Copays, coinsurance & deductibles may apply.\n\nApple, the Apple logo, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries and regions.",
+    "bundleId": "com.weightwatchers.wwmobile",
     "averageUserRatingForCurrentVersion": 4.83866,
     "sellerUrl": "https://www.weightwatchers.com/us/article/using-ww-mobile-app",
     "languageCodesISO2A": [
@@ -206,9 +202,13 @@
     ],
     "fileSizeBytes": "638503936",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 2358244,
+    "userRatingCountForCurrentVersion": 2358396,
     "trackContentRating": "17+",
-    "bundleId": "com.weightwatchers.wwmobile",
-    "userRatingCount": 2358244
+    "sellerName": "WW International, Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseNotes": "We've debugged and improved your app experience, worked on issues that caused crashes, and fine-tuned a handful of things behind the scenes, all to empower your WW journey and help you build habits for a happy, healthy life.",
+    "currentVersionReleaseDate": "2026-08-13T15:33:18Z",
+    "userRatingCount": 2358396
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T07:34:39.270Z",
+  "fetched_at": "2026-08-18T07:17:17.201Z",
   "source": "google_play_scraper",
   "appId": "com.sec.android.app.shealth",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Lifestyle companion to track your fitness, weight, diet, food &amp; sleep.",
     "installs": "1,000,000,000+",
     "minInstalls": 1000000000,
-    "maxInstalls": 2268090834,
-    "score": 3.1821396,
+    "maxInstalls": 2268680963,
+    "score": 3.1827986,
     "scoreText": "3.2",
-    "ratings": 1575764,
-    "reviews": 78970,
+    "ratings": 1575899,
+    "reviews": 78986,
     "histogram": {
-      "1": 451348,
-      "2": 177136,
-      "3": 182905,
-      "4": 161867,
-      "5": 602488
+      "1": 451515,
+      "2": 176730,
+      "3": 182706,
+      "4": 162005,
+      "5": 602915
     },
     "price": 0,
     "free": true,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T07:34:00.338Z",
+  "fetched_at": "2026-08-18T07:16:40.535Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 285202149,
-    "score": 3.6467423,
+    "score": 3.6441176,
     "scoreText": "3.6",
-    "ratings": 1303116,
-    "reviews": 252632,
+    "ratings": 1303262,
+    "reviews": 252667,
     "histogram": {
-      "1": 308918,
-      "2": 80226,
-      "3": 73370,
-      "4": 140346,
-      "5": 700248
+      "1": 309734,
+      "2": 80427,
+      "3": 73360,
+      "4": 140118,
+      "5": 699616
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Mar 16, 2012",
-    "updated": 1786645333000,
+    "updated": 1787024662000,
     "version": "VARY",
     "recentChanges": "Performance improvements and bug fixes.",
     "comments": [],

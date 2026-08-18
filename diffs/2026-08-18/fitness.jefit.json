@@ -1,0 +1,27 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-08-18",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "e4cd73e288791c7873cdf0c0108a358343c36f90",
+      "curr_fetched_at": "2026-08-18T07:13:09.538Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "$ 69.99 $ 52.49 for one year, then $ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

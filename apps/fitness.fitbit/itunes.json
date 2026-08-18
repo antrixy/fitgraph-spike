@@ -1,9 +1,10 @@
 {
-  "fetched_at": "2026-08-17T07:33:57.559Z",
+  "fetched_at": "2026-08-18T07:16:35.982Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=462638897&country=us",
   "result": {
     "isGameCenterEnabled": false,
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -133,15 +134,14 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/9b/7d/989b7dc7-90e3-95d4-1160-fd66c24cc68f/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/9b/7d/989b7dc7-90e3-95d4-1160-fd66c24cc68f/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-    "features": [],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/9b/7d/989b7dc7-90e3-95d4-1160-fd66c24cc68f/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "features": [],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/52/35/be523521-1e31-5c62-b819-35e83e87d217/download__U00289_U0029.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/6b/5f/096b5f41-f8f8-ab5b-4f7a-0a899017e68d/download__U002810_U0029.png/320x480bb.jpg",
@@ -149,27 +149,24 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/4b/21/324b21aa-3955-4250-ab29-631842e7bb92/download__U002812_U0029.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/9b/93/ad9b933d-8d39-af7a-22a7-e6db95168b16/download__U002813_U0029.png/320x480bb.jpg"
     ],
-    "averageUserRatingForCurrentVersion": 4.47843,
-    "artistId": 281956209,
-    "artistName": "Google",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
     "price": 0,
-    "releaseDate": "2011-10-18T04:18:41Z",
-    "trackId": 462638897,
-    "trackName": "Google Health (Fitbit)",
-    "releaseNotes": "Performance improvements and bug fixes.",
     "genreIds": [
       "6013",
       "6012"
     ],
+    "releaseDate": "2011-10-18T04:18:41Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Google LLC",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "Google LLC",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 462638897,
+    "trackName": "Google Health (Fitbit)",
     "currentVersionReleaseDate": "2026-08-14T03:34:44Z",
+    "releaseNotes": "Performance improvements and bug fixes.",
     "version": "5.06",
     "wrapperType": "software",
     "currency": "USD",
@@ -177,12 +174,9 @@
     "minimumOsVersion": "16.4",
     "trackCensoredName": "Google Health (Fitbit)",
     "trackViewUrl": "https://apps.apple.com/us/app/google-health-fitbit/id462638897?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.47843,
+    "averageUserRatingForCurrentVersion": 4.47829,
     "bundleId": "com.fitbit.FitbitMobile",
     "sellerUrl": "https://healthapp.google/",
-    "userRatingCountForCurrentVersion": 689616,
-    "trackContentRating": "4+",
     "languageCodesISO2A": [
       "BG",
       "HR",
@@ -219,6 +213,12 @@
     ],
     "fileSizeBytes": "527441920",
     "formattedPrice": "Free",
-    "userRatingCount": 689616
+    "userRatingCountForCurrentVersion": 690029,
+    "trackContentRating": "4+",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.47829,
+    "artistId": 281956209,
+    "artistName": "Google",
+    "userRatingCount": 690029
   }
 }

@@ -1,0 +1,30 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-18",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "e4cd73e288791c7873cdf0c0108a358343c36f90",
+      "prev_fetched_at": "2026-08-17T07:35:01.903Z",
+      "curr_fetched_at": "2026-08-18T07:17:47.570Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.5.2",
+          "new": "10.5.3"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "This release brings fixes and improvements to screen casting and adds deeper screen mirroring support, making your big-screen workouts smoother and more reliable.\n\nNeed a hand or have feedback? Reach our team anytime at hello@centr.com.",
+          "new": "We fixed an issue that was signing some members out right after they logged in, so you can get straight back to training without the interruption.\n\nQuestions, feedback, or need help? We're here: hello@centr.com"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "e4cd73e288791c7873cdf0c0108a358343c36f90",
+      "prev_fetched_at": "2026-08-17T07:35:05.079Z",
+      "curr_fetched_at": "2026-08-18T07:17:51.809Z",
+      "version_unreported": true
+    }
+  }
+}

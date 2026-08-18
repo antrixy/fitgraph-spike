@@ -1,0 +1,24 @@
+{
+  "product": "fitness.setgraph",
+  "name": "Setgraph",
+  "date": "2026-08-18",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "e4cd73e288791c7873cdf0c0108a358343c36f90",
+      "prev_fetched_at": "2026-08-17T07:31:50.647Z",
+      "curr_fetched_at": "2026-08-18T07:14:30.007Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.6.1",
+          "new": "26.8.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Workout Plans\nThe body-area goal is now Strengthen, and exercises you exclude are properly left out of generated plans.\n\nPerformance\nCharts and set history render faster and scroll more smoothly.\n\nBug Fixes\nFixed issues with set history and workout stats. The app now lets you know when something goes wrong instead of failing quietly.",
+          "new": "Personal Records\nEvery exercise now has a Records tab showing your best lifts at every rep range, plus volume and session records. Break a record and Setgraph celebrates it the moment you log the set, and your day summary counts every record you set that day. Tap any record to see how it has progressed over time.\n\nShare Cards\nTurn any workout into a card worth sharing. Choose a design, customize its appearance and featured record, then save, copy, or share it anywhere. Take a screenshot in Setgraph and, when today's workout has data, its share cards are ready to go."
+        }
+      ]
+    }
+  }
+}
