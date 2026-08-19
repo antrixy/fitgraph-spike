@@ -1,0 +1,28 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-19",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dbf5683d7160403a10705a453df183f2597730e7",
+      "prev_fetched_at": "2026-08-18T07:16:40.535Z",
+      "curr_fetched_at": "2026-08-19T07:17:22.354Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "dbf5683d7160403a10705a453df183f2597730e7",
+      "curr_fetched_at": "2026-08-19T07:17:26.663Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Pixel Watch 3",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 1
+    }
+  }
+}

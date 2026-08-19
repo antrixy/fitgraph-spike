@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T07:14:33.445Z",
+  "fetched_at": "2026-08-19T07:15:23.172Z",
   "source": "google_play_scraper",
   "appId": "app.setgraph",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000+",
     "minInstalls": 50000,
     "maxInstalls": 86985,
-    "score": 3.983871,
+    "score": 4,
     "scoreText": "4.0",
-    "ratings": 342,
+    "ratings": 343,
     "reviews": 22,
     "histogram": {
-      "1": 60,
-      "2": 11,
+      "1": 59,
+      "2": 10,
       "3": 16,
       "4": 38,
-      "5": 215
+      "5": 217
     },
     "price": 0,
     "free": true,

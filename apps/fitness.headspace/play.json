@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T07:18:57.666Z",
+  "fetched_at": "2026-08-19T07:19:36.562Z",
   "source": "google_play_scraper",
   "appId": "com.getsomeheadspace.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Better sleep and mindfulness for anxiety, stress, wellness, and mental health",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 42382928,
-    "score": 4.260887,
+    "maxInstalls": 42385935,
+    "score": 4.261189,
     "scoreText": "4.3",
-    "ratings": 339967,
+    "ratings": 339968,
     "reviews": 31744,
     "histogram": {
       "1": 41917,
-      "2": 12579,
+      "2": 12547,
       "3": 10871,
       "4": 24102,
-      "5": 250485
+      "5": 250521
     },
     "price": 0,
     "free": true,

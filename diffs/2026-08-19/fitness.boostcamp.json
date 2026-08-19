@@ -1,0 +1,155 @@
+{
+  "product": "fitness.boostcamp",
+  "name": "Boostcamp",
+  "date": "2026-08-19",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "dbf5683d7160403a10705a453df183f2597730e7",
+      "curr_fetched_at": "2026-08-19T07:14:37.717Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "43,653 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,544 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "31,060 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,301 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "25,030 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "20,008 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,653 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 25,030 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,544 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,787 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 20,008 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,499 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,301 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,367 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 31,060 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,870 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,416 joined",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "43,639 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,505 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "31,013 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,287 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "25,019 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "19,995 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,639 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 25,019 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,505 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,788 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 19,995 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,488 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,287 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,363 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 31,013 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,862 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,412 joined",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 17,
+      "removed_total": 17
+    }
+  }
+}

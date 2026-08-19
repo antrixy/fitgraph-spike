@@ -1,0 +1,19 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-08-19",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dbf5683d7160403a10705a453df183f2597730e7",
+      "prev_fetched_at": "2026-08-18T07:16:56.628Z",
+      "curr_fetched_at": "2026-08-19T07:17:42.322Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.22.1",
+          "new": "7.22.2"
+        }
+      ]
+    }
+  }
+}

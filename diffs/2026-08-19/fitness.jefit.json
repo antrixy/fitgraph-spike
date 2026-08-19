@@ -1,0 +1,13 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-08-19",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dbf5683d7160403a10705a453df183f2597730e7",
+      "prev_fetched_at": "2026-08-18T07:13:04.802Z",
+      "curr_fetched_at": "2026-08-19T07:13:47.536Z",
+      "version_unreported": true
+    }
+  }
+}

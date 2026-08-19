@@ -1,8 +1,13 @@
 {
-  "fetched_at": "2026-08-18T07:16:24.348Z",
+  "fetched_at": "2026-08-19T07:17:09.679Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=583446403&country=us",
   "result": {
+    "isGameCenterEnabled": false,
+    "features": [],
+    "advisories": [],
+    "kind": "software",
+    "appletvScreenshotUrls": [],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ac/4a/9cac4adf-40c3-5b58-3c1a-b06b2cac335e/898b1d91-1dfe-47d3-96b3-418fa5c52ebc_5.5-Phone-EN-01.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/c8/ba/2cc8ba34-9574-2901-dba4-429c920881c8/bea409c6-0d83-435a-b71c-b031d2f6b930_5.5-Phone-EN-02.png/392x696bb.png",
@@ -14,12 +19,7 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/47/23/4a472350-b7ab-e4a0-ae43-683f0b6aba9a/149fe180-b514-4a45-9f96-bc8d57f81d23_5.5-Phone-EN-08.png/392x696bb.png"
     ],
     "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
-    "features": [],
-    "advisories": [],
-    "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
@@ -152,8 +152,30 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "averageUserRatingForCurrentVersion": 4.39157,
-    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
+    "minimumOsVersion": "18.2",
+    "releaseNotes": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
+    "artistId": 411046952,
+    "artistName": "Garmin",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "price": 0,
+    "bundleId": "com.garmin.connect.mobile",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2013-01-10T06:26:44Z",
+    "sellerName": "Garmin International",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-08-13T14:25:57Z",
+    "version": "5.27.3",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. \n \nOnce you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. \n \nWith Garmin Connect you can: \n \n- Personalize your home screen, so the most helpful information is instantly visible \n- Analyze your activities with detailed statistics(3)\n- Create customized workouts and courses \n- Review trends in health metrics like heart rate and steps \n- Earn badges for accomplishments \n- Sync with other apps like Apple Health, MyFitnessPal and Strava \n- Get support for Garmin devices and their features \n \nLearn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. \n \n(1) See compatibility requirements at Garmin.com/BLE \n(2) See a full list of compatible devices at Garmin.com/devices\n(3) See Garmin.com/ataccuracy  \n \nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
     "languageCodesISO2A": [
       "AR",
       "BG",
@@ -193,39 +215,17 @@
       "VI"
     ],
     "fileSizeBytes": "981613568",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 58100,
+    "userRatingCountForCurrentVersion": 58110,
     "trackContentRating": "4+",
-    "artistId": 411046952,
-    "artistName": "Garmin",
-    "price": 0,
-    "sellerName": "Garmin International",
-    "bundleId": "com.garmin.connect.mobile",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2013-01-10T06:26:44Z",
-    "trackId": 583446403,
-    "trackName": "Garmin Connect™",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-13T14:25:57Z",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
-    "releaseNotes": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
-    "version": "5.27.3",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. \n \nOnce you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. \n \nWith Garmin Connect you can: \n \n- Personalize your home screen, so the most helpful information is instantly visible \n- Analyze your activities with detailed statistics(3)\n- Create customized workouts and courses \n- Review trends in health metrics like heart rate and steps \n- Earn badges for accomplishments \n- Sync with other apps like Apple Health, MyFitnessPal and Strava \n- Get support for Garmin devices and their features \n \nLearn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. \n \n(1) See compatibility requirements at Garmin.com/BLE \n(2) See a full list of compatible devices at Garmin.com/devices\n(3) See Garmin.com/ataccuracy  \n \nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
-    "minimumOsVersion": "18.2",
+    "averageUserRatingForCurrentVersion": 4.3914,
+    "formattedPrice": "Free",
+    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
+    "averageUserRating": 4.3914,
     "trackCensoredName": "Garmin Connect™",
     "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.39157,
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "userRatingCount": 58100
+    "trackId": 583446403,
+    "trackName": "Garmin Connect™",
+    "userRatingCount": 58110
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T07:11:42.083Z",
+  "fetched_at": "2026-08-19T07:12:26.373Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 57280876,
-    "score": 4.393321,
+    "score": 4.389815,
     "scoreText": "4.4",
-    "ratings": 847644,
-    "reviews": 2717,
+    "ratings": 848030,
+    "reviews": 2719,
     "histogram": {
-      "1": 68384,
-      "2": 22743,
-      "3": 41658,
-      "4": 88830,
-      "5": 625873
+      "1": 69061,
+      "2": 22739,
+      "3": 42340,
+      "4": 87896,
+      "5": 625762
     },
     "price": 0,
     "free": true,
