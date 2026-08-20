@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:18:54.871Z",
+  "fetched_at": "2026-08-20T07:19:45.356Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1288178982&country=us",
   "result": {
@@ -147,20 +147,21 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "advisories": [],
     "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/future-research-inc/id1266418221?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/1e/de/ed1edebc-cd71-67da-d4f9-9a071854ff92/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/1e/de/ed1edebc-cd71-67da-d4f9-9a071854ff92/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-    "advisories": [],
+    "artistViewUrl": "https://apps.apple.com/us/developer/future-research-inc/id1266418221?uo=4",
+    "averageUserRatingForCurrentVersion": 4.86856,
     "sellerUrl": "http://www.future.co/",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "263523328",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 10610,
+    "userRatingCountForCurrentVersion": 10613,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.86843,
+    "releaseNotes": "We've updated Future Pro with some minor bug fixes and performance improvements.",
     "artistId": 1266418221,
     "artistName": "Future Research, Inc",
     "genres": [
@@ -169,28 +170,27 @@
     ],
     "price": 0,
     "bundleId": "fit.future.Future",
+    "sellerName": "Future Research, Inc.",
     "releaseDate": "2017-11-01T17:46:29Z",
-    "trackName": "Future Pro: Personal Training",
-    "trackId": 1288178982,
     "genreIds": [
       "6013",
       "6012"
     ],
-    "sellerName": "Future Research, Inc.",
+    "trackId": 1288178982,
+    "trackName": "Future Pro: Personal Training",
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-04T22:37:43Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "releaseNotes": "We've updated Future Pro with some minor bug fixes and performance improvements.",
+    "currentVersionReleaseDate": "2026-08-04T22:37:43Z",
     "version": "2026.14",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Personal training, reimagined.\n\n\nFuture Pro pairs you with a dedicated, expert coach who brings real-world experience to your training. We match you with a world-class personal trainer who builds a custom program around your goals, fitness level, and lifestyle. With access to unlimited training sessions, Future Pro delivers deeper accountability, meaningful support, and truly custom progress for one fixed price each month.\n\n\nFuture Pro membership is $199/month. \n\nWhy Future Pro:\n• Made by experts: Our coaches create your program with proven methods informed by years of specialized training.\n• Never train alone: Your coach checks in, monitors your progress, and holds you accountable, helping you stay consistent and on track.\n• Designed for real life: Move workouts, adjust days, and adapt your plan at any time without penalty.\n• Momentum that lasts: Your coach actively refines your plan over time so your training evolves with you. \n• Move with confidence: Access a robust exercise library with video demos, voice cues, and form guidance for every movement.\n• Share your progress: Visualized workout reports make it easy to track and celebrate your wins.\n• Seamless experience: With Apple Watch integration, Future tracks all your activity in one place for a holistic view of your performance.\n\nTogether, we’ll go further.",
-    "trackCensoredName": "Future Pro: Personal Training",
     "trackViewUrl": "https://apps.apple.com/us/app/future-pro-personal-training/id1288178982?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.86843,
+    "averageUserRating": 4.86856,
+    "trackCensoredName": "Future Pro: Personal Training",
     "minimumOsVersion": "18.0",
-    "userRatingCount": 10610
+    "userRatingCount": 10613
   }
 }

@@ -1,0 +1,20 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-08-20",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:15:32.140Z",
+      "curr_fetched_at": "2026-08-20T07:16:20.413Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
+          "new": "We&#39;ve refreshed the Progress Tab with a new look and feel, plus stability and quality improvements throughout, making it easier than ever for subscribers to track your training, trends, and streaks all in one place.<br>"
+        }
+      ]
+    }
+  }
+}

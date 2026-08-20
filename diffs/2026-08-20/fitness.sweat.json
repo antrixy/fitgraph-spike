@@ -1,0 +1,39 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-08-20",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "curr_fetched_at": "2026-08-20T07:19:41.138Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Get stronger for less.",
+          "occurrences": 1
+        },
+        {
+          "text": "25% off for a limited time.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "One app.",
+          "occurrences": 1
+        },
+        {
+          "text": "25% off.",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything you need to get stronger.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 3
+    }
+  }
+}

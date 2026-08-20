@@ -1,0 +1,30 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-08-20",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:13:44.014Z",
+      "curr_fetched_at": "2026-08-20T07:14:40.301Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "17.0.18",
+          "new": "17.1.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Handful of bug fixes and reliability improvements.",
+          "new": "Your custom training plans just got smarter — DIY plans now support full mesocycle periodization, with JEFIT guiding you through each training phase, progressively adjusting your weights and reps, and celebrating phase completions along the way. Pull-to-refresh on the Discover and Progress tabs is also noticeably snappier. Plus a handful of bug fixes and reliability improvements."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:13:47.536Z",
+      "curr_fetched_at": "2026-08-20T07:14:41.985Z",
+      "version_unreported": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-08-20",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:16:42.494Z",
+      "curr_fetched_at": "2026-08-20T07:17:29.790Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.119.0",
+          "new": "1.120.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• Increased the minimum required iOS/tvOS versions to 15.0 (released in 2021). Good news -  nearly every iPad and iPhone currently supported are capable of updating to OS 15. Zwifters running versions older than 15.0 will need to update their OS software.\n• Added Canyon Aeroad CFR CANYON//SRAM \n• Added achievement badges and XP available for runners on six routes.\n• Fixed an issue that could cause Power Bests shown in the post-ride Progress Report to be inconsistent.\n• Improved the accuracy of estimated route completion times for climbing routes.\n• Fixed an issue that could cause settings sliders to not be draggable on touch screen devices.",
+          "new": "• The following routes now have badges and XP available for runners: Flat Route Run, Loop de Loop Run, Volcano Flat Run, and Beach Island Loop Run.\n• New wheels are available in the Drop Shop: Shimano C36, Shimano C50, Shimano C60, and Shimano C99. These new wheels replace the previous Shimano Dura-Ace C36, C50, and C60 wheels which are no longer available for purchase in the Drop Shop, but remain in the Garage for Zwifters who already own them.\n• Zwifters can now deselect all screenshots at the end of an activity (previously one screenshot was required).\n• Route sorting preferences are now saved between sessions and shared between cycling and running modes.\n• Fixed an issue that could cause a ride leader's name to be shown in on-screen messages as 'Ride Leader' if certain emojis were included in their name.\n• Fixed an issue that could cause custom bike colors to be reset when changing paint jobs / colorways.\n• When swapping bike frames, the wheels that were last used with that frame will also be restored."
+        }
+      ]
+    }
+  }
+}

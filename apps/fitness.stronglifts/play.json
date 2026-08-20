@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:14:23.985Z",
+  "fetched_at": "2026-08-20T07:15:22.966Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "The simplest, most proven barbell program. Get stronger in 3 workouts a week.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2373431,
-    "score": 4.3274517,
+    "maxInstalls": 2373595,
+    "score": 4.3214164,
     "scoreText": "4.3",
-    "ratings": 101175,
+    "ratings": 101179,
     "reviews": 13965,
     "histogram": {
-      "1": 15070,
-      "2": 787,
-      "3": 1269,
-      "4": 2847,
-      "5": 81193
+      "1": 15226,
+      "2": 791,
+      "3": 1273,
+      "4": 2823,
+      "5": 81059
     },
     "price": 0,
     "free": true,
@@ -37,7 +37,7 @@
     "developerWebsite": "https://stronglifts.com/",
     "developerLegalName": "STRONGLIFTS LIMITED",
     "developerLegalEmail": "support@stronglifts.com",
-    "developerLegalAddress": "Rm 907 SILVERCORD TWR 2, 30 CANTON RD, 尖沙咀, Hong Kong",
+    "developerLegalAddress": "Rm 907 SILVERCORD TWR 2, 30 CANTON RD, 尖沙咀, 九龍, Hong Kong",
     "developerLegalPhoneNumber": "+1 209-503-6594",
     "privacyPolicy": "https://stronglifts.com/privacy-policy/",
     "developerInternalID": "StrongLifts",

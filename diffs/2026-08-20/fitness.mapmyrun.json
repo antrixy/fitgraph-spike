@@ -1,0 +1,19 @@
+{
+  "product": "fitness.mapmyrun",
+  "name": "MapMyRun",
+  "date": "2026-08-20",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:16:07.498Z",
+      "curr_fetched_at": "2026-08-20T07:16:59.331Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.9.0",
+          "new": "26.10.0"
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:15:32.140Z",
+  "fetched_at": "2026-08-20T07:16:20.413Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 131184406,
-    "score": 4.5870366,
+    "maxInstalls": 131191410,
+    "score": 4.5857906,
     "scoreText": "4.6",
-    "ratings": 1167427,
-    "reviews": 34193,
+    "ratings": 1168122,
+    "reviews": 34192,
     "histogram": {
-      "1": 66893,
-      "2": 16494,
-      "3": 31214,
-      "4": 102572,
-      "5": 950231
+      "1": 67250,
+      "2": 16473,
+      "3": 31469,
+      "4": 102440,
+      "5": 950467
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "released": "Jun 9, 2011",
     "updated": 1786996208000,
     "version": "VARY",
-    "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
+    "recentChanges": "We&#39;ve refreshed the Progress Tab with a new look and feel, plus stability and quality improvements throughout, making it easier than ever for subscribers to track your training, trends, and streaks all in one place.<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

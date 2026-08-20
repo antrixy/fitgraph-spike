@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:11:51.990Z",
+  "fetched_at": "2026-08-20T07:12:56.978Z",
   "source": "google_play_scraper",
   "appId": "com.sbs.diet",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Reach your diet goals with the smartest macro tracker and nutrition coach",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1469865,
-    "score": 4.749347,
-    "scoreText": "4.7",
-    "ratings": 16189,
-    "reviews": 1782,
+    "maxInstalls": 1469957,
+    "score": 4.7522464,
+    "scoreText": "4.8",
+    "ratings": 16220,
+    "reviews": 1784,
     "histogram": {
-      "1": 526,
+      "1": 520,
       "2": 103,
-      "3": 315,
-      "4": 991,
-      "5": 14243
+      "3": 310,
+      "4": 998,
+      "5": 14282
     },
     "price": 0,
     "free": true,
@@ -65,7 +65,7 @@
     "contentRatingDescription": "Diverse Content: Discretion Advised",
     "adSupported": false,
     "released": "Sep 14, 2021",
-    "updated": 1783878776000,
+    "updated": 1787170847000,
     "version": "5.8.3",
     "recentChanges": "* New AI custom food creation and label scanning<br>* Bug fixes and performance improvements",
     "comments": [],

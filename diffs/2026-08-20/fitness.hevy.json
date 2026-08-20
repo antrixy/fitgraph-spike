@@ -1,0 +1,20 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-08-20",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:13:36.684Z",
+      "curr_fetched_at": "2026-08-20T07:14:32.895Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "What&#39;s new in this update:<br><br>Program Variety setting lets you control how often your Trainer exercises change.<br>Injury Management lets you flag injuries so Trainer can adapt your program around them.<br>Bug fixes and performance improvements!",
+          "new": "What&#39;s new in this update:<br><br>Redesigned the Set Row UI — clearer active/checked states, an RPE color scale<br>Progressive Overload now supports reps-only exercises (pull-ups, push-ups, etc.)<br>Bug fixes and performance improvements!<br>"
+        }
+      ]
+    }
+  }
+}

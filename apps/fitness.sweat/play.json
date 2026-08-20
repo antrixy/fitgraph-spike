@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:18:48.796Z",
+  "fetched_at": "2026-08-20T07:19:36.888Z",
   "source": "google_play_scraper",
   "appId": "com.kaylaitsines.sweatwithkayla",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "With over 13,000 workouts, how you choose to Sweat is up to you.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 10173255,
-    "score": 4.374436,
+    "maxInstalls": 10173580,
+    "score": 4.3776436,
     "scoreText": "4.4",
     "ratings": 39365,
     "reviews": 3110,
     "histogram": {
-      "1": 4140,
-      "2": 766,
-      "3": 1238,
-      "4": 3253,
-      "5": 29951
+      "1": 4100,
+      "2": 771,
+      "3": 1248,
+      "4": 3268,
+      "5": 29966
     },
     "price": 0,
     "free": true,

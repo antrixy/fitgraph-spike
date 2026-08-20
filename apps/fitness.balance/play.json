@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:19:43.688Z",
+  "fetched_at": "2026-08-20T07:20:40.455Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Get support for whatever life brings. Meditate and improve your mental health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3656780,
-    "score": 4.641905,
+    "maxInstalls": 3657818,
+    "score": 4.643495,
     "scoreText": "4.6",
-    "ratings": 48425,
+    "ratings": 48433,
     "reviews": 3310,
     "histogram": {
-      "1": 2551,
-      "2": 673,
+      "1": 2530,
+      "2": 676,
       "3": 614,
-      "4": 3873,
-      "5": 40705
+      "4": 3858,
+      "5": 40740
     },
     "price": 0,
     "free": true,

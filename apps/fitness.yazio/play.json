@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:12:26.373Z",
+  "fetched_at": "2026-08-20T07:13:23.734Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Weight Loss w/o Dieting: Food, Diet &amp; Keto Tracker to Plan Meals &amp; Lose Weight",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 57280876,
-    "score": 4.389815,
+    "maxInstalls": 57305116,
+    "score": 4.393883,
     "scoreText": "4.4",
-    "ratings": 848030,
+    "ratings": 848921,
     "reviews": 2719,
     "histogram": {
-      "1": 69061,
-      "2": 22739,
-      "3": 42340,
-      "4": 87896,
-      "5": 625762
+      "1": 67592,
+      "2": 22811,
+      "3": 44015,
+      "4": 87265,
+      "5": 627007
     },
     "price": 0,
     "free": true,
@@ -81,7 +81,7 @@
     "adSupported": true,
     "released": "Apr 23, 2014",
     "updated": 1786694516000,
-    "version": "26.32.0",
+    "version": "26.33.0",
     "recentChanges": "Liquid Glass is here! Yazio now supports Apple&#39;s newest interface design, so you can enjoy a smoother, more refined experience throughout the app.<br>",
     "comments": [],
     "preregister": false,

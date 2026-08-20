@@ -1,0 +1,36 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-08-20",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:15:37.847Z",
+      "curr_fetched_at": "2026-08-20T07:16:28.403Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.50.0",
+          "new": "8.50.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We cleaned things up so your app doesn't DNF. Now let's help you go get that PR.",
+          "new": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:15:40.100Z",
+      "curr_fetched_at": "2026-08-20T07:16:30.722Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.50.0",
+          "new": "8.50.2"
+        }
+      ]
+    }
+  }
+}

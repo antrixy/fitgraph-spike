@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T07:14:46.923Z",
+  "fetched_at": "2026-08-20T07:15:38.769Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym Log &amp; Workout Planner: Weight lifting &amp; muscle building training plans",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1984894,
-    "score": 4.848039,
+    "maxInstalls": 1984940,
+    "score": 4.8452086,
     "scoreText": "4.8",
-    "ratings": 20781,
+    "ratings": 20792,
     "reviews": 1622,
     "histogram": {
-      "1": 301,
-      "2": 250,
-      "3": 250,
-      "4": 658,
-      "5": 19301
+      "1": 305,
+      "2": 254,
+      "3": 254,
+      "4": 713,
+      "5": 19256
     },
     "price": 0,
     "free": true,
@@ -64,7 +64,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Dec 16, 2019",
-    "updated": 1786113323000,
+    "updated": 1787130310000,
     "version": "7.3",
     "recentChanges": "Changes<br>• We added Dutch as a new language. If you notice any mistranslations, please tell us at info@alphaprogression.com.<br>• The app is now faster and smaller to download.<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
     "comments": [],

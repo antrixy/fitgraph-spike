@@ -1,0 +1,91 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-08-20",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "curr_fetched_at": "2026-08-20T07:13:47.406Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Coleen Rooney shower squats are going viral—here’s why they work",
+          "occurrences": 1
+        },
+        {
+          "text": "Why adults are ordering the Cava Kids Meal—and the GLP-1 connection",
+          "occurrences": 1
+        },
+        {
+          "text": "Tirzepatide costs: With and without insurance in 2026",
+          "occurrences": 1
+        },
+        {
+          "text": "Can eating a banana before bed help with sleep and weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "GIP: What’s the difference, and does it matter for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "How to make quinoa taste good (+ 10 easy recipes)",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What to eat on semaglutide: A simple diet plan for the best results",
+          "occurrences": 1
+        },
+        {
+          "text": "Can a daily apple cider vinegar shot help you lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s the truth",
+          "occurrences": 1
+        },
+        {
+          "text": "How long does it take tirzepatide to work?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is seaweed good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What you need to know",
+          "occurrences": 1
+        },
+        {
+          "text": "How much protein do you need on a GLP-1?",
+          "occurrences": 1
+        },
+        {
+          "text": "What the experts say",
+          "occurrences": 1
+        },
+        {
+          "text": "Wegovy® pill vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "phentermine: Which one works best in 2026?",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 8,
+      "removed_total": 10
+    }
+  }
+}

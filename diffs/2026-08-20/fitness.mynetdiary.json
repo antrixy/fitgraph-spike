@@ -1,0 +1,65 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-20",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "prev_fetched_at": "2026-08-19T07:12:15.797Z",
+      "curr_fetched_at": "2026-08-20T07:13:14.777Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "curr_fetched_at": "2026-08-20T07:13:16.864Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Calorie cycling for weight loss: Finally, a flexible way to stick to your plan and rock your goals",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "MyNetDiary: The most accurate, user-friendly macronutrient tracker available",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for the best food tracking app while working from home?",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 4
+    }
+  }
+}

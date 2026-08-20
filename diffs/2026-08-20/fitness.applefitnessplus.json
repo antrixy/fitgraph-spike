@@ -1,0 +1,27 @@
+{
+  "product": "fitness.applefitnessplus",
+  "name": "Apple Fitness+",
+  "date": "2026-08-20",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8",
+      "curr_fetched_at": "2026-08-20T07:19:18.857Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Try Apple Music free 5",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Get Apple Music",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}
