@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "w features:<br>- Redesigned Program Creator: build and edit your entire program from one screen, set it up faster.<br>- Health Connect: Boostcamp now saves your completed workouts and keeps your bodyweight in sync.<br>Plus bug fixes and general improveme",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "e838c8fdab8084d8b03ce1d92969bc984423b037",
       "prev_ok_commit": "dcc3c15def63b16f16be05941a55b5429e2b68e8"
     }
   ],
