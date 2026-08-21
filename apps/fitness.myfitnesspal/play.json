@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T07:12:26.414Z",
+  "fetched_at": "2026-08-21T07:13:28.308Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Know what you&#39;re eating this summer. Track calories, macros &amp; nutrition.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 135944357,
-    "score": 4.4020553,
+    "maxInstalls": 135966269,
+    "score": 4.402246,
     "scoreText": "4.4",
-    "ratings": 2910483,
-    "reviews": 454139,
+    "ratings": 2910756,
+    "reviews": 454150,
     "histogram": {
-      "1": 207059,
-      "2": 83980,
-      "3": 143954,
-      "4": 372206,
-      "5": 2103276
+      "1": 206922,
+      "2": 84010,
+      "3": 143846,
+      "4": 372490,
+      "5": 2103478
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "released": "Apr 26, 2010",
     "updated": 1786740608000,
     "version": "VARY",
-    "recentChanges": "✅Fixed: Any saved meals Meals that included from My Foods or My Recipes would log 0 calories or disappear when you switched devices. Now your saved meals log correctly from any device.<br><br>✅For those using GLP-1 tools, pausing and resuming support would cause symptom tracking to be listed as “coming soon.” Now you can log your side effects the moment you resume support.<br><br>🐛 Bugs: great for the environment, bad for your logging experience.<br>*For all the latest fixes, update to the latest app version",
+    "recentChanges": "✅Fixed: Day 1 streak celebrations were popping up before actually earning a streak.<br>➡️Now every streak celebration is tied to a real milestone you achieve.<br><br>✅Fixed: For some, the Settings screen was crashing.<br>➡️Now you can update your preferences without a hitch.<br><br>🐛Bugs: great for the environment, bad for your logging experience.<br>*For all the latest fixes, update to the latest app version",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T07:17:44.168Z",
+  "fetched_at": "2026-08-21T07:19:24.173Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 43152242,
-    "score": 4.296296,
+    "maxInstalls": 43168010,
+    "score": 4.3100615,
     "scoreText": "4.3",
-    "ratings": 418874,
-    "reviews": 2125,
+    "ratings": 419342,
+    "reviews": 2126,
     "histogram": {
-      "1": 42225,
-      "2": 16358,
-      "3": 15472,
-      "4": 45610,
-      "5": 299046
+      "1": 40451,
+      "2": 17163,
+      "3": 15471,
+      "4": 44722,
+      "5": 301371
     },
     "price": 0,
     "free": true,
@@ -77,7 +77,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1787139097000,
+    "updated": 1787229500000,
     "version": "VARY",
     "recentChanges": "Bug fixes<br>- Fixed speed and gradient not showing during some activities.<br>- Improved Spanish translations across the app.<br>- Fixed several route planning and navigation issues.",
     "comments": [],

@@ -1,0 +1,37 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-21",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "e838c8fdab8084d8b03ce1d92969bc984423b037",
+      "prev_fetched_at": "2026-08-20T07:18:16.667Z",
+      "curr_fetched_at": "2026-08-21T07:19:52.237Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "e838c8fdab8084d8b03ce1d92969bc984423b037",
+      "curr_fetched_at": "2026-08-21T07:19:56.970Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Stephen Curry and his performance team join forces with Google’s trusted innovators to bring you Google Health.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Stephen Curry and his performance team join forces with Google’s trusted innovators to bring you Google Health and a special edition band collection.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Stephen Curry Collection",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 2
+    }
+  }
+}

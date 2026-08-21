@@ -1,11 +1,8 @@
 {
-  "fetched_at": "2026-08-20T07:18:04.664Z",
+  "fetched_at": "2026-08-21T07:19:39.450Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=583446403&country=us",
   "result": {
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
     "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
@@ -151,34 +148,33 @@
     ],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.39121,
-    "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Garmin Connect™",
-    "minimumOsVersion": "18.2",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "artistId": 411046952,
-    "artistName": "Garmin",
-    "bundleId": "com.garmin.connect.mobile",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b6/84/a2b684ac-f27b-b9db-f023-4a141e6111f4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/garmin/id411046952?uo=4",
     "isVppDeviceBasedLicensingEnabled": true,
-    "releaseDate": "2013-01-10T06:26:44Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Garmin International",
+    "price": 0,
+    "currentVersionReleaseDate": "2026-08-13T14:25:57Z",
+    "trackId": 583446403,
+    "trackName": "Garmin Connect™",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "trackId": 583446403,
-    "trackName": "Garmin Connect™",
-    "currentVersionReleaseDate": "2026-08-13T14:25:57Z",
+    "releaseNotes": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
+    "releaseDate": "2013-01-10T06:26:44Z",
     "version": "5.27.3",
     "wrapperType": "software",
     "currency": "USD",
     "description": "The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. \n \nOnce you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. \n \nWith Garmin Connect you can: \n \n- Personalize your home screen, so the most helpful information is instantly visible \n- Analyze your activities with detailed statistics(3)\n- Create customized workouts and courses \n- Review trends in health metrics like heart rate and steps \n- Earn badges for accomplishments \n- Sync with other apps like Apple Health, MyFitnessPal and Strava \n- Get support for Garmin devices and their features \n \nLearn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. \n \n(1) See compatibility requirements at Garmin.com/BLE \n(2) See a full list of compatible devices at Garmin.com/devices\n(3) See Garmin.com/ataccuracy  \n \nNote: Continued use of GPS running in the background can dramatically decrease battery life.",
-    "averageUserRatingForCurrentVersion": 4.39121,
+    "minimumOsVersion": "18.2",
+    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
+    "averageUserRatingForCurrentVersion": 4.39131,
+    "averageUserRating": 4.39131,
+    "trackCensoredName": "Garmin Connect™",
     "languageCodesISO2A": [
       "AR",
       "BG",
@@ -217,15 +213,19 @@
       "UK",
       "VI"
     ],
-    "userRatingCountForCurrentVersion": 58129,
-    "trackContentRating": "4+",
-    "sellerUrl": "http://www.garmin.com/apps/gcmobile",
-    "formattedPrice": "Free",
     "fileSizeBytes": "981613568",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseNotes": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
-    "price": 0,
-    "userRatingCount": 58129
+    "formattedPrice": "Free",
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 58133,
+    "trackViewUrl": "https://apps.apple.com/us/app/garmin-connect/id583446403?uo=4",
+    "trackContentRating": "4+",
+    "bundleId": "com.garmin.connect.mobile",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "artistId": 411046952,
+    "artistName": "Garmin",
+    "userRatingCount": 58133
   }
 }

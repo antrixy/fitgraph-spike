@@ -1,0 +1,20 @@
+{
+  "product": "fitness.adidasrunning",
+  "name": "adidas Running",
+  "date": "2026-08-21",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "e838c8fdab8084d8b03ce1d92969bc984423b037",
+      "prev_fetched_at": "2026-08-20T07:16:52.867Z",
+      "curr_fetched_at": "2026-08-21T07:18:27.782Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Goal widgets have arrived! It&#39;s now easy to see your active goals and progress at a glance. Update now and enjoy the latest version.",
+          "new": "Just a little maintenance this time! Bug fixes and performance tweaks to keep your workouts running smooth."
+        }
+      ]
+    }
+  }
+}

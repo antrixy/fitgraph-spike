@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T07:18:16.667Z",
+  "fetched_at": "2026-08-21T07:19:52.237Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Your personalized health coach",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 285841538,
-    "score": 3.6395907,
+    "maxInstalls": 286164550,
+    "score": 3.6373558,
     "scoreText": "3.6",
-    "ratings": 1303495,
-    "reviews": 252746,
+    "ratings": 1303637,
+    "reviews": 252767,
     "histogram": {
-      "1": 310984,
-      "2": 80930,
-      "3": 73455,
-      "4": 139638,
-      "5": 698481
+      "1": 311533,
+      "2": 81162,
+      "3": 73626,
+      "4": 139507,
+      "5": 697801
     },
     "price": 0,
     "free": true,

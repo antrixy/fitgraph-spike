@@ -1,9 +1,35 @@
 {
-  "fetched_at": "2026-08-20T07:19:34.928Z",
+  "fetched_at": "2026-08-21T07:21:16.413Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1049234587&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/35/3b/35353bc4-d568-e376-dbe0-f4ada2cbe616/Sweat_PPO_May_Testing_-_Panel_1_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/01/59/35015943-4b5f-5954-b2dc-fe6aa1e399f2/Sweat_PPO_May_Testing_-_Panel_2_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/a9/e4/2ea9e4f9-7b36-9f0b-07a7-114fd11b235a/Sweat_PPO_May_Testing_-_Panel_3_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/29/67/552967dd-8116-f219-c7fd-f0df37d9e07a/Sweat_PPO_May_Testing_-_Panel_4_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/a1/a2/e4a1a2fb-4450-0acb-5af3-652ade3967c0/Sweat_PPO_May_Testing_-_Panel_5_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/6f/2c/3b6f2cb1-dcaa-a973-0296-65eb209c97d3/Sweat_PPO_May_Testing_-_Panel_6_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/cb/55/c7cb551e-0347-69cd-d344-15d90455fbc8/Sweat_PPO_May_Testing_-_Panel_7_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/c4/d8/61c4d8d1-e0b5-267b-1674-b2e3f7b99059/Sweat_PPO_May_Testing_-_Panel_8_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/36/6d/c2366ddd-21ce-9c52-a9ee-f5621ac34d65/Sweat_PPO_May_Testing_-_Panel_1_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/0d/8e/cd0d8e91-7a5f-9015-36ed-3cbcb7180436/Sweat_PPO_May_Testing_-_Panel_2_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/46/31/3646315f-bff6-329d-e906-0b37f6f1a1f7/Sweat_PPO_May_Testing_-_Panel_3_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/de/90/5ade90cb-02f0-64a5-5431-d1c123f350a9/Sweat_PPO_May_Testing_-_Panel_4_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/8e/51/478e5150-3e6f-3f10-9d21-8a930dd55721/Sweat_PPO_May_Testing_-_Panel_5_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/dc/9f/57dc9ffb-9919-a25b-ebb2-46cf0192d13c/Sweat_PPO_May_Testing_-_Panel_6_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/41/86/d5418638-0078-09aa-9084-7e2eb052e216/Sweat_PPO_May_Testing_-_Panel_7_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/96/9d/29969d84-9af3-8d34-cd96-597fb1167d22/Sweat_PPO_May_Testing_-_Panel_8_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/d9/7d/00d97d57-17ba-dafe-e942-6dc7b84ad66b/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -134,68 +160,13 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
+    "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/the-bikini-body-training-company-pty-ltd/id1049234586?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/d9/7d/00d97d57-17ba-dafe-e942-6dc7b84ad66b/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/d9/7d/00d97d57-17ba-dafe-e942-6dc7b84ad66b/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/100x100bb.jpg",
-    "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/35/3b/35353bc4-d568-e376-dbe0-f4ada2cbe616/Sweat_PPO_May_Testing_-_Panel_1_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/01/59/35015943-4b5f-5954-b2dc-fe6aa1e399f2/Sweat_PPO_May_Testing_-_Panel_2_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/a9/e4/2ea9e4f9-7b36-9f0b-07a7-114fd11b235a/Sweat_PPO_May_Testing_-_Panel_3_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/29/67/552967dd-8116-f219-c7fd-f0df37d9e07a/Sweat_PPO_May_Testing_-_Panel_4_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/a1/a2/e4a1a2fb-4450-0acb-5af3-652ade3967c0/Sweat_PPO_May_Testing_-_Panel_5_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/6f/2c/3b6f2cb1-dcaa-a973-0296-65eb209c97d3/Sweat_PPO_May_Testing_-_Panel_6_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/cb/55/c7cb551e-0347-69cd-d344-15d90455fbc8/Sweat_PPO_May_Testing_-_Panel_7_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/c4/d8/61c4d8d1-e0b5-267b-1674-b2e3f7b99059/Sweat_PPO_May_Testing_-_Panel_8_-_iPhone_6.9_1260_x_2736.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/36/6d/c2366ddd-21ce-9c52-a9ee-f5621ac34d65/Sweat_PPO_May_Testing_-_Panel_1_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/0d/8e/cd0d8e91-7a5f-9015-36ed-3cbcb7180436/Sweat_PPO_May_Testing_-_Panel_2_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/46/31/3646315f-bff6-329d-e906-0b37f6f1a1f7/Sweat_PPO_May_Testing_-_Panel_3_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/de/90/5ade90cb-02f0-64a5-5431-d1c123f350a9/Sweat_PPO_May_Testing_-_Panel_4_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/8e/51/478e5150-3e6f-3f10-9d21-8a930dd55721/Sweat_PPO_May_Testing_-_Panel_5_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/dc/9f/57dc9ffb-9919-a25b-ebb2-46cf0192d13c/Sweat_PPO_May_Testing_-_Panel_6_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/41/86/d5418638-0078-09aa-9084-7e2eb052e216/Sweat_PPO_May_Testing_-_Panel_7_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/96/9d/29969d84-9af3-8d34-cd96-597fb1167d22/Sweat_PPO_May_Testing_-_Panel_8_-_iPad_13_2064_x_2752.jpg/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/d9/7d/00d97d57-17ba-dafe-e942-6dc7b84ad66b/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
-    "averageUserRating": 4.62805,
     "minimumOsVersion": "17.0",
-    "artistId": 1049234586,
-    "artistName": "The Bikini Body Training Company Pty Ltd",
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "price": 0,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "trackId": 1049234587,
-    "trackName": "Sweat: Fitness App For Women",
-    "currentVersionReleaseDate": "2026-08-10T23:40:05Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "sellerName": "The Bikini Body Training Company Pty Ltd",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "releaseDate": "2015-11-20T00:47:35Z",
-    "releaseNotes": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n\n• Introducing Guided Runs on Sweat. Lock your screen during our new running workouts without pausing your session, and let guided audio coach you through every interval.\n\nLove Sweat? Rate us 5 stars and share your love with the community!",
-    "trackCensoredName": "Sweat: Fitness App For Women",
-    "trackViewUrl": "https://apps.apple.com/us/app/sweat-fitness-app-for-women/id1049234587?uo=4",
-    "contentAdvisoryRating": "17+",
-    "version": "7.8.2",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Train at home or in the gym with one of the world’s largest women’s fitness communities! Get the fitness motivation you need with Sweat, a personal training app featuring co-founder and elite head trainer, Kayla Itsines. \n\nSweat offers a broad suite of challenging, yet achievable programs with workouts you can do anywhere, anytime to progressively build your fitness. New programs give you more ways to push yourself and get you closer to reaching your goals. Stay accountable with virtual community challenges and feel supported by like-minded women everywhere.\n\nJoin Kayla and Sweat’s other world-class trainers: Kelsey Wells, Britany Williams, Cass Olholm — and more! — on your journey to discovering fitness confidence.\n\nAll new members get exclusive access to a free trial.\n\nFind a training style you enjoy with easy-to-follow beginner, intermediate and advanced workouts, including:\n- HIIT (High-intensity interval training)\n- Circuit Training\n- Bodyweight exercises\n- Powerbuilding\n- Strength training\n- Yoga\n- Barre\n- Pilates\n- Recovery\n- Cardio\n- Pregnancy and postnatal\n\nTrain your way — follow a program or work out on demand. Choose workouts that suit your lifestyle with no equipment, free weights or machines and express workouts when you are short on time. \n\nSweat’s features make it simple to stay on track and keep on top of your progress. Features include:\n- Exercise descriptions and video demonstrations\n- Exercise substitutions to make movements harder or easier\n- Trainer audio cues\n- Log weights used during gym-based programs\n- Planner to schedule your workouts and track your weekly progress\n- Share “sweaty selfies” with your friends and the Sweat Community to keep motivated\n- Comprehensive education section covering fitness, nutrition and wellbeing\n- Over 200 fresh & fast meals for every lifestyle\n- Daily step and hydration trackers\n- 24/7 access to the Sweat Community\n\nEnable Apple Health with your Apple Watch to keep track of all your activity in the Sweat app.\n\nSUBSCRIPTION PRICING & TERMS\nSweat is free to download. Ongoing use requires an active subscription, available on a monthly or yearly basis. New customers who choose a monthly subscription are eligible for a free trial period. Yearly subscriptions are billed the total annual fee from purchase date. Monthly subscription users are billed per month.\n\nPayment will be charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period. There is no increase in price when renewing.\n\nSubscriptions can be managed and auto-renewal turned off in Account Settings in iTunes after purchase. Once purchased, refunds will not be provided for any unused portion of the term. Read our full Terms and conditions & Privacy Policy:\nhttps://www.sweat.com/pages/terms-and-conditions\nhttps://www.sweat.com/privacy",
+    "averageUserRatingForCurrentVersion": 4.62809,
     "sellerUrl": "https://www.sweat.com",
-    "bundleId": "com.PixelForceSystems.SweatWithKayla",
-    "averageUserRatingForCurrentVersion": 4.62805,
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -208,8 +179,37 @@
     ],
     "fileSizeBytes": "172672000",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 43136,
+    "userRatingCountForCurrentVersion": 43139,
     "trackContentRating": "17+",
-    "userRatingCount": 43136
+    "artistId": 1049234586,
+    "artistName": "The Bikini Body Training Company Pty Ltd",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "price": 0,
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "releaseDate": "2015-11-20T00:47:35Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-08-10T23:40:05Z",
+    "trackId": 1049234587,
+    "trackName": "Sweat: Fitness App For Women",
+    "sellerName": "The Bikini Body Training Company Pty Ltd",
+    "releaseNotes": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n\n• Introducing Guided Runs on Sweat. Lock your screen during our new running workouts without pausing your session, and let guided audio coach you through every interval.\n\nLove Sweat? Rate us 5 stars and share your love with the community!",
+    "version": "7.8.2",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Train at home or in the gym with one of the world’s largest women’s fitness communities! Get the fitness motivation you need with Sweat, a personal training app featuring co-founder and elite head trainer, Kayla Itsines. \n\nSweat offers a broad suite of challenging, yet achievable programs with workouts you can do anywhere, anytime to progressively build your fitness. New programs give you more ways to push yourself and get you closer to reaching your goals. Stay accountable with virtual community challenges and feel supported by like-minded women everywhere.\n\nJoin Kayla and Sweat’s other world-class trainers: Kelsey Wells, Britany Williams, Cass Olholm — and more! — on your journey to discovering fitness confidence.\n\nAll new members get exclusive access to a free trial.\n\nFind a training style you enjoy with easy-to-follow beginner, intermediate and advanced workouts, including:\n- HIIT (High-intensity interval training)\n- Circuit Training\n- Bodyweight exercises\n- Powerbuilding\n- Strength training\n- Yoga\n- Barre\n- Pilates\n- Recovery\n- Cardio\n- Pregnancy and postnatal\n\nTrain your way — follow a program or work out on demand. Choose workouts that suit your lifestyle with no equipment, free weights or machines and express workouts when you are short on time. \n\nSweat’s features make it simple to stay on track and keep on top of your progress. Features include:\n- Exercise descriptions and video demonstrations\n- Exercise substitutions to make movements harder or easier\n- Trainer audio cues\n- Log weights used during gym-based programs\n- Planner to schedule your workouts and track your weekly progress\n- Share “sweaty selfies” with your friends and the Sweat Community to keep motivated\n- Comprehensive education section covering fitness, nutrition and wellbeing\n- Over 200 fresh & fast meals for every lifestyle\n- Daily step and hydration trackers\n- 24/7 access to the Sweat Community\n\nEnable Apple Health with your Apple Watch to keep track of all your activity in the Sweat app.\n\nSUBSCRIPTION PRICING & TERMS\nSweat is free to download. Ongoing use requires an active subscription, available on a monthly or yearly basis. New customers who choose a monthly subscription are eligible for a free trial period. Yearly subscriptions are billed the total annual fee from purchase date. Monthly subscription users are billed per month.\n\nPayment will be charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours prior to the end of the subscription period. There is no increase in price when renewing.\n\nSubscriptions can be managed and auto-renewal turned off in Account Settings in iTunes after purchase. Once purchased, refunds will not be provided for any unused portion of the term. Read our full Terms and conditions & Privacy Policy:\nhttps://www.sweat.com/pages/terms-and-conditions\nhttps://www.sweat.com/privacy",
+    "bundleId": "com.PixelForceSystems.SweatWithKayla",
+    "averageUserRating": 4.62809,
+    "contentAdvisoryRating": "17+",
+    "trackCensoredName": "Sweat: Fitness App For Women",
+    "trackViewUrl": "https://apps.apple.com/us/app/sweat-fitness-app-for-women/id1049234587?uo=4",
+    "userRatingCount": 43139
   }
 }
