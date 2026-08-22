@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T07:20:15.840Z",
+  "fetched_at": "2026-08-22T07:12:00.937Z",
   "source": "google_play_scraper",
   "appId": "com.ouraring.oura",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Understand your body’s most meaningful messages and transform your health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1342546,
-    "score": 4.6791625,
+    "maxInstalls": 1343947,
+    "score": 4.6773715,
     "scoreText": "4.7",
-    "ratings": 37947,
-    "reviews": 6458,
+    "ratings": 38018,
+    "reviews": 6465,
     "histogram": {
-      "1": 941,
-      "2": 683,
-      "3": 1218,
-      "4": 3914,
-      "5": 31184
+      "1": 937,
+      "2": 694,
+      "3": 1239,
+      "4": 3943,
+      "5": 31199
     },
     "price": 0,
     "free": true,

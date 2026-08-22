@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T07:14:37.792Z",
+  "fetched_at": "2026-08-22T07:06:36.121Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 57327639,
-    "score": 4.397959,
+    "score": 4.3946395,
     "scoreText": "4.4",
-    "ratings": 849742,
-    "reviews": 2720,
+    "ratings": 850191,
+    "reviews": 2722,
     "histogram": {
-      "1": 66954,
-      "2": 22037,
-      "3": 44074,
-      "4": 89067,
-      "5": 627378
+      "1": 67571,
+      "2": 21962,
+      "3": 44001,
+      "4": 90299,
+      "5": 626202
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Apr 23, 2014",
-    "updated": 1786694516000,
+    "updated": 1787297101000,
     "version": "26.33.0",
     "recentChanges": "Liquid Glass is here! Yazio now supports Apple&#39;s newest interface design, so you can enjoy a smoother, more refined experience throughout the app.<br>",
     "comments": [],

@@ -1,0 +1,30 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-08-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:15:53.072Z",
+      "curr_fetched_at": "2026-08-22T07:07:51.688Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.9",
+          "new": "3.1.10"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new in this update:\n\nProgram Variety setting lets you control how often your Trainer exercises change.\nInjury Management lets you flag injuries so Trainer can adapt your program around them.\nBug fixes and performance improvements!",
+          "new": "What's new in this update:\n\nRedesigned the Set Row UI — clearer active/checked states, an RPE color scale\nProgressive Overload now supports reps-only exercises (pull-ups, push-ups, etc.)\nBug fixes and performance improvements!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:15:57.701Z",
+      "curr_fetched_at": "2026-08-22T07:07:55.557Z",
+      "version_unreported": true
+    }
+  }
+}

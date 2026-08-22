@@ -1,0 +1,57 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-22",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:21:08.828Z",
+      "curr_fetched_at": "2026-08-22T07:12:54.584Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "curr_fetched_at": "2026-08-22T07:12:58.975Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Get a FREE Centr gym flag with every purchase of Centr equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Now",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Your plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "GET CENTR COACH",
+          "occurrences": 1
+        },
+        {
+          "text": "Fall race season is coming",
+          "occurrences": 1
+        },
+        {
+          "text": "Train HYROX",
+          "occurrences": 1
+        },
+        {
+          "text": "Bring strength home",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Home Gyms",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 6
+    }
+  }
+}

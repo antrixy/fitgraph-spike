@@ -1,0 +1,24 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-08-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:13:44.522Z",
+      "curr_fetched_at": "2026-08-22T07:05:49.156Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.58.0",
+          "new": "4.58.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "This release includes UI enhancements based on your feedback and several bug fixes. Thank you for reporting these issues and sharing your suggestions — please continue to let us know what you think. Happy tracking!",
+          "new": "This release includes a few bug fixes to keep things running smoothly. Thanks for reporting these issues — keep the feedback coming!"
+        }
+      ]
+    }
+  }
+}

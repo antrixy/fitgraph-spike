@@ -1,8 +1,10 @@
 {
-  "fetched_at": "2026-08-21T07:17:37.699Z",
+  "fetched_at": "2026-08-22T07:09:40.352Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1209781676&country=us",
   "result": {
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/14/9e/a8149e32-3fe7-6ec7-8c97-05342c0fdd4c/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/setgraph-llc/id1209781675?uo=4",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/85/db/0185db96-7048-52ae-43c9-7fed040b332c/english_1.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/0d/71/310d715a-0014-2775-3cb2-15daed633928/english_2.jpg/320x480bb.jpg",
@@ -17,10 +19,8 @@
     ],
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/14/9e/a8149e32-3fe7-6ec7-8c97-05342c0fdd4c/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/setgraph-llc/id1209781675?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/14/9e/a8149e32-3fe7-6ec7-8c97-05342c0fdd4c/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/14/9e/a8149e32-3fe7-6ec7-8c97-05342c0fdd4c/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/14/9e/a8149e32-3fe7-6ec7-8c97-05342c0fdd4c/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
@@ -155,8 +155,13 @@
     ],
     "advisories": [],
     "kind": "software",
+    "fileSizeBytes": "94245888",
+    "formattedPrice": "Free",
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 6003,
+    "trackViewUrl": "https://apps.apple.com/us/app/setgraph-gym-workout-tracker/id1209781676?uo=4",
+    "trackContentRating": "4+",
     "sellerUrl": "https://www.setgraph.app",
-    "averageUserRatingForCurrentVersion": 4.71569,
     "languageCodesISO2A": [
       "EN",
       "FR",
@@ -166,40 +171,35 @@
       "ZH",
       "ES"
     ],
-    "fileSizeBytes": "94245888",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 5990,
-    "trackContentRating": "4+",
-    "averageUserRating": 4.71569,
-    "contentAdvisoryRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.71681,
+    "averageUserRating": 4.71681,
     "trackCensoredName": "Setgraph: Gym Workout Tracker",
-    "trackViewUrl": "https://apps.apple.com/us/app/setgraph-gym-workout-tracker/id1209781676?uo=4",
-    "minimumOsVersion": "16.4",
-    "artistId": 1209781675,
-    "artistName": "Setgraph LLC",
-    "sellerName": "Setgraph LLC",
+    "releaseDate": "2017-06-20T18:11:08Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "releaseDate": "2017-06-20T18:11:08Z",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
-    "isVppDeviceBasedLicensingEnabled": true,
     "trackId": 1209781676,
     "trackName": "Setgraph: Gym Workout Tracker",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Setgraph LLC",
     "currentVersionReleaseDate": "2026-08-18T00:22:19Z",
     "releaseNotes": "Personal Records\nEvery exercise now has a Records tab showing your best lifts at every rep range, plus volume and session records. Break a record and Setgraph celebrates it the moment you log the set, and your day summary counts every record you set that day. Tap any record to see how it has progressed over time.\n\nShare Cards\nTurn any workout into a card worth sharing. Choose a design, customize its appearance and featured record, then save, copy, or share it anywhere. Take a screenshot in Setgraph and, when today's workout has data, its share cards are ready to go.",
     "version": "26.8.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Setgraph is the fast, no-fuss way to track your lifts and actually achieve progressive overload. Log a set in seconds, then watch your strength climb on clear, real-time graphs. Built for lifters of all levels, it stays simple and quick, so logging never gets in the way of training.\n\nFeatures\n\nFast and Simple\n• Instantly log sets with minimal taps, saving time and keeping you focused on your workout.\n• Record supersets, circuits, and multisets together, so grouped movements stay fast to log.\n• Rest timers start automatically after recording a set and are accessible from your Lock Screen or Dynamic Island.\n• Manage weights effortlessly with Smart Plates, which calculate totals instantly.\n• Swipe to replicate previous sets or log new ones with ease.\n• Use the “Next Set Due” notification to stay on track without reopening the app.\n\nPersonalized Workout Plans\n• Choose your primary focus: achieve a specific look with aesthetic goals or optimize performance for a sport or activity.\n• For aesthetic goals, target specific muscle groups to “grow” or “define” and build your ideal physique through strength training.\n• For performance goals, focus on improving strength, endurance, and power to excel in your chosen sport or activity.\n• Build and customize your own routines, or use a plan. Either way it drops straight into your workout lists, ready for immediate logging without any setup.\n\nPowerful Organization\n• Group exercises by Workout, Muscle Group, Program, Day of Week, and more with flexible lists.\n• Color-code your lists and exercises with Custom Colors to find what you need at a glance.\n• Add detailed notes to your exercises and lists for tracking targets and goals.\n• Assign exercises to multiple lists for quick access to their history.\n• Customize exercise sorting by Recent Completion, Alphabetical Order, or Manually.\n\nAdvanced Customization\n• Tailor sessions with details like calories, incline level, and sport-specific metrics.\n• Log every set or focus on personal records. It’s up to you.\n• Choose your preferred formula for calculating one-rep max (1RM).\n\nAnalytics for Every Exercise\n• Compare progress with real-time session metrics, including reps, weight/rep, volume, and sets.\n• Explore dynamic graphs that showcase your progress over time.\n• Filter set history by weight or rep range for deeper analysis.\n• Instantly estimate your maximum potential using 1RM Percentage Tables.\n\nStay Motivated and Consistent\n• Track your workout consistency with a visual calendar.\n• Set personalized workout reminders to keep you on track.\n• Stay inspired with progress graphs and actionable insights.\n\nApple Watch + Health Integration\n• Sync Setgraph with Apple Health & Fitness for comprehensive tracking.\n• Access Setgraph’s core functionality directly on your Apple Watch.\n\nUnlock unlimited access with a Pro Membership. A Lifetime Pro Membership can be purchased once without a subscription. A Pro Membership is also available with a monthly or yearly subscription. Setgraph will automatically charge your iTunes Account at the end of your subscription or free trial period unless auto-renew is turned off at least 24 hours before the end of your current period. You can turn off auto-renew at any time and still receive full functionality until the end of your current period, but no refund can be provided for unused portions of the subscription. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Subscriptions cannot be shared using Family Sharing.\n\nTerms of Service: https://setgraph.app/terms-service",
+    "minimumOsVersion": "16.4",
     "bundleId": "com.BenchFTW",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
+    "artistId": 1209781675,
+    "artistName": "Setgraph LLC",
     "price": 0,
-    "userRatingCount": 5990
+    "userRatingCount": 6003
   }
 }

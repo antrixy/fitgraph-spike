@@ -1,0 +1,24 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-08-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:17:20.278Z",
+      "curr_fetched_at": "2026-08-22T07:09:21.624Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.4.0",
+          "new": "1.4.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Fixes some layout bugs when entering text",
+          "new": "Fixes subscription validation issues"
+        }
+      ]
+    }
+  }
+}

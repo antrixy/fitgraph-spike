@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-08-21T07:16:48.537Z",
+  "fetched_at": "2026-08-22T07:08:47.726Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=488580022&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
     "advisories": [],
+    "kind": "software",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/44/16/33441619-2e60-6e23-e9cf-3e103506f021/01_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/7b/e3/847be307-f941-b89a-44b9-3f9561b9cb17/02_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f6/dd/02f6dd2d-72c4-2d63-10a3-0718b83cc4a5/03_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/d7/4f/35d74f1f-9194-83d5-2aa4-dceeaba7b52f/04_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/1f/e0/0e1fe0a2-fd10-1501-24dd-dd287fd1eaa4/05_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6c/3d/286c3d7b-28bc-3b7a-5aef-c98ac235d6db/06_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9c/f7/919cf7fe-e8c7-28f6-1a10-30aefca36cf3/07_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/09/6c/14096cf9-9293-bd71-8c96-065827667280/08_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/00/45/530045b1-5d51-e170-7489-44d0eeff6be4/09_iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/65/6b/e2656ba0-2326-b3ed-2292-617deb747d9e/10_iphone.png/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/00/13/100013d4-b868-e372-a541-03fc0416c0cb/01_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/49/87/ba498768-b3b3-fece-e826-c0f8ab6993b9/02_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ca/63/6dca63aa-a9d5-e3b5-64d6-df043aa107ac/03_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/a9/b9/81a9b973-bbc8-b364-93bf-f1f610ef8bdd/04_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/a1/c2/0ba1c2da-6e3e-3fd6-828f-716a36cf5c4f/05_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/a8/23/baa82367-3094-7bd6-d60f-d4cd0cb8b152/06_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/4a/41/d04a4150-41ab-7644-9e91-c8e6d898b7e9/07_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/b4/58/8fb458c9-f63a-b6c5-d60e-a693e5c176c3/08_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/34/b5/9634b588-b637-4b5a-b91e-202d7bd22c6b/09_screenshot.png/360x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/29/d1/8c29d1e3-5c78-59f7-99b3-71736af5c13a/10_screenshot.png/360x480bb.jpg"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -138,37 +168,10 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/44/16/33441619-2e60-6e23-e9cf-3e103506f021/01_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/7b/e3/847be307-f941-b89a-44b9-3f9561b9cb17/02_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f6/dd/02f6dd2d-72c4-2d63-10a3-0718b83cc4a5/03_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/d7/4f/35d74f1f-9194-83d5-2aa4-dceeaba7b52f/04_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/1f/e0/0e1fe0a2-fd10-1501-24dd-dd287fd1eaa4/05_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6c/3d/286c3d7b-28bc-3b7a-5aef-c98ac235d6db/06_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9c/f7/919cf7fe-e8c7-28f6-1a10-30aefca36cf3/07_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/09/6c/14096cf9-9293-bd71-8c96-065827667280/08_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/00/45/530045b1-5d51-e170-7489-44d0eeff6be4/09_iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/65/6b/e2656ba0-2326-b3ed-2292-617deb747d9e/10_iphone.png/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/00/13/100013d4-b868-e372-a541-03fc0416c0cb/01_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/49/87/ba498768-b3b3-fece-e826-c0f8ab6993b9/02_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/ca/63/6dca63aa-a9d5-e3b5-64d6-df043aa107ac/03_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/a9/b9/81a9b973-bbc8-b364-93bf-f1f610ef8bdd/04_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/a1/c2/0ba1c2da-6e3e-3fd6-828f-716a36cf5c4f/05_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/a8/23/baa82367-3094-7bd6-d60f-d4cd0cb8b152/06_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/4a/41/d04a4150-41ab-7644-9e91-c8e6d898b7e9/07_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/b4/58/8fb458c9-f63a-b6c5-d60e-a693e5c176c3/08_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/34/b5/9634b588-b637-4b5a-b91e-202d7bd22c6b/09_screenshot.png/360x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/29/d1/8c29d1e3-5c78-59f7-99b3-71736af5c13a/10_screenshot.png/360x480bb.jpg"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/81/8dc781ea-3cba-5a99-930c-7b479b430994/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
+    "averageUserRating": 4.86117,
+    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
+    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
+    "contentAdvisoryRating": "4+",
     "artistId": 916468093,
     "artistName": "StrongLifts",
     "genres": [
@@ -176,23 +179,28 @@
       "Lifestyle"
     ],
     "price": 0,
+    "trackId": 488580022,
+    "trackName": "Stronglifts 5x5 Workout Plan",
     "sellerName": "Stronglifts Limited",
-    "bundleId": "com.StrongLifts",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "releaseDate": "2011-12-22T20:51:34Z",
-    "trackId": 488580022,
-    "trackName": "Stronglifts 5x5 Workout Plan",
+    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-07-15T22:09:48Z",
+    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
     "version": "4.3.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "trackCensoredName": "Stronglifts 5x5 Workout Plan",
-    "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.86123,
     "minimumOsVersion": "17.0",
+    "averageUserRatingForCurrentVersion": 4.86117,
+    "userRatingCountForCurrentVersion": 76598,
+    "trackContentRating": "4+",
+    "sellerUrl": "https://stronglifts.com/",
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -216,15 +224,7 @@
     ],
     "fileSizeBytes": "92183552",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 76591,
-    "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.86123,
-    "sellerUrl": "https://stronglifts.com/",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "userRatingCount": 76591
+    "bundleId": "com.StrongLifts",
+    "userRatingCount": 76598
   }
 }

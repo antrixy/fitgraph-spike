@@ -1,0 +1,44 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:19:47.901Z",
+      "curr_fetched_at": "2026-08-22T07:11:41.857Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.06",
+          "new": "5.06.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "prev_fetched_at": "2026-08-21T07:19:52.237Z",
+      "curr_fetched_at": "2026-08-22T07:11:43.709Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "fd6e6c68caf293105273ada259bc76a19e0ee72a",
+      "curr_fetched_at": "2026-08-22T07:11:45.682Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Rhonda Patrick, PhD",
+          "occurrences": 1
+        },
+        {
+          "text": "Biomedical scientist focusing on genetics, nutrition, and sleep; founder of FoundMyFitness.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 2
+    }
+  }
+}
