@@ -1,12 +1,16 @@
 {
-  "fetched_at": "2026-08-22T07:09:56.539Z",
+  "fetched_at": "2026-08-23T07:12:04.271Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1594204443&country=us",
   "result": {
+    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c3/f5/a5c3f573-3d0a-541b-db49-266e562d0a94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c3/f5/a5c3f573-3d0a-541b-db49-266e562d0a94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
-    "isGameCenterEnabled": false,
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -137,7 +141,6 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/3e/ce/553ecea8-56eb-617c-92b3-40003fa0079e/7ab714fd-4560-498b-820d-d9987f364025_1.jpg/392x696bb.jpg",
@@ -163,30 +166,25 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c3/f5/a5c3f573-3d0a-541b-db49-266e562d0a94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/strava-inc/id426826312?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c3/f5/a5c3f573-3d0a-541b-db49-266e562d0a94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/c3/f5/a5c3f573-3d0a-541b-db49-266e562d0a94/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "trackCensoredName": "Runna: Running Plans & Coach",
+    "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
+    "contentAdvisoryRating": "17+",
+    "averageUserRating": 4.85161,
     "minimumOsVersion": "16.0",
-    "artistId": 426826312,
-    "artistName": "Strava, Inc.",
+    "averageUserRatingForCurrentVersion": 4.85161,
+    "releaseNotes": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "price": 0,
+    "artistId": 426826312,
+    "artistName": "Strava, Inc.",
     "bundleId": "com.runbuddy.prod",
-    "releaseDate": "2021-12-11T08:00:00Z",
-    "releaseNotes": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
-    "trackName": "Runna: Running Plans & Coach",
-    "trackId": 1594204443,
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Strava Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 1594204443,
+    "trackName": "Runna: Running Plans & Coach",
     "currentVersionReleaseDate": "2026-08-20T06:56:21Z",
     "version": "8.50.2",
     "wrapperType": "software",
@@ -205,13 +203,15 @@
     ],
     "fileSizeBytes": "236466176",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 33183,
+    "userRatingCountForCurrentVersion": 33196,
     "trackContentRating": "17+",
-    "averageUserRatingForCurrentVersion": 4.85158,
-    "trackCensoredName": "Runna: Running Plans & Coach",
-    "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
-    "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.85158,
-    "userRatingCount": 33183
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseDate": "2021-12-11T08:00:00Z",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "price": 0,
+    "userRatingCount": 33196
   }
 }

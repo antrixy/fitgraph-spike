@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-08-22T07:10:17.560Z",
+  "fetched_at": "2026-08-23T07:12:25.644Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=336599882&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/ca/e1/35cae1e6-9f25-2873-356e-3d7afda14c52/1.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/d4/da/91d4da31-6bd6-1c30-2496-8d9f6a14cc04/2.jpg/320x480bb.jpg",
@@ -16,8 +17,8 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
     "features": [],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -148,14 +149,12 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/adidas/id336599885?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d0/ad/a5d0adc3-44be-8e26-4d31-995156f9a860/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.80018,
+    "averageUserRatingForCurrentVersion": 4.80001,
     "sellerUrl": "https://www.runtastic.com",
-    "minimumOsVersion": "17.0",
     "languageCodesISO2A": [
       "NL",
       "EN",
@@ -171,23 +170,24 @@
     ],
     "fileSizeBytes": "284751872",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 107054,
+    "userRatingCountForCurrentVersion": 107081,
     "trackContentRating": "4+",
-    "artistId": 336599885,
-    "artistName": "adidas",
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
+    "artistId": 336599885,
+    "artistName": "adidas",
     "bundleId": "at.runtastic.gpssportapp",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Adidas International Marketing B.V.",
+    "trackName": "adidas Running: Run tracker",
+    "trackId": 336599882,
     "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-08-13T06:51:25Z",
     "releaseNotes": "Goal widgets have arrived! It's now easy to see your active goals and progress at a glance. Update now and enjoy the latest version.",
     "version": "14.9.1",
     "wrapperType": "software",
@@ -196,12 +196,12 @@
     "trackCensoredName": "adidas Running: Run tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/adidas-running-run-tracker/id336599882?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.80018,
-    "currentVersionReleaseDate": "2026-08-13T06:51:25Z",
-    "trackName": "adidas Running: Run tracker",
-    "trackId": 336599882,
+    "averageUserRating": 4.80001,
+    "minimumOsVersion": "17.0",
     "releaseDate": "2009-11-23T17:28:58Z",
-    "price": 0,
-    "userRatingCount": 107054
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Adidas International Marketing B.V.",
+    "userRatingCount": 107081
   }
 }

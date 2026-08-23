@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T07:10:10.157Z",
+  "fetched_at": "2026-08-23T07:12:16.756Z",
   "source": "google_play_scraper",
   "appId": "com.nike.plusgps",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Running for Beginners to Regulars: Guided Runs for 5k, 10k, Half Marathon &amp; More",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 57013995,
-    "score": 4.2071056,
+    "maxInstalls": 57025561,
+    "score": 4.2071366,
     "scoreText": "4.2",
-    "ratings": 1111453,
-    "reviews": 69349,
+    "ratings": 1111496,
+    "reviews": 69352,
     "histogram": {
-      "1": 119655,
-      "2": 52184,
-      "3": 55160,
-      "4": 135728,
-      "5": 748702
+      "1": 119773,
+      "2": 52152,
+      "3": 55128,
+      "4": 135439,
+      "5": 748991
     },
     "price": 0,
     "free": true,

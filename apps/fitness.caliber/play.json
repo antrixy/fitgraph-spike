@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T07:08:30.974Z",
+  "fetched_at": "2026-08-23T07:10:24.500Z",
   "source": "google_play_scraper",
   "appId": "com.caliberfitness.app",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 688388,
-    "score": 4.622449,
+    "score": 4.614213,
     "scoreText": "4.6",
-    "ratings": 4041,
+    "ratings": 4045,
     "reviews": 552,
     "histogram": {
       "1": 205,
       "2": 20,
       "3": 82,
-      "4": 474,
-      "5": 3257
+      "4": 512,
+      "5": 3222
     },
     "price": 0,
     "free": true,

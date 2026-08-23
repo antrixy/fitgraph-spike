@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-08-22T07:05:49.156Z",
+  "fetched_at": "2026-08-23T07:07:50.613Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1145935738&country=us",
   "result": {
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/d4/b3/a9d4b370-8901-cbd9-4aa4-207940a4d5df/iOS_6.9-8.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a1/9a/31a19a3f-ae97-ac9b-fc90-db21f685ccf7/iOS_6.9-9.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/1f/e1/9b1fe121-dedd-263e-ab1a-31958d3e4cfb/Slide_2_-_Iphone.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/f1/3f/1ef13f73-da1d-4390-e999-6ea231301020/iOS_6.9-7.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/55/c5/6355c553-81c4-02af-76a8-ab9f08b8f00f/iOS_6.9-6.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/fa/db/53fadbbf-24e8-65dc-4349-48a20a8aac02/iOS_6.9-4.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/5b/8b/f75b8b5b-b825-d8db-9e32-23ea63f1d754/iOS_6.9-3.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/b7/8e/81b78e35-e2a7-7978-0770-f76cc40e7147/iOS_6.9-2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/eb/39/e3eb39c5-95ec-3268-9803-e91cea8b7583/iOS_6.9-1.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/bc/ac/1abcac40-ec3d-be21-f68f-feedd1d216cb/iOS_6.9.png/320x480bb.jpg"
+    ],
     "ipadScreenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/71/c8/0871c835-278c-4a87-49ed-ee2f1f18967f/Frame_14.png/360x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/9a/36/da9a36c9-fb6a-de56-c750-db33a7e3c89a/Frame_14-1.png/360x480bb.jpg",
@@ -16,21 +28,12 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ba/d1/98bad1e5-5d9a-ad68-3f3d-1517bb472fba/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/d4/b3/a9d4b370-8901-cbd9-4aa4-207940a4d5df/iOS_6.9-8.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a1/9a/31a19a3f-ae97-ac9b-fc90-db21f685ccf7/iOS_6.9-9.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/1f/e1/9b1fe121-dedd-263e-ab1a-31958d3e4cfb/Slide_2_-_Iphone.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/f1/3f/1ef13f73-da1d-4390-e999-6ea231301020/iOS_6.9-7.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/55/c5/6355c553-81c4-02af-76a8-ab9f08b8f00f/iOS_6.9-6.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/fa/db/53fadbbf-24e8-65dc-4349-48a20a8aac02/iOS_6.9-4.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/5b/8b/f75b8b5b-b825-d8db-9e32-23ea63f1d754/iOS_6.9-3.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/b7/8e/81b78e35-e2a7-7978-0770-f76cc40e7147/iOS_6.9-2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/eb/39/e3eb39c5-95ec-3268-9803-e91cea8b7583/iOS_6.9-1.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/bc/ac/1abcac40-ec3d-be21-f68f-feedd1d216cb/iOS_6.9.png/320x480bb.jpg"
-    ],
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
+    ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
     ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -162,24 +165,20 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/cronometer-software-inc/id465173201?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ba/d1/98bad1e5-5d9a-ad68-3f3d-1517bb472fba/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ba/d1/98bad1e5-5d9a-ad68-3f3d-1517bb472fba/CRONOMETER-GOLDAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "averageUserRatingForCurrentVersion": 4.77302,
     "sellerUrl": "https://cronometer.com",
-    "averageUserRatingForCurrentVersion": 4.77299,
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "155302912",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 96695,
+    "userRatingCountForCurrentVersion": 96732,
     "trackContentRating": "12+",
     "minimumOsVersion": "15.5",
-    "releaseNotes": "This release includes a few bug fixes to keep things running smoothly. Thanks for reporting these issues — keep the feedback coming!",
     "artistId": 465173201,
     "artistName": "Cronometer Software Inc",
     "genres": [
@@ -187,16 +186,16 @@
       "Food & Drink"
     ],
     "price": 0,
-    "sellerName": "Cronometer Software Inc",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "trackId": 1145935738,
-    "trackName": "Cronometer: Calorie Counter",
+    "releaseNotes": "This release includes a few bug fixes to keep things running smoothly. Thanks for reporting these issues — keep the feedback coming!",
     "isVppDeviceBasedLicensingEnabled": true,
     "genreIds": [
       "6013",
       "6023"
     ],
+    "sellerName": "Cronometer Software Inc",
+    "releaseDate": "2016-09-09T21:18:55Z",
+    "trackName": "Cronometer: Calorie Counter",
+    "trackId": 1145935738,
     "currentVersionReleaseDate": "2026-08-21T18:56:54Z",
     "version": "4.58.1",
     "wrapperType": "software",
@@ -205,9 +204,10 @@
     "trackCensoredName": "Cronometer: Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/cronometer-calorie-counter/id1145935738?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.77299,
+    "averageUserRating": 4.77302,
     "bundleId": "CRONOMETER-GOLD",
-    "releaseDate": "2016-09-09T21:18:55Z",
-    "userRatingCount": 96695
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "userRatingCount": 96732
   }
 }

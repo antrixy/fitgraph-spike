@@ -1,0 +1,24 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-08-23",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "59a00e70647ec36ebc76aeeccefb7db4f11a021c",
+      "prev_fetched_at": "2026-08-22T07:09:14.784Z",
+      "curr_fetched_at": "2026-08-23T07:11:12.728Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.3",
+          "new": "7.4"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Changes<br>• We added Dutch as a new language. If you notice any mistranslations, please tell us at info@alphaprogression.com.<br>• The app is now faster and smaller to download.<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+          "new": "Dutch + Swedish + Danish + Norwegian<br>• We have added four new languages.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com"
+        }
+      ]
+    }
+  }
+}
