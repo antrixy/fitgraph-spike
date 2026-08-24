@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T07:10:16.595Z",
+  "fetched_at": "2026-08-24T07:35:41.567Z",
   "source": "google_play_scraper",
   "appId": "com.fitbod.fitbod",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 4600197,
-    "score": 4.4490194,
-    "scoreText": "4.4",
-    "ratings": 30707,
-    "reviews": 3900,
+    "score": 4.450367,
+    "scoreText": "4.5",
+    "ratings": 30719,
+    "reviews": 3902,
     "histogram": {
-      "1": 2602,
-      "2": 406,
-      "3": 978,
-      "4": 3326,
-      "5": 23390
+      "1": 2597,
+      "2": 404,
+      "3": 975,
+      "4": 3319,
+      "5": 23417
     },
     "price": 0,
     "free": true,

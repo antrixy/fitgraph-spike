@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T07:14:51.756Z",
+  "fetched_at": "2026-08-24T07:40:31.221Z",
   "source": "google_play_scraper",
   "appId": "com.centr.app",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Fitness tracking, personal training, core workouts for your daily fitness goals",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2159710,
+    "maxInstalls": 2159806,
     "score": 4.355513,
     "scoreText": "4.4",
     "ratings": 17275,
