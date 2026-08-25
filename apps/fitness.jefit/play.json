@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T07:35:31.910Z",
+  "fetched_at": "2026-08-25T07:16:27.172Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Plan &amp; track gym workouts. Sync routines &amp; build muscle with strength log tools.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9885034,
+    "maxInstalls": 9885065,
     "score": 4.4243226,
     "scoreText": "4.4",
-    "ratings": 89734,
+    "ratings": 89732,
     "reviews": 11716,
     "histogram": {
-      "1": 6998,
+      "1": 6995,
       "2": 2372,
       "3": 3853,
       "4": 8835,
-      "5": 67669
+      "5": 67667
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "adSupported": false,
     "released": "Sep 15, 2010",
     "updated": 1787086951000,
-    "version": "VARY",
-    "recentChanges": "Adaptive Plans now offer a 7-day free trial — try personalized programming before you commit. The Progress Index has a fresh redesign with new charts, cards, and a how-to-read walkthrough. Injuries you mark now sync to your adaptive plan so your program reflects your actual training state, and weight predictions snap to equipment increments for cleaner logging. Plus a handful of bug fixes along the way.",
+    "version": "17.4.0",
+    "recentChanges": "Periodization is now in your hands — flip on the new DIY Mesocycle toggle to have JEFIT guide your load progression week by week with phase previews and automatic weight suggestions. The Discover tab now swipes between sections with its own scroll position in each. Your post-workout summary opens faster, and the app fills the full screen on tall phones. Plus a handful of bug fixes.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

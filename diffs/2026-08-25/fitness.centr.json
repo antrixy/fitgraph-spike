@@ -1,0 +1,45 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-25",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:40:27.545Z",
+      "curr_fetched_at": "2026-08-25T07:21:01.324Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.5.3",
+          "new": "10.6.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We fixed an issue that was signing some members out right after they logged in, so you can get straight back to training without the interruption.\n\nQuestions, feedback, or need help? We're here: hello@centr.com",
+          "new": "We've spent this release fine-tuning things behind the scenes so Centr stays fast and reliable while you train. A small polish to the meditation player is along for the ride, as well as a fix for your music and podcasts playing during your workouts.\n\nQuestions, feedback, or need help? We're here: hello@centr.com."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:40:31.221Z",
+      "curr_fetched_at": "2026-08-25T07:21:04.653Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "curr_fetched_at": "2026-08-25T07:21:09.612Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "(30)",
+          "occurrences": 6
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 1
+    }
+  }
+}

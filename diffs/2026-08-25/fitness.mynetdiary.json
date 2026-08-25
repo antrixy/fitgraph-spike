@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-25",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:34:03.869Z",
+      "curr_fetched_at": "2026-08-25T07:15:01.615Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "curr_fetched_at": "2026-08-25T07:15:05.688Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 5,
+      "removed_total": 2
+    }
+  }
+}

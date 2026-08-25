@@ -1,0 +1,19 @@
+{
+  "product": "fitness.trainingpeaks",
+  "name": "TrainingPeaks",
+  "date": "2026-08-25",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:38:07.422Z",
+      "curr_fetched_at": "2026-08-25T07:18:50.932Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "12.112.0",
+          "new": "12.113.0"
+        }
+      ]
+    }
+  }
+}

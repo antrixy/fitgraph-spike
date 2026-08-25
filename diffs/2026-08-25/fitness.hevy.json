@@ -1,0 +1,13 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-08-25",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:35:23.175Z",
+      "curr_fetched_at": "2026-08-25T07:16:19.148Z",
+      "version_unreported": true
+    }
+  }
+}

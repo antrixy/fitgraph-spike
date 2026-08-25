@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T07:39:39.596Z",
+  "fetched_at": "2026-08-25T07:20:23.446Z",
   "source": "google_play_scraper",
   "appId": "com.ouraring.oura",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1347601,
-    "score": 4.671111,
+    "score": 4.6702075,
     "scoreText": "4.7",
-    "ratings": 38124,
-    "reviews": 6469,
+    "ratings": 38192,
+    "reviews": 6470,
     "histogram": {
-      "1": 978,
-      "2": 695,
-      "3": 1298,
-      "4": 3934,
-      "5": 31214
+      "1": 976,
+      "2": 718,
+      "3": 1290,
+      "4": 3945,
+      "5": 31257
     },
     "price": 0,
     "free": true,
@@ -64,7 +64,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Feb 16, 2016",
-    "updated": 1787053374000,
+    "updated": 1787297308000,
     "version": "7.22.1",
     "recentChanges": "Small fixes, big improvements—Oura just got a little better.",
     "comments": [],

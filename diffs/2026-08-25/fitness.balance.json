@@ -1,0 +1,24 @@
+{
+  "product": "fitness.balance",
+  "name": "Balance",
+  "date": "2026-08-25",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "8e3023f3dd6cfff7e0853ab90c92635917cbdf63",
+      "prev_fetched_at": "2026-08-24T07:41:39.034Z",
+      "curr_fetched_at": "2026-08-25T07:22:19.659Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.208.0",
+          "new": "1.209.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We’ve fixed various bugs throughout the app.\n\nFor more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
+          "new": "New single:\n- Warm Rain: Take a moment to rest as you immerse yourself in a visualized rainy setting."
+        }
+      ]
+    }
+  }
+}
