@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T07:18:15.014Z",
+  "fetched_at": "2026-08-26T07:18:45.060Z",
   "source": "google_play_scraper",
   "appId": "com.runbuddy.prod",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Personalised 5k, 10k, Half, &amp; Marathon race plans, GPS tracking &amp; strength",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3527533,
-    "score": 4.5255623,
+    "maxInstalls": 3534320,
+    "score": 4.5177455,
     "scoreText": "4.5",
-    "ratings": 31534,
-    "reviews": 710,
+    "ratings": 31649,
+    "reviews": 709,
     "histogram": {
-      "1": 2317,
-      "2": 772,
-      "3": 639,
-      "4": 2057,
-      "5": 25726
+      "1": 2373,
+      "2": 786,
+      "3": 660,
+      "4": 2046,
+      "5": 25761
     },
     "price": 0,
     "free": true,

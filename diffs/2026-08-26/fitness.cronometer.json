@@ -1,0 +1,20 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-08-26",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:14:34.206Z",
+      "curr_fetched_at": "2026-08-26T07:14:54.241Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "This release includes UI enhancements based on your feedback and several bug fixes. Thank you for reporting these issues and sharing your suggestions — please continue to let us know what you think. Happy tracking!",
+          "new": "This release includes a few bug fixes to keep things running smoothly. Thanks for reporting these issues — keep the feedback coming!"
+        }
+      ]
+    }
+  }
+}

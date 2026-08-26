@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T07:15:37.439Z",
+  "fetched_at": "2026-08-26T07:16:03.897Z",
   "source": "google_play_scraper",
   "appId": "com.weightwatchers.mobile",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Dr-Recommended Weight Loss Program. Track meals, GLP-1 meds, activity, sleep.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 17303625,
-    "score": 4.351468,
+    "maxInstalls": 17306226,
+    "score": 4.3517056,
     "scoreText": "4.4",
-    "ratings": 603498,
-    "reviews": 117470,
+    "ratings": 603518,
+    "reviews": 117471,
     "histogram": {
-      "1": 55097,
-      "2": 20372,
-      "3": 21649,
-      "4": 66573,
-      "5": 439801
+      "1": 55079,
+      "2": 20365,
+      "3": 21642,
+      "4": 66551,
+      "5": 439874
     },
     "price": 0,
     "free": true,

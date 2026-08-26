@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T07:19:30.793Z",
+  "fetched_at": "2026-08-26T07:20:06.868Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 43214731,
-    "score": 4.2985687,
+    "maxInstalls": 43268468,
+    "score": 4.2965236,
     "scoreText": "4.3",
-    "ratings": 421122,
-    "reviews": 2127,
+    "ratings": 421484,
+    "reviews": 2129,
     "histogram": {
-      "1": 41297,
-      "2": 16293,
-      "3": 18067,
-      "4": 44765,
-      "5": 300536
+      "1": 41317,
+      "2": 16300,
+      "3": 18076,
+      "4": 45674,
+      "5": 299872
     },
     "price": 0,
     "free": true,
@@ -79,7 +79,7 @@
     "released": "Jun 10, 2014",
     "updated": 1787324167000,
     "version": "VARY",
-    "recentChanges": "Bug fixes<br>- Fixed speed and gradient not showing during some activities.<br>- Improved Spanish translations across the app.<br>- Fixed several route planning and navigation issues.",
+    "recentChanges": "What&#39;s new?<br>- The Offline tab is now available to everyone — your home for offline routes and maps, so you&#39;re ready for your next adventure.<br><br>Bug fixes<br>- Fixed an issue with &#39;Wake for turns&#39; during navigation.<br>- Fixed several crashes and navigation issues.<br>- Improved support for custom waypoints and multi-day trips.<br>- Fixed missing and duplicate activity photos.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

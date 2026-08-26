@@ -1,0 +1,53 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-08-26",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:15:01.615Z",
+      "curr_fetched_at": "2026-08-26T07:15:21.838Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "curr_fetched_at": "2026-08-26T07:15:26.033Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "What happens when you stop logging food (and how to restart without guilt)",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "8 food tracking tips to improve your accuracy and meet your weight-loss goals",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 4
+    }
+  }
+}

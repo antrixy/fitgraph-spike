@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T07:14:15.087Z",
+  "fetched_at": "2026-08-26T07:14:27.604Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Know what you&#39;re eating this summer. Track calories, macros &amp; nutrition.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 136025108,
-    "score": 4.402043,
+    "maxInstalls": 136077376,
+    "score": 4.4022036,
     "scoreText": "4.4",
-    "ratings": 2911183,
-    "reviews": 454155,
+    "ratings": 2911449,
+    "reviews": 454162,
     "histogram": {
-      "1": 206882,
-      "2": 84281,
-      "3": 144220,
-      "4": 371938,
-      "5": 2103854
+      "1": 206747,
+      "2": 84275,
+      "3": 144256,
+      "4": 372112,
+      "5": 2104050
     },
     "price": 0,
     "free": true,

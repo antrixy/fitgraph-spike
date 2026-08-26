@@ -1,0 +1,41 @@
+{
+  "product": "fitness.garminconnect",
+  "name": "Garmin Connect",
+  "date": "2026-08-26",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:19:48.297Z",
+      "curr_fetched_at": "2026-08-26T07:20:21.047Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.27.3",
+          "new": "5.28"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality.",
+          "new": "Tracking your health and fitness stats is easier than ever with the bug fixes and performance improvements in this version of Garmin Connect."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:19:52.136Z",
+      "curr_fetched_at": "2026-08-26T07:20:26.007Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.27.3",
+          "new": "5.28"
+        },
+        {
+          "field": "recentChanges",
+          "old": "With the bug fixes and performance improvements in this version of Garmin Connect, tracking your health and fitness stats is easier than ever before.",
+          "new": "Garmin Connect is constantly working to improve your experience and help you beat yesterday. This version includes bug fixes to improve device functionality."
+        }
+      ]
+    }
+  }
+}

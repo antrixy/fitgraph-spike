@@ -1,0 +1,45 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-26",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:20:00.645Z",
+      "curr_fetched_at": "2026-08-26T07:20:37.726Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "curr_fetched_at": "2026-08-26T07:20:39.872Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Pixel 11 Pro",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Smart Home Technology Connected speakers, doorbells, Wi-Fi, and more handle tasks that free up time and simplify life.",
+          "occurrences": 1
+        },
+        {
+          "text": "Device Installation Get your connected home products up and running quickly with an installation expert.",
+          "occurrences": 2
+        },
+        {
+          "text": "Pixel 9 Pro and Pro XL",
+          "occurrences": 2
+        },
+        {
+          "text": "Pixel 9",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 4
+    }
+  }
+}

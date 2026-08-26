@@ -1,0 +1,20 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-08-26",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:19:30.793Z",
+      "curr_fetched_at": "2026-08-26T07:20:06.868Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Bug fixes<br>- Fixed speed and gradient not showing during some activities.<br>- Improved Spanish translations across the app.<br>- Fixed several route planning and navigation issues.",
+          "new": "What&#39;s new?<br>- The Offline tab is now available to everyone — your home for offline routes and maps, so you&#39;re ready for your next adventure.<br><br>Bug fixes<br>- Fixed an issue with &#39;Wake for turns&#39; during navigation.<br>- Fixed several crashes and navigation issues.<br>- Improved support for custom waypoints and multi-day trips.<br>- Fixed missing and duplicate activity photos."
+        }
+      ]
+    }
+  }
+}

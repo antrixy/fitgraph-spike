@@ -1,13 +1,25 @@
 {
-  "fetched_at": "2026-08-25T07:18:40.295Z",
+  "fetched_at": "2026-08-26T07:19:17.640Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=291890420&country=us",
   "result": {
-    "features": [],
+    "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/outside-television-inc/id987860990?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/37/d4/0037d493-7bfa-df0e-b394-c23a561ee6bd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/37/d4/0037d493-7bfa-df0e-b394-c23a561ee6bd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "isGameCenterEnabled": false,
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/3b/ad/d63bad1a-5d7a-baf8-6239-102ef8f709c1/MapMyRun-v3-appstore-slide-iOS-3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/55/cb/1355cbdb-f4d1-f260-e20b-70d213324069/MapMyRun-v3-appstore-slide-iOS-4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/61/3d/a7613dc1-85c1-2915-a6e5-b13840031b98/MapMyRun-v3-appstore-slide-iOS-5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/3f/ad/563fadd0-acd5-deb1-12ae-449e059994e9/MapMyRun-v3-appstore-slide-iOS-6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/37/f7/5a37f7ef-4c58-282f-ab06-4ab9416fcfbf/MapMyRun-v3-appstore-slide-iOS-7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/06/c6/0d06c6a7-9709-14d0-27f9-0309a7eedc63/MapMyRun-v3-appstore-slide-iOS-8.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/78/79/7f787901-6ccf-db48-5d3b-29476e03bbbb/MapMyRun-v3-appstore-slide-iOS-9.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/3b/52/2a3b5261-4d25-a4f9-4847-5424d4bf1abc/MapMyRun-v3-appstore-slide-iOS-10.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/46/39ae46c5-d11f-503a-7f3b-20181f204449/MapMyRun-v3-appstore-slide-iOS-1.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [],
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -142,34 +154,27 @@
       "Frequent/Intense Contests"
     ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/3b/ad/d63bad1a-5d7a-baf8-6239-102ef8f709c1/MapMyRun-v3-appstore-slide-iOS-3.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/55/cb/1355cbdb-f4d1-f260-e20b-70d213324069/MapMyRun-v3-appstore-slide-iOS-4.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/61/3d/a7613dc1-85c1-2915-a6e5-b13840031b98/MapMyRun-v3-appstore-slide-iOS-5.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/3f/ad/563fadd0-acd5-deb1-12ae-449e059994e9/MapMyRun-v3-appstore-slide-iOS-6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/37/f7/5a37f7ef-4c58-282f-ab06-4ab9416fcfbf/MapMyRun-v3-appstore-slide-iOS-7.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/06/c6/0d06c6a7-9709-14d0-27f9-0309a7eedc63/MapMyRun-v3-appstore-slide-iOS-8.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/78/79/7f787901-6ccf-db48-5d3b-29476e03bbbb/MapMyRun-v3-appstore-slide-iOS-9.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/3b/52/2a3b5261-4d25-a4f9-4847-5424d4bf1abc/MapMyRun-v3-appstore-slide-iOS-10.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/46/39ae46c5-d11f-503a-7f3b-20181f204449/MapMyRun-v3-appstore-slide-iOS-1.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/37/d4/0037d493-7bfa-df0e-b394-c23a561ee6bd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-    "bundleId": "Q5AWL8WCY6.iMapMyRun",
-    "minimumOsVersion": "16.0",
+    "averageUserRatingForCurrentVersion": 4.83527,
     "trackCensoredName": "Map My Run GPS Running Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/map-my-run-gps-running-tracker/id291890420?uo=4",
     "contentAdvisoryRating": "12+",
     "averageUserRating": 4.83527,
+    "minimumOsVersion": "16.0",
+    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
+    "artistId": 987860990,
+    "artistName": "Outside Television Inc",
     "genres": [
       "Health & Fitness",
       "Social Networking"
     ],
-    "artistId": 987860990,
-    "artistName": "Outside Television Inc",
+    "price": 0,
+    "bundleId": "Q5AWL8WCY6.iMapMyRun",
     "trackId": 291890420,
     "trackName": "Map My Run GPS Running Tracker",
+    "currentVersionReleaseDate": "2026-08-19T19:49:14Z",
+    "releaseDate": "2008-10-14T05:35:16Z",
     "genreIds": [
       "6013",
       "6005"
@@ -178,8 +183,6 @@
     "primaryGenreId": 6013,
     "sellerName": "Outside Television Inc",
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-19T19:49:14Z",
-    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
     "version": "26.10.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -203,11 +206,8 @@
     ],
     "fileSizeBytes": "175749120",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 750472,
+    "userRatingCountForCurrentVersion": 750488,
     "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.83527,
-    "releaseDate": "2008-10-14T05:35:16Z",
-    "price": 0,
-    "userRatingCount": 750472
+    "userRatingCount": 750488
   }
 }

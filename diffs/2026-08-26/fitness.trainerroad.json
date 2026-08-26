@@ -1,0 +1,19 @@
+{
+  "product": "fitness.trainerroad",
+  "name": "TrainerRoad",
+  "date": "2026-08-26",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "099e1ecd10e34321b3a9668d3934cac79979abff",
+      "prev_fetched_at": "2026-08-25T07:19:03.378Z",
+      "curr_fetched_at": "2026-08-26T07:19:41.874Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.32.0",
+          "new": "2026.33.1"
+        }
+      ]
+    }
+  }
+}
