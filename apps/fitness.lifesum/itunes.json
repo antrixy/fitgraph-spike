@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T07:15:37.850Z",
+  "fetched_at": "2026-08-27T17:43:28.258Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=286906691&country=us",
   "result": {
@@ -144,17 +144,6 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/lifesum-ab/id286906694?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
-    "appletvScreenshotUrls": [],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/9d/e3/ab9de311-59bc-c2d5-4f49-14e024329217/cf53b6c5-4689-407a-9c87-d1792197f440_IPAD_1iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/60/5e/12605eb2-989c-e6d1-1349-ae3e34b42496/567c1afe-cb2f-4e75-803b-5d84d7b117bb_IPAD_2iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/72/d8/d372d874-4401-d1eb-f752-47b496ccbca8/78a53947-bcab-426d-a898-60b3c8ccee39_IPAD_3iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/9d/1e/0d9d1ec5-eba9-27fd-4fc8-8384ce0b197e/22332db0-604c-4f49-8862-5a77e70025aa_IPAD_4iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/e8/ea/dae8eaa0-4b46-6600-c337-85716b7a6338/68ff9b25-b666-4c5d-a4c5-dadeff2a42bd_IPAD_5iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/3c/e7/bf3ce770-c811-c30d-8777-cc52081f2c30/c0fd32fc-5767-4bce-ae60-e57e595b7f17_IPAD_6iPAD-1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ae/ef/ceaeef8c-f67d-1145-5e9f-89b099783986/88d94872-7788-4955-8083-1d8efc9b3d1c_IPAD_7iPAD.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/14/8f/7a148f21-fe2b-0da0-eda1-87ba1ce5b1b1/2055a721-62a4-4d31-b0c3-70163c2b8331_IPAD_8iPAD.png/576x768bb.png"
-    ],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/14/d9/b914d9e0-5785-09c0-4521-72bd19487609/1_hero_ios69_en.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/3b/09/173b0983-f364-1b93-e280-0dc2f9ad8964/2_photo_ios69_EN.jpg/320x480bb.jpg",
@@ -165,25 +154,36 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/fa/47/cefa477e-24af-9651-30d9-ca93ac8a8b35/7_recipes_ios69_EN.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/5d/d0/6a5dd029-b378-7de5-ac33-7278febd5ce8/8_reviews_ios69_EN.jpg/320x480bb.jpg"
     ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/9d/e3/ab9de311-59bc-c2d5-4f49-14e024329217/cf53b6c5-4689-407a-9c87-d1792197f440_IPAD_1iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/60/5e/12605eb2-989c-e6d1-1349-ae3e34b42496/567c1afe-cb2f-4e75-803b-5d84d7b117bb_IPAD_2iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/72/d8/d372d874-4401-d1eb-f752-47b496ccbca8/78a53947-bcab-426d-a898-60b3c8ccee39_IPAD_3iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/9d/1e/0d9d1ec5-eba9-27fd-4fc8-8384ce0b197e/22332db0-604c-4f49-8862-5a77e70025aa_IPAD_4iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/e8/ea/dae8eaa0-4b46-6600-c337-85716b7a6338/68ff9b25-b666-4c5d-a4c5-dadeff2a42bd_IPAD_5iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/3c/e7/bf3ce770-c811-c30d-8777-cc52081f2c30/c0fd32fc-5767-4bce-ae60-e57e595b7f17_IPAD_6iPAD-1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/ae/ef/ceaeef8c-f67d-1145-5e9f-89b099783986/88d94872-7788-4955-8083-1d8efc9b3d1c_IPAD_7iPAD.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/14/8f/7a148f21-fe2b-0da0-eda1-87ba1ce5b1b1/2055a721-62a4-4d31-b0c3-70163c2b8331_IPAD_8iPAD.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/c2/c9/84c2c943-4d40-818a-8e11-b5fb8525c5a5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
     "minimumOsVersion": "16.0",
     "artistId": 286906694,
     "artistName": "Lifesum AB",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "price": 0,
     "bundleId": "com.sillens.iShape",
-    "trackId": 286906691,
-    "trackName": "Lifesum: AI Calorie Counter",
-    "releaseDate": "2019-02-05T08:00:00Z",
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "currentVersionReleaseDate": "2026-08-10T05:51:58Z",
-    "sellerName": "Lifesum AB",
     "isVppDeviceBasedLicensingEnabled": true,
-    "releaseNotes": "For this newest version, we've given the app some tender loving care and squashed some bugs to give you an even better experience.",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
+    "trackName": "Lifesum: AI Calorie Counter",
+    "trackId": 286906691,
+    "releaseDate": "2019-02-05T08:00:00Z",
+    "sellerName": "Lifesum AB",
+    "currentVersionReleaseDate": "2026-08-10T05:51:58Z",
+    "releaseNotes": "For this newest version, we've given the app some tender loving care and squashed some bugs to give you an even better experience.",
     "version": "23.12.1",
     "wrapperType": "software",
     "currency": "USD",
@@ -191,7 +191,8 @@
     "trackCensoredName": "Lifesum: AI Calorie Counter",
     "trackViewUrl": "https://apps.apple.com/us/app/lifesum-ai-calorie-counter/id286906691?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.64628,
+    "averageUserRating": 4.64625,
+    "averageUserRatingForCurrentVersion": 4.64625,
     "sellerUrl": "http://lifesum.com",
     "languageCodesISO2A": [
       "CS",
@@ -211,13 +212,12 @@
     ],
     "fileSizeBytes": "251218944",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 150525,
+    "userRatingCountForCurrentVersion": 150537,
     "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.64628,
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
+    "genreIds": [
+      "6013",
+      "6012"
     ],
-    "userRatingCount": 150525
+    "userRatingCount": 150537
   }
 }

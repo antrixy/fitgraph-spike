@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T07:17:55.430Z",
+  "fetched_at": "2026-08-27T17:45:42.486Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym Log &amp; Workout Planner: Weight lifting &amp; muscle building training plans",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1988766,
-    "score": 4.8365855,
+    "maxInstalls": 1991223,
+    "score": 4.8357844,
     "scoreText": "4.8",
-    "ratings": 20847,
-    "reviews": 1627,
+    "ratings": 20861,
+    "reviews": 1628,
     "histogram": {
-      "1": 352,
-      "2": 250,
-      "3": 250,
-      "4": 709,
-      "5": 19270
+      "1": 357,
+      "2": 255,
+      "3": 255,
+      "4": 714,
+      "5": 19273
     },
     "price": 0,
     "free": true,

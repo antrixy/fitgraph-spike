@@ -1,0 +1,43 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-08-27",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "7314bf7f718175692610795aafe35a7bfbffd257",
+      "curr_fetched_at": "2026-08-27T17:48:49.453Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Health Features",
+          "occurrences": 1
+        },
+        {
+          "text": "Experience",
+          "occurrences": 1
+        },
+        {
+          "text": "Trust Center",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Your Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Why Oura",
+          "occurrences": 1
+        },
+        {
+          "text": "Security Center",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 3
+    }
+  }
+}

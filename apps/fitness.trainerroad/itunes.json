@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T07:19:41.874Z",
+  "fetched_at": "2026-08-27T17:47:26.545Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=934224107&country=us",
   "result": {
@@ -194,7 +194,7 @@
     "averageUserRatingForCurrentVersion": 4.88558,
     "fileSizeBytes": "99791872",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21430,
+    "userRatingCountForCurrentVersion": 21431,
     "languageCodesISO2A": [
       "EN"
     ],
@@ -204,6 +204,6 @@
     "releaseDate": "2014-11-17T10:35:55Z",
     "trackId": 934224107,
     "trackName": "TrainerRoad",
-    "userRatingCount": 21430
+    "userRatingCount": 21431
   }
 }

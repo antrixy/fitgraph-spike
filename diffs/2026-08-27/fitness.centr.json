@@ -1,0 +1,28 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-08-27",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7314bf7f718175692610795aafe35a7bfbffd257",
+      "prev_fetched_at": "2026-08-26T07:21:52.990Z",
+      "curr_fetched_at": "2026-08-27T17:49:31.885Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "7314bf7f718175692610795aafe35a7bfbffd257",
+      "curr_fetched_at": "2026-08-27T17:49:35.080Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Shop Now",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 1
+    }
+  }
+}

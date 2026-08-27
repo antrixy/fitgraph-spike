@@ -1,0 +1,37 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-08-27",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "7314bf7f718175692610795aafe35a7bfbffd257",
+      "prev_fetched_at": "2026-08-26T07:18:35.245Z",
+      "curr_fetched_at": "2026-08-27T17:46:27.563Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "477.0.0",
+          "new": "478.0.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We've refreshed the Progress Tab with a new look and feel, plus stability and quality improvements throughout, making it easier than ever for subscribers to track your training, trends, and streaks all in one place.",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "7314bf7f718175692610795aafe35a7bfbffd257",
+      "prev_fetched_at": "2026-08-26T07:18:38.643Z",
+      "curr_fetched_at": "2026-08-27T17:46:29.967Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "We&#39;ve refreshed the Progress Tab with a new look and feel, plus stability and quality improvements throughout, making it easier than ever for subscribers to track your training, trends, and streaks all in one place.<br>",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>"
+        }
+      ]
+    }
+  }
+}
