@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T17:45:33.390Z",
+  "fetched_at": "2026-08-28T18:54:36.055Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 616540,
     "score": 4.687817,
     "scoreText": "4.7",
-    "ratings": 12885,
-    "reviews": 561,
+    "ratings": 12894,
+    "reviews": 562,
     "histogram": {
       "1": 457,
       "2": 98,
       "3": 294,
-      "4": 1307,
-      "5": 10723
+      "4": 1308,
+      "5": 10731
     },
     "price": 0,
     "free": true,

@@ -1,0 +1,19 @@
+{
+  "product": "fitness.future",
+  "name": "Future",
+  "date": "2026-08-28",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "efaa61928fb928de3b219b56f17b8ff4faedc64c",
+      "prev_fetched_at": "2026-08-27T17:49:52.439Z",
+      "curr_fetched_at": "2026-08-28T18:59:03.755Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.1.53",
+          "new": "5.1.55"
+        }
+      ]
+    }
+  }
+}

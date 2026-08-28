@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-08-28",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "efaa61928fb928de3b219b56f17b8ff4faedc64c",
+      "prev_fetched_at": "2026-08-27T17:46:34.783Z",
+      "curr_fetched_at": "2026-08-28T18:55:41.836Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.50.2",
+          "new": "8.52.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
+          "new": "This one's more stable than your favorite pair of race-day shoes. Just a few tweaks and the code equivalent of a carbon plate so everything feels dialed in."
+        }
+      ]
+    }
+  }
+}

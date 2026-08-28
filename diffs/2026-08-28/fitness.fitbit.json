@@ -1,0 +1,61 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-08-28",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "efaa61928fb928de3b219b56f17b8ff4faedc64c",
+      "prev_fetched_at": "2026-08-27T17:48:18.095Z",
+      "curr_fetched_at": "2026-08-28T18:57:16.939Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.06.1",
+          "new": "5.07"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Performance improvements and bug fixes.",
+          "new": "Stability improvements and bug fixes for manual exercise logging, exercise maps and weight graphs"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "efaa61928fb928de3b219b56f17b8ff4faedc64c",
+      "prev_fetched_at": "2026-08-27T17:48:22.586Z",
+      "curr_fetched_at": "2026-08-28T18:57:21.452Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Performance improvements and bug fixes.",
+          "new": "Stability improvements and bug fixes for manual exercise logging, exercise maps and weight graphs"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "efaa61928fb928de3b219b56f17b8ff4faedc64c",
+      "curr_fetched_at": "2026-08-28T18:57:23.607Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Skip Navigation",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Skip Navigation The new Google Pixel devices have arrived, packed with special offers.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop all offers",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 2
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T17:44:35.255Z",
+  "fetched_at": "2026-08-28T18:53:29.414Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 7973146,
-    "score": 4.873116,
+    "score": 4.873216,
     "scoreText": "4.9",
-    "ratings": 257413,
-    "reviews": 6758,
+    "ratings": 257929,
+    "reviews": 6766,
     "histogram": {
-      "1": 1122,
+      "1": 1130,
       "2": 845,
-      "3": 2180,
+      "3": 2189,
       "4": 21230,
-      "5": 232012
+      "5": 232512
     },
     "price": 0,
     "free": true,
@@ -70,9 +70,9 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 29, 2019",
-    "updated": 1787168655000,
-    "version": "VARY",
-    "recentChanges": "What&#39;s new in this update:<br><br>Redesigned the Set Row UI — clearer active/checked states, an RPE color scale<br>Progressive Overload now supports reps-only exercises (pull-ups, push-ups, etc.)<br>Bug fixes and performance improvements!<br>",
+    "updated": 1787841213000,
+    "version": "3.1.11",
+    "recentChanges": "What&#39;s new in this update:<br><br>Tag your GYM on your workouts — let everyone see where the work gets done!<br>Switch up your split: Full Body, Upper/Lower, Push Pull Legs and more — your training, your call.<br>Female templates: better personalization for our Athletes!<br>Bug fixes and performance improvements!",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
