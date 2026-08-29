@@ -1,0 +1,24 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-08-29",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "dd12b0a24c57cb3752950ed1c2d695cb7ba1c4e0",
+      "prev_fetched_at": "2026-08-28T18:53:25.117Z",
+      "curr_fetched_at": "2026-08-29T12:47:15.364Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.10",
+          "new": "3.1.11"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new in this update:\n\nRedesigned the Set Row UI — clearer active/checked states, an RPE color scale\nProgressive Overload now supports reps-only exercises (pull-ups, push-ups, etc.)\nBug fixes and performance improvements!",
+          "new": "What's new in this update:\n\nTag your GYM on your workouts — let everyone see where the work gets done!\nSwitch up your split: Full Body, Upper/Lower, Push Pull Legs and more — your training, your call.\nFemale templates: better personalization for our Athletes!\nBug fixes and performance improvements!"
+        }
+      ]
+    }
+  }
+}

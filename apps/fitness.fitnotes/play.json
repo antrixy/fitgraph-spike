@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T18:55:15.541Z",
+  "fetched_at": "2026-08-29T12:48:54.634Z",
   "source": "google_play_scraper",
   "appId": "com.github.jamesgay.fitnotes",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 4113197,
-    "score": 4.8306594,
+    "score": 4.8309608,
     "scoreText": "4.8",
-    "ratings": 31393,
+    "ratings": 31397,
     "reviews": 5134,
     "histogram": {
-      "1": 502,
+      "1": 500,
       "2": 277,
       "3": 557,
-      "4": 1341,
-      "5": 28704
+      "4": 1338,
+      "5": 28714
     },
     "price": 0,
     "free": true,

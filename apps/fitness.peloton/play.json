@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T18:58:21.967Z",
+  "fetched_at": "2026-08-29T12:52:08.211Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Achieve your fitness goals: Strength, cardio &amp; ab workouts at the gym or at home",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3799081,
-    "score": 4.0376124,
+    "maxInstalls": 3799093,
+    "score": 4.0383987,
     "scoreText": "4.0",
-    "ratings": 15320,
+    "ratings": 15321,
     "reviews": 5739,
     "histogram": {
-      "1": 2342,
-      "2": 788,
-      "3": 788,
+      "1": 2339,
+      "2": 787,
+      "3": 787,
       "4": 1426,
-      "5": 9970
+      "5": 9974
     },
     "price": 0,
     "free": true,
@@ -94,7 +94,7 @@
     "adSupported": false,
     "released": "Dec 20, 2018",
     "updated": 1787610858000,
-    "version": "VARY",
+    "version": "3.76.0",
     "recentChanges": "This release includes under-the-hood improvements to make the Peloton App faster, more reliable, and power future features.",
     "comments": [],
     "preregister": false,

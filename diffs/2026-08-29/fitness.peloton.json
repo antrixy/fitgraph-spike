@@ -1,0 +1,20 @@
+{
+  "product": "fitness.peloton",
+  "name": "Peloton",
+  "date": "2026-08-29",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "dd12b0a24c57cb3752950ed1c2d695cb7ba1c4e0",
+      "prev_fetched_at": "2026-08-28T18:58:21.967Z",
+      "curr_fetched_at": "2026-08-29T12:52:08.211Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.75.1",
+          "new": "3.76.0",
+          "note": "compared against last real version (7314bf7f); intervening snapshots reported a sentinel"
+        }
+      ]
+    }
+  }
+}
