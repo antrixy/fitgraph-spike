@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-29T12:47:56.375Z",
+  "fetched_at": "2026-08-30T12:05:10.019Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=648518560&country=us",
   "result": {
+    "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bc/ab/74bcabbf-f39f-cbf0-d6d5-c356a931ef7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
-    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -158,11 +158,11 @@
     "features": [
       "iosUniversal"
     ],
+    "trackCensoredName": "Gymaholic: Workout Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.57878,
-    "trackCensoredName": "Gymaholic: Workout Tracker",
-    "minimumOsVersion": "26.0",
+    "price": 0,
     "genres": [
       "Health & Fitness"
     ],
@@ -174,11 +174,12 @@
     "genreIds": [
       "6013"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "sellerName": "Devenyi Gabor",
     "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "releaseNotes": "Bug fixes and general improvements",
+    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
     "version": "16.4",
     "wrapperType": "software",
     "currency": "USD",
@@ -206,9 +207,8 @@
     "userRatingCountForCurrentVersion": 3459,
     "trackContentRating": "4+",
     "averageUserRatingForCurrentVersion": 4.57878,
+    "minimumOsVersion": "26.0",
     "bundleId": "mportal.Gymaholic",
-    "currentVersionReleaseDate": "2026-07-01T13:08:02Z",
-    "price": 0,
     "userRatingCount": 3459
   }
 }

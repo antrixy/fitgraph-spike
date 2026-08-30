@@ -1,0 +1,33 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-08-30",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "8c4af9001043d3792674c0281d1c88056cd3ac91",
+      "prev_fetched_at": "2026-08-29T12:50:43.469Z",
+      "curr_fetched_at": "2026-08-30T12:07:57.911Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "8c4af9001043d3792674c0281d1c88056cd3ac91",
+      "curr_fetched_at": "2026-08-30T12:08:02.504Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Help Guides Support GPX Merge Tool GPX Route Video Hazard Assessment Live Tracking Experiences Groups",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Help Guides Support GPX Merge Tool GPX Route Video Hazard Assessment Live Tracking",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

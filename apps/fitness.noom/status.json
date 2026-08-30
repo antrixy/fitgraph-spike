@@ -1,17 +1,17 @@
 {
-  "run_started": "2026-08-29T12:45:03.778Z",
+  "run_started": "2026-08-30T12:02:09.510Z",
   "sources": {
     "itunes": {
       "status": "ok",
-      "fetched_at": "2026-08-29T12:46:16.654Z"
+      "fetched_at": "2026-08-30T12:03:33.417Z"
     },
     "play": {
       "status": "ok",
-      "fetched_at": "2026-08-29T12:46:21.602Z"
+      "fetched_at": "2026-08-30T12:03:38.411Z"
     },
     "pricing": {
       "status": "ok",
-      "fetched_at": "2026-08-29T12:46:25.485Z"
+      "fetched_at": "2026-08-30T12:03:42.855Z"
     }
   }
 }

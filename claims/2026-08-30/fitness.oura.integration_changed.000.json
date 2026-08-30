@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.oura",
+  "integration": "oura",
+  "direction": "removed",
+  "observed_at": "2026-08-30T12:08:52.984Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Why Oura",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "8c4af9001043d3792674c0281d1c88056cd3ac91"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}
