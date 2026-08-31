@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T12:04:26.746Z",
+  "fetched_at": "2026-08-31T14:11:12.627Z",
   "source": "google_play_scraper",
   "appId": "io.strongapp.strong",
   "result": {
@@ -13,7 +13,7 @@
     "score": 4.2965975,
     "scoreText": "4.3",
     "ratings": 42690,
-    "reviews": 4327,
+    "reviews": 4328,
     "histogram": {
       "1": 4039,
       "2": 1420,

@@ -1,0 +1,31 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-08-31",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "563036cfed1aaa00b13d03d76aa679e40e023e46",
+      "curr_fetched_at": "2026-08-31T14:16:22.817Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Redeem a Code",
+          "occurrences": 1
+        },
+        {
+          "text": "Student Discount",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Redeem a code",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 1
+    }
+  }
+}

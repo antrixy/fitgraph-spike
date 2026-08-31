@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T12:10:48.105Z",
+  "fetched_at": "2026-08-31T14:17:16.797Z",
   "source": "google_play_scraper",
   "appId": "com.getsomeheadspace.android",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 42405391,
     "score": 4.2595835,
     "scoreText": "4.3",
-    "ratings": 339978,
-    "reviews": 31749,
+    "ratings": 339976,
+    "reviews": 31750,
     "histogram": {
       "1": 41936,
       "2": 12688,
       "3": 10910,
       "4": 24080,
-      "5": 250355
+      "5": 250353
     },
     "price": 0,
     "free": true,
