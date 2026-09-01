@@ -1,0 +1,41 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-09-01",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "prev_fetched_at": "2026-08-31T14:12:35.024Z",
+      "curr_fetched_at": "2026-09-01T11:52:34.534Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.4.1",
+          "new": "1.4.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Fixes subscription validation issues",
+          "new": "Enhanced video and image compression handling."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "prev_fetched_at": "2026-08-31T14:12:39.208Z",
+      "curr_fetched_at": "2026-09-01T11:52:39.755Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.4.0",
+          "new": "1.4.2"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Fixes some text input layout bugs",
+          "new": "Enhanced video and image compression"
+        }
+      ]
+    }
+  }
+}

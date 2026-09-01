@@ -1,0 +1,45 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "prev_fetched_at": "2026-08-31T14:09:55.824Z",
+      "curr_fetched_at": "2026-09-01T11:49:58.264Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "curr_fetched_at": "2026-09-01T11:50:00.240Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 2
+    }
+  }
+}

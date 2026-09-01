@@ -1,0 +1,19 @@
+{
+  "product": "fitness.freeletics",
+  "name": "Freeletics",
+  "date": "2026-09-01",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "prev_fetched_at": "2026-08-31T14:16:37.349Z",
+      "curr_fetched_at": "2026-09-01T11:56:55.246Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.33.0",
+          "new": "26.34.0"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-01",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "curr_fetched_at": "2026-09-01T11:50:22.059Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Are clams good for weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "Here&#8217;s what to know",
+          "occurrences": 1
+        },
+        {
+          "text": "Sulfur burps: Why they happen on GLP-1s and how to get rid of them",
+          "occurrences": 1
+        },
+        {
+          "text": "Starbucks fall menu 2026: Nutrition facts and lighter ways to sip",
+          "occurrences": 1
+        },
+        {
+          "text": "Zepbound® nausea: What to expect and how to manage it",
+          "occurrences": 1
+        },
+        {
+          "text": "Medicare now covers GLP-1s with a $50 copay.",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom pairs access to this benefit with healthy aging habits for what comes next.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Coleen Rooney shower squats are going viral—here’s why they work",
+          "occurrences": 1
+        },
+        {
+          "text": "Why adults are ordering the Cava Kids Meal—and the GLP-1 connection",
+          "occurrences": 1
+        },
+        {
+          "text": "Tirzepatide costs: With and without insurance in 2026",
+          "occurrences": 1
+        },
+        {
+          "text": "Can eating a banana before bed help with sleep and weight loss?",
+          "occurrences": 1
+        },
+        {
+          "text": "What to know",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 vs.",
+          "occurrences": 1
+        },
+        {
+          "text": "GIP: What’s the difference, and does it matter for weight loss?",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 7,
+      "removed_total": 7
+    }
+  }
+}

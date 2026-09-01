@@ -1,11 +1,8 @@
 {
-  "fetched_at": "2026-08-31T14:14:19.418Z",
+  "fetched_at": "2026-09-01T11:54:22.770Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1134655040&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3d/ca/213dca92-d12a-2c90-3b57-1418e7b032bd/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3d/ca/213dca92-d12a-2c90-3b57-1418e7b032bd/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/24/b39d2492-a579-c8ba-931f-759a2dd099a4/_U005bEN_U005d_iPhone_5.5__U0026_Android_01.jpg/406x228bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/88/5f/ef885f5d-bd6d-1da9-05c4-a6cc0ea00680/_U005bEN_U005d_iPhone_5.5__U0026_Android_02.jpg/406x228bb.jpg",
@@ -25,6 +22,11 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3d/ca/213dca92-d12a-2c90-3b57-1418e7b032bd/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3d/ca/213dca92-d12a-2c90-3b57-1418e7b032bd/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3d/ca/213dca92-d12a-2c90-3b57-1418e7b032bd/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
+    "advisories": [],
+    "kind": "software",
     "features": [
       "iosUniversal"
     ],
@@ -158,45 +160,43 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "advisories": [],
-    "kind": "software",
+    "minimumOsVersion": "15.0",
+    "averageUserRatingForCurrentVersion": 4.73632,
+    "sellerUrl": "http://www.zwift.com",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "3957881856",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21382,
+    "userRatingCountForCurrentVersion": 21383,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.73632,
     "trackCensoredName": "Zwift: Indoor Cycling Fitness",
     "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.73632,
-    "sellerUrl": "http://www.zwift.com",
-    "releaseNotes": "• The following routes now have badges and XP available for runners: Flat Route Run, Loop de Loop Run, Volcano Flat Run, and Beach Island Loop Run.\n• New wheels are available in the Drop Shop: Shimano C36, Shimano C50, Shimano C60, and Shimano C99. These new wheels replace the previous Shimano Dura-Ace C36, C50, and C60 wheels which are no longer available for purchase in the Drop Shop, but remain in the Garage for Zwifters who already own them.\n• Zwifters can now deselect all screenshots at the end of an activity (previously one screenshot was required).\n• Route sorting preferences are now saved between sessions and shared between cycling and running modes.\n• Fixed an issue that could cause a ride leader's name to be shown in on-screen messages as 'Ride Leader' if certain emojis were included in their name.\n• Fixed an issue that could cause custom bike colors to be reset when changing paint jobs / colorways.\n• When swapping bike frames, the wheels that were last used with that frame will also be restored.",
-    "artistId": 934083689,
-    "artistName": "Zwift, Inc",
     "genres": [
       "Health & Fitness"
     ],
-    "price": 0,
+    "artistId": 934083689,
+    "artistName": "Zwift, Inc",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "releaseDate": "2016-12-10T04:14:55Z",
-    "trackId": 1134655040,
-    "trackName": "Zwift: Indoor Cycling Fitness",
+    "sellerName": "Zwift, Inc",
     "genreIds": [
       "6013"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "Zwift, Inc",
+    "bundleId": "com.zwift.ZwiftGame",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-08-19T15:08:14Z",
+    "releaseNotes": "• The following routes now have badges and XP available for runners: Flat Route Run, Loop de Loop Run, Volcano Flat Run, and Beach Island Loop Run.\n• New wheels are available in the Drop Shop: Shimano C36, Shimano C50, Shimano C60, and Shimano C99. These new wheels replace the previous Shimano Dura-Ace C36, C50, and C60 wheels which are no longer available for purchase in the Drop Shop, but remain in the Garage for Zwifters who already own them.\n• Zwifters can now deselect all screenshots at the end of an activity (previously one screenshot was required).\n• Route sorting preferences are now saved between sessions and shared between cycling and running modes.\n• Fixed an issue that could cause a ride leader's name to be shown in on-screen messages as 'Ride Leader' if certain emojis were included in their name.\n• Fixed an issue that could cause custom bike colors to be reset when changing paint jobs / colorways.\n• When swapping bike frames, the wheels that were last used with that frame will also be restored.",
     "version": "1.120.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Zwift: Indoor cycling made fun\n\nJoin millions of people on the app that makes indoor cycling fun for everyone.  Whether you’re a seasoned athlete or just starting, jump into virtual bike rides in immersive 3D worlds, challenge yourself on epic climbs, and explore endless roads. With racing, group rides, cycling workouts, and structured training plans, Zwift can deliver serious fitness results.\n\nConnect Your Bike\n\nSeamlessly connect your smart bike, like Zwift Ride, or your bike and smart trainer – including ones from Zwift, Wahoo, Garmin, and more – to your smartphone, tablet, or AppleTV, and start chasing your fitness goals from the comfort of your home.\n\nImmersive Virtual Worlds\n\nExplore over a hundred routes in 12 immersive, virtual worlds. Whether it's the epic climbs in Watopia or the serene beauty of the Scottish highlands, every ride is a new chance to explore.\n\nJoin a Global Community\n\nJoin a global community pulsing with energy and enthusiasm. Connect with friends, make new ones, and immerse yourself in group rides, races, and events. Track your stats and stay connected with friends, clubs, and the community—on and off the bike— with the Zwift Companion app. Zwift even connects to Strava, ensuring a seamless fitness tracking experience. \n\nIndoor Training Plans, Tailored to You\n\nOur world-class coaches and champion cyclists have crafted plans and workouts for every level. Whether you’re starting out or stepping it up, find your perfect plan. With flexible options, from quick 30-minute burns to long endurance rides, Zwift also has 1000s of on-demand workouts that fit your schedule and goals.\n\nRace Any Time Of Day\n\nRacing riders from around the world is one of the most effective ways to get fit. But don’t be intimidated! Zwift is home to the world’s largest community of competitors—from first-time racers to elite athletes—guaranteeing there’s a friendly challenge for everyone.\n\nRide and Run!\n\nNot just for cyclists, Zwift welcomes runners too. Sync your smart treadmill or footpod device — you can get our RunPod directly from Zwift—and step into the worlds of Zwift, where every walk or run gets you one step closer to your goals.\n\nJoin Zwift Today\n\nThere’s never been a better time to combine fun with real results. Download Zwift now and start from wherever you are with a free trial for first-time users.\n\nDownload today\nPlease see the Terms of Use at zwift.com/terms, and EULA at support.zwift.com/en_us/end-user-license-agreement-rymuiTZr",
-    "minimumOsVersion": "15.0",
-    "bundleId": "com.zwift.ZwiftGame",
-    "userRatingCount": 21382
+    "trackId": 1134655040,
+    "trackName": "Zwift: Indoor Cycling Fitness",
+    "price": 0,
+    "userRatingCount": 21383
   }
 }

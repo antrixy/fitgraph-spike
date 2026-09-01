@@ -1,0 +1,22 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-09-01",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "009bf25a81307ee9092475822d1563cb770fdd3e",
+      "curr_fetched_at": "2026-09-01T11:55:32.650Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Security Center",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 1
+    }
+  }
+}
