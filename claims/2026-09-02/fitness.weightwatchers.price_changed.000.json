@@ -1,0 +1,21 @@
+{
+  "claim_type": "price_changed",
+  "product": "fitness.weightwatchers",
+  "field": "iap_range",
+  "old_value": "$0.99 - $349.99 per item",
+  "new_value": null,
+  "observed_at": "2026-09-02T11:31:09.405Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "play_listing",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

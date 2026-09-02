@@ -1,0 +1,29 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-09-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89",
+      "prev_fetched_at": "2026-09-01T11:50:30.744Z",
+      "curr_fetched_at": "2026-09-02T11:31:09.405Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "11.27.0",
+          "new": "11.28.0"
+        },
+        {
+          "field": "offersIAP",
+          "old": true,
+          "new": false
+        },
+        {
+          "field": "IAPRange",
+          "old": "$0.99 - $349.99 per item",
+          "new": null
+        }
+      ]
+    }
+  }
+}

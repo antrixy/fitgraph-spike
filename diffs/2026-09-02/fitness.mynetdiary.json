@@ -1,0 +1,57 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89",
+      "prev_fetched_at": "2026-09-01T11:49:58.264Z",
+      "curr_fetched_at": "2026-09-02T11:30:30.988Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89",
+      "curr_fetched_at": "2026-09-02T11:30:34.912Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary tips for tracking your nutrition for kidney disease",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Tips for entering recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        },
+        {
+          "text": "Leverage MyNetDiary’s robust food database using superior search tips for staples and more",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 4
+    }
+  }
+}

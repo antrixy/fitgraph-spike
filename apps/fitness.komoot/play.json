@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:54:33.629Z",
+  "fetched_at": "2026-09-02T11:35:04.290Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 43341772,
-    "score": 4.3245435,
+    "maxInstalls": 43372708,
+    "score": 4.334012,
     "scoreText": "4.3",
-    "ratings": 423767,
-    "reviews": 2134,
+    "ratings": 424040,
+    "reviews": 2135,
     "histogram": {
-      "1": 41230,
-      "2": 14604,
-      "3": 16298,
-      "4": 44619,
-      "5": 306851
+      "1": 41395,
+      "2": 12910,
+      "3": 16380,
+      "4": 44865,
+      "5": 308246
     },
     "price": 0,
     "free": true,
@@ -77,7 +77,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1788257212000,
+    "updated": 1788337843000,
     "version": "VARY",
     "recentChanges": "Bug fixes:<br>* Interrupted offline map downloads now resume, and region search stays usable while downloads run.<br>* Fixed planner and route preview controls being hard to reach on some devices.<br>* Fixed trail report uploads and improved stability.",
     "comments": [],

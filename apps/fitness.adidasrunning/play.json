@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:53:45.683Z",
+  "fetched_at": "2026-09-02T11:34:12.035Z",
   "source": "google_play_scraper",
   "appId": "com.runtastic.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "From Walk to Marathon training",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 97166950,
-    "score": 4.643803,
+    "maxInstalls": 97184111,
+    "score": 4.6407213,
     "scoreText": "4.6",
-    "ratings": 1728057,
-    "reviews": 25314,
+    "ratings": 1728482,
+    "reviews": 25315,
     "histogram": {
-      "1": 76831,
-      "2": 20421,
-      "3": 45772,
-      "4": 155312,
-      "5": 1429682
+      "1": 77918,
+      "2": 20499,
+      "3": 45112,
+      "4": 157505,
+      "5": 1427409
     },
     "price": 0,
     "free": true,
@@ -66,7 +66,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "May 12, 2010",
-    "updated": 1787143395000,
+    "updated": 1788255506000,
     "version": "VARY",
     "recentChanges": "Just a little maintenance this time! Bug fixes and performance tweaks to keep your workouts running smooth.",
     "comments": [],

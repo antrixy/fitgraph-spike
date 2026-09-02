@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:49:09.960Z",
+  "fetched_at": "2026-09-02T11:29:40.943Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Know what you&#39;re eating this summer. Track calories, macros &amp; nutrition.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 136147628,
-    "score": 4.4031916,
+    "maxInstalls": 136193316,
+    "score": 4.4035983,
     "scoreText": "4.4",
-    "ratings": 2912578,
-    "reviews": 454169,
+    "ratings": 2912791,
+    "reviews": 454177,
     "histogram": {
-      "1": 206210,
-      "2": 84089,
-      "3": 144416,
-      "4": 372292,
-      "5": 2105561
+      "1": 206099,
+      "2": 83981,
+      "3": 144411,
+      "4": 372019,
+      "5": 2106274
     },
     "price": 0,
     "free": true,
@@ -86,7 +86,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Apr 26, 2010",
-    "updated": 1786740608000,
+    "updated": 1788194112000,
     "version": "VARY",
     "recentChanges": "✅Fixed: Day 1 streak celebrations were popping up before actually earning a streak.<br>➡️Now every streak celebration is tied to a real milestone you achieve.<br><br>✅Fixed: For some, the Settings screen was crashing.<br>➡️Now you can update your preferences without a hitch.<br><br>🐛Bugs: great for the environment, bad for your logging experience.<br>*For all the latest fixes, update to the latest app version",
     "comments": [],

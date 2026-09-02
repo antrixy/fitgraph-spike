@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-09-01T11:56:00.646Z",
+  "fetched_at": "2026-09-02T11:36:16.565Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=792750948&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/77/7f/5b777fa7-41ce-2ee3-513f-0cecc19e6c09/agnostic_1.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/21/67/0021678b-28c5-a0cd-a0ad-23090cb6dbca/agnostic_2.png/320x480bb.jpg",
@@ -167,10 +168,7 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "isGameCenterEnabled": false,
-    "minimumOsVersion": "17.0",
-    "releaseNotes": "Bug fixes and performance improvements.",
-    "averageUserRatingForCurrentVersion": 4.91843,
+    "averageUserRatingForCurrentVersion": 4.91842,
     "sellerUrl": "https://www.onepeloton.com",
     "languageCodesISO2A": [
       "EN",
@@ -179,36 +177,38 @@
     ],
     "fileSizeBytes": "482042880",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 815963,
+    "userRatingCountForCurrentVersion": 816050,
     "trackContentRating": "12+",
+    "releaseNotes": "Bug fixes and performance improvements.",
+    "artistName": "Peloton Interactive, Inc.",
+    "artistId": 792750951,
+    "price": 0,
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-08-24T14:17:18Z",
+    "sellerName": "Peloton Interactive, Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2014-02-15T00:26:48Z",
+    "genreIds": [
+      "6013",
+      "6012"
+    ],
+    "version": "15.131.0",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Work out where you want, when you want. From strength and meditation, to outdoor running and yoga, the Peloton App makes fitness classes and workout tracking fun and easy. No equipment needed.\n\nWHAT'S IN IT FOR YOU?\n• Take your workout with you: Find a variety of workouts to fulfill your fitness goals, including strength training, indoor and outdoor running, cycling, yoga, HIIT, meditation, stretching, and more. Whether you’re at home, outside, or at the gym, our workouts are available on your iPhone or iPad. Plus, stream to your TV with Apple TV, AirPlay, or Chromecast.\n• Here to hype. Here to help: Peloton is designed to keep you going with artist series, goal-based offerings, and challenges that make working out on the Peloton App a fun and exhilarating experience.\n• More burn for your buck: Experience what Peloton is all about with a Peloton App membership.\n\nDISCOVER, LOVE, REPEAT\n• Variety that you crave: Thousands of workouts you can take anytime, anywhere—with or without any equipment. From cardio to stretching to gym-inspired routines, we’ve got you covered. Guided workouts can help you reach your goals, no matter where you train.\n• Workouts you can work in: Let our world-class instructors motivate and captivate you during every workout. Track your stats and progress using the Peloton Watch App, available on Apple Watch—whether you're training at home, outside, or in the gym.\n• Whenever you're ready to sweat: Join live classes, or explore our library of instructor-led workouts for a studio fitness experience to get moving whenever you're ready to sweat- on the go, at the gym, or at home.\n• Features that take your experience to the next level: Schedule, stack, and bookmark classes so once you’re ready to get moving, all you need to do is show up and sweat—whether it’s your living room or the gym floor.\n\nTRANSFORM YOUR FITNESS JOURNEY\n• Just bring you: Filter workouts by length, time, and music type to help you hit your health and fitness goals—on your terms, at home, or in the gym. No strings, no equipment required.\n• Energize Your Fitness: A full suite of content to energize your routine: Featuring expert trainers and great music, our classes offer an engaging blend of guidance and rhythm to enhance your fitness journey.\n• Stay connected: Track your classes and freeform activities like outdoor walks, runs and more. Connect a heart rate monitor or download the Peloton Watch App for Apple Watch in order to get metrics in real time to keep you going.\n\n\nJOIN THE PELOTON COMMUNITY\nWhether you’re working out on your phone, tablet, or TV, Peloton is designed to fit your life. Try Peloton for free—no equipment or gym membership needed.\n\n\nPayment for this plan will be charged to your iTunes Account at confirmation of purchase. The membership will automatically renew at the applicable price and frequency (i.e., monthly or annually) (exclusive of taxes) unless auto-renew is turned off at least 24-hours before the end of the current period. By completing your purchase, you certify that you are at least 18 years old and that you understand and agree to the Terms of Service (https://www.onepeloton.com/terms-of-service) and acknowledge the Privacy Policy (https://www.onepeloton.com/privacy-policy). Auto-renewal may be turned off in your Account Setting in iTunes after purchase. No cancellation of the current subscription is allowed during an active subscription period. A user that cancels during a subscription month will not be charged for the following month.",
+    "minimumOsVersion": "17.0",
+    "bundleId": "com.Peloton.PelotonApp",
+    "trackCensoredName": "Peloton: Fitness & Workouts",
+    "trackViewUrl": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948?uo=4",
+    "contentAdvisoryRating": "12+",
+    "averageUserRating": 4.91842,
     "trackId": 792750948,
     "trackName": "Peloton: Fitness & Workouts",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 792750951,
-    "artistName": "Peloton Interactive, Inc.",
-    "sellerName": "Peloton Interactive, Inc.",
-    "bundleId": "com.Peloton.PelotonApp",
-    "releaseDate": "2014-02-15T00:26:48Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "genreIds": [
-      "6013",
-      "6012"
-    ],
-    "currentVersionReleaseDate": "2026-08-24T14:17:18Z",
-    "version": "15.131.0",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Work out where you want, when you want. From strength and meditation, to outdoor running and yoga, the Peloton App makes fitness classes and workout tracking fun and easy. No equipment needed.\n\nWHAT'S IN IT FOR YOU?\n• Take your workout with you: Find a variety of workouts to fulfill your fitness goals, including strength training, indoor and outdoor running, cycling, yoga, HIIT, meditation, stretching, and more. Whether you’re at home, outside, or at the gym, our workouts are available on your iPhone or iPad. Plus, stream to your TV with Apple TV, AirPlay, or Chromecast.\n• Here to hype. Here to help: Peloton is designed to keep you going with artist series, goal-based offerings, and challenges that make working out on the Peloton App a fun and exhilarating experience.\n• More burn for your buck: Experience what Peloton is all about with a Peloton App membership.\n\nDISCOVER, LOVE, REPEAT\n• Variety that you crave: Thousands of workouts you can take anytime, anywhere—with or without any equipment. From cardio to stretching to gym-inspired routines, we’ve got you covered. Guided workouts can help you reach your goals, no matter where you train.\n• Workouts you can work in: Let our world-class instructors motivate and captivate you during every workout. Track your stats and progress using the Peloton Watch App, available on Apple Watch—whether you're training at home, outside, or in the gym.\n• Whenever you're ready to sweat: Join live classes, or explore our library of instructor-led workouts for a studio fitness experience to get moving whenever you're ready to sweat- on the go, at the gym, or at home.\n• Features that take your experience to the next level: Schedule, stack, and bookmark classes so once you’re ready to get moving, all you need to do is show up and sweat—whether it’s your living room or the gym floor.\n\nTRANSFORM YOUR FITNESS JOURNEY\n• Just bring you: Filter workouts by length, time, and music type to help you hit your health and fitness goals—on your terms, at home, or in the gym. No strings, no equipment required.\n• Energize Your Fitness: A full suite of content to energize your routine: Featuring expert trainers and great music, our classes offer an engaging blend of guidance and rhythm to enhance your fitness journey.\n• Stay connected: Track your classes and freeform activities like outdoor walks, runs and more. Connect a heart rate monitor or download the Peloton Watch App for Apple Watch in order to get metrics in real time to keep you going.\n\n\nJOIN THE PELOTON COMMUNITY\nWhether you’re working out on your phone, tablet, or TV, Peloton is designed to fit your life. Try Peloton for free—no equipment or gym membership needed.\n\n\nPayment for this plan will be charged to your iTunes Account at confirmation of purchase. The membership will automatically renew at the applicable price and frequency (i.e., monthly or annually) (exclusive of taxes) unless auto-renew is turned off at least 24-hours before the end of the current period. By completing your purchase, you certify that you are at least 18 years old and that you understand and agree to the Terms of Service (https://www.onepeloton.com/terms-of-service) and acknowledge the Privacy Policy (https://www.onepeloton.com/privacy-policy). Auto-renewal may be turned off in your Account Setting in iTunes after purchase. No cancellation of the current subscription is allowed during an active subscription period. A user that cancels during a subscription month will not be charged for the following month.",
-    "trackCensoredName": "Peloton: Fitness & Workouts",
-    "trackViewUrl": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948?uo=4",
-    "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.91843,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "price": 0,
-    "userRatingCount": 815963
+    "userRatingCount": 816050
   }
 }

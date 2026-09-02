@@ -1,0 +1,59 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-02",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89",
+      "curr_fetched_at": "2026-09-02T11:31:03.557Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "NEW: Discover our new dual-pathway Microdose GLP-1Rx option.",
+          "occurrences": 1
+        },
+        {
+          "text": "More Low-Dose",
+          "occurrences": 1
+        },
+        {
+          "text": "A smaller dose for an easy,",
+          "occurrences": 1
+        },
+        {
+          "text": "low-cost start.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$49 Limited-Time Offer: Microdose GLP-1Rx Program (Compounded Semaglutide).",
+          "occurrences": 1
+        },
+        {
+          "text": "Price includes medication.",
+          "occurrences": 1
+        },
+        {
+          "text": "LIMITED-TIME INTRO OFFER",
+          "occurrences": 1
+        },
+        {
+          "text": "A New Low-Dose",
+          "occurrences": 1
+        },
+        {
+          "text": "Introducing Microdose Compounded",
+          "occurrences": 1
+        },
+        {
+          "text": "Tirzepatide for a smaller, easy, low-cost start.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 6
+    }
+  }
+}

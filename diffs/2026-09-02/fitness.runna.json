@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-09-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "f616abbad8e3e86038ac7662a31d75e45f9f1b89",
+      "prev_fetched_at": "2026-09-01T11:53:24.348Z",
+      "curr_fetched_at": "2026-09-02T11:33:52.426Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.50.2",
+          "new": "8.52.1"
+        },
+        {
+          "field": "recentChanges",
+          "old": null,
+          "new": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!"
+        }
+      ]
+    }
+  }
+}

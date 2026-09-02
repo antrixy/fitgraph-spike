@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T11:52:05.657Z",
+  "fetched_at": "2026-09-02T11:32:43.966Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Build real strength with 5×5. The app plans every set and weight you lift.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2374701,
-    "score": 4.311857,
+    "maxInstalls": 2374774,
+    "score": 4.310676,
     "scoreText": "4.3",
-    "ratings": 101201,
+    "ratings": 101204,
     "reviews": 13971,
     "histogram": {
-      "1": 15465,
-      "2": 795,
-      "3": 1281,
-      "4": 2809,
-      "5": 80842
+      "1": 15494,
+      "2": 797,
+      "3": 1283,
+      "4": 2813,
+      "5": 80809
     },
     "price": 0,
     "free": true,
