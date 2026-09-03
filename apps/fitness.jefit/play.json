@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:31:59.386Z",
+  "fetched_at": "2026-09-03T11:29:19.104Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 9885365,
     "score": 4.4310346,
     "scoreText": "4.4",
-    "ratings": 89752,
-    "reviews": 11715,
+    "ratings": 89760,
+    "reviews": 11716,
     "histogram": {
-      "1": 6842,
+      "1": 6843,
       "2": 2438,
       "3": 3807,
-      "4": 8748,
-      "5": 67907
+      "4": 8749,
+      "5": 67913
     },
     "price": 0,
     "free": true,
@@ -69,8 +69,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Sep 15, 2010",
-    "updated": 1787608316000,
-    "version": "17.4.1",
+    "updated": 1788305883000,
+    "version": "VARY",
     "recentChanges": "The app now draws edge-to-edge across workout, exercise, progress, and onboarding screens for a more immersive feel. The AI progression star shows a clear outline when no weight change is queued, and fills in when one is ready. Warm-up sets are left untouched by the phase planner, and your onboarding goal weight now saves and syncs to your profile. Plus a handful of bug fixes along the way.",
     "comments": [],
     "preregister": false,

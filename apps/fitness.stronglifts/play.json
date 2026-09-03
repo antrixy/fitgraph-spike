@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:32:43.966Z",
+  "fetched_at": "2026-09-03T11:30:00.987Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Build real strength with 5×5. The app plans every set and weight you lift.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2374774,
+    "maxInstalls": 2374957,
     "score": 4.310676,
     "scoreText": "4.3",
-    "ratings": 101204,
+    "ratings": 101202,
     "reviews": 13971,
     "histogram": {
       "1": 15494,
       "2": 797,
       "3": 1283,
       "4": 2813,
-      "5": 80809
+      "5": 80807
     },
     "price": 0,
     "free": true,
@@ -80,7 +80,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Dec 23, 2013",
-    "updated": 1784978926000,
+    "updated": 1788359436000,
     "version": "4.4",
     "recentChanges": "- NEW: adjust weights, dates or workouts directly from the home screen<br>- NEW: estimated workout duration<br>- NEW: annotations showing weight increases<br>- NEW: plus various design improvements.<br>- Next: we have a lot more coming in the coming months.<br>",
     "comments": [],

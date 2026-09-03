@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.alphaprogression",
+  "integration": "apple_health",
+  "direction": "added",
+  "observed_at": "2026-09-03T11:30:21.606Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "app_description",
+      "excerpt": "aching clients. Export everything as CSV. kg and lb, even mixed. An optional account syncs all your devices. Syncs with Apple Health. FREE VS PRO Free: unlimited workout logging, all 795 exercise videos, your own plans, measurements, rest timer, recor",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "b29374bc2c2b140f2adbb4082442652c2ef4c48e"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

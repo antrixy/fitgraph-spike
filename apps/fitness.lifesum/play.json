@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:30:48.632Z",
+  "fetched_at": "2026-09-03T11:28:02.030Z",
   "source": "google_play_scraper",
   "appId": "com.sillens.shapeupclub",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 29578358,
-    "score": 4.4112124,
+    "score": 4.4110394,
     "scoreText": "4.4",
-    "ratings": 377978,
-    "reviews": 13840,
+    "ratings": 378002,
+    "reviews": 13841,
     "histogram": {
-      "1": 23958,
-      "2": 12532,
-      "3": 19077,
-      "4": 50915,
-      "5": 271464
+      "1": 23970,
+      "2": 12533,
+      "3": 19078,
+      "4": 50940,
+      "5": 271458
     },
     "price": 0,
     "free": true,
@@ -75,7 +75,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 16, 2011",
-    "updated": 1785926531000,
+    "updated": 1788334824000,
     "version": "VARY",
     "recentChanges": "Small improvements. Big impact. ✨<br>We’ve made a few updates to make Lifesum smoother, faster, and even more enjoyable to use.<br>Because feeling good should simply feel easy. 💚",
     "comments": [],

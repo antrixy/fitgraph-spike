@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:34:34.830Z",
+  "fetched_at": "2026-09-03T11:31:50.241Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Training plans and workout tracking for triathlon, cycling, running, &amp; marathon.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1870551,
+    "maxInstalls": 1871573,
     "score": 4.1911764,
     "scoreText": "4.2",
-    "ratings": 33350,
+    "ratings": 33354,
     "reviews": 2021,
     "histogram": {
       "1": 3347,
       "2": 1634,
       "3": 2124,
-      "4": 4412,
-      "5": 21820
+      "4": 4413,
+      "5": 21822
     },
     "price": 0,
     "free": true,

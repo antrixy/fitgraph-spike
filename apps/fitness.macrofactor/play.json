@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:30:12.310Z",
+  "fetched_at": "2026-09-03T11:27:20.788Z",
   "source": "google_play_scraper",
   "appId": "com.sbs.diet",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1494574,
-    "score": 4.7365727,
+    "score": 4.7268105,
     "scoreText": "4.7",
-    "ratings": 16509,
-    "reviews": 1812,
+    "ratings": 16521,
+    "reviews": 1811,
     "histogram": {
-      "1": 569,
-      "2": 105,
-      "3": 337,
-      "4": 1076,
-      "5": 14417
+      "1": 607,
+      "2": 103,
+      "3": 335,
+      "4": 1091,
+      "5": 14378
     },
     "price": 0,
     "free": true,
@@ -65,7 +65,7 @@
     "contentRatingDescription": "Diverse Content: Discretion Advised",
     "adSupported": false,
     "released": "Sep 14, 2021",
-    "updated": 1787356986000,
+    "updated": 1788350595000,
     "version": "5.8.3",
     "recentChanges": "* New AI custom food creation and label scanning<br>* Bug fixes and performance improvements",
     "comments": [],

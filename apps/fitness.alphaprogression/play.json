@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:33:05.053Z",
+  "fetched_at": "2026-09-03T11:30:24.758Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1998678,
-    "score": 4.83455,
+    "score": 4.8341465,
     "scoreText": "4.8",
-    "ratings": 20911,
-    "reviews": 1630,
+    "ratings": 20920,
+    "reviews": 1631,
     "histogram": {
-      "1": 352,
-      "2": 250,
-      "3": 250,
-      "4": 760,
-      "5": 19282
+      "1": 357,
+      "2": 255,
+      "3": 255,
+      "4": 765,
+      "5": 19287
     },
     "price": 0,
     "free": true,
@@ -65,8 +65,8 @@
     "adSupported": false,
     "released": "Dec 16, 2019",
     "updated": 1788249169000,
-    "version": "7.4",
-    "recentChanges": "Dutch + Swedish + Danish + Norwegian<br>• We have added four new languages.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+    "version": "7.5",
+    "recentChanges": "Japanese<br>• We have added another new language.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

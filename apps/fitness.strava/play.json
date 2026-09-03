@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:33:40.931Z",
+  "fetched_at": "2026-09-03T11:31:02.375Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 132421426,
-    "score": 4.5858893,
+    "maxInstalls": 132423777,
+    "score": 4.5872717,
     "scoreText": "4.6",
-    "ratings": 1176314,
-    "reviews": 34249,
+    "ratings": 1176977,
+    "reviews": 34253,
     "histogram": {
-      "1": 67550,
-      "2": 17216,
-      "3": 31024,
-      "4": 103177,
-      "5": 957314
+      "1": 67188,
+      "2": 17197,
+      "3": 30843,
+      "4": 103676,
+      "5": 958040
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "released": "Jun 9, 2011",
     "updated": 1788214552000,
     "version": "VARY",
-    "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
+    "recentChanges": "You can now turn off Activity Replay as your default map. Go to Settings &gt; Default Maps to switch it off.<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

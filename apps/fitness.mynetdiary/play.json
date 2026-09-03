@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T11:30:30.988Z",
+  "fetched_at": "2026-09-03T11:27:41.392Z",
   "source": "google_play_scraper",
   "appId": "com.fourtechnologies.mynetdiary.ad",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Diet &amp; nutrition tracker with barcode scanner. Food, calories, macros, protein.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9503873,
-    "score": 4.6658072,
+    "maxInstalls": 9509830,
+    "score": 4.6669974,
     "scoreText": "4.7",
-    "ratings": 115692,
-    "reviews": 17971,
+    "ratings": 115744,
+    "reviews": 17976,
     "histogram": {
-      "1": 3348,
-      "2": 1306,
-      "3": 3212,
-      "4": 14913,
-      "5": 92906
+      "1": 3352,
+      "2": 1263,
+      "3": 3214,
+      "4": 14905,
+      "5": 93002
     },
     "price": 0,
     "free": true,

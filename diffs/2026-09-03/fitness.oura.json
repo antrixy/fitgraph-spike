@@ -1,0 +1,135 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-09-03",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "b29374bc2c2b140f2adbb4082442652c2ef4c48e",
+      "curr_fetched_at": "2026-09-03T11:33:19.863Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Your Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Why Oura",
+          "occurrences": 1
+        },
+        {
+          "text": "4.9 App Store Rating based on 280k reviews",
+          "occurrences": 4
+        },
+        {
+          "text": "5+ Million Oura Members",
+          "occurrences": 1
+        },
+        {
+          "text": "The information from Oura made all the difference for us.",
+          "occurrences": 1
+        },
+        {
+          "text": "We’re finally starting our family and couldn’t be more excited.",
+          "occurrences": 1
+        },
+        {
+          "text": "Ashley W.",
+          "occurrences": 1
+        },
+        {
+          "text": "Your privacy always comes first",
+          "occurrences": 1
+        },
+        {
+          "text": "Trusting us with your health data is a serious decision, and we don&#x27;t take it lightly.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our commitment is simple: we don&#x27;t sell your data, and we&#x27;ll never share it without consent.",
+          "occurrences": 1
+        },
+        {
+          "text": "Will I lose my Oura data if I cancel?",
+          "occurrences": 1
+        },
+        {
+          "text": "No.",
+          "occurrences": 1
+        },
+        {
+          "text": "If you cancel your Oura Membership, and do not delete your account, all of your Oura data and account information will remain securely saved under our Privacy Policy.",
+          "occurrences": 1
+        },
+        {
+          "text": "Once you re-enroll in Oura Membership, your data and account information will immediately be accessible again.",
+          "occurrences": 1
+        },
+        {
+          "text": "Even without a membership, you can export all of your Oura data in CSV format through the Membership Hub.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop All Products",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Health Features",
+          "occurrences": 1
+        },
+        {
+          "text": "Experience",
+          "occurrences": 1
+        },
+        {
+          "text": "4.9 App Store Rating based on 137k reviews",
+          "occurrences": 4
+        },
+        {
+          "text": "Millions of Oura Members",
+          "occurrences": 1
+        },
+        {
+          "text": "When I was tracking my fertility using [Natural Cycles and Oura], I really didn’t need to do anything except wear the ring.",
+          "occurrences": 1
+        },
+        {
+          "text": "Felicity V.",
+          "occurrences": 1
+        },
+        {
+          "text": "Your health data, protected",
+          "occurrences": 1
+        },
+        {
+          "text": "Rest assured that your health data is protected with industry-leading security and privacy practices.",
+          "occurrences": 1
+        },
+        {
+          "text": "get started",
+          "occurrences": 1
+        },
+        {
+          "text": "On sale",
+          "occurrences": 4
+        },
+        {
+          "text": "Oura Ring 4",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore Shop",
+          "occurrences": 2
+        },
+        {
+          "text": "Oura Ring 4 Ceramic",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 16,
+      "removed_total": 13
+    }
+  }
+}
