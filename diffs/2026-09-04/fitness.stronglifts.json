@@ -1,0 +1,24 @@
+{
+  "product": "fitness.stronglifts",
+  "name": "StrongLifts 5x5",
+  "date": "2026-09-04",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "prev_fetched_at": "2026-09-03T11:29:58.230Z",
+      "curr_fetched_at": "2026-09-04T11:32:30.471Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.3.0",
+          "new": "4.3.1"
+        },
+        {
+          "field": "description",
+          "old": "Get stronger with the world’s simplest, most proven barbell program. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStronglifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5x5 program gets you stronger, week after week. No experience needed.\n\n▸ Proven 3x/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3x/week program. No decisions, just results.\n \n\nOver 3 million lifters worldwide have started or restarted their strength journey with Stronglifts since 2007. The app has been featured by Apple and reviewed in the British Journal of Sports Medicine. Stronglifts is the highest-rated strength app, with more than 200,000 five-star reviews worldwide, and a 4.9 average rating.\n \nStronglifts is built on the classic 5x5 program made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5x5 program has been proven to get new and returning lifters stronger, quickly and safely.\n \nDownload Stronglifts today and join millions getting stronger.\n\nStronglifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+          "new": "Get stronger with the world’s simplest, most proven barbell program: the 5×5 workout. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStrongLifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every 5×5 workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5×5 workout gets you stronger, week after week. No experience needed.\n\n▸ Proven 3×/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3×/week program. No decisions, just results.\n\nOver 3 million lifters worldwide have started or restarted their strength journey with StrongLifts since 2007. The app has been featured and reviewed in the British Journal of Sports Medicine. StrongLifts is the best strength app, with more than 200,000 five-star reviews worldwide.\n\nStrongLifts is built on the classic 5×5 workout made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5×5 workout has been proven to get new and returning lifters stronger, quickly and safely.\n\nDownload StrongLifts today and join millions getting stronger.\n\nStrongLifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+        }
+      ]
+    }
+  }
+}

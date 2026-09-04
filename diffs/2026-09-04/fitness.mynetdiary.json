@@ -1,0 +1,57 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-04",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "prev_fetched_at": "2026-09-03T11:27:41.392Z",
+      "curr_fetched_at": "2026-09-04T11:30:32.724Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "curr_fetched_at": "2026-09-04T11:30:36.341Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Hidden calories you don’t log (and why they matter)",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "Looking for expert tips on nutrition, fitness, health, and tracking?",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary's vast digital library has you covered!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips for sharing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "Tips & Tricks for Using MyNetDiary's Huge Food Database",
+          "occurrences": 1
+        },
+        {
+          "text": "Business Insider ranks MyNetDiary the best free weight-loss app of 2020 and here's why!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 4
+    }
+  }
+}

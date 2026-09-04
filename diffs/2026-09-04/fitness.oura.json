@@ -1,0 +1,52 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-09-04",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "prev_fetched_at": "2026-09-03T11:33:10.944Z",
+      "curr_fetched_at": "2026-09-04T11:35:45.009Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.23.0",
+          "new": "7.23.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Small fixes, big improvements—Oura just got a little better.",
+          "new": "Small fixes, big improvements— Oura just got a little better."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "curr_fetched_at": "2026-09-04T11:35:50.616Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Health Features",
+          "occurrences": 1
+        },
+        {
+          "text": "Experience",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Your Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Why Oura",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 2
+    }
+  }
+}

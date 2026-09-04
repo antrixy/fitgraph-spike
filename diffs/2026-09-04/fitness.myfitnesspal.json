@@ -1,0 +1,20 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-09-04",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "prev_fetched_at": "2026-09-03T11:26:53.248Z",
+      "curr_fetched_at": "2026-09-04T11:29:39.709Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "✅Fixed: Day 1 streak celebrations were popping up before actually earning a streak.<br>➡️Now every streak celebration is tied to a real milestone you achieve.<br><br>✅Fixed: For some, the Settings screen was crashing.<br>➡️Now you can update your preferences without a hitch.<br><br>🐛Bugs: great for the environment, bad for your logging experience.<br>*For all the latest fixes, update to the latest app version",
+          "new": "✅Today has arrived around the world! Diary, calories, macros, and habits now live on the home tab. You can also copy full meals, track your progress with insights, and much more.<br><br>✅The Weight Logging Celebration screen appeared as a blank white sheet in Dark Mode.<br>➡️Now your streak gets the visibility it deserves.<br><br>🐛 Bug fixes and improvements to make the app run smoother than a protein shake.<br><br>*For all the latest fixes, update to the latest app version"
+        }
+      ]
+    }
+  }
+}

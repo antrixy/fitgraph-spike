@@ -1,9 +1,12 @@
 {
-  "fetched_at": "2026-09-03T11:28:28.373Z",
+  "fetched_at": "2026-09-04T11:31:12.494Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=981637806&country=us",
   "result": {
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -138,6 +141,14 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ae/9f/3eae9f64-68e6-df6b-a575-2ee4e354a424/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ae/9f/3eae9f64-68e6-df6b-a575-2ee4e354a424/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8b/b2/9e8bb25f-0217-3d62-a92c-ecaa305777e9/d7571d81-1002-4a31-a775-7129f5a10ea9_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/25/c4/6225c49d-e2d1-940f-a73e-c4056c8edf73/77bba1b6-e14a-46d0-9be8-029ab26884e0_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/65/d7/9565d70a-0d7a-3856-8c39-53b5505f6418/14de0440-6898-41fd-8443-c46dcef29a48_iPhone_8_Plus_-_3.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ec/80/8f/ec808f25-e2bb-2f68-5188-48b1c4081bf8/3e11ad91-a412-45dc-8484-05a112f76a78_iPhone_8_Plus_-_4.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c6/4a/32/c64a3216-966c-cd26-ac97-d7f39aac1f20/9dc91e7b-8a56-43e4-90fe-c4428ddae3b5_iPhone_8_Plus_-_5.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/cb/bd/b9cbbdf3-f09d-3295-09ad-2bb4bb778dff/fb932870-807e-4cf3-95da-ec1a66a8863b_iPhone_8_Plus_-_6.jpg/392x696bb.jpg"
+    ],
     "ipadScreenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bb/4c/43/bb4c437e-4185-cd52-e889-61cdf1d65576/337bf481-79e7-4f1b-9592-4a4cfe78509d_iPad_Pro_12.9_-_1__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/13/d2/bf13d248-a89a-6525-fd08-8f0c302148fb/64ebf68a-17c2-4303-82d5-eed78db6ef03_iPad_Pro_12.9_-_2__U00282nd_Gen_U0029.jpg/576x768bb.jpg",
@@ -148,39 +159,28 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ae/9f/3eae9f64-68e6-df6b-a575-2ee4e354a424/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9e/8b/b2/9e8bb25f-0217-3d62-a92c-ecaa305777e9/d7571d81-1002-4a31-a775-7129f5a10ea9_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/62/25/c4/6225c49d-e2d1-940f-a73e-c4056c8edf73/77bba1b6-e14a-46d0-9be8-029ab26884e0_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/65/d7/9565d70a-0d7a-3856-8c39-53b5505f6418/14de0440-6898-41fd-8443-c46dcef29a48_iPhone_8_Plus_-_3.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ec/80/8f/ec808f25-e2bb-2f68-5188-48b1c4081bf8/3e11ad91-a412-45dc-8484-05a112f76a78_iPhone_8_Plus_-_4.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c6/4a/32/c64a3216-966c-cd26-ac97-d7f39aac1f20/9dc91e7b-8a56-43e4-90fe-c4428ddae3b5_iPhone_8_Plus_-_5.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b9/cb/bd/b9cbbdf3-f09d-3295-09ad-2bb4bb778dff/fb932870-807e-4cf3-95da-ec1a66a8863b_iPhone_8_Plus_-_6.jpg/392x696bb.jpg"
-    ],
+    "bundleId": "EatThisMuch.com.ETM-iOS-App",
     "minimumOsVersion": "15.5",
-    "releaseNotes": "This latest release makes it even easier to keep track of what you’ve eaten. Check out your daily nutrition progress, build a meal-tracking streak, and review your consistency with the new monthly tracking calendar.",
+    "price": 0,
     "genres": [
       "Health & Fitness",
       "Food & Drink"
     ],
     "artistId": 981637805,
     "artistName": "Eat This Much Inc.",
-    "price": 0,
-    "bundleId": "EatThisMuch.com.ETM-iOS-App",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "releaseDate": "2015-06-15T22:01:30Z",
+    "trackId": 981637806,
+    "trackName": "Eat This Much - Meal Planner",
     "genreIds": [
       "6013",
       "6023"
     ],
-    "releaseDate": "2015-06-15T22:01:30Z",
-    "trackId": 981637806,
-    "trackName": "Eat This Much - Meal Planner",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "sellerName": "Eat This Much Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-08-27T00:35:10Z",
+    "releaseNotes": "This latest release makes it even easier to keep track of what you’ve eaten. Check out your daily nutrition progress, build a meal-tracking streak, and review your consistency with the new monthly tracking calendar.",
     "version": "2.0.165",
     "wrapperType": "software",
     "currency": "USD",
@@ -188,16 +188,16 @@
     "trackCensoredName": "Eat This Much - Meal Planner",
     "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.71591,
+    "averageUserRating": 4.71598,
+    "averageUserRatingForCurrentVersion": 4.71598,
     "sellerUrl": "http://www.eatthismuch.com",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "92465152",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 22078,
+    "userRatingCountForCurrentVersion": 22083,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.71591,
-    "userRatingCount": 22078
+    "userRatingCount": 22083
   }
 }

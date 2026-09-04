@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:28:30.789Z",
+  "fetched_at": "2026-09-04T11:31:16.831Z",
   "source": "google_play_scraper",
   "appId": "com.eatthismuch",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Automatic meal planner with personalized diets, grocery lists, calories &amp; macros",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2621272,
+    "maxInstalls": 2621277,
     "score": 4.6494846,
     "scoreText": "4.6",
     "ratings": 10463,
@@ -75,8 +75,8 @@
     "adSupported": false,
     "released": "Apr 6, 2016",
     "updated": 1788320197000,
-    "version": "2.0.165",
-    "recentChanges": "This latest release makes it even easier to keep track of what you’ve eaten. Check out your daily nutrition progress, build a meal-tracking streak, and review your consistency with the new monthly tracking calendar.",
+    "version": "2.0.167",
+    "recentChanges": "This latest release adds considerably more options for grocery delivery in the US and Canada.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

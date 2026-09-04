@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:32:52.101Z",
+  "fetched_at": "2026-09-04T11:35:26.757Z",
   "source": "google_play_scraper",
   "appId": "com.fitbit.FitbitMobile",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 290461696,
-    "score": 3.615026,
+    "score": 3.6127183,
     "scoreText": "3.6",
-    "ratings": 1305473,
-    "reviews": 253126,
+    "ratings": 1305619,
+    "reviews": 253154,
     "histogram": {
-      "1": 318537,
-      "2": 82729,
-      "3": 73880,
-      "4": 137934,
-      "5": 692385
+      "1": 319246,
+      "2": 82870,
+      "3": 73963,
+      "4": 137731,
+      "5": 691804
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Mar 16, 2012",
-    "updated": 1788380890000,
+    "updated": 1788484741000,
     "version": "VARY",
     "recentChanges": "Stability improvements and bug fixes for manual exercise logging, exercise maps and weight graphs",
     "comments": [],

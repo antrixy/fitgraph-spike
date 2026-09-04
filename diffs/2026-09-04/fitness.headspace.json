@@ -1,0 +1,19 @@
+{
+  "product": "fitness.headspace",
+  "name": "Headspace",
+  "date": "2026-09-04",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6fe47cf0979cc151f44d4676ad4d662929ed3be4",
+      "prev_fetched_at": "2026-09-03T11:35:06.372Z",
+      "curr_fetched_at": "2026-09-04T11:37:41.153Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.30.0",
+          "new": "8.30.1"
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:35:20.670Z",
+  "fetched_at": "2026-09-04T11:37:55.816Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Get support for whatever life brings. Meditate and improve your mental health.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3665101,
-    "score": 4.648477,
+    "maxInstalls": 3665117,
+    "score": 4.6484075,
     "scoreText": "4.6",
-    "ratings": 48480,
-    "reviews": 3312,
+    "ratings": 48485,
+    "reviews": 3313,
     "histogram": {
-      "1": 2490,
+      "1": 2499,
       "2": 676,
       "3": 614,
-      "4": 3812,
-      "5": 40878
+      "4": 3766,
+      "5": 40918
     },
     "price": 0,
     "free": true,
@@ -81,8 +81,8 @@
     "adSupported": false,
     "released": "May 3, 2021",
     "updated": 1788192030000,
-    "version": "1.209.0",
-    "recentChanges": "New single:<br>- Warm Rain: Take a moment to rest as you immerse yourself in a visualized rainy setting.",
+    "version": "1.210.0",
+    "recentChanges": "We’ve fixed various bugs throughout the app.<br><br>For more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
