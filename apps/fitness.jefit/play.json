@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:31:53.616Z",
+  "fetched_at": "2026-09-05T10:48:08.043Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9885365,
-    "score": 4.4314117,
+    "score": 4.430943,
     "scoreText": "4.4",
-    "ratings": 89766,
-    "reviews": 11716,
+    "ratings": 89751,
+    "reviews": 11714,
     "histogram": {
-      "1": 6840,
-      "2": 2438,
-      "3": 3805,
-      "4": 8744,
-      "5": 67934
+      "1": 6853,
+      "2": 2441,
+      "3": 3813,
+      "4": 8700,
+      "5": 67937
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "adSupported": false,
     "released": "Sep 15, 2010",
     "updated": 1788305883000,
-    "version": "VARY",
-    "recentChanges": "The app now draws edge-to-edge across workout, exercise, progress, and onboarding screens for a more immersive feel. The AI progression star shows a clear outline when no weight change is queued, and fills in when one is ready. Warm-up sets are left untouched by the phase planner, and your onboarding goal weight now saves and syncs to your profile. Plus a handful of bug fixes along the way.",
+    "version": "17.4.2",
+    "recentChanges": "Logging in just got a speed boost — your exercise library now syncs over 2 seconds faster at every session. DIY mesocycle workouts prescribe weights more accurately, and newly added sets now get a proper prescription right away. Wear OS last-log readouts are also more reliable. Plus a handful of bug fixes and improvements along the way.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

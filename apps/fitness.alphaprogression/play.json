@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:32:59.971Z",
+  "fetched_at": "2026-09-05T10:49:09.671Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1998678,
-    "score": 4.83455,
+    "score": 4.8349514,
     "scoreText": "4.8",
-    "ratings": 20928,
+    "ratings": 20935,
     "reviews": 1631,
     "histogram": {
       "1": 352,
       "2": 250,
       "3": 250,
       "4": 760,
-      "5": 19294
+      "5": 19306
     },
     "price": 0,
     "free": true,

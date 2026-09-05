@@ -1,0 +1,28 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-09-05",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "cf13fde208f6ee6bd7a7a6a4b12bd7e07de7340c",
+      "prev_fetched_at": "2026-09-04T11:36:42.463Z",
+      "curr_fetched_at": "2026-09-05T10:53:00.687Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "cf13fde208f6ee6bd7a7a6a4b12bd7e07de7340c",
+      "curr_fetched_at": "2026-09-05T10:53:03.060Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "(3)",
+          "occurrences": 3
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 0
+    }
+  }
+}

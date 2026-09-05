@@ -1,0 +1,19 @@
+# JEFIT (fitness.jefit) — 2026-09-05
+
+fetched_at: {"itunes":"2026-09-05T10:48:03.653Z","play":"2026-09-05T10:48:08.043Z","pricing":"2026-09-05T10:48:10.592Z"}
+
+## itunes
+- **version**
+  - old: `"17.1.3"`
+  - new: `"17.2.0"`
+- **releaseNotes**
+  - old: `"Your exercise progress charts now open right where your data lives — no more staring at an empty graph just because you haven't trained that lift in a few weeks. Elite Adaptive Plan members will also see smart edit suggestions across more screens, making it easier to fine-tune your program on the fly. Plus a handful of reliability improvements and bug fixes."`
+  - new: `"JEFIT now feels right at home on iOS 26 — enjoy the sleek Liquid Glass design across navigation, sheets, and menus throughout the app. Planning your program just got smoother too: Copy Day and Add a Day are now single streamlined sheets that drop you right where you need to be. Training prescriptions are also more accurate for metric users, and we've squashed a handful of bugs along the way."`
+
+## play
+- **recentChanges**
+  - old: `"The app now draws edge-to-edge across workout, exercise, progress, and onboarding screens for a more immersive feel. The AI progression star shows a clear outline when no weight change is queued, and fills in when one is ready. Warm-up sets are left untouched by the phase planner, and your onboarding goal weight now saves and syncs to your profile. Plus a handful of bug fixes along the way."`
+  - new: `"Logging in just got a speed boost — your exercise library now syncs over 2 seconds faster at every session. DIY mesocycle workouts prescribe weights more accurately, and newly added sets now get a proper prescription right away. Wear OS last-log readouts are also more reliable. Plus a handful of bug fixes and improvements along the way."`
+- **version** _(compared against last real version (b29374bc); intervening snapshots reported a sentinel)_
+  - old: `"17.4.1"`
+  - new: `"17.4.2"`

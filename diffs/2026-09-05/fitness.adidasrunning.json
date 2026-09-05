@@ -1,0 +1,13 @@
+{
+  "product": "fitness.adidasrunning",
+  "name": "adidas Running",
+  "date": "2026-09-05",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "cf13fde208f6ee6bd7a7a6a4b12bd7e07de7340c",
+      "prev_fetched_at": "2026-09-04T11:34:04.194Z",
+      "curr_fetched_at": "2026-09-05T10:50:25.537Z",
+      "version_unreported": true
+    }
+  }
+}

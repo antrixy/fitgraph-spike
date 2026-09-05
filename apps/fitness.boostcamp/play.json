@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:32:47.548Z",
+  "fetched_at": "2026-09-05T10:48:59.506Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 623955,
-    "score": 4.7078085,
+    "score": 4.708543,
     "scoreText": "4.7",
-    "ratings": 12967,
+    "ratings": 12970,
     "reviews": 565,
     "histogram": {
       "1": 388,
       "2": 62,
       "3": 290,
-      "4": 1434,
-      "5": 10777
+      "4": 1431,
+      "5": 10783
     },
     "price": 0,
     "free": true,
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Nov 3, 2020",
-    "updated": 1786595218000,
+    "updated": 1788528355000,
     "version": "264",
     "recentChanges": "In this version, we&#39;re introducing some new features:<br>- Redesigned Program Creator: build and edit your entire program from one screen, set it up faster.<br>- Health Connect: Boostcamp now saves your completed workouts and keeps your bodyweight in sync.<br>Plus bug fixes and general improvements to the app for better user experience.",
     "comments": [],
