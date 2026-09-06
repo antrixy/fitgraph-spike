@@ -1,0 +1,73 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "2fef2014fcabe679cfb0bef2790c9f99dda70967",
+      "prev_fetched_at": "2026-09-05T10:46:30.549Z",
+      "curr_fetched_at": "2026-09-06T11:07:53.343Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "10.33",
+          "new": "10.34"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "2fef2014fcabe679cfb0bef2790c9f99dda70967",
+      "prev_fetched_at": "2026-09-05T10:46:32.896Z",
+      "curr_fetched_at": "2026-09-06T11:07:58.184Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "2fef2014fcabe679cfb0bef2790c9f99dda70967",
+      "curr_fetched_at": "2026-09-06T11:08:02.740Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Calorie cycling for weight loss: Finally, a flexible way to stick to your plan and rock your goals",
+          "occurrences": 1
+        },
+        {
+          "text": "How much water should you drink per day?",
+          "occurrences": 1
+        },
+        {
+          "text": "It depends",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Does calorie counting work to lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Science says, \"Yes\"",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "MyNetDiary: The most accurate, user-friendly macronutrient tracker available",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "MyNetDiary how-to videos can help you become a tracking pro in no time!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 3
+    }
+  }
+}

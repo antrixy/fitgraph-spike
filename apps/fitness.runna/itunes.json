@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:50:00.947Z",
+  "fetched_at": "2026-09-06T11:11:11.185Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1594204443&country=us",
   "result": {
@@ -142,18 +142,6 @@
     ],
     "advisories": [],
     "kind": "software",
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/57/ce/a057ce55-426d-87e2-2e67-b0bb3564081c/5301fc48-7613-4e6f-82e9-d7d2a6bfd2d5_1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/6d/de/be6ddea4-15fc-978f-b068-4334b30a9b4b/237f10ab-4c0b-4797-a60a-e0d73e5ad442_2.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e9/5c/91e95cef-8ddc-4987-72c5-6a50c8486be9/434981b3-2c89-45a5-ad73-b38588007a2b_3.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/f5/43/8bf5431e-9eff-6bc4-50e9-24b8a8ffee78/5f27fa63-7edf-4881-bd1e-dca0d057a145_4.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3b/41/e43b4185-f4da-9945-d2ea-8e0bd8451d90/c165a643-36e2-4baf-be3a-91d3ad3c9807_5.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/85/0f/32850f94-e7a1-3a53-c2ba-38cdfa39094f/00527f07-4071-45ff-b54a-1663093cead1_6.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/e5/06/b1e506d4-22c8-ec38-b14b-7f7e9f8827ee/334cadd5-36c2-4a32-a9ed-cd8da74b721b_7.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f6/99/dff699bd-70c1-56aa-8182-f9d67d7313ca/df00dfc6-5ce1-41e0-8126-c4c4219c2b4f_9.png/576x768bb.png"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/44/be/0244be7e-d72c-ed64-28e3-af0f1b06ced7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/31/8e/1d318e50-7387-f4f3-c9de-3f57ac7a3537/7ab714fd-4560-498b-820d-d9987f364025_1.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/95/95/65959523-0cda-8d36-d5e9-53e07655a57f/3d99739b-9437-49f8-858b-5c4702e4b8ef_2.jpg/392x696bb.jpg",
@@ -166,35 +154,48 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/cc/8ff0cca1-1da9-cee9-217d-6ccd313430b2/3c843ebc-903c-4759-9e15-7d5869719069_9.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/16/a1/3116a138-d9f9-6955-ad1b-6bdb2894fca0/53e0720f-9b9b-4aec-8018-f724bb40e11e_10.jpg/392x696bb.jpg"
     ],
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/57/ce/a057ce55-426d-87e2-2e67-b0bb3564081c/5301fc48-7613-4e6f-82e9-d7d2a6bfd2d5_1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/6d/de/be6ddea4-15fc-978f-b068-4334b30a9b4b/237f10ab-4c0b-4797-a60a-e0d73e5ad442_2.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e9/5c/91e95cef-8ddc-4987-72c5-6a50c8486be9/434981b3-2c89-45a5-ad73-b38588007a2b_3.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/f5/43/8bf5431e-9eff-6bc4-50e9-24b8a8ffee78/5f27fa63-7edf-4881-bd1e-dca0d057a145_4.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3b/41/e43b4185-f4da-9945-d2ea-8e0bd8451d90/c165a643-36e2-4baf-be3a-91d3ad3c9807_5.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/85/0f/32850f94-e7a1-3a53-c2ba-38cdfa39094f/00527f07-4071-45ff-b54a-1663093cead1_6.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/e5/06/b1e506d4-22c8-ec38-b14b-7f7e9f8827ee/334cadd5-36c2-4a32-a9ed-cd8da74b721b_7.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f6/99/dff699bd-70c1-56aa-8182-f9d67d7313ca/df00dfc6-5ce1-41e0-8126-c4c4219c2b4f_9.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/44/be/0244be7e-d72c-ed64-28e3-af0f1b06ced7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "contentAdvisoryRating": "17+",
+    "averageUserRating": 4.8512,
     "trackCensoredName": "Runna: Running Plans & Coach",
     "trackViewUrl": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443?uo=4",
-    "contentAdvisoryRating": "17+",
-    "averageUserRating": 4.85113,
-    "minimumOsVersion": "16.0",
+    "price": 0,
+    "artistId": 426826312,
+    "artistName": "Strava, Inc.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "price": 0,
+    "trackId": 1594204443,
+    "trackName": "Runna: Running Plans & Coach",
+    "sellerName": "Strava Inc.",
     "bundleId": "com.runbuddy.prod",
+    "currentVersionReleaseDate": "2026-09-02T13:32:24Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6004"
     ],
-    "trackId": 1594204443,
-    "trackName": "Runna: Running Plans & Coach",
     "releaseDate": "2021-12-11T08:00:00Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "sellerName": "Strava Inc.",
-    "currentVersionReleaseDate": "2026-09-02T13:32:24Z",
     "releaseNotes": "Under-the-Hood Enhancements: We’ve made some tweaks behind the scenes for an even better app experience!",
     "version": "8.53.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Reach your pinnacle as a runner with Runna: Running Training Plans, your quintessential guide to the world of running. With tailored training plans built by world-class coaches to help you achieve your goals. \n\nEmbark on an unparalleled running journey with Runna. More than just a pocket-sized running coach, Runna is your comprehensive running companion. From beginners embarking on their first park run to seasoned athletes gearing up for challenging marathons, our app is crafted to cater to all. Our offering includes training for 5k, 10k, half-marathons, marathons, and ultra marathons. This is probably why we boast a stellar 4.9/5 rating on Trustpilot.\n\nWHY YOU'LL BE THRILLED WITH RUNNA:\n\n1) Customized Training Just For You:\nOur esteemed training programs are rooted in solid scientific programming. Whether you’re setting out to complete your 5k or preparing for the famed Chicago marathon, we have a program tailored to ensure you race past the finish line.\n\n2) Seamless Syncing of Your Runs:\nLive-track your runs on compatible devices* and maintain the perfect pace. Moreover, seamlessly integrate your runs with platforms like Strava.\n\n3) All-encompassing Support:\nWe adopt a holistic stance to running. From optimizing your running form to advice on nutrition and injury management, our support is unparalleled. After all, every runner is distinct and deserves specialized attention.\n\n4) Strength Amplification:\nAlongside run training, we offer curated strength and conditioning routines that meld perfectly with your running program. Because when it comes to racing, stamina and strength form the perfect duo.\n\nWELCOME TO THE RUNNA CLUB:\n\n1) Dive into Our Vibrant Community:\nBe part of the Runna club, an international community of runners. From beginners to pros, the encouragement here is infectious, and the friendships, invaluable.\n\n2) Access Exclusive Perks:\nMembers enjoy exclusive offers from top-tier nutrition, apparel, event, and supplement brands.\n\n3) Engaging Events and Classes Aplenty:\nRegister for in-person events, including trail runs or time-trials. And if that's not your thing, our live yoga and pilates classes await you. Mark your progress, lace up your Nikes, and feel the thrill of the run!\n\n4) Always Here for You:\nOur amicable team of coaches and support staff is ever-ready. Any query, any time, we're right beside you in this exhilarating journey.\n\nEXPLORE OUR VAST ARRAY OF PLANS:\n\nFrom Couch to 5k plans for novices or those returning post hiatus, to intricate marathon and ultra marathon programs, our range is vast. We also offer:\n\n- Functional fitness routines for holistic strength.\n- Recovery blueprints post-race or post-injury.\n- Tailored plans for triathlon running across varying distances.\n- And myriad other programs to keep your stamina top-notch.\n\nCOMPATIBLE DEVICES:\n\nRunna is compatible with a wide range of devices including Apple Watch, Garmin, and COROS. This ensures you can track your runs, regardless of your preferred device.\n\nRUNNA PREMIUM:\n\nFor the ultimate running experience, subscribe to Runna Premium for monthly or annual plans. Track your progress, monitor your pace, and burn those calories with personalised workout plans and support. \n\nPayments and renewal:\n- Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period.\n- You can manage or turn off auto-renew in your Account settings at any time after purchase\n- No cancellation of the current subscription is allowed during the active period.\n\nAPPLE HEALTH USAGE:\n\nRunna uses your health data to provide accurate heart rate, distance and pace information during your runs and workouts on Apple Watch. \n\nTerms of use: https://www.runna.com/terms-and-conditions\nPrivacy policy: https://www.runna.com/privacy-policy",
-    "averageUserRatingForCurrentVersion": 4.85113,
+    "averageUserRatingForCurrentVersion": 4.8512,
     "sellerUrl": "https://www.runna.com/",
     "languageCodesISO2A": [
       "NL",
@@ -208,10 +209,9 @@
     ],
     "fileSizeBytes": "227450880",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 33654,
+    "userRatingCountForCurrentVersion": 33690,
     "trackContentRating": "17+",
-    "artistId": 426826312,
-    "artistName": "Strava, Inc.",
-    "userRatingCount": 33654
+    "minimumOsVersion": "16.0",
+    "userRatingCount": 33690
   }
 }

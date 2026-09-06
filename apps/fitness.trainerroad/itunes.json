@@ -1,20 +1,9 @@
 {
-  "fetched_at": "2026-09-05T10:50:51.936Z",
+  "fetched_at": "2026-09-06T11:12:09.438Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=934224107&country=us",
   "result": {
     "isGameCenterEnabled": false,
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/6f/72/3a6f7266-c9bf-95e0-90e6-68a0ab9b6678/90e48881-15ce-4564-8a21-22ac2b997f17_iPhone-5.5-Intro.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/9b/b4/889bb460-7567-77da-aa21-f08a99d0f293/0b81513a-c89f-4769-80a3-46dbdba0c0c1_iPhone-5.5-Plan-Builder.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ed/5b/e8/ed5be82b-11d1-0a64-f3e0-bfe4dd699c13/7431479b-d9d8-49d8-a985-11b3c9df3ea5_iPhone-5.5-AT.png/392x696bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/83/a1/ad83a1f8-cbb5-9244-e74b-e3c77d0623b2/5696dd4c-52fc-42ed-adbf-54e6d1e6bea1_iPhone-5.5-Calendar.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/3c/f3/ae3cf397-4039-cdb2-0579-04813859b8e2/cf83db07-bd1a-410a-8ab4-f6e6c313e830_iPhone-5.5-Ride-View.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/cd/b6/2fcdb665-4259-a814-cbdd-1a18a382a6df/3ec66167-fcef-488a-b9df-a6f0d01ec514_iPhone-5.5-Reviews.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/fd/4f/13fd4fde-4796-1da5-349e-199523c2ad39/4f74ce74-0bc8-45f3-b4c7-23e59d3d3a2b_iPhone-5.5-Analyze.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/13/95/0a139584-1cab-04d5-5874-e4ba38d3fc39/910455c9-98dc-403a-90da-93055899c582_iPhone-5.5-Devices.jpg/392x696bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/00/01/d60001ed-ee88-6552-d93d-1eb1b306d48e/966375a3-5eb7-4ec8-a6bd-0f79c0ba82ab_iPhone-5.5-PowerMatch.jpg/392x696bb.jpg"
-    ],
     "ipadScreenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/18/b1/9a18b17a-644f-b305-20d9-68c6f9d3919e/a47a12b2-8f3b-4e37-a502-5808247b1172_iPad-Intro.jpg/576x768bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/79/c2/3b79c2a2-9912-c2e8-615b-96cc8ab0fc58/0b0c1ae2-a396-4053-a0fc-dd1e4999e94b_iPad-Plan-Builder.jpg/576x768bb.jpg",
@@ -28,6 +17,17 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/33/2f/27332fa1-0962-96cd-147f-3be9f1d48d65/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/6f/72/3a6f7266-c9bf-95e0-90e6-68a0ab9b6678/90e48881-15ce-4564-8a21-22ac2b997f17_iPhone-5.5-Intro.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/9b/b4/889bb460-7567-77da-aa21-f08a99d0f293/0b81513a-c89f-4769-80a3-46dbdba0c0c1_iPhone-5.5-Plan-Builder.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ed/5b/e8/ed5be82b-11d1-0a64-f3e0-bfe4dd699c13/7431479b-d9d8-49d8-a985-11b3c9df3ea5_iPhone-5.5-AT.png/392x696bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/83/a1/ad83a1f8-cbb5-9244-e74b-e3c77d0623b2/5696dd4c-52fc-42ed-adbf-54e6d1e6bea1_iPhone-5.5-Calendar.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/3c/f3/ae3cf397-4039-cdb2-0579-04813859b8e2/cf83db07-bd1a-410a-8ab4-f6e6c313e830_iPhone-5.5-Ride-View.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/cd/b6/2fcdb665-4259-a814-cbdd-1a18a382a6df/3ec66167-fcef-488a-b9df-a6f0d01ec514_iPhone-5.5-Reviews.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/fd/4f/13fd4fde-4796-1da5-349e-199523c2ad39/4f74ce74-0bc8-45f3-b4c7-23e59d3d3a2b_iPhone-5.5-Analyze.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/13/95/0a139584-1cab-04d5-5874-e4ba38d3fc39/910455c9-98dc-403a-90da-93055899c582_iPhone-5.5-Devices.jpg/392x696bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/00/01/d60001ed-ee88-6552-d93d-1eb1b306d48e/966375a3-5eb7-4ec8-a6bd-0f79c0ba82ab_iPhone-5.5-PowerMatch.jpg/392x696bb.jpg"
+    ],
     "features": [
       "iosUniversal"
     ],
@@ -165,36 +165,27 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/trainer-road-llc/id934224106?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/33/2f/27332fa1-0962-96cd-147f-3be9f1d48d65/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/33/2f/27332fa1-0962-96cd-147f-3be9f1d48d65/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
-    "minimumOsVersion": "16.0",
-    "averageUserRatingForCurrentVersion": 4.8856,
+    "averageUserRatingForCurrentVersion": 4.88547,
+    "releaseNotes": "• Various under-the-hood improvements.",
     "sellerUrl": "https://www.trainerroad.com",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "99722240",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21434,
+    "userRatingCountForCurrentVersion": 21435,
     "trackContentRating": "4+",
     "artistId": 934224106,
     "artistName": "Trainer Road, LLC",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "price": 0,
-    "sellerName": "Trainer Road, LLC",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "bundleId": "com.trainerroad.ios",
     "genreIds": [
       "6013",
       "6004"
     ],
-    "trackName": "TrainerRoad",
-    "trackId": 934224107,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-08-31T14:13:17Z",
     "releaseDate": "2014-11-17T10:35:55Z",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseNotes": "• Various under-the-hood improvements.",
+    "currentVersionReleaseDate": "2026-08-31T14:13:17Z",
     "version": "2026.34.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -202,8 +193,17 @@
     "trackCensoredName": "TrainerRoad",
     "trackViewUrl": "https://apps.apple.com/us/app/trainerroad/id934224107?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.8856,
-    "bundleId": "com.trainerroad.ios",
-    "userRatingCount": 21434
+    "averageUserRating": 4.88547,
+    "minimumOsVersion": "16.0",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "sellerName": "Trainer Road, LLC",
+    "trackId": 934224107,
+    "trackName": "TrainerRoad",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "price": 0,
+    "userRatingCount": 21435
   }
 }

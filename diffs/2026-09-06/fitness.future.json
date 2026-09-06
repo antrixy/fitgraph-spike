@@ -1,0 +1,19 @@
+{
+  "product": "fitness.future",
+  "name": "Future",
+  "date": "2026-09-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "2fef2014fcabe679cfb0bef2790c9f99dda70967",
+      "prev_fetched_at": "2026-09-05T10:53:18.496Z",
+      "curr_fetched_at": "2026-09-06T11:14:29.159Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.14",
+          "new": "2026.15"
+        }
+      ]
+    }
+  }
+}

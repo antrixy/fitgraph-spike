@@ -1,0 +1,24 @@
+{
+  "product": "fitness.eatthismuch",
+  "name": "Eat This Much",
+  "date": "2026-09-06",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "2fef2014fcabe679cfb0bef2790c9f99dda70967",
+      "prev_fetched_at": "2026-09-05T10:47:22.226Z",
+      "curr_fetched_at": "2026-09-06T11:08:46.806Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2.0.165",
+          "new": "2.0.167"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "This latest release makes it even easier to keep track of what you’ve eaten. Check out your daily nutrition progress, build a meal-tracking streak, and review your consistency with the new monthly tracking calendar.",
+          "new": "This latest release adds considerably more options for grocery delivery in the US and Canada."
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:52:17.740Z",
+  "fetched_at": "2026-09-06T11:13:35.895Z",
   "source": "google_play_scraper",
   "appId": "fi.polar.polarflow",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 8242581,
-    "score": 2.8267543,
+    "score": 2.8271334,
     "scoreText": "2.8",
-    "ratings": 181189,
+    "ratings": 181198,
     "reviews": 3289,
     "histogram": {
-      "1": 67942,
-      "2": 23434,
-      "3": 15869,
-      "4": 19850,
-      "5": 54035
+      "1": 67792,
+      "2": 23374,
+      "3": 16237,
+      "4": 19820,
+      "5": 53915
     },
     "price": 0,
     "free": true,
