@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T11:13:44.789Z",
+  "fetched_at": "2026-09-07T12:54:14.271Z",
   "source": "google_play_scraper",
   "appId": "com.sec.android.app.shealth",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000,000+",
     "minInstalls": 1000000000,
     "maxInstalls": 2273097370,
-    "score": 3.156211,
+    "score": 3.1558578,
     "scoreText": "3.2",
-    "ratings": 1578598,
-    "reviews": 79249,
+    "ratings": 1578700,
+    "reviews": 79255,
     "histogram": {
-      "1": 462385,
-      "2": 179498,
-      "3": 181362,
-      "4": 159795,
-      "5": 595530
+      "1": 462643,
+      "2": 179351,
+      "3": 181318,
+      "4": 160054,
+      "5": 595314
     },
     "price": 0,
     "free": true,
@@ -61,7 +61,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Apr 7, 2015",
-    "updated": 1788497064000,
+    "updated": 1788777621000,
     "version": "VARY",
     "recentChanges": "• Track vitals to catch changes<br>Monitor your sleep vitals to understand your health and get notified of meaningful changes.<br>• Track daily cardio load<br>See how your workouts and daily movement impact your heart — know when to push and when to rest. Your target load adjusts based on your recent activity.<br>• Your hub for heart health<br>Track metrics and lifestyle factors that affect your heart. Get a daily score from sleep, exercise, BMI, and vascular load to understand your heart health.",
     "comments": [],

@@ -1,0 +1,177 @@
+{
+  "product": "fitness.boostcamp",
+  "name": "Boostcamp",
+  "date": "2026-09-07",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "4d0a5e3240fe6d5fb77d0caa7be00e157296cd9d",
+      "prev_fetched_at": "2026-09-06T11:10:15.273Z",
+      "curr_fetched_at": "2026-09-07T12:50:51.373Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "264",
+          "new": "265"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "In this version, we're introducing some new features:\n- Redesigned Program Creator: build and edit your entire program from one screen, set it up faster.\n- Apple Health: keep your bodyweight in sync, in addition to your workouts.\nPlus bug fixes and general improvements to the app for better user experience.",
+          "new": "In this version, we're introducing some new features:\n- Improvements across the app: on the workout page, your current set stays highlighted, finished exercises collapse as you go, and the rest timer is rebuilt. In History, view your training by month. And smaller fixes throughout.\n- Photos in Community: add a photo and caption to your workout posts, and share more than just the numbers.\nPlus bug fixes and general improvements to the app for better user experience."
+        },
+        {
+          "field": "description",
+          "old": "Trusted by over 1,000,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is the only app with the world's most popular strength training & muscle building programs built right in — nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, and 100+ more. Pick a proven program, show up, and follow it. No spreadsheets, no guessing.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures in fitness.\" – Alex Bromley, Professional Strongman\n\n\"Boostcamp puts all of Reddit's best free workouts in one slick app...give Boostcamp a try.\" – Lifehacker\n\nWHAT YOU GET\n\n• 130+ Expert Programs – Not random workouts. Full structured programs with built-in progressions, periodization, and deload weeks. Created by real coaches who compete and coach athletes.\n\n• 10,000+ Community Programs – Routines built and shared by lifters. PPL splits, bro splits, full body, upper/lower — if someone's running it, it's probably here.\n\n• Full Workout Tracker – Log sets, reps, and weight with RPE and 1RM tracking. Auto-progressions fill in your weights. Performance charts. Works offline.\n\n• Custom Program Builder – Build your own with multi-week periodization, exercise swaps, and custom progressions.\n\n• Muscle Volume Tracking – See which muscle groups you're hitting and which ones you're neglecting.\n\nPOPULAR PROGRAMS\n\n• Strength & Powerlifting: nSuns 5/3/1, GZCLP, Candito 6 Week Strength, 5/3/1 Boring But Big, 5/3/1 for Beginners, 5/3/1 Building the Monolith, TSA 9 Week Intermediate, TSA Beginner Approach, 70s Powerlifter, Bullmastiff, Phrak's Greyskull LP\n\n•Hypertrophy & Bodybuilding: PHUL, PHAT, Reddit PPL, KONG: 12 Week Hypertrophy, MASS IMPACT, RAVAGE, RAMPAGE, Jacked and Tan 2.0, Strong Curves, Alberto Nuñez Upper Lower, Intermediate Bodybuilding by Eric Helms, Silver Era Aesthetics, Golden Warrior, Fullbodymaxxing\n\n• Bodyweight & Home: Reddit's Bodyweight Fitness Recommended Routine, Dumbbell PPL, Frankoman's Dumbbell Only Split, M&S 5 Day Dumbbell, Functional Strength 101, Rock The Bells\n\n• Powerbuilding & Specialty: PPLUL, Full Body Powerbuilding Split, Beast Slayer, Rip and Tear, Guts Training Program, Greg Nuckols Beginner, r/Fitness Basic Beginner Routine, and hundreds more.\n\nCOACHES\n\n• Dr. Eric Helms (PhD, WNBF Pro Bodybuilder) \n• Alex Bromley (Professional Strongman, 5th at 105kg WSM) \n• Cody Lefever (GZCL creator, Marine) \n• Geoffrey Verity Schofield (YouTuber with 150K+ subscribers)\n• Alberto Nuñez (WNBF Mr. Universe) \n• Bryce Lewis (Champion Powerlifter, TSA) \n• Greg Nuckols (Stronger by Science)\n• Jonnie Candito (competitive powerlifter)\n• Bald Omni-Man (strength and hypertrophy coach)\n• Natural Hypertrophy (evidence-based bodybuilding)\n• Basement Bodybuilding (hypertrophy YouTuber)\n• Brandon Campbell (creator of PHUL)\n• Dr. Swole (YouTube educator)\n• Matt Vena (champion powerlifter)\n• Menno Henselmans (physique coach and researcher)\n• Justina Ercole (functional strength)\n• Tiffany Ma (women's strength and sculpting)\n• Rebecca Rouse (kettlebell and dumbbell)\n• and more.\n\nThese aren't random influencers. They're competitive athletes and researchers who designed these programs based on years of coaching real people.\n\nWHO IT'S FOR\n• Beginners who want a structured workout plans instead of wandering the gym. \n• Intermediate lifters running nSuns or GZCLP who are tired of spreadsheets. \n• Advanced lifters who want periodized programs from coaches they trust.\n• For men and women. Full gym, garage gym, or at home with dumbbells. \n• Programs from 2 to 6 days per week.\n\nABOUT BOOSTCAMP\n\nBoostcamp started as a way to get Reddit's most popular workout programs out of spreadsheets and into an app that actually works. Five years later, we've partnered with 50+ expert coaches and built the largest library of structured training programs anywhere. Free to start. No ads.\n\nQuestions? support@boostcamp.app",
+          "new": "Trusted by over 1,300,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is a free workout tracker and gym logger with 11,000+ programs and an AI coach that builds a custom plan from your goal, schedule, and equipment. Log every set. Run nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, or 130+ coach programs. No spreadsheet.\n\nGarage Gym Reviews named Boostcamp the Best Workout App Overall in 2026.\n\n\"I primarily train for strength and hypertrophy, and Boostcamp is the best app I’ve ever used. I love all the data it provides, and there are so many great programs to choose from within the workout library.\" – Matt Dustin, CSCS, PN1-NC, Garage Gym Reviews\n\nFeatured in Fortune’s 2026 trainer-approved Boostcamp review.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures in fitness.\" – Alex Bromley, Professional Strongman\n\n\"Boostcamp puts all of Reddit's best free workouts in one slick app...give Boostcamp a try.\" – Lifehacker\n\nWHAT YOU GET\n\n• Workout Tracker – Log sets, reps, and weight with RPE, RIR, and e1RM. Auto-progression sets your next weights. Rest timer, plate calculator, supersets, drop sets, warmup templates, form videos, and mid-set exercise swaps that keep your numbers. PRs flag in-session. Weekly Sunday reports and year-end Wrapped. Offline. Live Activities put your set and rest timer on the Lock Screen and Dynamic Island. Syncs bodyweight with Apple Health.\n\n• AI Coach – Short questionnaire, then a customized multi-week program you log in the same tracker. Or pick a named coach program and start today. Fork any program, or build your own with no cap.\n\n• 11,000+ Programs – 130+ coach-designed plans with progressions, periodization, and deloads, plus a huge community library. Filter by goal, level, and days per week. The library is free. No ads.\n\n• Analytics – Volume, muscle-group engagement, PRs, and training history. Pro adds Strength Score (0–100 across the big lifts) and a per-muscle volume heatmap.\n\nPOPULAR PROGRAMS\n\nnSuns 5/3/1, GZCLP, 5/3/1 BBB, 5/3/1 for Beginners, Building the Monolith, Candito 6 Week, TSA, Bullmastiff, Greyskull LP, PHUL, PHAT, Reddit PPL, KONG, MASS IMPACT, Jacked and Tan 2.0, Strong Curves, Alberto Nuñez Upper Lower, Eric Helms Intermediate Bodybuilding, Greg Nuckols Beginner, Reddit Bodyweight Fitness RR, and thousands more.\n\nCOACHES\n\nDr. Eric Helms, Alex Bromley, Cody Lefever (GZCL), Geoffrey Verity Schofield, Alberto Nuñez, Bryce Lewis, Greg Nuckols, Jonnie Candito, Bald Omni-Man, Natural Hypertrophy, Basement Bodybuilding, Brandon Campbell (PHUL), Dr. Swole, Matt Vena, Menno Henselmans, Justina Ercole, Tiffany Ma, Rebecca Rouse, and 50+ more. Competitive athletes and researchers, not random influencers.\n\nWHO IT'S FOR\n\nBeginners who want a plan and a gym logger. Intermediate lifters done with spreadsheets. Anyone who wants an AI coach plus a real tracker. Men and women. Full gym, garage gym, or dumbbells at home. 2–6 days per week.\n\nABOUT\n\nBoostcamp started by putting Reddit’s best programs into a workout tracker that works. 1.3M+ lifters now log training, follow 11,000+ programs, and build custom plans with an AI coach. Free to start. No ads.\n\nQuestions? support@boostcamp.app"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "4d0a5e3240fe6d5fb77d0caa7be00e157296cd9d",
+      "curr_fetched_at": "2026-09-07T12:50:58.439Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "43,774 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,954 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "31,712 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,467 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "25,156 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "20,243 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,774 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 25,156 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,954 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,826 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 20,243 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,608 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,467 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,443 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 31,712 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,967 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,494 joined",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "43,766 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "38,937 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "31,689 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "26,452 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "25,153 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "20,233 athletes joined",
+          "occurrences": 1
+        },
+        {
+          "text": "nSuns 5/3/1 43,766 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit PPL 25,153 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "GZCL Program (GZCLP) 38,937 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Jacked and Tan 2.0 4,821 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "KONG: Savage Size in 12 Weeks 20,233 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Bullmastiff 17,603 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 Boring But Big 26,452 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "5/3/1 for Beginners 8,441 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "PHUL Workout Program 31,689 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Recommended Routine 14,961 joined",
+          "occurrences": 1
+        },
+        {
+          "text": "Reddit&#x27;s Bodyweight Fitness Primer 7,492 joined",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 17,
+      "removed_total": 17
+    }
+  }
+}

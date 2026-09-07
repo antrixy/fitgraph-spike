@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T11:15:07.579Z",
+  "fetched_at": "2026-09-07T12:55:44.952Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=493145008&country=us",
   "result": {
@@ -27,7 +27,6 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/da/0e/64da0e97-b29f-bf25-ef1b-8b90c4ab8ee8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -158,43 +157,37 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
+    "isGameCenterEnabled": false,
     "advisories": [],
     "kind": "software",
-    "features": [
-      "iosUniversal"
-    ],
     "artistViewUrl": "https://apps.apple.com/us/developer/headspace-inc/id384434796?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/da/0e/64da0e97-b29f-bf25-ef1b-8b90c4ab8ee8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/da/0e/64da0e97-b29f-bf25-ef1b-8b90c4ab8ee8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "fileSizeBytes": "420645888",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 973848,
+    "features": [
+      "iosUniversal"
+    ],
+    "sellerUrl": "https://www.headspace.com/",
     "languageCodesISO2A": [
       "EN"
     ],
+    "fileSizeBytes": "420645888",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 973855,
     "trackContentRating": "12+",
-    "sellerUrl": "https://www.headspace.com/",
     "averageUserRatingForCurrentVersion": 4.84227,
-    "artistId": 384434796,
-    "artistName": "Headspace Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Productivity"
-    ],
     "price": 0,
-    "bundleId": "com.getsomeheadspace.headspace",
     "genreIds": [
       "6013",
       "6007"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "releaseNotes": "Thanks for using Headspace! This update includes bug fixes and performance improvements.\n\nAs always, if you run into any troubles, let us know at help@headspace.com",
     "sellerName": "Headspace Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
     "trackId": 493145008,
     "trackName": "Headspace: Sleep & Meditation",
-    "currentVersionReleaseDate": "2026-09-03T15:56:28Z",
-    "releaseNotes": "Thanks for using Headspace! This update includes bug fixes and performance improvements.\n\nAs always, if you run into any troubles, let us know at help@headspace.com",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "releaseDate": "2012-02-02T18:57:49Z",
     "version": "8.30.1",
     "wrapperType": "software",
     "currency": "USD",
@@ -204,7 +197,14 @@
     "trackCensoredName": "Headspace: Sleep & Meditation",
     "trackViewUrl": "https://apps.apple.com/us/app/headspace-sleep-meditation/id493145008?uo=4",
     "contentAdvisoryRating": "12+",
-    "releaseDate": "2012-02-02T18:57:49Z",
-    "userRatingCount": 973848
+    "bundleId": "com.getsomeheadspace.headspace",
+    "currentVersionReleaseDate": "2026-09-03T15:56:28Z",
+    "artistId": 384434796,
+    "artistName": "Headspace Inc.",
+    "genres": [
+      "Health & Fitness",
+      "Productivity"
+    ],
+    "userRatingCount": 973855
   }
 }

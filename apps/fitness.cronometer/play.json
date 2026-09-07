@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T11:07:25.526Z",
+  "fetched_at": "2026-09-07T12:47:55.913Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 6151045,
-    "score": 4.5629845,
+    "score": 4.5618124,
     "scoreText": "4.6",
-    "ratings": 57885,
-    "reviews": 8610,
+    "ratings": 57923,
+    "reviews": 8615,
     "histogram": {
-      "1": 2317,
-      "2": 1101,
-      "3": 2223,
-      "4": 8262,
-      "5": 43972
+      "1": 2323,
+      "2": 1105,
+      "3": 2228,
+      "4": 8304,
+      "5": 43956
     },
     "price": 0,
     "free": true,
@@ -86,7 +86,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Jul 13, 2016",
-    "updated": 1787700933000,
+    "updated": 1788477288000,
     "version": "VARY",
     "recentChanges": "Bug fixes and design polish to improve user experience. Thank you for using our app!",
     "comments": [],
