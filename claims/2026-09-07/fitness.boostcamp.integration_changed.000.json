@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "ome new features: - Redesigned Program Creator: build and edit your entire program from one screen, set it up faster. - Apple Health: keep your bodyweight in sync, in addition to your workouts. Plus bug fixes and general improvements to the app for bet",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
       "prev_ok_commit": "4d0a5e3240fe6d5fb77d0caa7be00e157296cd9d"
     }
   ],
