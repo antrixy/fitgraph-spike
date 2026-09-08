@@ -1,0 +1,161 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-09-08",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
+      "prev_fetched_at": "2026-09-07T12:54:46.545Z",
+      "curr_fetched_at": "2026-09-08T11:37:05.307Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
+      "curr_fetched_at": "2026-09-08T11:37:07.550Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Your plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "GET CENTR COACH",
+          "occurrences": 1
+        },
+        {
+          "text": "Fall race season is coming",
+          "occurrences": 1
+        },
+        {
+          "text": "Train HYROX",
+          "occurrences": 1
+        },
+        {
+          "text": "Bring strength home",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Home Gyms",
+          "occurrences": 1
+        },
+        {
+          "text": "STRONGER STARTS WITH A SYSTEM",
+          "occurrences": 1
+        },
+        {
+          "text": "The Home",
+          "occurrences": 1
+        },
+        {
+          "text": "of Strength",
+          "occurrences": 1
+        },
+        {
+          "text": "Equipment paired with expert coaching and personalized training plans designed to work together to help you build strength.",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore Training Essentials",
+          "occurrences": 1
+        },
+        {
+          "text": "$3,299",
+          "occurrences": 6
+        },
+        {
+          "text": "$549",
+          "occurrences": 6
+        },
+        {
+          "text": "$899",
+          "occurrences": 3
+        },
+        {
+          "text": "$5,999",
+          "occurrences": 6
+        },
+        {
+          "text": "$5,647",
+          "occurrences": 3
+        },
+        {
+          "text": "$3,399",
+          "occurrences": 3
+        },
+        {
+          "text": "$1,699",
+          "occurrences": 3
+        },
+        {
+          "text": "$1,299",
+          "occurrences": 3
+        }
+      ],
+      "removed": [
+        {
+          "text": "Labor Day Sale - up to $600 off - ends 9/7",
+          "occurrences": 1
+        },
+        {
+          "text": "Save now",
+          "occurrences": 1
+        },
+        {
+          "text": "LABOR DAY SALE",
+          "occurrences": 1
+        },
+        {
+          "text": "Lock in your goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Save big.",
+          "occurrences": 1
+        },
+        {
+          "text": "Save up to $600 on equipment to train like a pro at home.",
+          "occurrences": 1
+        },
+        {
+          "text": "Ends 9/7",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop the Sale",
+          "occurrences": 1
+        },
+        {
+          "text": "$2,899",
+          "occurrences": 6
+        },
+        {
+          "text": "$449",
+          "occurrences": 6
+        },
+        {
+          "text": "$5,399",
+          "occurrences": 6
+        },
+        {
+          "text": "$5,097",
+          "occurrences": 3
+        },
+        {
+          "text": "$2,999",
+          "occurrences": 3
+        },
+        {
+          "text": "$1,499",
+          "occurrences": 3
+        },
+        {
+          "text": "$1,149",
+          "occurrences": 3
+        }
+      ],
+      "truncated": false,
+      "added_total": 19,
+      "removed_total": 15
+    }
+  }
+}

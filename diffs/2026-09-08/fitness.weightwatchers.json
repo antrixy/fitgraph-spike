@@ -1,0 +1,31 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-09-08",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
+      "curr_fetched_at": "2026-09-08T11:31:07.432Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Ends today!",
+          "occurrences": 1
+        },
+        {
+          "text": "Save 66% on your first two months of Med+ membership.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Ends tomorrow: Save 66% on your first two months of Med+ membership.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 1
+    }
+  }
+}

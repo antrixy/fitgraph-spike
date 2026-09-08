@@ -1,0 +1,87 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-09-08",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
+      "curr_fetched_at": "2026-09-08T11:37:17.983Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "The first week is on us.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your 7-day free trial",
+          "occurrences": 1
+        },
+        {
+          "text": "7-day free trial",
+          "occurrences": 1
+        },
+        {
+          "text": "The leading fitness app designed by women, for women",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your 7-day free trial today Cancel Anytime • 100% Risk-Free",
+          "occurrences": 1
+        },
+        {
+          "text": "*]:mx-2 [&>*]:my-2 md:[&>*]:mx-4 lg:[&>*]:mx-[30px] lg:[&>*]:my-6 text-white mb-12 lg:mb-40 svelte-dzj2xm\">",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your 7-day free trial today",
+          "occurrences": 4
+        },
+        {
+          "text": "We have a feeling you're going to love Sweat",
+          "occurrences": 1
+        },
+        {
+          "text": "That's why the first week is on us",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Get Stronger with 25% off",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock offer",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock 25% off",
+          "occurrences": 5
+        },
+        {
+          "text": "Get stronger for less.",
+          "occurrences": 1
+        },
+        {
+          "text": "25% off for a limited time.",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlock 25% off *]:mx-2 [&>*]:my-2 md:[&>*]:mx-4 lg:[&>*]:mx-[30px] lg:[&>*]:my-6 text-white mb-12 lg:mb-40 svelte-dzj2xm\">",
+          "occurrences": 1
+        },
+        {
+          "text": "Join now and save 25%",
+          "occurrences": 1
+        },
+        {
+          "text": "Get stronger with a program you really love",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 9,
+      "removed_total": 8
+    }
+  }
+}

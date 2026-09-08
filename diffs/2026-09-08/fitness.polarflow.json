@@ -1,0 +1,24 @@
+{
+  "product": "fitness.polarflow",
+  "name": "Polar Flow",
+  "date": "2026-09-08",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "30d759664f3233afdc4c37306b9f43421aa5165a",
+      "prev_fetched_at": "2026-09-07T12:53:59.697Z",
+      "curr_fetched_at": "2026-09-08T11:36:24.544Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.36.3",
+          "new": "7.36.4"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We've fixed an issue where some Loop Gen 2 users could lose their connection after starting a workout recording and returning to the app.",
+          "new": "We've improved support for resolving Polar Loop Gen 2 connection issues."
+        }
+      ]
+    }
+  }
+}
