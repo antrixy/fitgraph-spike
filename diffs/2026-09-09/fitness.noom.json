@@ -1,0 +1,403 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-09",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "curr_fetched_at": "2026-09-09T11:36:24.822Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Weight-loss",
+          "occurrences": 1
+        },
+        {
+          "text": "medication and",
+          "occurrences": 1
+        },
+        {
+          "text": "more.",
+          "occurrences": 1
+        },
+        {
+          "text": "Psychology-based",
+          "occurrences": 1
+        },
+        {
+          "text": "weight loss.",
+          "occurrences": 1
+        },
+        {
+          "text": "A Preventive Health Program",
+          "occurrences": 2
+        },
+        {
+          "text": "Improve your health and see it in your biomarkers.",
+          "occurrences": 2
+        },
+        {
+          "text": "More Low-Dose Way To Start",
+          "occurrences": 1
+        },
+        {
+          "text": "A smaller dose for an easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "FIND YOUR PLAN",
+          "occurrences": 2
+        },
+        {
+          "text": "Access to trusted, powerful weight-loss medications with Noom Med.",
+          "occurrences": 2
+        },
+        {
+          "text": "37 %",
+          "occurrences": 2
+        },
+        {
+          "text": "more weight lost with Noom + GLP-1 than with medication alone.",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom&#8217;s customized plans harness the power of psychology and biology for weight-loss results that last.",
+          "occurrences": 1
+        },
+        {
+          "text": "Don&#8217;t just lose weight—keep it off",
+          "occurrences": 1
+        },
+        {
+          "text": "You&#8217;ll receive access to some of the best coaches in the industry to guide you through every step of your weight-loss journey plus cutting edge AI support—all right there in the app.",
+          "occurrences": 1
+        },
+        {
+          "text": "test123",
+          "occurrences": 1
+        },
+        {
+          "text": "🚚 Medication shipped to your door in just 7 days 4",
+          "occurrences": 1
+        },
+        {
+          "text": "Lose the fat, keep the muscle with our GLP-1 Muscle Defense™ program.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn healthier habits through our proven, psychology-based behavior-change program to help prepare you for success before, during, and when you&#8217;re ready to live your life med-free.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medications included in Noom GLP-1Rx Program are produced in USP-compliant, state-regulated pharmacies but not reviewed by the FDA for safety, efficacy or quality.",
+          "occurrences": 1
+        },
+        {
+          "text": "Here’s what real Noom users are saying:",
+          "occurrences": 2
+        },
+        {
+          "text": "EXPLORE NOOM HEALTH",
+          "occurrences": 1
+        },
+        {
+          "text": "“At Noom, we help people understand that scientifically the best way to achieve weight loss and optimal health is through a program that pairs behavior change with the right medication when needed.”",
+          "occurrences": 1
+        },
+        {
+          "text": "Sep",
+          "occurrences": 14
+        },
+        {
+          "text": "GLP-1 Companion and the Habit Window Hypothesis: Can Medication Help Make Healthy Habits Stick?",
+          "occurrences": 2
+        },
+        {
+          "text": "How long does it take Wegovy to work?",
+          "occurrences": 2
+        },
+        {
+          "text": "A week-by-week timeline",
+          "occurrences": 2
+        },
+        {
+          "text": "Is xylitol bad for you?",
+          "occurrences": 2
+        },
+        {
+          "text": "What the latest research says",
+          "occurrences": 2
+        },
+        {
+          "text": "Semaglutide cost: With and without insurance in 2026",
+          "occurrences": 2
+        },
+        {
+          "text": "Orforglipron for maintenance: Keeping the weight off after GLP-1 medications",
+          "occurrences": 2
+        },
+        {
+          "text": "Why are people eating 2 kiwis a day?",
+          "occurrences": 2
+        },
+        {
+          "text": "The truth behind the trend",
+          "occurrences": 2
+        },
+        {
+          "text": "Frequently Asked Questions",
+          "occurrences": 1
+        },
+        {
+          "text": "What is Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "What makes Noom different from other weight loss programs?",
+          "occurrences": 1
+        },
+        {
+          "text": "What is the difference between Noom Weight and Noom Med?",
+          "occurrences": 1
+        },
+        {
+          "text": "How do I get started with Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "You’ll then receive a personalized plan designed to help you achieve lasting weight loss tailored to your unique needs.",
+          "occurrences": 1
+        },
+        {
+          "text": "How much does Noom cost?",
+          "occurrences": 1
+        },
+        {
+          "text": "What results can I expect from Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "Can Noom prescribe Ozempic, Wegovy, or Zepbound?",
+          "occurrences": 1
+        },
+        {
+          "text": "What can I expect from Noom coaches?",
+          "occurrences": 1
+        },
+        {
+          "text": "Is Noom suitable for people with medical conditions?",
+          "occurrences": 1
+        },
+        {
+          "text": "What are Noom&#8217;s GLP-1 Rx and Microdose GLP-1 Rx Programs?",
+          "occurrences": 1
+        },
+        {
+          "text": "SEE MORE POSTS",
+          "occurrences": 2
+        },
+        {
+          "text": "Facebook",
+          "occurrences": 1
+        },
+        {
+          "text": "Instagram",
+          "occurrences": 1
+        },
+        {
+          "text": "LinkedIn",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "We&#8217;ll be conducting routine maintenance on Saturday, August 3rd .",
+          "occurrences": 1
+        },
+        {
+          "text": "Our phone system will be unavailable during this time, but you&#8217;ll be able to chat with our live agents 24/7 or you can email Support .",
+          "occurrences": 1
+        },
+        {
+          "text": "A Preventive Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Improve your health and see it in",
+          "occurrences": 1
+        },
+        {
+          "text": "your biomarkers.",
+          "occurrences": 1
+        },
+        {
+          "text": "Find your plan",
+          "occurrences": 2
+        },
+        {
+          "text": "Access to high-quality, powerful weight-loss medications with Noom Med",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom GLP-1 Rx Program, featuring GLP-1 Companion, is designed to maximize your success with medications while helping you develop sustainable habits to live better, longer.",
+          "occurrences": 1
+        },
+        {
+          "text": "37%",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom’s customized plans harness the power of psychology and biology for weight-loss results that last.",
+          "occurrences": 2
+        },
+        {
+          "text": "Don’t just lose weight—keep it off",
+          "occurrences": 2
+        },
+        {
+          "text": "You’ll receive access to some of the best coaches in the industry to guide you through every step of your weight-loss journey plus cutting edge AI support—all right there in the app.",
+          "occurrences": 2
+        },
+        {
+          "text": "We're changing the way the world thinks about weight loss.",
+          "occurrences": 1
+        },
+        {
+          "text": "Access to trusted, powerful weight-loss medications with Noom Med",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom helps you learn the “ why ” behind your habits and teaches you healthier routines, because you deserve results that last.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medication shipped to your door in just 7 days 4",
+          "occurrences": 1
+        },
+        {
+          "text": "Lose the fat, keep the muscle with our GLP-1 Muscle Defense TM program.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn healthier habits through our proven, psychology-based behavior-change program to help prepare you for success before, during, and when you’re ready to live your life med-free.",
+          "occurrences": 1
+        },
+        {
+          "text": "Medications included in Noom GLP-1 Rx Program are produced in USP-compliant, state-regulated pharmacies but not reviewed by the FDA for safety, efficacy or quality.",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom Weight",
+          "occurrences": 1
+        },
+        {
+          "text": "Here&#8217;s what real Noom users are saying:",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore Noom Health",
+          "occurrences": 2
+        },
+        {
+          "text": "\"At Noom, we help people understand that scientifically the best way to achieve weight loss and optimal health is through a program that pairs behavior change with the right medication when needed.\"",
+          "occurrences": 1
+        },
+        {
+          "text": "How to make quinoa taste good (+ 10 easy recipes)",
+          "occurrences": 1
+        },
+        {
+          "text": "Zepbound® nausea: What to expect and how to manage it",
+          "occurrences": 1
+        },
+        {
+          "text": "Medicare now covers GLP-1s with a $50 copay.",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom pairs access to this benefit with healthy aging habits for what comes next.",
+          "occurrences": 1
+        },
+        {
+          "text": "Frequently asked questions",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x33;",
+          "occurrences": 10
+        },
+        {
+          "text": "&#x35; What is Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; What makes Noom different from other weight loss programs?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; What is the difference between Noom Weight and Noom Med?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; How do I get started with Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "You&#8217;ll then receive a personalized plan designed to help you achieve lasting weight loss tailored to your unique needs.",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; How much does Noom cost?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; What results can I expect from Noom?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; Can Noom prescribe Ozempic, Wegovy, or Zepbound?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; What can I expect from Noom coaches?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; Is Noom suitable for people with medical conditions?",
+          "occurrences": 1
+        },
+        {
+          "text": "&#x35; What are Noom's GLP-1 Rx and Microdose GLP-1 Rx Programs?",
+          "occurrences": 1
+        },
+        {
+          "text": "See more posts",
+          "occurrences": 2
+        },
+        {
+          "text": "FOR INDIVIDUALS",
+          "occurrences": 1
+        },
+        {
+          "text": "FOR ORGANIZATIONS",
+          "occurrences": 1
+        },
+        {
+          "text": "COMPANY",
+          "occurrences": 1
+        },
+        {
+          "text": "Follow",
+          "occurrences": 4
+        }
+      ],
+      "truncated": false,
+      "added_total": 50,
+      "removed_total": 46
+    }
+  }
+}

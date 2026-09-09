@@ -1,0 +1,30 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-09-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:29:28.237Z",
+      "curr_fetched_at": "2026-09-09T11:35:01.322Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.35.0",
+          "new": "26.36.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Fixed: If you multi-day logged a recipe from My Recipes, nothing you logged would show up. Now your multi-day logs land exactly where and when you want them to.\n\nFor those using GLP-1 support, the legal disclaimer sheet was cutting off text and hiding the close button at larger accessibility text sizes. Now everything fits, no matter the text size.\n\n*Bye bye buggos! We scooped'em up with a paper cup and let'em go outside.\n\n*For all the latest fixes, update to the latest app version",
+          "new": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:29:31.966Z",
+      "curr_fetched_at": "2026-09-09T11:35:02.957Z",
+      "version_unreported": true
+    }
+  }
+}

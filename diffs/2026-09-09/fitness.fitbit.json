@@ -1,0 +1,36 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-09-09",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:35:54.442Z",
+      "curr_fetched_at": "2026-09-09T11:40:58.479Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "curr_fetched_at": "2026-09-09T11:41:00.496Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Tablets",
+          "occurrences": 6
+        },
+        {
+          "text": "Pixel Tablet",
+          "occurrences": 4
+        },
+        {
+          "text": "Help at Home How to get the most out of your home’s smart tech.",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 3
+    }
+  }
+}

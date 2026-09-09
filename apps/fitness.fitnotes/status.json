@@ -1,12 +1,12 @@
 {
-  "run_started": "2026-09-08T11:29:28.237Z",
+  "run_started": "2026-09-09T11:35:01.322Z",
   "sources": {
     "itunes": {
       "status": "absent"
     },
     "play": {
       "status": "ok",
-      "fetched_at": "2026-09-08T11:33:31.936Z"
+      "fetched_at": "2026-09-09T11:38:44.562Z"
     },
     "pricing": {
       "status": "absent"

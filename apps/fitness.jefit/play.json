@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:31:58.103Z",
+  "fetched_at": "2026-09-09T11:37:17.905Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Plan &amp; track gym workouts. Sync routines &amp; build muscle with strength log tools.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 9885365,
-    "score": 4.429236,
+    "maxInstalls": 9885437,
+    "score": 4.429521,
     "scoreText": "4.4",
-    "ratings": 89762,
+    "ratings": 89776,
     "reviews": 11716,
     "histogram": {
-      "1": 6858,
-      "2": 2444,
-      "3": 3815,
-      "4": 8826,
-      "5": 67811
+      "1": 6863,
+      "2": 2446,
+      "3": 3818,
+      "4": 8772,
+      "5": 67867
     },
     "price": 0,
     "free": true,
@@ -69,8 +69,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Sep 15, 2010",
-    "updated": 1788305883000,
-    "version": "17.4.2",
+    "updated": 1788561037000,
+    "version": "VARY",
     "recentChanges": "Logging in just got a speed boost — your exercise library now syncs over 2 seconds faster at every session. DIY mesocycle workouts prescribe weights more accurately, and newly added sets now get a proper prescription right away. Wear OS last-log readouts are also more reliable. Plus a handful of bug fixes and improvements along the way.",
     "comments": [],
     "preregister": false,

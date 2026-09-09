@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:29:31.966Z",
+  "fetched_at": "2026-09-09T11:35:02.957Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track calories, macros &amp; nutrition with AI. Log Fitness, workouts &amp; meals daily",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 136193701,
-    "score": 4.4035974,
+    "maxInstalls": 136254068,
+    "score": 4.4040613,
     "scoreText": "4.4",
-    "ratings": 2913358,
-    "reviews": 454154,
+    "ratings": 2913640,
+    "reviews": 454160,
     "histogram": {
-      "1": 206665,
-      "2": 83726,
-      "3": 144330,
-      "4": 371022,
-      "5": 2107608
+      "1": 206460,
+      "2": 83761,
+      "3": 144033,
+      "4": 371146,
+      "5": 2108232
     },
     "price": 0,
     "free": true,
@@ -86,7 +86,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Apr 26, 2010",
-    "updated": 1787953235000,
+    "updated": 1788553674000,
     "version": "VARY",
     "recentChanges": "✅Today has arrived around the world! Diary, calories, macros, and habits now live on the home tab. You can also copy full meals, track your progress with insights, and much more.<br><br>✅The Weight Logging Celebration screen appeared as a blank white sheet in Dark Mode.<br>➡️Now your streak gets the visibility it deserves.<br><br>🐛 Bug fixes and improvements to make the app run smoother than a protein shake.<br><br>*For all the latest fixes, update to the latest app version",
     "comments": [],

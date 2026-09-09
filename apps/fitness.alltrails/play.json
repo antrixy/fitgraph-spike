@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:35:32.055Z",
+  "fetched_at": "2026-09-09T11:40:41.172Z",
   "source": "google_play_scraper",
   "appId": "com.alltrails.alltrails",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Explore the outdoors: hiking trail maps, bike trails, camping &amp; backpacking maps",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 51321060,
-    "score": 4.560213,
+    "maxInstalls": 51385163,
+    "score": 4.560242,
     "scoreText": "4.6",
-    "ratings": 386662,
-    "reviews": 25513,
+    "ratings": 386745,
+    "reviews": 25519,
     "histogram": {
-      "1": 24207,
-      "2": 6940,
-      "3": 8206,
-      "4": 35971,
-      "5": 311329
+      "1": 24222,
+      "2": 6946,
+      "3": 8194,
+      "4": 35946,
+      "5": 311431
     },
     "price": 0,
     "free": true,

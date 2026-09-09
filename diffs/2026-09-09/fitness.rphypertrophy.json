@@ -1,0 +1,41 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-09-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:33:16.715Z",
+      "curr_fetched_at": "2026-09-09T11:38:27.181Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.4.2",
+          "new": "1.5.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Enhanced video and image compression handling.",
+          "new": "Behind-the-scenes improvements and groundwork for upcoming features."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:33:21.434Z",
+      "curr_fetched_at": "2026-09-09T11:38:31.785Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.4.2",
+          "new": "1.5.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Enhanced video and image compression",
+          "new": "Behind-the-scenes improvements and groundwork for upcoming features."
+        }
+      ]
+    }
+  }
+}

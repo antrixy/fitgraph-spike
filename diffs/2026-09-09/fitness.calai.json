@@ -1,0 +1,19 @@
+{
+  "product": "fitness.calai",
+  "name": "Cal AI",
+  "date": "2026-09-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:31:24.778Z",
+      "curr_fetched_at": "2026-09-09T11:36:47.730Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.35.0",
+          "new": "26.36.0"
+        }
+      ]
+    }
+  }
+}

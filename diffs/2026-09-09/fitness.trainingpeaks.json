@@ -1,0 +1,24 @@
+{
+  "product": "fitness.trainingpeaks",
+  "name": "TrainingPeaks",
+  "date": "2026-09-09",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "7ac27633e8d8b389a8b21982ece86b02d7da52fe",
+      "prev_fetched_at": "2026-09-08T11:34:48.661Z",
+      "curr_fetched_at": "2026-09-09T11:39:58.162Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "12.113.0",
+          "new": "12.114.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Bug fixes and behind-the-scenes work to prep for what's coming.\n\nThanks for training with TrainingPeaks.",
+          "new": "As athletes and coaches ourselves, we are passionate about helping people get better at the things they love to do. We've been working as hard as you train to fix bugs and improve your experience."
+        }
+      ]
+    }
+  }
+}

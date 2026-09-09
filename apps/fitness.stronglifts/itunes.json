@@ -1,11 +1,8 @@
 {
-  "fetched_at": "2026-09-08T11:32:38.273Z",
+  "fetched_at": "2026-09-09T11:37:56.817Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=488580022&country=us",
   "result": {
-    "features": [
-      "iosUniversal"
-    ],
     "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/60/5e/9e605e76-89dc-73c0-f273-452a1821c734/01_iphone69.png/320x480bb.jpg",
@@ -33,6 +30,9 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -168,11 +168,7 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "bundleId": "com.StrongLifts",
-    "minimumOsVersion": "17.0",
-    "currentVersionReleaseDate": "2026-09-02T20:46:41Z",
     "sellerUrl": "https://stronglifts.com/",
-    "averageUserRatingForCurrentVersion": 4.86087,
     "languageCodesISO2A": [
       "HR",
       "DA",
@@ -199,15 +195,18 @@
     "formattedPrice": "Free",
     "userRatingCountForCurrentVersion": 76656,
     "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.86087,
+    "artistId": 916468093,
+    "artistName": "StrongLifts",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 916468093,
-    "artistName": "StrongLifts",
-    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
-    "trackName": "Stronglifts 5x5 Workout Plan",
+    "price": 0,
+    "bundleId": "com.StrongLifts",
     "trackId": 488580022,
+    "trackName": "Stronglifts 5x5 Workout Plan",
+    "releaseDate": "2011-12-22T20:51:34Z",
     "genreIds": [
       "6013",
       "6012"
@@ -216,6 +215,8 @@
     "primaryGenreId": 6013,
     "sellerName": "Stronglifts Limited",
     "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-09-02T20:46:41Z",
+    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
     "version": "4.3.1",
     "wrapperType": "software",
     "currency": "USD",
@@ -224,8 +225,7 @@
     "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
     "contentAdvisoryRating": "4+",
     "averageUserRating": 4.86087,
-    "releaseDate": "2011-12-22T20:51:34Z",
-    "price": 0,
+    "minimumOsVersion": "17.0",
     "userRatingCount": 76656
   }
 }

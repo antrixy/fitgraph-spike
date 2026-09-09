@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:37:44.794Z",
+  "fetched_at": "2026-09-09T11:42:55.880Z",
   "source": "google_play_scraper",
   "appId": "com.northcube.sleepcycle",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Smart alarm clock &amp; sleep recorder. Sleep sounds &amp; white noise for better sleep",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 19097954,
-    "score": 4.3462543,
+    "maxInstalls": 19103989,
+    "score": 4.347357,
     "scoreText": "4.3",
-    "ratings": 217749,
-    "reviews": 10169,
+    "ratings": 217774,
+    "reviews": 10170,
     "histogram": {
-      "1": 18582,
-      "2": 7140,
-      "3": 9328,
-      "4": 27916,
-      "5": 154769
+      "1": 18644,
+      "2": 7048,
+      "3": 9242,
+      "4": 27887,
+      "5": 154934
     },
     "price": 0,
     "free": true,

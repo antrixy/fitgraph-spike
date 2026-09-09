@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:34:42.137Z",
+  "fetched_at": "2026-09-09T11:39:50.081Z",
   "source": "google_play_scraper",
   "appId": "com.mapmyrun.android2",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Map My Run: A running tracker app that uses GPS to track route, distance &amp; pace.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 17710777,
-    "score": 4.7708297,
+    "maxInstalls": 17712690,
+    "score": 4.771067,
     "scoreText": "4.8",
-    "ratings": 455381,
-    "reviews": 66581,
+    "ratings": 455412,
+    "reviews": 66583,
     "histogram": {
-      "1": 7668,
-      "2": 3304,
-      "3": 6160,
-      "4": 51443,
-      "5": 386800
+      "1": 7682,
+      "2": 3269,
+      "3": 6169,
+      "4": 51371,
+      "5": 386913
     },
     "price": 0,
     "free": true,

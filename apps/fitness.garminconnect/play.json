@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:35:43.425Z",
+  "fetched_at": "2026-09-09T11:40:50.674Z",
   "source": "google_play_scraper",
   "appId": "com.garmin.android.apps.connectmobile",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "beat yesterday.",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 50948630,
-    "score": 4.3624024,
+    "maxInstalls": 51014729,
+    "score": 4.362574,
     "scoreText": "4.4",
-    "ratings": 1106523,
-    "reviews": 54356,
+    "ratings": 1106675,
+    "reviews": 54359,
     "histogram": {
-      "1": 108564,
-      "2": 34597,
-      "3": 28323,
-      "4": 110753,
-      "5": 824258
+      "1": 108393,
+      "2": 34607,
+      "3": 28524,
+      "4": 110958,
+      "5": 824174
     },
     "price": 0,
     "free": true,
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jan 9, 2013",
-    "updated": 1787852137000,
+    "updated": 1788783068000,
     "version": "5.28.1",
     "recentChanges": "With the bug fixes and performance improvements in this version of Garmin Connect, tracking your health and fitness stats is easier than ever before.",
     "comments": [],

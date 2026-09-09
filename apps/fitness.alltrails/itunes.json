@@ -1,11 +1,26 @@
 {
-  "fetched_at": "2026-09-08T11:35:29.199Z",
+  "fetched_at": "2026-09-09T11:40:39.045Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=405075943&country=us",
   "result": {
     "artistViewUrl": "https://apps.apple.com/us/developer/alltrails-inc/id405075946?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/5c/3c/1e5c3cfe-3272-10c4-48d5-7eee2dd10182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/5c/3c/1e5c3cfe-3272-10c4-48d5-7eee2dd10182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/3a/76/ea3a760e-66f1-bd14-380c-5fc8eb291632/AT-2024-Organic-EN-US-s1__U00283_U0029.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/25/16/c12516aa-6136-333c-410d-25dc8efde4b2/AT-2024-Organic-EN-US-s2.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/20/96/91209649-93af-0b90-12e5-f627fefab10b/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s3.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/9f/40/7c9f4074-2c9a-7f9e-efbd-ac2bca6b27d8/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s4.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/8d/08/8a8d083b-1fad-c0a4-33eb-a2fab2879a67/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s5.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/63/38/b7633886-4aac-d56e-8763-b1a0be1926d1/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s6.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/cc/92/06cc925a-c36c-51c2-a60f-6f644bd48773/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s7.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/cb/14/27cb1437-3311-d1dd-cc1a-251819a0b66f/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s8.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/25/06/01250655-7f27-2e23-1ae2-d7ca2032a96c/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s9.jpg/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/f0/f7/3cf0f7df-f03d-c6b6-c825-bc2f71335237/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s10.jpg/320x480bb.jpg"
+    ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/5c/3c/1e5c3cfe-3272-10c4-48d5-7eee2dd10182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
@@ -142,51 +157,12 @@
       "Infrequent/Mild Profanity or Crude Humor"
     ],
     "kind": "software",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/3a/76/ea3a760e-66f1-bd14-380c-5fc8eb291632/AT-2024-Organic-EN-US-s1__U00283_U0029.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/25/16/c12516aa-6136-333c-410d-25dc8efde4b2/AT-2024-Organic-EN-US-s2.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/20/96/91209649-93af-0b90-12e5-f627fefab10b/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s3.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/9f/40/7c9f4074-2c9a-7f9e-efbd-ac2bca6b27d8/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s4.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/8d/08/8a8d083b-1fad-c0a4-33eb-a2fab2879a67/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s5.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/63/38/b7633886-4aac-d56e-8763-b1a0be1926d1/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s6.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/cc/92/06cc925a-c36c-51c2-a60f-6f644bd48773/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s7.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/cb/14/27cb1437-3311-d1dd-cc1a-251819a0b66f/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s8.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/25/06/01250655-7f27-2e23-1ae2-d7ca2032a96c/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s9.jpg/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/f0/f7/3cf0f7df-f03d-c6b6-c825-bc2f71335237/AT-2025rebrand-Organic-iOS-1290-x-2796-EN-US-s10.jpg/320x480bb.jpg"
-    ],
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/5c/3c/1e5c3cfe-3272-10c4-48d5-7eee2dd10182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.88941,
+    "averageUserRating": 4.88943,
+    "minimumOsVersion": "17.0",
     "trackCensoredName": "AllTrails: Hike, Bike & Run",
     "trackViewUrl": "https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943?uo=4",
     "contentAdvisoryRating": "9+",
-    "minimumOsVersion": "17.0",
-    "artistId": 405075946,
-    "artistName": "AllTrails, Inc.",
-    "genres": [
-      "Health & Fitness",
-      "Travel"
-    ],
-    "price": 0,
-    "bundleId": "com.alltrails.AllTrails",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 405075943,
-    "trackName": "AllTrails: Hike, Bike & Run",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2010-12-17T23:35:17Z",
-    "genreIds": [
-      "6013",
-      "6003"
-    ],
-    "sellerName": "AllTrails, Inc.",
-    "currentVersionReleaseDate": "2026-09-05T20:25:15Z",
-    "releaseNotes": "Thanks for using AllTrails! This update includes:\n• Minor bug fixes",
-    "version": "26.8.41",
-    "wrapperType": "software",
-    "currency": "USD",
-    "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail with your phone or Wear OS device. Use Wear OS to leverage tiles and complications to start and monitor your activities.\n◆ Find points of interest: Discover waterfalls, historic sites,  photo spots, and more along the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trailgoers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n◆ Record your activity: Capture your stats, leave reviews, and post photos of your favorite hiking trails.\n\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails Plus ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Plan for the elements like ground conditions, weather, air quality, UV index, and more.\n◆ See how conditions change along the trail and preview by time of day.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Explore without service with map downloads for trails, parks, and entire areas.\n◆ Live share your trail activity with friends and family.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing\n\n► New! Explore to the fullest with AllTrails Peak ►\n\nMake the most of your time on the trail with our newest premium membership. Chart your own course, plan ahead for conditions, and explore popular trails — with all the offline benefits of Plus.\n\n◆ Create your own route from scratch, or modify one of 500,000+ existing trails.\n◆ Explore the most popular places with heatmaps of recent trail activity.\n◆ Access every Plus and Base feature, too.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails Plus and Peak make the great outdoors even greater.",
+    "averageUserRatingForCurrentVersion": 4.88943,
     "sellerUrl": "https://www.alltrails.com",
     "languageCodesISO2A": [
       "DA",
@@ -201,11 +177,35 @@
       "ES",
       "SV"
     ],
-    "fileSizeBytes": "297397248",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 1037819,
+    "userRatingCountForCurrentVersion": 1038280,
     "trackContentRating": "9+",
-    "averageUserRatingForCurrentVersion": 4.88941,
-    "userRatingCount": 1037819
+    "genres": [
+      "Health & Fitness",
+      "Travel"
+    ],
+    "artistId": 405075946,
+    "artistName": "AllTrails, Inc.",
+    "price": 0,
+    "bundleId": "com.alltrails.AllTrails",
+    "releaseDate": "2010-12-17T23:35:17Z",
+    "trackId": 405075943,
+    "trackName": "AllTrails: Hike, Bike & Run",
+    "genreIds": [
+      "6013",
+      "6003"
+    ],
+    "sellerName": "AllTrails, Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "currentVersionReleaseDate": "2026-09-05T20:25:15Z",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "releaseNotes": "Thanks for using AllTrails! This update includes:\n• Minor bug fixes",
+    "version": "26.8.41",
+    "wrapperType": "software",
+    "currency": "USD",
+    "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.\n◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.\n◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail with your phone or Wear OS device. Use Wear OS to leverage tiles and complications to start and monitor your activities.\n◆ Find points of interest: Discover waterfalls, historic sites,  photo spots, and more along the trail.\n◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trailgoers like you.\n◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.\n◆ Record your activity: Capture your stats, leave reviews, and post photos of your favorite hiking trails.\n\n\nDiscover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a stroller, there’s something out there for everyone. Let AllTrails help you find it.\n\n► Do more outdoors with AllTrails Plus ►\nSpend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.\n\n◆ Search by distance from you to find the closest trails.\n◆ Plan for the elements like ground conditions, weather, air quality, UV index, and more.\n◆ See how conditions change along the trail and preview by time of day.\n◆ Unplug completely or pack a backup with printed maps.\n◆ Explore without service with map downloads for trails, parks, and entire areas.\n◆ Live share your trail activity with friends and family.\n◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.\n◆ Focus on the view, not the map, with wrong-turn alerts.\n◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.\n◆ Explore ad-free: Remove occasional ads by subscribing\n\n► New! Explore to the fullest with AllTrails Peak ►\n\nMake the most of your time on the trail with our newest premium membership. Chart your own course, plan ahead for conditions, and explore popular trails — with all the offline benefits of Plus.\n\n◆ Create your own route from scratch, or modify one of 500,000+ existing trails.\n◆ Explore the most popular places with heatmaps of recent trail activity.\n◆ Access every Plus and Base feature, too.\n\nWhether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails Plus and Peak make the great outdoors even greater.",
+    "formattedPrice": "Free",
+    "fileSizeBytes": "297397248",
+    "userRatingCount": 1038280
   }
 }
