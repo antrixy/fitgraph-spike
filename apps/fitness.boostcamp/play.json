@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:38:07.084Z",
+  "fetched_at": "2026-09-10T11:35:38.388Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Strength Training &amp; Muscle Building Training Plans. Gym Log &amp; Workout Tracker.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 625376,
-    "score": 4.7211056,
+    "maxInstalls": 628133,
+    "score": 4.724311,
     "scoreText": "4.7",
-    "ratings": 13013,
+    "ratings": 13036,
     "reviews": 567,
     "histogram": {
       "1": 359,
       "2": 65,
       "3": 293,
-      "4": 1404,
-      "5": 10887
+      "4": 1371,
+      "5": 10942
     },
     "price": 0,
     "free": true,
@@ -64,8 +64,8 @@
     "adSupported": false,
     "released": "Nov 3, 2020",
     "updated": 1788528355000,
-    "version": "264",
-    "recentChanges": "In this version, we&#39;re introducing some new features:<br>- Redesigned Program Creator: build and edit your entire program from one screen, set it up faster.<br>- Health Connect: Boostcamp now saves your completed workouts and keeps your bodyweight in sync.<br>Plus bug fixes and general improvements to the app for better user experience.",
+    "version": "265",
+    "recentChanges": "In this version, we&#39;re introducing some new features:<br>- Improvements across the app: on the workout page, your current set stays highlighted, finished exercises collapse as you go, and the rest timer is rebuilt. In History, view your training by month. And smaller fixes throughout.<br>- Photos in Community: add a photo and caption to your workout posts, and share more than just the numbers.<br>Plus bug fixes and general improvements to the app for better user experience.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

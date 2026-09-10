@@ -1,0 +1,30 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-09-10",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:39:00.389Z",
+      "curr_fetched_at": "2026-09-10T11:36:28.329Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "479.0.0",
+          "new": "480.0.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "You can now turn off Activity Replay as your default map. Go to Settings > Default Maps to switch it off.",
+          "new": "New iOS lock screen widgets take you directly to your Home, Maps, or You tab, no digging through the app required."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:39:02.628Z",
+      "curr_fetched_at": "2026-09-10T11:36:31.992Z",
+      "version_unreported": true
+    }
+  }
+}

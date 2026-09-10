@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:37:10.287Z",
+  "fetched_at": "2026-09-10T11:34:36.064Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym Log &amp; Workout Tracker | Fitness Journal, Training &amp; Weight Lifting Planner",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 8073810,
-    "score": 4.8772874,
+    "maxInstalls": 8085672,
+    "score": 4.877264,
     "scoreText": "4.9",
-    "ratings": 262641,
-    "reviews": 6846,
+    "ratings": 263183,
+    "reviews": 6852,
     "histogram": {
-      "1": 1271,
-      "2": 700,
-      "3": 2185,
-      "4": 20637,
-      "5": 237832
+      "1": 1279,
+      "2": 707,
+      "3": 2058,
+      "4": 20914,
+      "5": 238208
     },
     "price": 0,
     "free": true,

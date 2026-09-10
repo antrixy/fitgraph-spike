@@ -1,0 +1,19 @@
+{
+  "product": "fitness.sleepcycle",
+  "name": "Sleep Cycle",
+  "date": "2026-09-10",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:42:53.412Z",
+      "curr_fetched_at": "2026-09-10T11:40:18.417Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "6.26.35",
+          "new": "6.26.36"
+        }
+      ]
+    }
+  }
+}

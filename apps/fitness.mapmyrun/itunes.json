@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:39:45.414Z",
+  "fetched_at": "2026-09-10T11:37:12.278Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=291890420&country=us",
   "result": {
@@ -18,6 +18,7 @@
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/97/05/8d9705d9-b48d-f2f6-dc67-be075dfa9c97/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [],
     "advisories": [
       "Frequent/Intense Contests"
     ],
@@ -25,7 +26,6 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/outside-television-inc/id987860990?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/97/05/8d9705d9-b48d-f2f6-dc67-be075dfa9c97/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/97/05/8d9705d9-b48d-f2f6-dc67-be075dfa9c97/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -156,9 +156,7 @@
       "iPadAir13M4-iPadAir13M4",
       "iPadAir13M4Cellular-iPadAir13M4Cellular"
     ],
-    "averageUserRatingForCurrentVersion": 4.83531,
     "sellerUrl": "http://www.mapmyrun.com",
-    "fileSizeBytes": "176068608",
     "languageCodesISO2A": [
       "DA",
       "EN",
@@ -175,27 +173,30 @@
       "ES",
       "ZH"
     ],
+    "fileSizeBytes": "176068608",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 752148,
+    "userRatingCountForCurrentVersion": 752169,
     "trackContentRating": "12+",
-    "price": 0,
+    "averageUserRatingForCurrentVersion": 4.83531,
+    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
     "artistId": 987860990,
     "artistName": "Outside Television Inc",
     "genres": [
       "Health & Fitness",
       "Social Networking"
     ],
-    "currentVersionReleaseDate": "2026-08-27T11:37:09Z",
+    "price": 0,
+    "bundleId": "Q5AWL8WCY6.iMapMyRun",
+    "sellerName": "Outside Television Inc",
+    "releaseDate": "2008-10-14T05:35:16Z",
     "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6005"
     ],
-    "releaseNotes": "This update includes bug fixes and performance enhancements to help you reach your fitness goals. \n\nLove the app? Leave a review in the App Store and let us know! \n\nFor questions or feedback, contact our support team through the app: Go to More > Help > Contact Support.",
-    "sellerName": "Outside Television Inc",
-    "releaseDate": "2008-10-14T05:35:16Z",
+    "trackId": 291890420,
+    "trackName": "Map My Run GPS Running Tracker",
+    "currentVersionReleaseDate": "2026-08-27T11:37:09Z",
     "version": "26.11.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -205,9 +206,8 @@
     "contentAdvisoryRating": "12+",
     "averageUserRating": 4.83531,
     "minimumOsVersion": "16.0",
-    "bundleId": "Q5AWL8WCY6.iMapMyRun",
-    "trackName": "Map My Run GPS Running Tracker",
-    "trackId": 291890420,
-    "userRatingCount": 752148
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "userRatingCount": 752169
   }
 }

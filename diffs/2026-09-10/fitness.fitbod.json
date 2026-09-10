@@ -1,0 +1,19 @@
+{
+  "product": "fitness.fitbod",
+  "name": "Fitbod",
+  "date": "2026-09-10",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:37:31.250Z",
+      "curr_fetched_at": "2026-09-10T11:34:57.521Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.32.0-0",
+          "new": "8.33.0-0"
+        }
+      ]
+    }
+  }
+}

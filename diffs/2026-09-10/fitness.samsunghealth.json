@@ -1,0 +1,13 @@
+{
+  "product": "fitness.samsunghealth",
+  "name": "Samsung Health",
+  "date": "2026-09-10",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:41:36.806Z",
+      "curr_fetched_at": "2026-09-10T11:39:03.696Z",
+      "version_unreported": true
+    }
+  }
+}

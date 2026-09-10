@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-09-10",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "29b29c1cdbeec7fa5e57ee26dd1d72a69c089848",
+      "prev_fetched_at": "2026-09-09T11:40:16.728Z",
+      "curr_fetched_at": "2026-09-10T11:37:39.966Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.120.0",
+          "new": "1.121.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "• The following routes now have badges and XP available for runners: Flat Route Run, Loop de Loop Run, Volcano Flat Run, and Beach Island Loop Run.\n• New wheels are available in the Drop Shop: Shimano C36, Shimano C50, Shimano C60, and Shimano C99. These new wheels replace the previous Shimano Dura-Ace C36, C50, and C60 wheels which are no longer available for purchase in the Drop Shop, but remain in the Garage for Zwifters who already own them.\n• Zwifters can now deselect all screenshots at the end of an activity (previously one screenshot was required).\n• Route sorting preferences are now saved between sessions and shared between cycling and running modes.\n• Fixed an issue that could cause a ride leader's name to be shown in on-screen messages as 'Ride Leader' if certain emojis were included in their name.\n• Fixed an issue that could cause custom bike colors to be reset when changing paint jobs / colorways.\n• When swapping bike frames, the wheels that were last used with that frame will also be restored.",
+          "new": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events: Mech Isle Mayhem, Urumaze, WhatYumeziWe'reLost?, and Twilight Crit.\nThe following running routes now have achievement badges and completion XP available: Jungle Circuit Run in Watopia (310 XP), Jungle Circuit Reverse Run in Watopia (310 XP), Whole Lotta Lava Run in Watopia (490 XP), Hilltop Hustle Run in Watopia (550 XP), Going Coastal Run in Watopia (660 XP), Road to Sky Run in Watopia (690 XP), and Seaside Sprint Run in Watopia (250 XP). \nThe following event-only routes now have achievement badges and completion XP available: Downtown Dolphin in Crit City (40 XP), LaGuardia Loop in New York (60 XP), The 6 Train Reverse in New York (130 XP), Glasgow Reverse in Scotland (60 XP)and ZG25 Climb Champs in London (100 XP).\nFixed an issue that could cause the virtual shifting style to change after disconnecting and reconnecting to a trainer.\nThe post-activity streak report now shows the correct running level after the first run of the week.\nRoute completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.\nFixed an issue that could cause Zwifters to face backwards in pre-event and race paddocks."
+        }
+      ]
+    }
+  }
+}

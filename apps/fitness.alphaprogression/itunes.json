@@ -1,11 +1,8 @@
 {
-  "fetched_at": "2026-09-09T11:38:14.058Z",
+  "fetched_at": "2026-09-10T11:35:48.021Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1462277793&country=us",
   "result": {
-    "ipadScreenshotUrls": [],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/d9/5d/9ed95d3a-9656-3c8e-f0f7-d274ab422a2c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/e1/21/68e1218b-6ec1-577b-d238-38e2262551bf/6.9-en-1.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/7f/ef/817fefdf-e8b1-cf7b-7a53-0c2f86968a69/6.9-en-2.png/320x480bb.jpg",
@@ -16,6 +13,9 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/53/a2/9d53a2a4-1694-a777-c421-acc015de29fa/6.9-en-7-lbs.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/bc/cf/19bccf8c-aeb9-3047-32cf-5e70eabc31e1/6.9-en-8.png/320x480bb.jpg"
     ],
+    "ipadScreenshotUrls": [],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/d9/5d/9ed95d3a-9656-3c8e-f0f7-d274ab422a2c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
     "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
@@ -152,7 +152,6 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/alpha-progression-gmbh/id1415737680?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/d9/5d/9ed95d3a-9656-3c8e-f0f7-d274ab422a2c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/d9/5d/9ed95d3a-9656-3c8e-f0f7-d274ab422a2c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.91923,
     "sellerUrl": "https://alphaprogression.com",
     "languageCodesISO2A": [
       "DA",
@@ -171,8 +170,11 @@
     ],
     "fileSizeBytes": "161359872",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 2142,
+    "userRatingCountForCurrentVersion": 2149,
     "trackContentRating": "12+",
+    "minimumOsVersion": "15.6",
+    "averageUserRatingForCurrentVersion": 4.91903,
+    "releaseNotes": "Japanese\n• We have added another new language.\n• If you notice any mistranslations, please tell us at info@alphaprogression.com.\n\nChanges\n• Various smaller changes.\n\nBugfixes\n• Various minor bugfixes.\n\nQuestions about the update? Send us an email at info@alphaprogression.com",
     "artistId": 1415737680,
     "artistName": "Alpha Progression GmbH",
     "genres": [
@@ -180,15 +182,14 @@
       "Sports"
     ],
     "price": 0,
-    "releaseDate": "2019-09-23T07:00:00Z",
     "bundleId": "com.alphaprogression.alphaprogression",
-    "releaseNotes": "Japanese\n• We have added another new language.\n• If you notice any mistranslations, please tell us at info@alphaprogression.com.\n\nChanges\n• Various smaller changes.\n\nBugfixes\n• Various minor bugfixes.\n\nQuestions about the update? Send us an email at info@alphaprogression.com",
-    "trackId": 1462277793,
-    "trackName": "Alpha Progression Gym Tracker",
     "genreIds": [
       "6013",
       "6004"
     ],
+    "trackId": 1462277793,
+    "trackName": "Alpha Progression Gym Tracker",
+    "releaseDate": "2019-09-23T07:00:00Z",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Alpha Progression GmbH",
@@ -201,8 +202,7 @@
     "trackCensoredName": "Alpha Progression Gym Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/alpha-progression-gym-tracker/id1462277793?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.91923,
-    "minimumOsVersion": "15.6",
-    "userRatingCount": 2142
+    "averageUserRating": 4.91903,
+    "userRatingCount": 2149
   }
 }

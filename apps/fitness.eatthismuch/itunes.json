@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:36:36.483Z",
+  "fetched_at": "2026-09-10T11:34:02.802Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=981637806&country=us",
   "result": {
@@ -185,19 +185,19 @@
     ],
     "fileSizeBytes": "91109376",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 22087,
+    "userRatingCountForCurrentVersion": 22089,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.71594,
+    "averageUserRatingForCurrentVersion": 4.71591,
     "trackCensoredName": "Eat This Much - Meal Planner",
     "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.71594,
+    "averageUserRating": 4.71591,
     "trackId": 981637806,
     "trackName": "Eat This Much - Meal Planner",
     "genres": [
       "Health & Fitness",
       "Food & Drink"
     ],
-    "userRatingCount": 22087
+    "userRatingCount": 22089
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:39:02.628Z",
+  "fetched_at": "2026-09-10T11:36:31.992Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 132725445,
-    "score": 4.591337,
+    "score": 4.590835,
     "scoreText": "4.6",
-    "ratings": 1179839,
-    "reviews": 34286,
+    "ratings": 1180342,
+    "reviews": 34288,
     "histogram": {
-      "1": 66648,
-      "2": 17182,
-      "3": 30507,
-      "4": 102941,
-      "5": 962528
+      "1": 66527,
+      "2": 17333,
+      "3": 30820,
+      "4": 103133,
+      "5": 962496
     },
     "price": 0,
     "free": true,
@@ -67,7 +67,7 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 9, 2011",
-    "updated": 1788214552000,
+    "updated": 1788978332000,
     "version": "VARY",
     "recentChanges": "You can now turn off Activity Replay as your default map. Go to Settings &gt; Default Maps to switch it off.<br>",
     "comments": [],

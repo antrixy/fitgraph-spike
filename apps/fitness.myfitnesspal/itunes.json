@@ -1,8 +1,12 @@
 {
-  "fetched_at": "2026-09-09T11:35:01.322Z",
+  "fetched_at": "2026-09-10T11:32:28.055Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=341232718&country=us",
   "result": {
+    "features": [
+      "iosUniversal"
+    ],
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/ee/8e/02ee8e90-b7dd-9f64-0a24-b31751688a8f/MFP_iOS_US_6.9_Screen_1.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/79/f2/2f79f276-2610-a933-600f-bc0171481a8c/MFP_iOS_US_6.9_Screen_2.jpg/320x480bb.jpg",
@@ -29,10 +33,6 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/97/aa/3b97aa91-aa9d-d66d-e531-8cdef051e137/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
-    "features": [
-      "iosUniversal"
-    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -170,8 +170,11 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/myfitnesspal-inc/id341232721?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/97/aa/3b97aa91-aa9d-d66d-e531-8cdef051e137/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/97/aa/3b97aa91-aa9d-d66d-e531-8cdef051e137/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "averageUserRatingForCurrentVersion": 4.71246,
+    "bundleId": "com.myfitnesspal.mfp",
+    "minimumOsVersion": "18.0",
+    "currentVersionReleaseDate": "2026-09-08T17:46:34Z",
     "sellerUrl": "http://www.myfitnesspal.com/",
+    "averageUserRatingForCurrentVersion": 4.71246,
     "languageCodesISO2A": [
       "DA",
       "NL",
@@ -195,29 +198,25 @@
     ],
     "fileSizeBytes": "358325248",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 2355919,
+    "userRatingCountForCurrentVersion": 2356134,
     "trackContentRating": "17+",
-    "releaseNotes": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
-    "artistId": 341232721,
-    "artistName": "MyFitnessPal, Inc.",
     "genres": [
       "Health & Fitness",
       "Food & Drink"
     ],
-    "price": 0,
-    "bundleId": "com.myfitnesspal.mfp",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 341232718,
+    "artistId": 341232721,
+    "artistName": "MyFitnessPal, Inc.",
+    "releaseNotes": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly.",
     "trackName": "MyFitnessPal: Calorie Counter",
-    "sellerName": "MyFitnessPal, Inc.",
+    "trackId": 341232718,
     "genreIds": [
       "6013",
       "6023"
     ],
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "releaseDate": "2009-12-08T02:04:45Z",
-    "currentVersionReleaseDate": "2026-09-08T17:46:34Z",
+    "sellerName": "MyFitnessPal, Inc.",
+    "isVppDeviceBasedLicensingEnabled": true,
     "version": "26.36.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -226,7 +225,8 @@
     "trackViewUrl": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
     "contentAdvisoryRating": "17+",
     "averageUserRating": 4.71246,
-    "minimumOsVersion": "18.0",
-    "userRatingCount": 2355919
+    "releaseDate": "2009-12-08T02:04:45Z",
+    "price": 0,
+    "userRatingCount": 2356134
   }
 }

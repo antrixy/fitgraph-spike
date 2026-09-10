@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T11:37:31.250Z",
+  "fetched_at": "2026-09-10T11:34:57.521Z",
   "source": "google_play_scraper",
   "appId": "com.fitbod.fitbod",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 4651555,
-    "score": 4.4553833,
+    "score": 4.454944,
     "scoreText": "4.5",
-    "ratings": 31010,
-    "reviews": 3925,
+    "ratings": 31037,
+    "reviews": 3927,
     "histogram": {
-      "1": 2585,
-      "2": 390,
-      "3": 1052,
-      "4": 3263,
-      "5": 23714
+      "1": 2583,
+      "2": 391,
+      "3": 1057,
+      "4": 3279,
+      "5": 23719
     },
     "price": 0,
     "free": true,
@@ -71,7 +71,7 @@
     "adSupported": false,
     "released": "May 22, 2020",
     "updated": 1788886312000,
-    "version": "8.32.0-0",
+    "version": "8.33.0-0",
     "recentChanges": "We did a little gym cleaning. Bugs were squashed. Dumbbells were put away. Mats were squeegeed. Performance got a boost. We get better with every release to be the best trainer for you.<br><br>As always, please reach out with any feedback or issues: feedback@fitbod.me",
     "comments": [],
     "preregister": false,
