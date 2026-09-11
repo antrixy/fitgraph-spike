@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "IY mesocycle workouts prescribe weights more accurately, and newly added sets now get a proper prescription right away. Wear OS last-log readouts are also more reliable. Plus a handful of bug fixes and improvements along the way.",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
       "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce"
     }
   ],
