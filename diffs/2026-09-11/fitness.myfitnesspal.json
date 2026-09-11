@@ -1,0 +1,20 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-09-11",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:32:30.428Z",
+      "curr_fetched_at": "2026-09-11T11:33:45.481Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "✅Today has arrived around the world! Diary, calories, macros, and habits now live on the home tab. You can also copy full meals, track your progress with insights, and much more.<br><br>✅The Weight Logging Celebration screen appeared as a blank white sheet in Dark Mode.<br>➡️Now your streak gets the visibility it deserves.<br><br>🐛 Bug fixes and improvements to make the app run smoother than a protein shake.<br><br>*For all the latest fixes, update to the latest app version",
+          "new": "No major fixes or big changes to report, just tuning things up to keep the app running smoothly."
+        }
+      ]
+    }
+  }
+}

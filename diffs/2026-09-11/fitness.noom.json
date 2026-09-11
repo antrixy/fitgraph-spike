@@ -1,0 +1,87 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-11",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "curr_fetched_at": "2026-09-11T11:35:05.668Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "The 10 most common Wegovy side effects and how long they last",
+          "occurrences": 2
+        },
+        {
+          "text": "Is papaya good for weight loss?",
+          "occurrences": 2
+        },
+        {
+          "text": "What to know",
+          "occurrences": 2
+        },
+        {
+          "text": "How to take Wegovy pill: The best timing and tips for success",
+          "occurrences": 2
+        },
+        {
+          "text": "When does semaglutide start working?",
+          "occurrences": 2
+        },
+        {
+          "text": "A week-by-week weight loss timeline",
+          "occurrences": 2
+        },
+        {
+          "text": "Zepbound® vials: How to use them, costs, and how they compare",
+          "occurrences": 2
+        },
+        {
+          "text": "Is xylitol bad for your heart?",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "Is xylitol bad for you?",
+          "occurrences": 2
+        },
+        {
+          "text": "Orforglipron for maintenance: Keeping the weight off after GLP-1 medications",
+          "occurrences": 2
+        },
+        {
+          "text": "Why are people eating 2 kiwis a day?",
+          "occurrences": 2
+        },
+        {
+          "text": "The truth behind the trend",
+          "occurrences": 2
+        },
+        {
+          "text": "Are clams good for weight loss?",
+          "occurrences": 2
+        },
+        {
+          "text": "Here&#8217;s what to know",
+          "occurrences": 2
+        },
+        {
+          "text": "Aug",
+          "occurrences": 4
+        },
+        {
+          "text": "Sulfur burps: Why they happen on GLP-1s and how to get rid of them",
+          "occurrences": 2
+        },
+        {
+          "text": "Starbucks fall menu 2026: Nutrition facts and lighter ways to sip",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 8,
+      "removed_total": 9
+    }
+  }
+}

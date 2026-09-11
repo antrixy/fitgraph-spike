@@ -1,0 +1,45 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-09-11",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:37:52.118Z",
+      "curr_fetched_at": "2026-09-11T11:39:10.987Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "curr_fetched_at": "2026-09-11T11:39:14.659Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Routes Planner Features Updates",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Routes",
+          "occurrences": 1
+        },
+        {
+          "text": "Planner",
+          "occurrences": 1
+        },
+        {
+          "text": "Features",
+          "occurrences": 1
+        },
+        {
+          "text": "Updates",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 4
+    }
+  }
+}

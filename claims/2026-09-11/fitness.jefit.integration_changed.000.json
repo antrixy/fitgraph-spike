@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.jefit",
+  "integration": "wear_os",
+  "direction": "removed",
+  "observed_at": "2026-09-11T11:35:58.663Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "IY mesocycle workouts prescribe weights more accurately, and newly added sets now get a proper prescription right away. Wear OS last-log readouts are also more reliable. Plus a handful of bug fixes and improvements along the way.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

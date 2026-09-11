@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:34:13.298Z",
+  "fetched_at": "2026-09-11T11:35:28.533Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=6480417616&country=us",
   "result": {
@@ -12,13 +12,8 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/2f/a1742f0e-6092-1e6c-38a9-135fd674f189/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/viral-development-llc/id1738939499?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/2f/a1742f0e-6092-1e6c-38a9-135fd674f189/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/2f/a1742f0e-6092-1e6c-38a9-135fd674f189/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "features": [],
-    "advisories": [],
-    "kind": "software",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -147,12 +142,16 @@
       "iPadAir11M4-iPadAir11M4",
       "iPadAir11M4Cellular-iPadAir11M4Cellular",
       "iPadAir13M4-iPadAir13M4",
-      "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      "iPadAir13M4Cellular-iPadAir13M4Cellular",
+      "iPhone18Pro-iPhone18Pro",
+      "iPhone18ProMax-iPhone18ProMax",
+      "iPhoneDuo-iPhoneDuo"
     ],
-    "minimumOsVersion": "18.0",
-    "averageUserRatingForCurrentVersion": 4.80314,
-    "fileSizeBytes": "325212160",
-    "formattedPrice": "Free",
+    "advisories": [],
+    "kind": "software",
+    "artistViewUrl": "https://apps.apple.com/us/developer/viral-development-llc/id1738939499?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/2f/a1742f0e-6092-1e6c-38a9-135fd674f189/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/2f/a1742f0e-6092-1e6c-38a9-135fd674f189/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "sellerUrl": "https://www.calai.app/",
     "languageCodesISO2A": [
       "AR",
@@ -171,12 +170,11 @@
       "ZH",
       "ES"
     ],
-    "userRatingCountForCurrentVersion": 361519,
+    "fileSizeBytes": "325212160",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 362018,
     "trackContentRating": "4+",
-    "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
-    "contentAdvisoryRating": "4+",
-    "trackCensoredName": "Cal AI - Calorie Tracker",
-    "averageUserRating": 4.80314,
+    "averageUserRatingForCurrentVersion": 4.8032,
     "currentVersionReleaseDate": "2026-09-08T18:13:31Z",
     "artistId": 1738939499,
     "artistName": "Viral Development LLC",
@@ -190,18 +188,23 @@
     "releaseDate": "2024-04-08T07:00:00Z",
     "trackId": 6480417616,
     "trackName": "Cal AI - Calorie Tracker",
-    "genreIds": [
-      "6013",
-      "6023"
-    ],
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Viral Development LLC",
     "isVppDeviceBasedLicensingEnabled": true,
+    "genreIds": [
+      "6013",
+      "6023"
+    ],
     "version": "26.36.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.\n\nWe aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.\n\nIf you have any ideas or questions, please email us at team@calai.app.\n\nNOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.\n\n*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION\nTERMS: https://calai.app/tos",
-    "userRatingCount": 361519
+    "averageUserRating": 4.8032,
+    "trackCensoredName": "Cal AI - Calorie Tracker",
+    "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+    "contentAdvisoryRating": "4+",
+    "minimumOsVersion": "18.0",
+    "userRatingCount": 362018
   }
 }

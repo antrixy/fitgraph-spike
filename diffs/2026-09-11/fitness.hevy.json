@@ -1,0 +1,20 @@
+{
+  "product": "fitness.hevy",
+  "name": "Hevy",
+  "date": "2026-09-11",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:34:36.064Z",
+      "curr_fetched_at": "2026-09-11T11:35:50.832Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.1.12",
+          "new": "3.1.14",
+          "note": "compared against last real version (7ac27633); intervening snapshots reported a sentinel"
+        }
+      ]
+    }
+  }
+}

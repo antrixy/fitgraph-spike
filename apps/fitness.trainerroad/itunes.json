@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-10T11:37:29.303Z",
+  "fetched_at": "2026-09-11T11:38:45.975Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=934224107&country=us",
   "result": {
-    "advisories": [],
+    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -131,9 +131,16 @@
       "iPadAir11M4-iPadAir11M4",
       "iPadAir11M4Cellular-iPadAir11M4Cellular",
       "iPadAir13M4-iPadAir13M4",
-      "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      "iPadAir13M4Cellular-iPadAir13M4Cellular",
+      "iPhone18Pro-iPhone18Pro",
+      "iPhone18ProMax-iPhone18ProMax",
+      "iPhoneDuo-iPhoneDuo"
     ],
-    "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
+    "advisories": [],
+    "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/6f/72/3a6f7266-c9bf-95e0-90e6-68a0ab9b6678/90e48881-15ce-4564-8a21-22ac2b997f17_iPhone-5.5-Intro.jpg/392x696bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/9b/b4/889bb460-7567-77da-aa21-f08a99d0f293/0b81513a-c89f-4769-80a3-46dbdba0c0c1_iPhone-5.5-Plan-Builder.jpg/392x696bb.jpg",
@@ -158,42 +165,21 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/22/0c/57220c29-75d4-9401-bd61-8ba1ba2ae4c7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
-    "kind": "software",
-    "artistViewUrl": "https://apps.apple.com/us/developer/trainer-road-llc/id934224106?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/22/0c/57220c29-75d4-9401-bd61-8ba1ba2ae4c7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/22/0c/57220c29-75d4-9401-bd61-8ba1ba2ae4c7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/trainer-road-llc/id934224106?uo=4",
     "minimumOsVersion": "16.0",
-    "averageUserRatingForCurrentVersion": 4.88546,
-    "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-09-08T09:19:53Z",
-    "sellerUrl": "https://www.trainerroad.com",
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "99795968",
-    "formattedPrice": "Free",
-    "trackContentRating": "4+",
-    "userRatingCountForCurrentVersion": 21433,
-    "artistId": 934224106,
-    "artistName": "Trainer Road, LLC",
-    "genres": [
-      "Health & Fitness",
-      "Sports"
-    ],
-    "price": 0,
-    "releaseDate": "2014-11-17T10:35:55Z",
-    "sellerName": "Trainer Road, LLC",
-    "releaseNotes": "• Various under-the-hood improvements.",
-    "bundleId": "com.trainerroad.ios",
     "trackId": 934224107,
     "trackName": "TrainerRoad",
-    "genreIds": [
-      "6013",
-      "6004"
-    ],
+    "releaseDate": "2014-11-17T10:35:55Z",
+    "price": 0,
+    "releaseNotes": "• Various under-the-hood improvements.",
+    "bundleId": "com.trainerroad.ios",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Trainer Road, LLC",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "currentVersionReleaseDate": "2026-09-08T09:19:53Z",
     "version": "2026.35.0",
     "wrapperType": "software",
     "currency": "USD",
@@ -201,9 +187,26 @@
     "contentAdvisoryRating": "4+",
     "trackCensoredName": "TrainerRoad",
     "trackViewUrl": "https://apps.apple.com/us/app/trainerroad/id934224107?uo=4",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "99795968",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 21434,
+    "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.88546,
     "averageUserRating": 4.88546,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "userRatingCount": 21433
+    "sellerUrl": "https://www.trainerroad.com",
+    "genreIds": [
+      "6013",
+      "6004"
+    ],
+    "artistId": 934224106,
+    "artistName": "Trainer Road, LLC",
+    "genres": [
+      "Health & Fitness",
+      "Sports"
+    ],
+    "userRatingCount": 21434
   }
 }

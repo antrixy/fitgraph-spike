@@ -1,0 +1,37 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-09-11",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:38:19.483Z",
+      "curr_fetched_at": "2026-09-11T11:39:36.453Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.07",
+          "new": "5.08"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Stability improvements and bug fixes for manual exercise logging, exercise maps and weight graphs",
+          "new": "General stability improvements and bug fixes."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:38:22.052Z",
+      "curr_fetched_at": "2026-09-11T11:39:39.592Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Stability improvements and bug fixes for manual exercise logging, exercise maps and weight graphs",
+          "new": "General stability improvements and bug fixes."
+        }
+      ]
+    }
+  }
+}

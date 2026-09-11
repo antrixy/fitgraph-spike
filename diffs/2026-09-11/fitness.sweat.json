@@ -1,0 +1,19 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-09-11",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:39:46.302Z",
+      "curr_fetched_at": "2026-09-11T11:40:49.928Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.0",
+          "new": "8.0.1"
+        }
+      ]
+    }
+  }
+}

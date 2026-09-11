@@ -1,0 +1,13 @@
+{
+  "product": "fitness.alltrails",
+  "name": "AllTrails",
+  "date": "2026-09-11",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "9eaaeaa550f82f0f986b4c96e086582063f11dce",
+      "prev_fetched_at": "2026-09-10T11:38:01.900Z",
+      "curr_fetched_at": "2026-09-11T11:39:21.310Z",
+      "version_unreported": true
+    }
+  }
+}

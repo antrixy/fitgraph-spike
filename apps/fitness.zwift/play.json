@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T11:37:42.047Z",
+  "fetched_at": "2026-09-11T11:38:58.519Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout, Ride and Race at Home",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2712872,
+    "maxInstalls": 2716011,
     "score": 3.9546926,
     "scoreText": "4.0",
-    "ratings": 26807,
+    "ratings": 26813,
     "reviews": 1349,
     "histogram": {
-      "1": 4768,
+      "1": 4770,
       "2": 1033,
-      "3": 1728,
-      "4": 2336,
-      "5": 16912
+      "3": 1729,
+      "4": 2337,
+      "5": 16916
     },
     "price": 0,
     "free": true,
@@ -74,8 +74,8 @@
     "adSupported": false,
     "released": "May 13, 2019",
     "updated": 1788479067000,
-    "version": "1.120.0 (164452)",
-    "recentChanges": "The following routes now have badges and XP available for runners: Flat Route Run, Loop de Loop Run, Volcano Flat Run, and Beach Island Loop Run.<br>New wheels are available in the Drop Shop: Shimano C36, Shimano C50, Shimano C60, and Shimano C99.<br>Zwifters can now deselect all screenshots at the end of an activity.<br>Route sorting preferences are now saved between sessions and shared between cycling and running modes.",
+    "version": "1.121.0 (165303)",
+    "recentChanges": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events.<br>Select running routes now have achievement badges and completion XP available.<br>Select event-only routes now have achievement badges and completion XP available.<br>Route completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

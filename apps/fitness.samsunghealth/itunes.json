@@ -1,11 +1,8 @@
 {
-  "fetched_at": "2026-09-10T11:38:59.233Z",
+  "fetched_at": "2026-09-11T11:40:17.166Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1224541484&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/samsung-electronics-co-ltd/id359580642?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "features": [],
     "supportedDevices": [
@@ -53,7 +50,10 @@
       "iPhone17ProMax-iPhone17ProMax",
       "iPhone17-iPhone17",
       "iPhoneAir-iPhoneAir",
-      "iPhone17e-iPhone17e"
+      "iPhone17e-iPhone17e",
+      "iPhone18Pro-iPhone18Pro",
+      "iPhone18ProMax-iPhone18ProMax",
+      "iPhoneDuo-iPhoneDuo"
     ],
     "advisories": [],
     "kind": "software",
@@ -65,26 +65,26 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg",
-    "averageUserRating": 4.65258,
-    "contentAdvisoryRating": "4+",
-    "artistId": 359580642,
-    "artistName": "Samsung Electronics Co., Ltd.",
+    "artistViewUrl": "https://apps.apple.com/us/developer/samsung-electronics-co-ltd/id359580642?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5b/47/9a5b476f-137c-db51-c9bc-4dece7a64e85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.jpg",
+    "minimumOsVersion": "9.0",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
     "price": 0,
     "bundleId": "com.samsung.health",
-    "trackName": "Samsung Health",
-    "releaseDate": "2017-10-02T08:08:12Z",
-    "trackId": 1224541484,
     "genreIds": [
       "6013",
       "6012"
     ],
+    "trackId": 1224541484,
+    "trackName": "Samsung Health",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
     "sellerName": "Samsung Electronics Co., Ltd.",
+    "releaseDate": "2017-10-02T08:08:12Z",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-04-20T07:03:05Z",
     "releaseNotes": "Bug fixes",
@@ -92,14 +92,8 @@
     "wrapperType": "software",
     "currency": "USD",
     "description": "Samsung Health is currently compatible with Samsung Gear S2, Samsung Gear S3, Samsung Gear S4, Gear Fit2, Gear Fit2 pro, Gear Sports, Galaxy Fit, Galaxy Fitⓔ , Galaxy Watch Active2, Galaxy Watch3 and Galaxy Fit2 only.\n\nSamsung Health provides basic, but mandatory features that help you improve your health.\nSamsung Health analyses your exercise and activity history, and helps you achieve weight loss and lead a healthy lifestyle.\n\nUsing several trackers, you can manage your walking, running, cycling, mountain climbing, indoor exercise, and outdoor exercise data, etc., while useful tips and exercise programs developed based on your customized settings help you fulfill the purpose of your exercise.\n\n42 languages, including English, French, and Chinese, are supported; for other language regions, English is supported.\n\nThe available features may vary depending on the region, service provider, and device model.\n\nYou can manage data via Samsung account.\n\nSamsung Health must only be used for improving physical fitness and health, and cannot be used for diagnosing disorders or conditions, or for curing, relieving, treating, or preventing disorders.\n\nApple Health tracks your step count and can share that data with Samsung Health to provide an accurate step count. User can control permission for this sharing in Apple Health Settings.",
-    "formattedPrice": "Free",
-    "fileSizeBytes": "167650304",
-    "averageUserRatingForCurrentVersion": 4.65258,
-    "trackCensoredName": "Samsung Health",
-    "trackViewUrl": "https://apps.apple.com/us/app/samsung-health/id1224541484?uo=4",
-    "minimumOsVersion": "9.0",
-    "userRatingCountForCurrentVersion": 35672,
-    "trackContentRating": "4+",
+    "averageUserRatingForCurrentVersion": 4.65266,
+    "sellerUrl": "http://health.apps.samsung.com/",
     "languageCodesISO2A": [
       "AR",
       "HR",
@@ -142,7 +136,16 @@
       "UK",
       "VI"
     ],
-    "sellerUrl": "http://health.apps.samsung.com/",
-    "userRatingCount": 35672
+    "fileSizeBytes": "167650304",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 35678,
+    "trackContentRating": "4+",
+    "trackCensoredName": "Samsung Health",
+    "trackViewUrl": "https://apps.apple.com/us/app/samsung-health/id1224541484?uo=4",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.65266,
+    "artistId": 359580642,
+    "artistName": "Samsung Electronics Co., Ltd.",
+    "userRatingCount": 35678
   }
 }

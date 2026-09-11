@@ -172,7 +172,7 @@
 
 <link href="//centr.com/cdn/shop/t/143/assets/base.css?v=36285966734792642791786659429" rel="stylesheet" type="text/css" media="all" />
 
-  <link href="//centr.com/cdn/shop/t/143/assets/tailwind.css?v=102240622199133428141788970745" rel="stylesheet" type="text/css" media="all" />
+  <link href="//centr.com/cdn/shop/t/143/assets/tailwind.css?v=127345467298170917321789056228" rel="stylesheet" type="text/css" media="all" />
 
 
 <!--LOOMI SDK-->
@@ -498,7 +498,106 @@
         d.head.appendChild(s)
       })
     })(window, document)
-  </script>
+  </script><!-- snippets/klaviyo-consent.liquid [09/26 jossay] -->
+
+
+
+<script data-cookieconsent="ignore">
+  ;(function (w, d) {
+    if (w.__centrKlaviyoConsent) return
+    w.__centrKlaviyoConsent = true
+
+    var COOKIE = '__kla_off'
+    var POLL_MS = 100
+    var POLL_MAX = 150 // ~15s waiting for GTM to inject Cookiebot
+
+    // `.centr.com` on the storefront; host-only on *.myshopify.com previews, where a
+    // dotted parent domain would be a shared public suffix.
+    var host = w.location.hostname
+    var parts = host.split('.')
+    var domain = parts.length >= 2 && !/myshopify\.com$/.test(host) ? '.' + parts.slice(-2).join('.') : ''
+    var attrs = '; path=/; SameSite=Lax'
+
+    var state = null // true = tracking on (cookie absent) · false = off (cookie present)
+
+    function off() {
+      if (state === false) return
+      state = false
+      d.cookie = COOKIE + '=true' + attrs + '; max-age=31536000' + (domain ? '; domain=' + domain : '')
+    }
+    function on() {
+      if (state === true) return
+      state = true
+      // Clear both scopes: whatever this snippet wrote, and any host-only copy.
+      d.cookie = COOKIE + '=' + attrs + '; max-age=0'
+      if (domain) d.cookie = COOKIE + '=' + attrs + '; max-age=0; domain=' + domain
+    }
+    function apply(allowed) {
+      if (allowed) on()
+      else off()
+    }
+
+    function gpc() {
+      return navigator.globalPrivacyControl === true
+    }
+
+    function storedMarketing() {
+      var match = d.cookie.match(/(?:^|;\s*)CookieConsent=([^;]*)/)
+      if (!match) return null
+      var raw = decodeURIComponent(match[1])
+      if (/marketing:true/.test(raw)) return true
+      if (/marketing:false/.test(raw)) return false
+      return null
+    }
+
+    function fromCookiebot(cb) {
+      if (gpc() && cb.changed !== true) return false
+      return !!cb.consent.marketing
+    }
+
+    function sync() {
+      var cb = w.Cookiebot
+      if (cb && cb.consent) apply(fromCookiebot(cb))
+    }
+
+    // Total: every regime maps to a state, so a placeholder-driven `off` is undone
+    // once the geo lookup settles on an opt-out regime.
+    function decide() {
+      var cb = w.Cookiebot
+      if (!cb || !cb.consent) return
+      if (cb.hasResponse) return apply(fromCookiebot(cb))
+      if (gpc()) return off()
+      var regs = cb.regulations
+      var optIn = !regs || regs.gdprApplies !== false
+      apply(!optIn)
+    }
+
+    // Synchronous first decision — before klaviyo.js can run.
+    if (gpc()) {
+      off()
+    } else {
+      var stored = storedMarketing()
+      apply(stored === true)
+    }
+
+    w.addEventListener('CookiebotOnAccept', sync)
+    w.addEventListener('CookiebotOnDecline', sync)
+    w.addEventListener('CookiebotOnConsentReady', sync)
+    w.addEventListener('CookiebotOnDialogInit', decide)
+    w.addEventListener('CookiebotOnDialogDisplay', decide)
+
+    var attempts = 0
+    ;(function waitForCookiebot() {
+      var cb = w.Cookiebot
+      if (!cb || !cb.consent) {
+        if (attempts++ < POLL_MAX) setTimeout(waitForCookiebot, POLL_MS)
+        return
+      }
+      decide()
+    })()
+  })(window, document)
+</script>
+
 
     <script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js')
@@ -553,7 +652,7 @@ Shopify.SignInWithShop.User.recognized = false;</script>
 <script>
   window.Shopify = window.Shopify || {};
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
-  window.Shopify.featureAssets['shop-js'] = {"shop-toast-manager":["modules/v2/loader.shop-toast-manager.en.esm.js"],"listener":["modules/v2/loader.listener.en.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.en.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.en.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.en.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.en.esm.js"],"avatar":["modules/v2/loader.avatar.en.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.en.esm.js"],"shop-button":["modules/v2/loader.shop-button.en.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.en.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.en.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.en.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.en.esm.js"],"pay-button":["modules/v2/loader.pay-button.en.esm.js"],"shop-login":["modules/v2/loader.shop-login.en.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.en.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.en.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.en.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.en.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.en.esm.js"]};
+  window.Shopify.featureAssets['shop-js'] = {"avatar":["modules/v2/loader.avatar.en.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.en.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.en.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.en.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.en.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.en.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.en.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.en.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.en.esm.js"],"listener":["modules/v2/loader.listener.en.esm.js"],"pay-button":["modules/v2/loader.pay-button.en.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.en.esm.js"],"shop-button":["modules/v2/loader.shop-button.en.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.en.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.en.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.en.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.en.esm.js"],"shop-login":["modules/v2/loader.shop-login.en.esm.js"],"shop-toast-manager":["modules/v2/loader.shop-toast-manager.en.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.en.esm.js"]};
 </script>
 <script>(function() {
   var isLoaded = false;
@@ -576,7 +675,7 @@ Shopify.SignInWithShop.User.recognized = false;</script>
     window.addEventListener('load', asyncLoad, false);
   }
 })();</script>
-<script id="__st">var __st={"a":75471356203,"offset":-25200,"reqid":"6bf9e8d4-2dba-464a-9b42-d71a82d0069e-1789040381","pageurl":"centr.com\/","u":"bf338748b294","p":"home"};</script>
+<script id="__st">var __st={"a":75471356203,"offset":-25200,"reqid":"b4f27294-18eb-494d-8556-be5b055a2ed5-1789126846","pageurl":"centr.com\/","u":"4c9b26fb1e24","p":"home"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.3.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
 <script integrity="sha256-JjoPp5ZfB1sSAs5SQaol1x1GgvveM+BgmRzyDexInEQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//centr.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-1bd60354.js" crossorigin="anonymous"></script>
@@ -790,48 +889,6 @@ window.TriplePixelData={TripleName:"centrllc.myshopify.com",ver:"2.16",plat:"SHO
 <script defer data-gorgias-loader-mailto-replace  src="https://config.gorgias.help/api/contact-forms/replace-mailto-script.js?shopName=centrllc"></script>
 
 
-<!-- END app block --><!-- BEGIN app block: shopify://apps/justuno-email-sms-pop-ups/blocks/star_rating/ea1f1a23-7069-4266-a6e1-df04f87c7e94 -->
-
-
-<script>
-
-  
-  
-    domainID = "6ab8d8ba357b47708a413551a8e1fe6e";
-    const newScript = document.createElement('script');
-    let finalHostName = "justone.ai";
-    newScript.innerHTML = `
-          window.ju4_num = "${domainID}";
-          window.ju4_asset_host = 'https://${finalHostName}/embed';
-          window.ju4_pApi = 'https://${finalHostName}';
-          window.ju4_api = 'https://api.justuno.com';
-  
-          
-        (function (i, s, o, g, r, a, m) {
-          i[r] =
-            i[r] ||
-            function () {
-              (i[r].q = i[r].q || []).push(arguments);
-            };
-          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-          a.async = 1;
-          a.src = g;
-          m.parentNode.insertBefore(a, m);
-        })(
-          window,
-          document,
-          "script",
-          ju4_asset_host + "/ju_shopify_init.js?v=2",
-          "ju4app"
-        );
-      `;
-      document.head.appendChild(newScript);
-
-  
-  
-</script>
-
-
 <!-- END app block --><!-- BEGIN app block: shopify://apps/powerful-form-builder/blocks/app-embed/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d --><script type="text/javascript" hs-ignore data-cookieconsent="ignore">
   var Globo = Globo || {};
   var globoFormbuilderRecaptchaInit = function(){};
@@ -906,16 +963,58 @@ window.TriplePixelData={TripleName:"centrllc.myshopify.com",ver:"2.16",plat:"SHO
 
 
 
+<!-- END app block --><!-- BEGIN app block: shopify://apps/justuno-email-sms-pop-ups/blocks/star_rating/ea1f1a23-7069-4266-a6e1-df04f87c7e94 -->
+
+
+<script>
+
+  
+  
+    domainID = "6ab8d8ba357b47708a413551a8e1fe6e";
+    const newScript = document.createElement('script');
+    let finalHostName = "justone.ai";
+    newScript.innerHTML = `
+          window.ju4_num = "${domainID}";
+          window.ju4_asset_host = 'https://${finalHostName}/embed';
+          window.ju4_pApi = 'https://${finalHostName}';
+          window.ju4_api = 'https://api.justuno.com';
+  
+          
+        (function (i, s, o, g, r, a, m) {
+          i[r] =
+            i[r] ||
+            function () {
+              (i[r].q = i[r].q || []).push(arguments);
+            };
+          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m);
+        })(
+          window,
+          document,
+          "script",
+          ju4_asset_host + "/ju_shopify_init.js?v=2",
+          "ju4app"
+        );
+      `;
+      document.head.appendChild(newScript);
+
+  
+  
+</script>
+
+
 <!-- END app block --><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 75471356203,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script>
   window.__TREKKIE_SHIM_QUEUE = window.__TREKKIE_SHIM_QUEUE || [];
 </script>
-<script>(function(){var wpmLoader=function(){"use strict";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,t=/bytedance/i;function i(){try{var e=document.cookie;if(!e||"string"!=typeof e)return;for(var t=0,i=e.split(";");t<i.length;t++){var n=i[t],r=n.indexOf("=");if(-1!==r){var o=n.slice(0,r).trim();if(o){var d=void 0;try{d=decodeURIComponent(o)}catch(e){d=o}if("_shopify_s"===d){var a=n.slice(r+1).trim();try{return decodeURIComponent(a)}catch(e){return a}}}}}return}catch(e){return}}function n(e){try{"undefined"!=typeof console&&"function"==typeof console.warn&&console.warn(e)}catch(e){}}function r(e,t){return"string"==typeof e&&e.length>0&&e.length<=t?e:void 0}function o(e){var t;switch(null==(t=null==e?void 0:e.navigation)?void 0:t.type){case 0:return"navigate";case 1:return"reload";case 2:return"back_forward";default:return}}function d(){var e,t,i;try{var n=null==(i=null==(t=null==(e=self.ShopifyAnalytics)?void 0:e.lib)?void 0:t.trekkie)?void 0:i.state;return"awaiting-consent"===n||"initialized"===n?n:void 0}catch(e){return}}return function(a,s,u,l){var c,p,f,v,h=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},y=(p=(c={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,f=c.legacy,(v=navigator.userAgent).match(e)?"bot":v.match(p)?"modern":v.match(f)?"legacy":v.match(t)?"bot":"unknown"),g=function(e){var t,i,n=r(e,128);try{var d=window.performance,a=null==(t=null==d?void 0:d.getEntriesByType)?void 0:t.call(d,"navigation")[0];if(!a)return{requestId:n,navigationType:o(d)};var s="type"in a?r(a.type,64):void 0,u="serverTiming"in a&&Array.isArray(a.serverTiming)?a.serverTiming:[];return{requestId:null!=n?n:r(null==(i=u.find(function(e){return"requestID"===e.name}))?void 0:i.description,128),navigationType:s}}catch(e){return{requestId:n}}}(h.requestId),m=function(e){var t=e.version,r=e.browserTarget,o=e.surface,d=e.shopId,a=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var u=e.status,l=e.errorMsg,c=e.failureReason,p=e.useKeepaliveFallback,f=void 0!==p&&p,v=e.navigationType,h=e.pagehidePersisted,y=e.requestId,g=e.trekkieState;if(a){var m,w;try{var b=(new Date).getTime();m=JSON.stringify({metadata:{event_sent_at_ms:b},events:[{schema_id:"web_pixels_manager_load/3.3",payload:{version:t,bundle_target:r,page_url:s,status:u,surface:o,error_msg:l,failure_reason:c,navigation_type:v,pagehide_persisted:h,request_id:y,trekkie_state:g,shop_id:d,visit_token:i()},metadata:{event_created_at_ms:b}}]})}catch(e){return}try{if("function"==typeof window.navigator.sendBeacon&&-1===(w=window.navigator.userAgent).indexOf("iPhone; CPU iPhone OS 12_")&&-1===w.indexOf("iPad; CPU OS 12_")&&-1===w.indexOf("iPod touch; CPU iPhone OS 12_")&&window.navigator.sendBeacon.bind(window.navigator)(a,m))return}catch(e){}if(f)try{"function"==typeof window.fetch&&window.fetch(a,{method:"POST",headers:{"Content-Type":"text/plain"},body:m,keepalive:!0}).catch(function(){})}catch(e){}else try{var P=new XMLHttpRequest;P.open("POST",a,!0),P.setRequestHeader("Content-Type","text/plain"),P.send(m)}catch(e){n("[Web Pixels Manager] Got an unhandled error while logging to Monorail.")}}else n("[Web Pixels Manager] No Monorail endpoint provided, skipping logging.")}}}({version:u,browserTarget:y,surface:a.surface,shopId:a.shopId,monorailEndpoint:a.monorailEndpoint});if(Boolean(null==(b=null==(w=window.Shopify)?void 0:w.analytics)?void 0:b.replayQueue))m.emit({status:"setup-skipped",errorMsg:"replay queue already initialized."});else{var w,b;m.emit({status:"setup-started"}),window.Shopify=window.Shopify||{};var P=window.Shopify;P.analytics=P.analytics||{};var _=P.analytics;_.replayQueue=[],_.publish=function(e,t,i){return _.replayQueue.push([e,t,i]),!0};try{self.performance.mark("wpm:start")}catch(e){}var S,C="modern"===y?"modern":"legacy",k=(null!=l?l:{modern:"",legacy:""})[C],O=[(S={baseUrl:s,hashVersion:u,buildTarget:C}).baseUrl,"/wpm","/b",S.hashVersion,"modern"===S.buildTarget?"m":"l",".js"].join(""),T=!1,A=!1;try{h.browserTarget=y,function(){T=!0;try{window.addEventListener("pagehide",U)}catch(e){T=!1}}(),M(function(){try{M(B)}catch(e){R(e)}}),m.emit({status:"loading",requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()})}catch(e){R(e)}}function I(){var e;if(q(),!function(){var e,t;return Boolean(null==(t=null==(e=window.Shopify)?void 0:e.analytics)?void 0:t.initialized)}()){var t,i,n;try{if("function"!=typeof(null==(e=window.webPixelsManager)?void 0:e.init))return void x();if(!(null!==(n=i=t=window.webPixelsManager.init(a))&&"function"!=typeof n&&Object(n)===n&&"publish"in i&&"function"==typeof i.publish&&"publishCustomEvent"in i&&"function"==typeof i.publishCustomEvent&&"visitor"in i&&"function"==typeof i.visitor))return void x()}catch(e){return void x(e)}var r=window.Shopify.analytics;r.replayQueue.forEach(function(e){var i=e[0],n=e[1],r=e[2];t.publishCustomEvent(i,n,r)}),r.replayQueue=[],r.publish=t.publishCustomEvent,r.visitor=t.visitor,r.initialized=!0}}function x(e){E("manager_api_unavailable",void 0===e?void 0:D(e))}function B(){E("script_load_failed","".concat(O," has failed to load"))}function E(e,t){A||(A=!0,q(),m.emit({status:"failed",errorMsg:t,failureReason:e,requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()}))}function U(e){T&&(q(),m.emit({status:"pagehide-while-loading",useKeepaliveFallback:!0,pagehidePersisted:e.persisted,requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()}))}function q(){T=!1;try{window.removeEventListener("pagehide",U)}catch(e){}}function M(e){var t;!function(e){var t=e.src,i=e.async,n=void 0===i||i,r=e.onload,o=e.onerror,d=e.sri,a=e.scriptDataAttributes,s=void 0===a?{}:a,u=document.createElement("script"),l=document.querySelector("head"),c=document.querySelector("body");if(u.async=n,u.src=t,d&&(u.integrity=d,u.crossOrigin="anonymous"),s)for(var p in s)if(Object.prototype.hasOwnProperty.call(s,p))try{u.dataset[p]=s[p]}catch(e){}if(r&&u.addEventListener("load",r),o&&u.addEventListener("error",o),l)l.appendChild(u);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(u)}}({src:O,async:!0,onload:I,onerror:e,sri:(t=k,"string"==typeof t&&/^sha384-[A-Za-z0-9+/=]+$/.test(t)?k:""),scriptDataAttributes:h})}function R(e){E("script_append_failed",D(e))}function D(e){return e instanceof Error?e.message:"Unknown error"}}}();wpmLoader({shopId: 75471356203,storefrontBaseUrl: "https://centr.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://centr.com/.well-known/shopify/monorail/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["d5bdd5d0","873d0e44"],webPixelsConfigList: [{"id":"4144529777","configuration":"{\"mntnAID\":\"72081\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"b8ecc2eedc793aefdb0d20e94c7addf0","type":"APP","apiClientId":27490025473,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"3883041137","configuration":"{\"account_ID\":\"1102918\",\"google_analytics_tracking_tag\":\"1\",\"measurement_id\":\"2\",\"api_secret\":\"3\",\"shop_settings\":\"{\\\"custom_pixel_script\\\":\\\"https:\\\\\\\/\\\\\\\/storage.googleapis.com\\\\\\\/gsf-scripts\\\\\\\/custom-pixels\\\\\\\/centrllc.js\\\",\\\"allow_tracking\\\":false,\\\"enable_post_purchase\\\":false,\\\"ga4_enabled\\\":\\\"-1\\\",\\\"ga4_measurement_id\\\":\\\"\\\",\\\"ga4_tag_id\\\":\\\"\\\",\\\"ga4_submit_subtotal\\\":1,\\\"google_ads_enabled\\\":\\\"-1\\\",\\\"ga_conversion_id\\\":\\\"\\\",\\\"ga_purchase_label\\\":\\\"\\\",\\\"ga_add_to_cart_label\\\":\\\"\\\",\\\"ga_begin_checkout_label\\\":\\\"\\\",\\\"ga_tag_id\\\":\\\"\\\",\\\"ga_submit_subtotal\\\":0,\\\"drm_enabled\\\":\\\"-1\\\",\\\"prefixD\\\":\\\"US\\\",\\\"google_merchant_id\\\":\\\"5088939386\\\",\\\"target_country\\\":\\\"US\\\",\\\"content_language\\\":\\\"en\\\",\\\"enhace_conversion_browser_side\\\":false,\\\"enhace_conversion_server_side\\\":\\\"-1\\\",\\\"consent_mode\\\":\\\"-1\\\",\\\"ads_data_redaction\\\":\\\"-1\\\",\\\"url_passthrough\\\":\\\"1\\\",\\\"sku_as_product_id\\\":\\\"-1\\\",\\\"gtm_enabled\\\":0,\\\"gtm_container\\\":\\\"\\\",\\\"server_container_url\\\":\\\"\\\",\\\"shopify_store\\\":\\\"6d4bc49437a83795e8336ed7f88d9c9ac91a2d43f567a424377755a0b9a52fa8495ba838f10c77c6a75da6dccca0f9d4c1b690fe8b526ba25dd32c3421edc0a6\\\"}\"}","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"dbf16afd37d7bda963909dd4e886232e","type":"APP","apiClientId":1558137,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"3817505137","configuration":"{\"appSettingSchemaVersion\":\"2.0\",\"sdkUrl\":\"sdk.iad-05.braze.com\",\"sdkVersion\":\"5.4.0\",\"userTrackingBehavior\":\"on_visit\",\"apiKey\":\"a33793bc-a8cf-4a9b-9667-ec2a8f3de7fd\",\"shopDomain\":\"centrllc.myshopify.com\",\"features\":\"WEB_SDK_FEATURE,ACCOUNT_LOGIN_FEATURE,VIEW_PRODUCTS_FEATURE,PURCHASE_COMMERCE_EVENTS_FEATURE,IN_BROWSER_MESSAGES_FEATURE\",\"appEmbedEnabled\":\"true\",\"selectedExternalId\":\"custom-id\",\"customIdEndpoint\":\"https:\\\/\\\/api.centr.com\\\/v1\\\/braze\\\/external-id\",\"thirdPartyTagManagerEnabled\":\"false\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"621737688e1fb1b958ded93aeba2fad6","type":"APP","apiClientId":4371083,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"3120890225","configuration":"{\"accountID\":\"43197\",\"micrositeDomain\":\"partners.centr.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"9fae8f5cb0b9c97477ac364bb3772a0c","type":"APP","apiClientId":4862993,"privacyPurposes":["ANALYTICS"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"2836857201","configuration":"{\"shop\":\"centrllc.myshopify.com\",\"collect_url\":\"https:\\\/\\\/collect.bogos.io\\\/collect\",\"product_bundles_data\":\"[]\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e600227e82eecf3c70535e74ab6e30df","type":"APP","apiClientId":177733,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2734522737","configuration":"{\"accountID\":\"RxJ4RX\",\"webPixelConfig\":\"eyJlbmFibGVBZGRlZFRvQ2FydEV2ZW50cyI6IHRydWV9\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"c63c5b72c8d77be5f2d27d14c081da38","type":"APP","apiClientId":123074,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"2609152369","configuration":"{\"advertiserId\":\"60093\",\"shopDomain\":\"centrllc.myshopify.com\",\"appVersion\":\"shopifyApp_5.4.1\",\"originalNetwork\":\"sas\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"110308a0e5cef2680d096c831a6295ee","type":"APP","apiClientId":2887701,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2606662001","configuration":"{\"config\":\"{\\\"google_tag_ids\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\",\\\"GT-M6QBQJQC\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/ETmBCJ-axI8bEO_yl-FA\\\"]},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/xvrRCJSW048bEO_yl-FA\\\"]},{\\\"type\\\":\\\"remove_from_cart\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/KMOLCJGW048bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"add_shipping_info\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/A8HJCJyaxI8bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/MIynCI6W048bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"view_item_list\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/l3QwCJeW048bEO_yl-FA\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/8GNICKKaxI8bEO_yl-FA\\\"]},{\\\"type\\\":\\\"view_cart\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"a3321ca85cf5aaf6b57585fcd8d67b3a","type":"APP","apiClientId":1780363,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"2519269745","configuration":"{\"yotpoStoreId\":\"9MfAzMQifKGRlO7Lwid4oNdHtLHkupDzDomD3ZrD\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"c5c2579aac465eb24ca7bc0501a6000d","type":"APP","apiClientId":70132,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2432139633","configuration":"{\"shopId\":\"centrllc.myshopify.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"7093dff47f098f6de2afb75b62011ebe","type":"APP","apiClientId":2753413,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"1036452209","configuration":"{\"accountID\":\"6ab8d8ba357b47708a413551a8e1fe6e\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"23c8e03086c374c0b97c93580ddc9ec5","type":"APP","apiClientId":158237,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"657817899","configuration":"{\"pixel_id\":\"523848190219789\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"96420dbe9ea96c426a1b7f364f977719","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"226525483","configuration":"{\"ti\":\"97119803\",\"endpoint\":\"https:\/\/bat.bing.com\/action\/0\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"5ee93563fe31b11d2d65e2f09a5229dc","type":"APP","apiClientId":2997493,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"216007025","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"2","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"],"name":"Amplitude"},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0520","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0520","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"Centr","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"centrllc.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/centr.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"products":[{"id":"8468805878059","handle":"centr-3-sf3-home-gym-functional-trainer-with-selectorized-smith-bar","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62580229505393","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791066993","handle":"perform-series-rower","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323681649","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038099349803","handle":"centr-x-hyrox-competition-wall-ball","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52084852949361","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9648590913835","handle":"centr-weighted-vest-20lb","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49484946604331","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038111867179","handle":"centr-x-hyrox-competition-sandbag","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47959441801515","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9513028026667","handle":"centr-fusion-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49178556399915","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468806238507","handle":"centr-2-ftx-home-gym-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834687054123","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468806369579","handle":"centr-1-home-gym-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834687381803","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14622471160177","handle":"inspire-series-ft2-pro-smith-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51639578132849","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814134641","handle":"scs-smith-cage-system","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450813809","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814396785","handle":"ft1-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525451108721","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15312393470321","handle":"sf6-smith-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62639336227185","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15458909323633","handle":"centr-power-series-soft-round-kettlebell","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63249918787953","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468805517611","handle":"centr-5-25-lb-dumbbell-weight-set-with-rack","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834684432683","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814036337","handle":"50-lb-weight-stack-add-on","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450715505","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15474513314161","handle":"7-ft-chrome-olympic-bar","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63310071366001","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9031387709739","handle":"centr-hyrox-kettlebells","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52084828635505","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9034423730475","handle":"competition-interlocking-bumper-plates","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63559895646577","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791132529","handle":"centr-x-hyrox-perform-series-air-bike","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323747185","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791099761","handle":"perform-series-ski-machine","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323714417","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9665453719851","handle":"centr-runr-s","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49537763442987","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9665429012779","handle":"centr-runr-folding-treadmill","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52105503572337","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14630311461233","handle":"inspire-series-t5s-treadmill-15-6-screen","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51649248297329","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14622458315121","handle":"inspire-series-fid7-pro-adjustable-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51639569514865","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468804763947","handle":"centr-multi-adjustable-flat-incline-decline-workout-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834681680171","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9603626565931","handle":"centr-flat-incline-decline-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49380486086955","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9600857309483","handle":"centr-folding-workout-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49374948688171","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278813872497","handle":"scs-weight-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450584433","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9037932200235","handle":"centr-x-hyrox-competition-power-sled","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63566377976177","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9034444570923","handle":"centr-x-hyrox-competition-power-rope","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47947234771243","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038085062955","handle":"centr-x-hyrox-competition-rig-target","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47959309189419","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777365361","handle":"centr-app-annual","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214832021873","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942394675569","handle":"centr-app-annual-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298914054513","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777168753","handle":"centr-app-monthly","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214826680689","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942396969329","handle":"centr-app-monthly-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298926080369","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777234289","handle":"centr-app-quarterly","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214827893105","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942397002097","handle":"centr-app-quarterly-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298926113137","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]}],"purchasingCompany":null},},"https://centr.com/cdn","704e843dw38e170ffp88ffc213ma0cfcc05",{"modern":"","legacy":""},{"trekkieShim":true,"agentContext":true,"apiClientId":"580111","facebookCapiEnabled":"true","themeId":"196819878257","themePublished":"true","eventMetadataId":"191210dc-54ac-436a-ae70-79a0545a9bde","pageType":"home","shopId":"75471356203","storefrontBaseUrl":"https:\/\/centr.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"d5bdd5d0\", \"873d0e44\"]","isMerchantRequest":"false","hashVersion":"704e843dw38e170ffp88ffc213ma0cfcc05","publish":"custom","events":"[[\"page_viewed\",{}]]"});})();</script><script>
+<script>(function(){var wpmLoader=function(){"use strict";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,t=/bytedance/i;function i(){try{var e=document.cookie;if(!e||"string"!=typeof e)return;for(var t=0,i=e.split(";");t<i.length;t++){var n=i[t],r=n.indexOf("=");if(-1!==r){var o=n.slice(0,r).trim();if(o){var d=void 0;try{d=decodeURIComponent(o)}catch(e){d=o}if("_shopify_s"===d){var a=n.slice(r+1).trim();try{return decodeURIComponent(a)}catch(e){return a}}}}}return}catch(e){return}}function n(e){try{"undefined"!=typeof console&&"function"==typeof console.warn&&console.warn(e)}catch(e){}}function r(e,t){return"string"==typeof e&&e.length>0&&e.length<=t?e:void 0}function o(e){var t;switch(null==(t=null==e?void 0:e.navigation)?void 0:t.type){case 0:return"navigate";case 1:return"reload";case 2:return"back_forward";default:return}}function d(){var e,t,i;try{var n=null==(i=null==(t=null==(e=self.ShopifyAnalytics)?void 0:e.lib)?void 0:t.trekkie)?void 0:i.state;return"awaiting-consent"===n||"initialized"===n?n:void 0}catch(e){return}}return function(a,s,u,l){var c,p,f,v,h=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},y=(p=(c={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(15\d|1[6-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(14[89]|1[5-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,f=c.legacy,(v=navigator.userAgent).match(e)?"bot":v.match(p)?"modern":v.match(f)?"legacy":v.match(t)?"bot":"unknown"),g=function(e){var t,i,n=r(e,128);try{var d=window.performance,a=null==(t=null==d?void 0:d.getEntriesByType)?void 0:t.call(d,"navigation")[0];if(!a)return{requestId:n,navigationType:o(d)};var s="type"in a?r(a.type,64):void 0,u="serverTiming"in a&&Array.isArray(a.serverTiming)?a.serverTiming:[];return{requestId:null!=n?n:r(null==(i=u.find(function(e){return"requestID"===e.name}))?void 0:i.description,128),navigationType:s}}catch(e){return{requestId:n}}}(h.requestId),m=function(e){var t=e.version,r=e.browserTarget,o=e.surface,d=e.shopId,a=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var u=e.status,l=e.errorMsg,c=e.failureReason,p=e.useKeepaliveFallback,f=void 0!==p&&p,v=e.navigationType,h=e.pagehidePersisted,y=e.requestId,g=e.trekkieState;if(a){var m,w;try{var b=(new Date).getTime();m=JSON.stringify({metadata:{event_sent_at_ms:b},events:[{schema_id:"web_pixels_manager_load/3.3",payload:{version:t,bundle_target:r,page_url:s,status:u,surface:o,error_msg:l,failure_reason:c,navigation_type:v,pagehide_persisted:h,request_id:y,trekkie_state:g,shop_id:d,visit_token:i()},metadata:{event_created_at_ms:b}}]})}catch(e){return}try{if("function"==typeof window.navigator.sendBeacon&&-1===(w=window.navigator.userAgent).indexOf("iPhone; CPU iPhone OS 12_")&&-1===w.indexOf("iPad; CPU OS 12_")&&-1===w.indexOf("iPod touch; CPU iPhone OS 12_")&&window.navigator.sendBeacon.bind(window.navigator)(a,m))return}catch(e){}if(f)try{"function"==typeof window.fetch&&window.fetch(a,{method:"POST",headers:{"Content-Type":"text/plain"},body:m,keepalive:!0}).catch(function(){})}catch(e){}else try{var P=new XMLHttpRequest;P.open("POST",a,!0),P.setRequestHeader("Content-Type","text/plain"),P.send(m)}catch(e){n("[Web Pixels Manager] Got an unhandled error while logging to Monorail.")}}else n("[Web Pixels Manager] No Monorail endpoint provided, skipping logging.")}}}({version:u,browserTarget:y,surface:a.surface,shopId:a.shopId,monorailEndpoint:a.monorailEndpoint});if(Boolean(null==(b=null==(w=window.Shopify)?void 0:w.analytics)?void 0:b.replayQueue))m.emit({status:"setup-skipped",errorMsg:"replay queue already initialized."});else{var w,b;m.emit({status:"setup-started"}),window.Shopify=window.Shopify||{};var P=window.Shopify;P.analytics=P.analytics||{};var _=P.analytics;_.replayQueue=[],_.publish=function(e,t,i){return _.replayQueue.push([e,t,i]),!0};try{self.performance.mark("wpm:start")}catch(e){}var S,C="modern"===y?"modern":"legacy",k=(null!=l?l:{modern:"",legacy:""})[C],O=[(S={baseUrl:s,hashVersion:u,buildTarget:C}).baseUrl,"/wpm","/b",S.hashVersion,"modern"===S.buildTarget?"m":"l",".js"].join(""),T=!1,A=!1;try{h.browserTarget=y,function(){T=!0;try{window.addEventListener("pagehide",U)}catch(e){T=!1}}(),M(function(){try{M(B)}catch(e){R(e)}}),m.emit({status:"loading",requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()})}catch(e){R(e)}}function I(){var e;if(q(),!function(){var e,t;return Boolean(null==(t=null==(e=window.Shopify)?void 0:e.analytics)?void 0:t.initialized)}()){var t,i,n;try{if("function"!=typeof(null==(e=window.webPixelsManager)?void 0:e.init))return void x();if(!(null!==(n=i=t=window.webPixelsManager.init(a))&&"function"!=typeof n&&Object(n)===n&&"publish"in i&&"function"==typeof i.publish&&"publishCustomEvent"in i&&"function"==typeof i.publishCustomEvent&&"visitor"in i&&"function"==typeof i.visitor))return void x()}catch(e){return void x(e)}var r=window.Shopify.analytics;r.replayQueue.forEach(function(e){var i=e[0],n=e[1],r=e[2];t.publishCustomEvent(i,n,r)}),r.replayQueue=[],r.publish=t.publishCustomEvent,r.visitor=t.visitor,r.initialized=!0}}function x(e){E("manager_api_unavailable",void 0===e?void 0:D(e))}function B(){E("script_load_failed","".concat(O," has failed to load"))}function E(e,t){A||(A=!0,q(),m.emit({status:"failed",errorMsg:t,failureReason:e,requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()}))}function U(e){T&&(q(),m.emit({status:"pagehide-while-loading",useKeepaliveFallback:!0,pagehidePersisted:e.persisted,requestId:g.requestId,navigationType:g.navigationType,trekkieState:d()}))}function q(){T=!1;try{window.removeEventListener("pagehide",U)}catch(e){}}function M(e){var t;!function(e){var t=e.src,i=e.async,n=void 0===i||i,r=e.onload,o=e.onerror,d=e.sri,a=e.scriptDataAttributes,s=void 0===a?{}:a,u=document.createElement("script"),l=document.querySelector("head"),c=document.querySelector("body");if(u.async=n,u.src=t,d&&(u.integrity=d,u.crossOrigin="anonymous"),s)for(var p in s)if(Object.prototype.hasOwnProperty.call(s,p))try{u.dataset[p]=s[p]}catch(e){}if(r&&u.addEventListener("load",r),o&&u.addEventListener("error",o),l)l.appendChild(u);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(u)}}({src:O,async:!0,onload:I,onerror:e,sri:(t=k,"string"==typeof t&&/^sha384-[A-Za-z0-9+/=]+$/.test(t)?k:""),scriptDataAttributes:h})}function R(e){E("script_append_failed",D(e))}function D(e){return e instanceof Error?e.message:"Unknown error"}}}();wpmLoader({shopId: 75471356203,storefrontBaseUrl: "https://centr.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://centr.com/.well-known/shopify/monorail/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["d5bdd5d0","873d0e44"],webPixelsConfigList: [{"id":"4144529777","configuration":"{\"mntnAID\":\"72081\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"b8ecc2eedc793aefdb0d20e94c7addf0","type":"APP","apiClientId":27490025473,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"3883041137","configuration":"{\"account_ID\":\"1102918\",\"google_analytics_tracking_tag\":\"1\",\"measurement_id\":\"2\",\"api_secret\":\"3\",\"shop_settings\":\"{\\\"custom_pixel_script\\\":\\\"https:\\\\\\\/\\\\\\\/storage.googleapis.com\\\\\\\/gsf-scripts\\\\\\\/custom-pixels\\\\\\\/centrllc.js\\\",\\\"allow_tracking\\\":false,\\\"enable_post_purchase\\\":false,\\\"ga4_enabled\\\":\\\"-1\\\",\\\"ga4_measurement_id\\\":\\\"\\\",\\\"ga4_tag_id\\\":\\\"\\\",\\\"ga4_submit_subtotal\\\":1,\\\"google_ads_enabled\\\":\\\"-1\\\",\\\"ga_conversion_id\\\":\\\"\\\",\\\"ga_purchase_label\\\":\\\"\\\",\\\"ga_add_to_cart_label\\\":\\\"\\\",\\\"ga_begin_checkout_label\\\":\\\"\\\",\\\"ga_tag_id\\\":\\\"\\\",\\\"ga_submit_subtotal\\\":0,\\\"drm_enabled\\\":\\\"-1\\\",\\\"prefixD\\\":\\\"US\\\",\\\"google_merchant_id\\\":\\\"5088939386\\\",\\\"target_country\\\":\\\"US\\\",\\\"content_language\\\":\\\"en\\\",\\\"enhace_conversion_browser_side\\\":false,\\\"enhace_conversion_server_side\\\":\\\"-1\\\",\\\"consent_mode\\\":\\\"-1\\\",\\\"ads_data_redaction\\\":\\\"-1\\\",\\\"url_passthrough\\\":\\\"1\\\",\\\"sku_as_product_id\\\":\\\"-1\\\",\\\"gtm_enabled\\\":0,\\\"gtm_container\\\":\\\"\\\",\\\"server_container_url\\\":\\\"\\\",\\\"shopify_store\\\":\\\"6d4bc49437a83795e8336ed7f88d9c9ac91a2d43f567a424377755a0b9a52fa8495ba838f10c77c6a75da6dccca0f9d4c1b690fe8b526ba25dd32c3421edc0a6\\\"}\"}","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"dbf16afd37d7bda963909dd4e886232e","type":"APP","apiClientId":1558137,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"3817505137","configuration":"{\"appSettingSchemaVersion\":\"2.0\",\"sdkUrl\":\"sdk.iad-05.braze.com\",\"sdkVersion\":\"5.4.0\",\"userTrackingBehavior\":\"on_visit\",\"apiKey\":\"a33793bc-a8cf-4a9b-9667-ec2a8f3de7fd\",\"shopDomain\":\"centrllc.myshopify.com\",\"features\":\"WEB_SDK_FEATURE,ACCOUNT_LOGIN_FEATURE,VIEW_PRODUCTS_FEATURE,PURCHASE_COMMERCE_EVENTS_FEATURE,IN_BROWSER_MESSAGES_FEATURE\",\"appEmbedEnabled\":\"true\",\"selectedExternalId\":\"custom-id\",\"customIdEndpoint\":\"https:\\\/\\\/api.centr.com\\\/v1\\\/braze\\\/external-id\",\"thirdPartyTagManagerEnabled\":\"false\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"3e44033433f874400c47b6e200ce65ab","type":"APP","apiClientId":4371083,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"3120890225","configuration":"{\"accountID\":\"43197\",\"micrositeDomain\":\"partners.centr.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"9fae8f5cb0b9c97477ac364bb3772a0c","type":"APP","apiClientId":4862993,"privacyPurposes":["ANALYTICS"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"2836857201","configuration":"{\"shop\":\"centrllc.myshopify.com\",\"collect_url\":\"https:\\\/\\\/collect.bogos.io\\\/collect\",\"product_bundles_data\":\"[]\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e600227e82eecf3c70535e74ab6e30df","type":"APP","apiClientId":177733,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2734522737","configuration":"{\"accountID\":\"RxJ4RX\",\"webPixelConfig\":\"eyJlbmFibGVBZGRlZFRvQ2FydEV2ZW50cyI6IHRydWV9\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"c63c5b72c8d77be5f2d27d14c081da38","type":"APP","apiClientId":123074,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"2609152369","configuration":"{\"advertiserId\":\"60093\",\"shopDomain\":\"centrllc.myshopify.com\",\"appVersion\":\"shopifyApp_5.4.1\",\"originalNetwork\":\"sas\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"110308a0e5cef2680d096c831a6295ee","type":"APP","apiClientId":2887701,"privacyPurposes":["ANALYTICS","MARKETING"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2606662001","configuration":"{\"config\":\"{\\\"google_tag_ids\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\",\\\"GT-M6QBQJQC\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/ETmBCJ-axI8bEO_yl-FA\\\"]},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/xvrRCJSW048bEO_yl-FA\\\"]},{\\\"type\\\":\\\"remove_from_cart\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/KMOLCJGW048bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"add_shipping_info\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/A8HJCJyaxI8bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/MIynCI6W048bEO_yl-FA\\\",\\\"MC-0VJZESX2PB\\\"]},{\\\"type\\\":\\\"view_item_list\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/l3QwCJeW048bEO_yl-FA\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-0736K5NRYF\\\",\\\"AW-17383684463\\\/8GNICKKaxI8bEO_yl-FA\\\"]},{\\\"type\\\":\\\"view_cart\\\",\\\"action_label\\\":\\\"G-0736K5NRYF\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"a3321ca85cf5aaf6b57585fcd8d67b3a","type":"APP","apiClientId":1780363,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"2519269745","configuration":"{\"yotpoStoreId\":\"9MfAzMQifKGRlO7Lwid4oNdHtLHkupDzDomD3ZrD\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"c5c2579aac465eb24ca7bc0501a6000d","type":"APP","apiClientId":70132,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"2432139633","configuration":"{\"shopId\":\"centrllc.myshopify.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"7093dff47f098f6de2afb75b62011ebe","type":"APP","apiClientId":2753413,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"1036452209","configuration":"{\"accountID\":\"6ab8d8ba357b47708a413551a8e1fe6e\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"23c8e03086c374c0b97c93580ddc9ec5","type":"APP","apiClientId":158237,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"657817899","configuration":"{\"pixel_id\":\"523848190219789\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"96420dbe9ea96c426a1b7f364f977719","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"226525483","configuration":"{\"ti\":\"97119803\",\"endpoint\":\"https:\/\/bat.bing.com\/action\/0\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"5ee93563fe31b11d2d65e2f09a5229dc","type":"APP","apiClientId":2997493,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"216007025","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"2","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"],"name":"Amplitude"},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0520","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0520","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"Centr","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"centrllc.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/centr.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"products":[{"id":"8468805878059","handle":"centr-3-sf3-home-gym-functional-trainer-with-selectorized-smith-bar","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62580229505393","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791066993","handle":"perform-series-rower","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323681649","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038099349803","handle":"centr-x-hyrox-competition-wall-ball","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52084852949361","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9648590913835","handle":"centr-weighted-vest-20lb","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49484946604331","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038111867179","handle":"centr-x-hyrox-competition-sandbag","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47959441801515","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9513028026667","handle":"centr-fusion-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49178556399915","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468806238507","handle":"centr-2-ftx-home-gym-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834687054123","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468806369579","handle":"centr-1-home-gym-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834687381803","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14622471160177","handle":"inspire-series-ft2-pro-smith-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51639578132849","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814134641","handle":"scs-smith-cage-system","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450813809","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814396785","handle":"ft1-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525451108721","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15312393470321","handle":"sf6-smith-functional-trainer","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62639336227185","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15458909323633","handle":"centr-power-series-soft-round-kettlebell","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63249918787953","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468805517611","handle":"centr-5-25-lb-dumbbell-weight-set-with-rack","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834684432683","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278814036337","handle":"50-lb-weight-stack-add-on","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450715505","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15474513314161","handle":"7-ft-chrome-olympic-bar","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63310071366001","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9031387709739","handle":"centr-hyrox-kettlebells","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52084828635505","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9034423730475","handle":"competition-interlocking-bumper-plates","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63559895646577","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791132529","handle":"centr-x-hyrox-perform-series-air-bike","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323747185","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15508791099761","handle":"perform-series-ski-machine","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63450323714417","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9665453719851","handle":"centr-runr-s","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49537763442987","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9665429012779","handle":"centr-runr-folding-treadmill","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"52105503572337","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14630311461233","handle":"inspire-series-t5s-treadmill-15-6-screen","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51649248297329","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"14622458315121","handle":"inspire-series-fid7-pro-adjustable-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"51639569514865","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"8468804763947","handle":"centr-multi-adjustable-flat-incline-decline-workout-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"45834681680171","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9603626565931","handle":"centr-flat-incline-decline-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49380486086955","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9600857309483","handle":"centr-folding-workout-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"49374948688171","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15278813872497","handle":"scs-weight-bench","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"62525450584433","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9037932200235","handle":"centr-x-hyrox-competition-power-sled","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"63566377976177","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9034444570923","handle":"centr-x-hyrox-competition-power-rope","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47947234771243","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"9038085062955","handle":"centr-x-hyrox-competition-rig-target","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"47959309189419","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777365361","handle":"centr-app-annual","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214832021873","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942394675569","handle":"centr-app-annual-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298914054513","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777168753","handle":"centr-app-monthly","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214826680689","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942396969329","handle":"centr-app-monthly-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298926080369","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15913777234289","handle":"centr-app-quarterly","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64214827893105","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]},{"id":"15942397002097","handle":"centr-app-quarterly-with-free-trial","isCollective":null,"title":null,"type":null,"untranslatedTitle":null,"url":null,"vendor":null,"remoteShopId":null,"variants":[{"id":"64298926113137","image":null,"price":null,"sku":null,"title":null,"untranslatedTitle":null}]}],"purchasingCompany":null},},"https://centr.com/cdn","d761896cw652752b9p53817278m7665fce0",{"modern":"","legacy":""},{"trekkieShim":true,"agentContext":true,"apiClientId":"580111","facebookCapiEnabled":"true","themeId":"196819878257","themePublished":"true","eventMetadataId":"9855c446-77b4-439a-92c8-0651b53598bb","pageType":"home","shopId":"75471356203","storefrontBaseUrl":"https:\/\/centr.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"d5bdd5d0\", \"873d0e44\"]","isMerchantRequest":"false","hashVersion":"d761896cw652752b9p53817278m7665fce0","publish":"custom","events":"[[\"page_viewed\",{}]]"});})();</script><script>
   window.ShopifyAnalytics = window.ShopifyAnalytics || {};
   window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
   window.ShopifyAnalytics.meta.currency = 'USD';
-  var meta = {"page":{"pageType":"home","requestId":"6bf9e8d4-2dba-464a-9b42-d71a82d0069e-1789040381"}};
+  var meta = {"page":{"pageType":"home","requestId":"b4f27294-18eb-494d-8556-be5b055a2ed5-1789126846"}};
   for (var attr in meta) {
     window.ShopifyAnalytics.meta[attr] = meta[attr];
   }
@@ -1046,20 +1145,20 @@ script.onerror = function(e) {
       theme_id: 196819878257,
       app_name: "storefront",
       context_url: window.location.href,
-      source_url: "//centr.com/cdn/s/trekkie.storefront.34e5b6e48fd714ac41d842bf0cb1919ead47d25b.min.js"});
+      source_url: "//centr.com/cdn/s/trekkie.storefront.97b21d0442b56be8dbfe53e512498600181c173e.min.js"});
 
   };
   scriptFallback.async = true;
-  scriptFallback.src = '//centr.com/cdn/s/trekkie.storefront.34e5b6e48fd714ac41d842bf0cb1919ead47d25b.min.js';
+  scriptFallback.src = '//centr.com/cdn/s/trekkie.storefront.97b21d0442b56be8dbfe53e512498600181c173e.min.js';
   first.parentNode.insertBefore(scriptFallback, first);
 };
 script.async = true;
-script.src = '//centr.com/cdn/s/trekkie.storefront.34e5b6e48fd714ac41d842bf0cb1919ead47d25b.min.js';
+script.src = '//centr.com/cdn/s/trekkie.storefront.97b21d0442b56be8dbfe53e512498600181c173e.min.js';
 first.parentNode.insertBefore(script, first);
 
     };
     trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":75471356203,"isMerchantRequest":null,"themeId":196819878257,"themeCityHash":"11403202725503450103","contentLanguage":"en","currency":"USD","eventMetadataId":"191210dc-54ac-436a-ae70-79a0545a9bde"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["b5387b81","d5bdd5d0"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":75471356203,"isMerchantRequest":null,"themeId":196819878257,"themeCityHash":"4023014636670759748","contentLanguage":"en","currency":"USD","eventMetadataId":"9855c446-77b4-439a-92c8-0651b53598bb"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["b5387b81","d5bdd5d0"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
     );
 
     var loaded = false;
@@ -1082,7 +1181,7 @@ first.parentNode.insertBefore(script, first);
       }
     });
 
-    window.ShopifyAnalytics.lib.page(null,{"pageType":"home","requestId":"6bf9e8d4-2dba-464a-9b42-d71a82d0069e-1789040381","shopifyEmitted":true});
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home","requestId":"b4f27294-18eb-494d-8556-be5b055a2ed5-1789126846","shopifyEmitted":true});
 
     var eventsListenerScript = document.createElement('script');
     eventsListenerScript.async = true;
@@ -1094,7 +1193,7 @@ first.parentNode.insertBefore(script, first);
   src="https://centr.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.8.10.min.js"
   data-application="storefront-renderer"
   data-shop-id="75471356203"
-  data-render-region="gcp-us-central1"
+  data-render-region="gcp-us-west1"
   data-page-type="index"
   data-theme-instance-id="196819878257"
   data-theme-name="on/Sight Base Theme"
@@ -1107,7 +1206,7 @@ first.parentNode.insertBefore(script, first);
   data-shs-logs-sample-rate="1"
   data-shs-beacon-endpoint="https://centr.com/api/collect"
 ></script>
-<meta name="shopify-y" content="00000000-0000-0000-5000-000000000000" data-expiration="1820597981000"><meta name="shopify-s" content="00000000-0000-0000-5000-000000000000" data-expiration="1789042181000"><meta name="new-cookie-storage-activated" content="f">
+<meta name="shopify-y" content="00000000-0000-0000-5000-000000000000" data-expiration="1820684447000"><meta name="shopify-s" content="00000000-0000-0000-5000-000000000000" data-expiration="1789128647000"><meta name="new-cookie-storage-activated" content="f">
 </head>
 
   <body
@@ -17753,7 +17852,7 @@ text-left text-inherit "
         <span
           role="img"
           class="flex items-center gap-px"
-          aria-label="4.9 out of 5 stars"
+          aria-label="5.0 out of 5 stars"
         ><!-- snippets/icon (star) [aa/ja] -->
 
   <svg
@@ -17844,7 +17943,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(20)</span></div>
+</span><span class="text-caption">(21)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">Centr Multi-Adjustable Flat, Incline, Decline Workout Bench</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -18606,7 +18705,7 @@ text-left text-inherit "
         <span
           role="img"
           class="flex items-center gap-px"
-          aria-label="4.9 out of 5 stars"
+          aria-label="5.0 out of 5 stars"
         ><!-- snippets/icon (star) [aa/ja] -->
 
   <svg
@@ -18697,7 +18796,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(20)</span></div>
+</span><span class="text-caption">(21)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">Centr Multi-Adjustable Flat, Incline, Decline Workout Bench</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -19370,7 +19469,7 @@ text-left text-inherit "
         <span
           role="img"
           class="flex items-center gap-px"
-          aria-label="4.9 out of 5 stars"
+          aria-label="5.0 out of 5 stars"
         ><!-- snippets/icon (star) [aa/ja] -->
 
   <svg
@@ -19461,7 +19560,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(20)</span></div>
+</span><span class="text-caption">(21)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">Centr Multi-Adjustable Flat, Incline, Decline Workout Bench</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -20339,7 +20438,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(39)</span></div>
+</span><span class="text-caption">(40)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">HYROX Official Competition Power Sled</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -21250,7 +21349,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(39)</span></div>
+</span><span class="text-caption">(40)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">HYROX Official Competition Power Sled</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -22072,7 +22171,7 @@ text-left text-inherit "
 
 
 
-</span><span class="text-caption">(39)</span></div>
+</span><span class="text-caption">(40)</span></div>
     <h3 class="font-suisse line-clamp-2 text-[16px] leading-[1.05] font-bold uppercase lg:text-[22px]">HYROX Official Competition Power Sled</h3><p class="text-body-small lg:text-body flex items-center gap-2">
         <!-- snippets/product-price -->
 
@@ -24962,7 +25061,7 @@ text-left text-inherit  "
         <label
           for="newsletter-email-AYTZ3NjhYTWxycVZpb__form"
           class="sr-only"
-        ><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="96eff9e3e4f3fbf7fffad6f3eef7fbe6faf3b8f5f9fb">[email&#160;protected]</a></label>
+        ><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d4adbba1a6b1b9b5bdb894b1acb5b9a4b8b1fab7bbb9">[email&#160;protected]</a></label>
 
         <input
           id="newsletter-email-AYTZ3NjhYTWxycVZpb__form"
@@ -26080,7 +26179,7 @@ WHERE THE STRONG GET STRONGER.</p></div><div class="lg:mt-auto">
 
 
 <a
-  href="/pages/privacy-policy"
+  href="/pages/data-sharing-opt-out"
   class="group/navlink flex items-center justify-between gap-4 text-sm leading-[1.4] font-medium transition-[color,transform,translate] lg:hover:translate-x-1 lg:focus-visible:translate-x-1 text-sand-lightest hover:text-white "
 >
   <span>Your Privacy Choices</span>
@@ -26109,6 +26208,31 @@ WHERE THE STRONG GET STRONGER.</p></div><div class="lg:mt-auto">
   class="group/navlink flex items-center justify-between gap-4 text-sm leading-[1.4] font-medium transition-[color,transform,translate] lg:hover:translate-x-1 lg:focus-visible:translate-x-1 text-sand-lightest hover:text-white "
 >
   <span>Data Requests</span>
+  <!-- snippets/icon (arrow-ne) [aa/ja] -->
+
+  <svg
+    aria-hidden="true"
+    focusable="false"
+    class="icon icon-arrow-ne h-[11px] w-auto shrink-0 text-yellow transition-opacity lg:group-hover/navlink:opacity-100 lg:group-focus-visible/navlink:opacity-100 hidden lg:block lg:opacity-0
+"
+    viewBox="0 0 14 14"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path d="M4 10L10 4M10 4H5M10 4V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </svg>
+
+
+
+</a>
+</li><li class="py-1.25"><!-- snippets/menu-link.liquid [06/26 alex] -->
+
+
+<a
+  href="/pages/us-states-privacy-notice"
+  class="group/navlink flex items-center justify-between gap-4 text-sm leading-[1.4] font-medium transition-[color,transform,translate] lg:hover:translate-x-1 lg:focus-visible:translate-x-1 text-sand-lightest hover:text-white "
+>
+  <span>U.S. States Privacy Notice</span>
   <!-- snippets/icon (arrow-ne) [aa/ja] -->
 
   <svg
@@ -26415,7 +26539,7 @@ text-center text-inherit "
 ></script>
 
 
-  <script src="//centr.com/cdn/shop/t/143/assets/main.bundle.js?v=88821698228336321231788981693" type="module" crossorigin="anonymous"></script>
+  <script src="//centr.com/cdn/shop/t/143/assets/main.bundle.js?v=93301358519164210921789078864" type="module" crossorigin="anonymous"></script>
   <link rel="modulepreload" href="//centr.com/cdn/shop/t/143/assets/rolldown-runtime-C0wvCr6n.bundle.js" crossorigin="anonymous">
   <link rel="modulepreload" href="//centr.com/cdn/shop/t/143/assets/libs-BxPjWTRx.bundle.js" crossorigin="anonymous">
   <link rel="modulepreload" href="//centr.com/cdn/shop/t/143/assets/gsap-C4w9y35_.bundle.js" crossorigin="anonymous">
@@ -27173,7 +27297,8 @@ text-center text-inherit "
 </div>
 <!-- END sections: global-modals -->
     </div>
-  <div id="shopify-block-AYVh2eG5seWR6K0EzZ__6141582171523228424" class="shopify-block shopify-app-block"><script src="//cdn.shopify.com/extensions/01a01005-b054-7554-b0da-ad489ce752d8/24-45b8e937af29a92c675cf5fa8ed27d745e0abcfd/assets/BrazeUtilities.js" type="text/javascript"></script>
+  <div id="shopify-block-AYVh2eG5seWR6K0EzZ__6141582171523228424" class="shopify-block shopify-app-block"><script src="//cdn.shopify.com/extensions/01a08b77-1b22-7c79-8a0c-cbf5f2d7ed37/26-af055cb7b6ec96cbe813cded75105cbeb1a4df7c/assets/BrazeUtilities.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/extensions/01a08b77-1b22-7c79-8a0c-cbf5f2d7ed37/26-af055cb7b6ec96cbe813cded75105cbeb1a4df7c/assets/BrazeBannerScript.js" type="text/javascript"></script>
 
 <script type="text/javascript">
   const brazeWebSDKPoller = setInterval(()=>{
@@ -27181,7 +27306,7 @@ text-center text-inherit "
     // if the conditional is true, but readValueFromLocalStorageWithRetry doesn't exist, we should retry
     // if the conditional is true and readValueFromLocalStorageWithRetry exists we should load the script and clear the interval
     readValueFromLocalStorageWithRetry('brazeAppSettings').then((data) => {
-      loadScriptTag("https://cdn.shopify.com/extensions/01a01005-b054-7554-b0da-ad489ce752d8/24-45b8e937af29a92c675cf5fa8ed27d745e0abcfd/assets/BrazeWebSdkScript.js", "module");
+      loadScriptTag("https://cdn.shopify.com/extensions/01a08b77-1b22-7c79-8a0c-cbf5f2d7ed37/26-af055cb7b6ec96cbe813cded75105cbeb1a4df7c/assets/BrazeWebSdkScript.js", "module");
     });
     clearInterval(brazeWebSDKPoller);
   }, 2000)
