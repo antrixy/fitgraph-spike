@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:34:05.345Z",
+  "fetched_at": "2026-09-12T10:58:22.555Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 6194870,
-    "score": 4.554908,
+    "score": 4.5544777,
     "scoreText": "4.6",
-    "ratings": 58096,
-    "reviews": 8644,
+    "ratings": 58137,
+    "reviews": 8649,
     "histogram": {
-      "1": 2370,
-      "2": 1165,
-      "3": 2257,
-      "4": 8355,
-      "5": 43942
+      "1": 2385,
+      "2": 1182,
+      "3": 2216,
+      "4": 8362,
+      "5": 43981
     },
     "price": 0,
     "free": true,
@@ -86,9 +86,9 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Jul 13, 2016",
-    "updated": 1788477288000,
+    "updated": 1789144656000,
     "version": "VARY",
-    "recentChanges": "Bug fixes and design polish to improve user experience. Thank you for using our app!",
+    "recentChanges": "We’re excited to announce that our app is now available in Brazilian Portuguese. We’ve also fixed bugs affecting our Health Connect integration.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

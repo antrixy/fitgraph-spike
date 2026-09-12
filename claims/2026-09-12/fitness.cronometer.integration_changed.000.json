@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.cronometer",
+  "integration": "health_connect",
+  "direction": "added",
+  "observed_at": "2026-09-12T10:58:22.555Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "We’re excited to announce that our app is now available in Brazilian Portuguese. We’ve also fixed bugs affecting our Health Connect integration.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

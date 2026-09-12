@@ -1,0 +1,19 @@
+{
+  "product": "fitness.loseit",
+  "name": "Lose It!",
+  "date": "2026-09-12",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
+      "prev_fetched_at": "2026-09-11T11:33:54.372Z",
+      "curr_fetched_at": "2026-09-12T10:58:10.784Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "18.4.800",
+          "new": "18.5.100"
+        }
+      ]
+    }
+  }
+}

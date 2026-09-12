@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:38:49.960Z",
+  "fetched_at": "2026-09-12T11:02:53.445Z",
   "source": "google_play_scraper",
   "appId": "com.trainerroad.android.production",
   "result": {
@@ -13,7 +13,7 @@
     "score": 4.7527676,
     "scoreText": "4.8",
     "ratings": 9220,
-    "reviews": 666,
+    "reviews": 667,
     "histogram": {
       "1": 168,
       "2": 101,

@@ -1,0 +1,13 @@
+{
+  "product": "fitness.myfitnesspal",
+  "name": "MyFitnessPal",
+  "date": "2026-09-12",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
+      "prev_fetched_at": "2026-09-11T11:33:45.481Z",
+      "curr_fetched_at": "2026-09-12T10:58:03.046Z",
+      "version_unreported": true
+    }
+  }
+}

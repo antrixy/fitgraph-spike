@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:38:35.987Z",
+  "fetched_at": "2026-09-12T11:02:43.310Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 1875788,
     "score": 4.1793613,
     "scoreText": "4.2",
-    "ratings": 33382,
+    "ratings": 33381,
     "reviews": 2022,
     "histogram": {
       "1": 3361,
       "2": 1720,
-      "3": 2210,
-      "4": 4342,
-      "5": 21730
+      "3": 2211,
+      "4": 4343,
+      "5": 21733
     },
     "price": 0,
     "free": true,
@@ -52,12 +52,13 @@
     "icon": "https://play-lh.googleusercontent.com/L7SzitbvWNI92ZbHGgs0SzolH5DIHuClWUqzHMJj36Wtu-cC5f45C-2bUy2kQUUB9YcxG7Y_8qCGHqe4OocvEQ",
     "headerImage": "https://play-lh.googleusercontent.com/Y29NWWPnQwib8SHGf1v-oCl1hzYWnje31ZRTiMwKlwIOxzmi6hW8Wm1IAuID2NXapX2582BDlnDYPIf5xgIDxvs",
     "screenshots": [
-      "https://play-lh.googleusercontent.com/WXjI7GJmCEwIfvutLQF8cEwrm9xCTjrnwvKNSMS6I45TzKVeaOqnW1MQzjz0A6fecDDMNvxrqr_BgBKVHYCqGyc",
-      "https://play-lh.googleusercontent.com/XQBk1np1wXwwHnEb1UbKXkDRY2JRn5ghi9lg0l6FWGgwnBpq7TDwyy1a4_VpQGBghRmwkoiYW55oo4R_3yWbEg",
-      "https://play-lh.googleusercontent.com/ZudwSPAccjkxtcfQ6JBLKMvbvh_cVkz_NMs-vQJhInYlpBI3NKMokPJPPcelIR46qKjnp2AjgOg100jYZkWd",
-      "https://play-lh.googleusercontent.com/5o9GZ7XwqmaJsvuRdUzNV7s_DfjSlnr3GSKOP0d4FCok8HEN0oBhV4gE_olI2--a1dObxzklXr_0WVjX-NFwTA",
-      "https://play-lh.googleusercontent.com/4X5ZwMXlD6FvN0_0Tt_ZxcsODZHSJ-pObpd7_Vs-vPLUdIyZ9UY-rYkYgnErwe5VURmLsTWwvVGTmmrrbr6CTA",
-      "https://play-lh.googleusercontent.com/wCe_WKr-o5oNQmvAxIJhGcKJbySCVxjoAUhfz8Mpn7CXikVJNgXX-xtH4ARTMCIYfzduUFkbjtrEWYSiVM_YtA"
+      "https://play-lh.googleusercontent.com/qtt1BLKdDQZfAA3N6Q-PAaTPuTrHmzBMjA2N1CLlQ0FjioG8iwFsbBhA5UKXjD1WW89RAWmSM20orcfJqRJEUA",
+      "https://play-lh.googleusercontent.com/86HqDidF3SW2tJXUIXRhEFV56QbUsPBsf8y9c6v8dHm1uu-cSJ1KTEWMAJO58HhovPBLp1ZBZWxWOQfNRRQKQA",
+      "https://play-lh.googleusercontent.com/Lh8OirDLg-LMSVIpj03npEamr96eaBTUNh1ZV9XIYilhvMYB8m51VpykT4JshGzXGd12T5AKBn1X1L1sXe1iMQ",
+      "https://play-lh.googleusercontent.com/E2oxvlyipTgAo8p4FsR4JQGxp3q9BmBzS_P72gX3P5gKmy_9aO4qoggK3YriboPCQ-vCZMkj3sIQNUDhVWGKtw",
+      "https://play-lh.googleusercontent.com/Wzol2DPBWUj9TB1TVEVzu0IUpFBlrhSsHnQ7T65Yb9Y2oeip1TPDuNUq1b4QzuWvXd4pVjVPSLWa3_BiwDhJIQ",
+      "https://play-lh.googleusercontent.com/V4kxH3MKbSGWWQagsU5SxGjabjHFeOBNC2otTe8Adm6OZBuW_Dl9g7miZ2Pk9vQ8qYf9Fb6HiqVkvZol46PGyw",
+      "https://play-lh.googleusercontent.com/ay_XOZwzfa0eBOXYUu0I9cdrWuUqI42pFhe5cd3oC6hKNr9ISBRe-GvQV9CKuJ1UoCTfvr9bymnVzEuCpszUzA"
     ],
     "contentRating": "Everyone",
     "adSupported": false,

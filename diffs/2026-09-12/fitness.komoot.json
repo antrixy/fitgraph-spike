@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-09-12",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
+      "prev_fetched_at": "2026-09-11T11:39:08.368Z",
+      "curr_fetched_at": "2026-09-12T11:03:09.321Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.36.0",
+          "new": "2026.37.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- Forgot to stop your recording? You can now crop the start or end of your activity to trim it.\n\nBug fixes\n- Improved Apple Watch recording reliability and battery use, including repeated vibrations while paused.\n- Fixed several multi-day route issues and crashes.",
+          "new": "What's new?\n- The planner now remembers whether you chose \"Add to end\" or \"Add along the way\" for the next waypoint you add.\n- It's now easier to plan a route that retraces your steps.\n\nBug fixes\n- Fixed several translation and display issues.\n- Fixed an issue where the post-activity flow could become unresponsive."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
+      "prev_fetched_at": "2026-09-11T11:39:10.987Z",
+      "curr_fetched_at": "2026-09-12T11:03:10.903Z",
+      "version_unreported": true
+    }
+  }
+}

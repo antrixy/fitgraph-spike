@@ -1,0 +1,20 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-09-12",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "52d0835c6828dff1288d36cbbaececab2a65ea81",
+      "prev_fetched_at": "2026-09-11T11:37:42.478Z",
+      "curr_fetched_at": "2026-09-12T11:01:49.331Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "You can now turn off Activity Replay as your default map. Go to Settings &gt; Default Maps to switch it off.<br>",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>"
+        }
+      ]
+    }
+  }
+}
