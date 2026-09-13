@@ -1,0 +1,37 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-09-13",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7065540ad6dd5b5e3cc5bde8b56566ec459df3b8",
+      "prev_fetched_at": "2026-09-12T11:03:44.234Z",
+      "curr_fetched_at": "2026-09-13T12:12:34.687Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "7065540ad6dd5b5e3cc5bde8b56566ec459df3b8",
+      "curr_fetched_at": "2026-09-13T12:12:39.127Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Skip Navigation Celebrate 28 years of Google with sweet savings on the latest Google Pixel devices.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop birthday deals",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Skip Navigation",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 1
+    }
+  }
+}

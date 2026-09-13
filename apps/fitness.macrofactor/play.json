@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T10:58:36.579Z",
+  "fetched_at": "2026-09-13T12:07:06.466Z",
   "source": "google_play_scraper",
   "appId": "com.sbs.diet",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1504747,
-    "score": 4.738693,
+    "score": 4.737562,
     "scoreText": "4.7",
-    "ratings": 16707,
+    "ratings": 16719,
     "reviews": 1815,
     "histogram": {
-      "1": 565,
-      "2": 103,
-      "3": 314,
-      "4": 1152,
-      "5": 14566
+      "1": 561,
+      "2": 124,
+      "3": 310,
+      "4": 1141,
+      "5": 14576
     },
     "price": 0,
     "free": true,

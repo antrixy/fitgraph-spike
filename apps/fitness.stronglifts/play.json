@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T11:00:49.499Z",
+  "fetched_at": "2026-09-13T12:09:40.756Z",
   "source": "google_play_scraper",
   "appId": "com.stronglifts.app",
   "result": {
@@ -13,7 +13,7 @@
     "score": 4.3048277,
     "scoreText": "4.3",
     "ratings": 101211,
-    "reviews": 13971,
+    "reviews": 13972,
     "histogram": {
       "1": 15634,
       "2": 801,

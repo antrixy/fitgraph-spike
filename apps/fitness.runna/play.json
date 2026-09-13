@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T11:01:59.208Z",
+  "fetched_at": "2026-09-13T12:10:46.687Z",
   "source": "google_play_scraper",
   "appId": "com.runbuddy.prod",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3642217,
-    "score": 4.549696,
+    "score": 4.544534,
     "scoreText": "4.5",
-    "ratings": 32633,
+    "ratings": 32664,
     "reviews": 717,
     "histogram": {
-      "1": 2114,
-      "2": 787,
-      "3": 659,
-      "4": 2511,
-      "5": 26539
+      "1": 2115,
+      "2": 855,
+      "3": 660,
+      "4": 2506,
+      "5": 26512
     },
     "price": 0,
     "free": true,
