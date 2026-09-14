@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T12:07:41.687Z",
+  "fetched_at": "2026-09-14T13:04:56.495Z",
   "source": "google_play_scraper",
   "appId": "com.yazio.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Weight Loss w/o Dieting: Food, Diet &amp; Keto Tracker to Plan Meals &amp; Lose Weight",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 57831140,
-    "score": 4.413856,
+    "maxInstalls": 57946142,
+    "score": 4.4206204,
     "scoreText": "4.4",
-    "ratings": 860561,
+    "ratings": 860987,
     "reviews": 2743,
     "histogram": {
-      "1": 67463,
-      "2": 19591,
-      "3": 43069,
-      "4": 89417,
-      "5": 640866
+      "1": 65936,
+      "2": 19590,
+      "3": 42382,
+      "4": 91091,
+      "5": 641757
     },
     "price": 0,
     "free": true,

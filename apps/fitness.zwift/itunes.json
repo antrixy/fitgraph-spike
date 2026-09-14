@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T12:11:49.643Z",
+  "fetched_at": "2026-09-14T13:09:00.058Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1134655040&country=us",
   "result": {
@@ -21,10 +21,10 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/b6/3e69b68b-87ff-9e7b-e7c5-4aa170ef4ff7/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/512x512bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/b6/3e69b68b-87ff-9e7b-e7c5-4aa170ef4ff7/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/b6/3e69b68b-87ff-9e7b-e7c5-4aa170ef4ff7/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
+    "features": [
+      "iosUniversal"
+    ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -158,48 +158,48 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
-    "features": [
-      "iosUniversal"
-    ],
     "advisories": [],
     "kind": "software",
-    "averageUserRatingForCurrentVersion": 4.73621,
-    "sellerUrl": "http://www.zwift.com",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/b6/3e69b68b-87ff-9e7b-e7c5-4aa170ef4ff7/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/b6/3e69b68b-87ff-9e7b-e7c5-4aa170ef4ff7/AppIcon-0-0-1x_U007emarketing-0-5-sRGB-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/zwift-inc/id934083689?uo=4",
     "languageCodesISO2A": [
       "EN"
     ],
     "fileSizeBytes": "4021213184",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 21396,
+    "userRatingCountForCurrentVersion": 21399,
     "trackContentRating": "4+",
-    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.73621,
-    "sellerName": "Zwift, Inc",
-    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
-    "trackId": 1134655040,
-    "trackName": "Zwift: Indoor Cycling Fitness",
-    "artistId": 934083689,
-    "artistName": "Zwift, Inc",
+    "averageUserRatingForCurrentVersion": 4.7363,
+    "sellerUrl": "http://www.zwift.com",
+    "releaseNotes": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events: Mech Isle Mayhem, Urumaze, WhatYumeziWe'reLost?, and Twilight Crit.\nThe following running routes now have achievement badges and completion XP available: Jungle Circuit Run in Watopia (310 XP), Jungle Circuit Reverse Run in Watopia (310 XP), Whole Lotta Lava Run in Watopia (490 XP), Hilltop Hustle Run in Watopia (550 XP), Going Coastal Run in Watopia (660 XP), Road to Sky Run in Watopia (690 XP), and Seaside Sprint Run in Watopia (250 XP). \nThe following event-only routes now have achievement badges and completion XP available: Downtown Dolphin in Crit City (40 XP), LaGuardia Loop in New York (60 XP), The 6 Train Reverse in New York (130 XP), Glasgow Reverse in Scotland (60 XP)and ZG25 Climb Champs in London (100 XP).\nFixed an issue that could cause the virtual shifting style to change after disconnecting and reconnecting to a trainer.\nThe post-activity streak report now shows the correct running level after the first run of the week.\nRoute completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.\nFixed an issue that could cause Zwifters to face backwards in pre-event and race paddocks.",
     "genres": [
       "Health & Fitness"
     ],
+    "artistId": 934083689,
+    "artistName": "Zwift, Inc",
     "price": 0,
-    "bundleId": "com.zwift.ZwiftGame",
+    "trackId": 1134655040,
+    "trackName": "Zwift: Indoor Cycling Fitness",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013"
     ],
-    "releaseNotes": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events: Mech Isle Mayhem, Urumaze, WhatYumeziWe'reLost?, and Twilight Crit.\nThe following running routes now have achievement badges and completion XP available: Jungle Circuit Run in Watopia (310 XP), Jungle Circuit Reverse Run in Watopia (310 XP), Whole Lotta Lava Run in Watopia (490 XP), Hilltop Hustle Run in Watopia (550 XP), Going Coastal Run in Watopia (660 XP), Road to Sky Run in Watopia (690 XP), and Seaside Sprint Run in Watopia (250 XP). \nThe following event-only routes now have achievement badges and completion XP available: Downtown Dolphin in Crit City (40 XP), LaGuardia Loop in New York (60 XP), The 6 Train Reverse in New York (130 XP), Glasgow Reverse in Scotland (60 XP)and ZG25 Climb Champs in London (100 XP).\nFixed an issue that could cause the virtual shifting style to change after disconnecting and reconnecting to a trainer.\nThe post-activity streak report now shows the correct running level after the first run of the week.\nRoute completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.\nFixed an issue that could cause Zwifters to face backwards in pre-event and race paddocks.",
     "releaseDate": "2016-12-10T04:14:55Z",
+    "sellerName": "Zwift, Inc",
+    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-09-09T15:09:54Z",
     "version": "1.121.0",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Zwift: Indoor cycling made fun\n\nJoin millions of people on the app that makes indoor cycling fun for everyone.  Whether you’re a seasoned athlete or just starting, jump into virtual bike rides in immersive 3D worlds, challenge yourself on epic climbs, and explore endless roads. With racing, group rides, cycling workouts, and structured training plans, Zwift can deliver serious fitness results.\n\nConnect Your Bike\n\nSeamlessly connect your smart bike, like Zwift Ride, or your bike and smart trainer – including ones from Zwift, Wahoo, Garmin, and more – to your smartphone, tablet, or AppleTV, and start chasing your fitness goals from the comfort of your home.\n\nImmersive Virtual Worlds\n\nExplore over a hundred routes in 12 immersive, virtual worlds. Whether it's the epic climbs in Watopia or the serene beauty of the Scottish highlands, every ride is a new chance to explore.\n\nJoin a Global Community\n\nJoin a global community pulsing with energy and enthusiasm. Connect with friends, make new ones, and immerse yourself in group rides, races, and events. Track your stats and stay connected with friends, clubs, and the community—on and off the bike— with the Zwift Companion app. Zwift even connects to Strava, ensuring a seamless fitness tracking experience. \n\nIndoor Training Plans, Tailored to You\n\nOur world-class coaches and champion cyclists have crafted plans and workouts for every level. Whether you’re starting out or stepping it up, find your perfect plan. With flexible options, from quick 30-minute burns to long endurance rides, Zwift also has 1000s of on-demand workouts that fit your schedule and goals.\n\nRace Any Time Of Day\n\nRacing riders from around the world is one of the most effective ways to get fit. But don’t be intimidated! Zwift is home to the world’s largest community of competitors—from first-time racers to elite athletes—guaranteeing there’s a friendly challenge for everyone.\n\nRide and Run!\n\nNot just for cyclists, Zwift welcomes runners too. Sync your smart treadmill or footpod device — you can get our RunPod directly from Zwift—and step into the worlds of Zwift, where every walk or run gets you one step closer to your goals.\n\nJoin Zwift Today\n\nThere’s never been a better time to combine fun with real results. Download Zwift now and start from wherever you are with a free trial for first-time users.\n\nDownload today\nPlease see the Terms of Use at zwift.com/terms, and EULA at support.zwift.com/en_us/end-user-license-agreement-rymuiTZr",
+    "contentAdvisoryRating": "4+",
+    "averageUserRating": 4.7363,
+    "trackCensoredName": "Zwift: Indoor Cycling Fitness",
+    "trackViewUrl": "https://apps.apple.com/us/app/zwift-indoor-cycling-fitness/id1134655040?uo=4",
+    "bundleId": "com.zwift.ZwiftGame",
     "minimumOsVersion": "15.0",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "userRatingCount": 21396
+    "userRatingCount": 21399
   }
 }

@@ -1,0 +1,27 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "1797ec93ce1fbf1232fce751533045eec0270fc7",
+      "curr_fetched_at": "2026-09-14T13:07:15.344Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Alpha Progression · Strength Training App & Gym Tracker",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Alpha Progression · Gym Tracker & Workout Planner",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

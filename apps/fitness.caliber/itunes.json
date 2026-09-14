@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-09-13T12:09:19.378Z",
+  "fetched_at": "2026-09-14T13:06:34.280Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1482405410&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f9/ba/3ff9ba41-292f-5500-888e-033358c24c7a/App_Store__U00281242_x_2688_U0029_-1c.jpg/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/55/67/80556782-eaf4-fb63-2f87-78bb73bb3684/App_Store__U00281242_x_2688_U0029-2.jpg/320x480bb.jpg",
@@ -18,7 +19,7 @@
     "ipadScreenshotUrls": [],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3b/48/573b4823-71a5-fad0-9bec-1e0d85b78d97/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-    "isGameCenterEnabled": false,
+    "features": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -159,36 +160,36 @@
     "artistViewUrl": "https://apps.apple.com/us/developer/caliber-fitness-inc/id1482405409?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3b/48/573b4823-71a5-fad0-9bec-1e0d85b78d97/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3b/48/573b4823-71a5-fad0-9bec-1e0d85b78d97/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-    "features": [],
-    "averageUserRatingForCurrentVersion": 4.84109,
+    "minimumOsVersion": "15.1",
+    "currentVersionReleaseDate": "2026-09-08T14:35:31Z",
+    "fileSizeBytes": "70591488",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 5937,
+    "trackContentRating": "12+",
     "sellerUrl": "https://caliberstrong.com",
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "70591488",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 5934,
-    "trackContentRating": "12+",
-    "minimumOsVersion": "15.1",
-    "releaseNotes": "This release includes major infrastructure updates, improving reliability across devices, along with a few feature enhancements and bug fixes.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "averageUserRatingForCurrentVersion": 4.84117,
+    "artistId": 1482405409,
+    "artistName": "Caliber Fitness, Inc",
     "genres": [
       "Health & Fitness",
       "Lifestyle"
     ],
-    "artistId": 1482405409,
     "price": 0,
     "releaseDate": "2020-07-31T07:00:00Z",
+    "trackName": "Caliber: Strength Training",
+    "trackId": 1482405410,
+    "releaseNotes": "This release includes major infrastructure updates, improving reliability across devices, along with a few feature enhancements and bug fixes.",
     "sellerName": "Caliber Fitness, Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6012"
     ],
-    "trackId": 1482405410,
-    "trackName": "Caliber: Strength Training",
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-09-08T14:35:31Z",
     "version": "5.16.1",
     "wrapperType": "software",
     "currency": "USD",
@@ -196,9 +197,8 @@
     "trackCensoredName": "Caliber: Strength Training",
     "trackViewUrl": "https://apps.apple.com/us/app/caliber-strength-training/id1482405410?uo=4",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.84109,
     "bundleId": "com.caliberfitness.app",
-    "artistName": "Caliber Fitness, Inc",
-    "userRatingCount": 5934
+    "averageUserRating": 4.84117,
+    "userRatingCount": 5937
   }
 }

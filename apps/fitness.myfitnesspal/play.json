@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T12:06:34.551Z",
+  "fetched_at": "2026-09-14T13:03:47.788Z",
   "source": "google_play_scraper",
   "appId": "com.myfitnesspal.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 136313935,
-    "score": 4.404439,
+    "score": 4.4044127,
     "scoreText": "4.4",
-    "ratings": 2914242,
-    "reviews": 454165,
+    "ratings": 2914319,
+    "reviews": 454163,
     "histogram": {
-      "1": 206237,
-      "2": 83861,
-      "3": 144233,
-      "4": 370598,
-      "5": 2109306
+      "1": 206305,
+      "2": 83857,
+      "3": 144371,
+      "4": 370183,
+      "5": 2109596
     },
     "price": 0,
     "free": true,

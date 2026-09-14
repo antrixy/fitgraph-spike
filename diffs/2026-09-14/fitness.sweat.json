@@ -1,0 +1,39 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-09-14",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "1797ec93ce1fbf1232fce751533045eec0270fc7",
+      "curr_fetched_at": "2026-09-14T13:11:13.493Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Perimenopause & Menopause",
+          "occurrences": 1
+        },
+        {
+          "text": "A stronger you starts here",
+          "occurrences": 1
+        },
+        {
+          "text": "Get a trainer and a plan in your pocket",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "We have a feeling you're going to love Sweat",
+          "occurrences": 1
+        },
+        {
+          "text": "That's why the first week is on us",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 2
+    }
+  }
+}

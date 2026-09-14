@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T12:12:03.090Z",
+  "fetched_at": "2026-09-14T13:09:15.134Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 43472305,
-    "score": 4.3943663,
+    "maxInstalls": 43509739,
+    "score": 4.406439,
     "scoreText": "4.4",
-    "ratings": 427724,
-    "reviews": 2137,
+    "ratings": 428169,
+    "reviews": 2138,
     "histogram": {
-      "1": 37863,
-      "2": 10253,
-      "3": 14612,
-      "4": 47309,
-      "5": 317523
+      "1": 36972,
+      "2": 10332,
+      "3": 13723,
+      "4": 47305,
+      "5": 319592
     },
     "price": 0,
     "free": true,
@@ -79,7 +79,7 @@
     "released": "Jun 10, 2014",
     "updated": 1789041086000,
     "version": "VARY",
-    "recentChanges": "What&#39;s new?<br>- Forgot to stop your recording? You can now crop the start or end of your activity to trim it.<br>- Comments have a fresh new look.<br><br>Bug fixes<br>- Improved offline navigation and downloads.<br>- Fixed several route planning and preview issues.<br>- Fixed several crashes and improved stability.",
+    "recentChanges": "What&#39;s new?<br>•   The planner now remembers whether you chose &quot;Add to end&quot; or &quot;Add along the way&quot; for the next waypoint you add.<br>•   It&#39;s now easier to plan a route that retraces your steps.<br><br>Bug fixes<br>•   Fixed several translation and display issues.<br>•   Fixed an issue where the post-activity flow could become unresponsive.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,0 +1,30 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-09-14",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "1797ec93ce1fbf1232fce751533045eec0270fc7",
+      "prev_fetched_at": "2026-09-13T12:06:53.678Z",
+      "curr_fetched_at": "2026-09-14T13:04:07.545Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.58.3",
+          "new": "4.59.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We’re excited to announce that our app is now available in Brazilian Portuguese.",
+          "new": "Bug fixes and general improvements for a smoother experience."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "1797ec93ce1fbf1232fce751533045eec0270fc7",
+      "prev_fetched_at": "2026-09-13T12:06:56.271Z",
+      "curr_fetched_at": "2026-09-14T13:04:11.027Z",
+      "version_unreported": true
+    }
+  }
+}
