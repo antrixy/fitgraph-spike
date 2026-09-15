@@ -1,0 +1,19 @@
+{
+  "product": "fitness.whoop",
+  "name": "Whoop",
+  "date": "2026-09-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6184ef2e7bf7bbc1cefebc68dc54d47a4947804d",
+      "prev_fetched_at": "2026-09-14T13:09:56.139Z",
+      "curr_fetched_at": "2026-09-15T12:01:07.553Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "5.69.1",
+          "new": "5.70.0"
+        }
+      ]
+    }
+  }
+}

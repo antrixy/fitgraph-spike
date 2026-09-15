@@ -1,0 +1,24 @@
+{
+  "product": "fitness.stronglifts",
+  "name": "StrongLifts 5x5",
+  "date": "2026-09-15",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "6184ef2e7bf7bbc1cefebc68dc54d47a4947804d",
+      "prev_fetched_at": "2026-09-14T13:06:53.192Z",
+      "curr_fetched_at": "2026-09-15T11:58:10.907Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "4.3.1",
+          "new": "4.3.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
+          "new": "Thanks for using StrongLifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it"
+        }
+      ]
+    }
+  }
+}

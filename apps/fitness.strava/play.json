@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T13:07:53.533Z",
+  "fetched_at": "2026-09-15T11:59:13.304Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 133311844,
-    "score": 4.585234,
+    "maxInstalls": 133548667,
+    "score": 4.588911,
     "scoreText": "4.6",
-    "ratings": 1182364,
-    "reviews": 34311,
+    "ratings": 1182811,
+    "reviews": 34317,
     "histogram": {
-      "1": 68018,
-      "2": 17479,
-      "3": 31417,
-      "4": 102997,
-      "5": 962421
+      "1": 67204,
+      "2": 17273,
+      "3": 31454,
+      "4": 102648,
+      "5": 964209
     },
     "price": 0,
     "free": true,
@@ -67,7 +67,7 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 9, 2011",
-    "updated": 1788978332000,
+    "updated": 1789416560000,
     "version": "VARY",
     "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
     "comments": [],

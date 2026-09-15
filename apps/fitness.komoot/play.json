@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T13:09:15.134Z",
+  "fetched_at": "2026-09-15T12:00:31.860Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Discover new routes, plan hikes, rides &amp; runs, and navigate your adventures.",
     "installs": "10,000,000+",
     "minInstalls": 10000000,
-    "maxInstalls": 43509739,
+    "maxInstalls": 43548175,
     "score": 4.406439,
     "scoreText": "4.4",
-    "ratings": 428169,
+    "ratings": 428418,
     "reviews": 2138,
     "histogram": {
-      "1": 36972,
-      "2": 10332,
+      "1": 37053,
+      "2": 10333,
       "3": 13723,
-      "4": 47305,
-      "5": 319592
+      "4": 47386,
+      "5": 319759
     },
     "price": 0,
     "free": true,
@@ -77,7 +77,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1789041086000,
+    "updated": 1789389278000,
     "version": "VARY",
     "recentChanges": "What&#39;s new?<br>•   The planner now remembers whether you chose &quot;Add to end&quot; or &quot;Add along the way&quot; for the next waypoint you add.<br>•   It&#39;s now easier to plan a route that retraces your steps.<br><br>Bug fixes<br>•   Fixed several translation and display issues.<br>•   Fixed an issue where the post-activity flow could become unresponsive.",
     "comments": [],

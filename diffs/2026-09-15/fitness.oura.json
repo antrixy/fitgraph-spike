@@ -1,0 +1,47 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-09-15",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "6184ef2e7bf7bbc1cefebc68dc54d47a4947804d",
+      "curr_fetched_at": "2026-09-15T12:01:28.379Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Health Features",
+          "occurrences": 1
+        },
+        {
+          "text": "Experience",
+          "occurrences": 1
+        },
+        {
+          "text": "FSA or HSA HSA/FSA",
+          "occurrences": 2
+        },
+        {
+          "text": "HSA/FSA",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Your Health",
+          "occurrences": 1
+        },
+        {
+          "text": "Why Oura",
+          "occurrences": 1
+        },
+        {
+          "text": "FSA or HSA",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 3
+    }
+  }
+}

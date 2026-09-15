@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T13:07:05.016Z",
+  "fetched_at": "2026-09-15T11:58:23.481Z",
   "source": "google_play_scraper",
   "appId": "com.bpmhealth.boostcamp",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Strength Training &amp; Muscle Building Training Plans. Gym Log &amp; Workout Tracker.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 632156,
-    "score": 4.7493796,
+    "maxInstalls": 636083,
+    "score": 4.74813,
     "scoreText": "4.7",
-    "ratings": 13088,
+    "ratings": 13097,
     "reviews": 568,
     "histogram": {
-      "1": 257,
-      "2": 62,
-      "3": 257,
-      "4": 1524,
-      "5": 10976
+      "1": 261,
+      "2": 65,
+      "3": 261,
+      "4": 1534,
+      "5": 10971
     },
     "price": 0,
     "free": true,

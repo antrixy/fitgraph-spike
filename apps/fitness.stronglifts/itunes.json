@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-14T13:06:53.192Z",
+  "fetched_at": "2026-09-15T11:58:10.907Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=488580022&country=us",
   "result": {
-    "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
+    "artistViewUrl": "https://apps.apple.com/us/developer/stronglifts/id916468093?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/c0/db/e8c0dbea-6836-66fc-88ea-fe3593ef61c4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/c0/db/e8c0dbea-6836-66fc-88ea-fe3593ef61c4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -140,12 +140,11 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
+    "advisories": [],
+    "kind": "software",
     "features": [
       "iosUniversal"
     ],
-    "advisories": [],
-    "kind": "software",
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/4a/36/ec4a368a-c1e7-f67e-f568-d001fd61f21c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/60/5e/9e605e76-89dc-73c0-f273-452a1821c734/01_iphone69.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/61/69/0a61692d-402a-b375-c62c-c158ce097c0f/02_iphone69.png/320x480bb.jpg",
@@ -171,32 +170,35 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/31/c8/0731c8ab-5ac8-d2ba-0e95-f3284038ef0b/10_ipad13.png/360x480bb.jpg"
     ],
     "appletvScreenshotUrls": [],
-    "bundleId": "com.StrongLifts",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/c0/db/e8c0dbea-6836-66fc-88ea-fe3593ef61c4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "minimumOsVersion": "17.0",
+    "averageUserRating": 4.86062,
     "trackCensoredName": "Stronglifts 5x5 Workout Plan",
     "trackViewUrl": "https://apps.apple.com/us/app/stronglifts-5x5-workout-plan/id488580022?uo=4",
     "contentAdvisoryRating": "4+",
-    "artistId": 916468093,
-    "artistName": "StrongLifts",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
+    "price": 0,
+    "currentVersionReleaseDate": "2026-09-15T06:08:53Z",
+    "bundleId": "com.StrongLifts",
     "releaseDate": "2011-12-22T20:51:34Z",
+    "releaseNotes": "Thanks for using StrongLifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6012"
     ],
-    "trackId": 488580022,
-    "trackName": "Stronglifts 5x5 Workout Plan",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "sellerName": "Stronglifts Limited",
-    "releaseNotes": "Thanks for using Stronglifts! In this update:\n• FIX: various small fixes and optimizations.\n\n## Support\n• Workout guide - https://stronglifts.com/5x5/\n• FAQ - https://support.stronglifts.com/\n• Contact us: support@stronglifts.com\n\n## Like Stronglifts?\n• Please rate the app 5 stars so more people find it",
-    "currentVersionReleaseDate": "2026-09-02T20:46:41Z",
-    "version": "4.3.1",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "version": "4.3.2",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Get stronger with the world’s simplest, most proven barbell program: the 5×5 workout. No guesswork. Just follow along and see real results, in just 3 workouts a week.\n\nStrongLifts is made for lifters starting or returning to barbell strength training. The app removes all confusion and complexity by guiding you through every 5×5 workout. It plans every exercise, set, and weight so you always know exactly what to do. The time-tested 5×5 workout gets you stronger, week after week. No experience needed.\n\n▸ Proven 3×/week strength program: Structured workouts, all planned for you.\n▸ No guesswork: Fully automated progression for consistent strength gains.\n▸ Just follow along: Simple interface with timers. Focus on lifting, not fiddling.\n▸ Stay motivated. See your strength go up every week with clear progress charts.\n▸ Easy to stick with. Simple, guided 3×/week program. No decisions, just results.\n\nOver 3 million lifters worldwide have started or restarted their strength journey with StrongLifts since 2007. The app has been featured and reviewed in the British Journal of Sports Medicine. StrongLifts is the best strength app, with more than 200,000 five-star reviews worldwide.\n\nStrongLifts is built on the classic 5×5 workout made famous by legends like Reg Park, Bill Starr, and Glenn Pendlay. For more than 70 years, the 5×5 workout has been proven to get new and returning lifters stronger, quickly and safely.\n\nDownload StrongLifts today and join millions getting stronger.\n\nStrongLifts is free to download, but requires a subscription to use. All new users get a 7-day free trial for the yearly plan. Monthly and quarterly plans are also available without a free trial. Subscription renews automatically unless canceled at least 24 hours before the end of each period. Manage or cancel your subscription any time in your App Store account settings. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "averageUserRatingForCurrentVersion": 4.86062,
     "sellerUrl": "https://stronglifts.com/",
-    "averageUserRating": 4.86064,
-    "minimumOsVersion": "17.0",
     "languageCodesISO2A": [
       "HR",
       "DA",
@@ -219,16 +221,14 @@
       "TR",
       "UK"
     ],
-    "fileSizeBytes": "128139264",
+    "fileSizeBytes": "123760640",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 76684,
+    "userRatingCountForCurrentVersion": 76690,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.86064,
-    "price": 0,
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "userRatingCount": 76684
+    "trackName": "Stronglifts 5x5 Workout Plan",
+    "trackId": 488580022,
+    "artistId": 916468093,
+    "artistName": "StrongLifts",
+    "userRatingCount": 76690
   }
 }
