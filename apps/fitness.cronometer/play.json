@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T11:55:13.197Z",
+  "fetched_at": "2026-09-16T11:50:28.032Z",
   "source": "google_play_scraper",
   "appId": "com.cronometer.android.gold",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 6228209,
-    "score": 4.549968,
-    "scoreText": "4.5",
-    "ratings": 58233,
-    "reviews": 8664,
+    "score": 4.5508885,
+    "scoreText": "4.6",
+    "ratings": 58276,
+    "reviews": 8668,
     "histogram": {
-      "1": 2457,
-      "2": 1199,
-      "3": 2177,
-      "4": 8409,
-      "5": 43983
+      "1": 2446,
+      "2": 1203,
+      "3": 2163,
+      "4": 8434,
+      "5": 44020
     },
     "price": 0,
     "free": true,

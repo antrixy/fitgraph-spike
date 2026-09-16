@@ -1,0 +1,67 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-16",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "d864fe669215ce749c532eaca83e8813b8b01ed0",
+      "curr_fetched_at": "2026-09-16T11:53:34.486Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "For a broader overview, see our comparisons of strength training apps and muscle-building apps .",
+          "occurrences": 1
+        },
+        {
+          "text": "Our app comparisons for beginners and advanced lifters explain the differences in guidance and flexibility.",
+          "occurrences": 1
+        },
+        {
+          "text": "Compare strength training apps for home gyms .",
+          "occurrences": 1
+        },
+        {
+          "text": "Our workout planner comparison covers both manual planning and automated plan generation .",
+          "occurrences": 1
+        },
+        {
+          "text": "Strong and Hevy are capable workout trackers.",
+          "occurrences": 1
+        },
+        {
+          "text": "Hevy Trainer also generates plans and increases weights based on your performance within prescribed rep ranges.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro recommends a specific weight and rep count for every set, based on your actual performance and the weights available in your gym.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our plan generator connects that progression with your muscle priorities, optional RIR targets, periodization, and deloads.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our gym tracker comparison also covers what other apps include for free.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Strong and Hevy are decent gym loggers: you write down what you lifted and they keep the history.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression does that too, but then goes one step further: it reads your logged sets and tells you exactly what to lift next, every set.",
+          "occurrences": 1
+        },
+        {
+          "text": "Weight, reps, RIR, all calibrated to your real strength rather than a generic template.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 9,
+      "removed_total": 3
+    }
+  }
+}

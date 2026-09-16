@@ -1,0 +1,31 @@
+{
+  "product": "fitness.yazio",
+  "name": "Yazio",
+  "date": "2026-09-16",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "d864fe669215ce749c532eaca83e8813b8b01ed0",
+      "prev_fetched_at": "2026-09-15T11:55:51.741Z",
+      "curr_fetched_at": "2026-09-16T11:50:57.987Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.36.2",
+          "new": "26.37.1"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "d864fe669215ce749c532eaca83e8813b8b01ed0",
+      "prev_fetched_at": "2026-09-15T11:55:56.811Z",
+      "curr_fetched_at": "2026-09-16T11:51:00.285Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.36.2",
+          "new": "26.37.1"
+        }
+      ]
+    }
+  }
+}

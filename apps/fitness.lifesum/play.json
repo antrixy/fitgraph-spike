@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T11:56:07.104Z",
+  "fetched_at": "2026-09-16T11:51:08.980Z",
   "source": "google_play_scraper",
   "appId": "com.sillens.shapeupclub",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 29595611,
-    "score": 4.410369,
+    "score": 4.4105415,
     "scoreText": "4.4",
-    "ratings": 378276,
+    "ratings": 378304,
     "reviews": 13845,
     "histogram": {
-      "1": 23817,
+      "1": 23808,
       "2": 12845,
-      "3": 19053,
-      "4": 51072,
-      "5": 271457
+      "3": 19044,
+      "4": 51065,
+      "5": 271509
     },
     "price": 0,
     "free": true,
