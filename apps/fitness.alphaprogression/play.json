@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:53:29.537Z",
+  "fetched_at": "2026-09-17T11:56:31.426Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout planner &amp; lifting log: strength training &amp; muscle building workout plans",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2009395,
-    "score": 4.8450365,
+    "maxInstalls": 2011987,
+    "score": 4.845411,
     "scoreText": "4.8",
-    "ratings": 21051,
+    "ratings": 21059,
     "reviews": 1641,
     "histogram": {
       "1": 352,
       "2": 250,
       "3": 148,
-      "4": 760,
-      "5": 19518
+      "4": 761,
+      "5": 19531
     },
     "price": 0,
     "free": true,
@@ -27,7 +27,7 @@
     "priceText": "Free",
     "available": true,
     "offersIAP": true,
-    "IAPRange": "$9.99 - $79.99 per item",
+    "IAPRange": "$9.99 - $89.99 per item",
     "androidVersion": "8.0",
     "androidVersionText": "8.0",
     "androidMaxVersion": "VARY",

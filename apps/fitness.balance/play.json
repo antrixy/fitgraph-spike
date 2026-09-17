@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:58:42.025Z",
+  "fetched_at": "2026-09-17T12:01:30.687Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3671781,
-    "score": 4.6440353,
+    "score": 4.6435833,
     "scoreText": "4.6",
-    "ratings": 48551,
-    "reviews": 3317,
+    "ratings": 48539,
+    "reviews": 3316,
     "histogram": {
-      "1": 2462,
+      "1": 2465,
       "2": 769,
       "3": 614,
-      "4": 3880,
-      "5": 40817
+      "4": 3883,
+      "5": 40796
     },
     "price": 0,
     "free": true,

@@ -1,0 +1,50 @@
+{
+  "product": "fitness.jefit",
+  "name": "JEFIT",
+  "date": "2026-09-17",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:52:24.351Z",
+      "curr_fetched_at": "2026-09-17T11:55:30.432Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "17.2.0",
+          "new": "17.2.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "JEFIT now feels right at home on iOS 26 — enjoy the sleek Liquid Glass design across navigation, sheets, and menus throughout the app. Planning your program just got smoother too: Copy Day and Add a Day are now single streamlined sheets that drop you right where you need to be. Training prescriptions are also more accurate for metric users, and we've squashed a handful of bugs along the way.",
+          "new": "Edit your available weights right from the workout screen — tap ⋯ on any exercise to update your plates or dumbbells and watch planned sets adjust automatically. Adaptive Plans now properly pause weight progressions during deload weeks. Returning users get a \"Continue as\" shortcut at login, and weight entry now accepts your local decimal separator. Plus a handful of bug fixes."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:52:28.824Z",
+      "curr_fetched_at": "2026-09-17T11:55:34.122Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "curr_fetched_at": "2026-09-17T11:55:36.257Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "$ 69.99 $ 52.49 for one year, then $ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$ 69.99 /year",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

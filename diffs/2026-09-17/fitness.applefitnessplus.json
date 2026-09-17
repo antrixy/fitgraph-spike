@@ -1,0 +1,87 @@
+{
+  "product": "fitness.applefitnessplus",
+  "name": "Apple Fitness+",
+  "date": "2026-09-17",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "curr_fetched_at": "2026-09-17T12:00:08.349Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Try it free**",
+          "occurrences": 1
+        },
+        {
+          "text": "Get 3 months of Apple One free with any new iPhone, iPad, or Mac.",
+          "occurrences": 1
+        },
+        {
+          "text": "* Learn more",
+          "occurrences": 1
+        },
+        {
+          "text": "Try it free **",
+          "occurrences": 1
+        },
+        {
+          "text": "* New and qualified returning subscribers only.",
+          "occurrences": 1
+        },
+        {
+          "text": "$21.95 or",
+          "occurrences": 1
+        },
+        {
+          "text": "$27.95 or",
+          "occurrences": 1
+        },
+        {
+          "text": "$39.95 per month after trial based on plan selected.",
+          "occurrences": 1
+        },
+        {
+          "text": "The Apple One free trial includes only subscriptions that you are not currently using through a free trial or a subscription.",
+          "occurrences": 1
+        },
+        {
+          "text": "Only one offer per Apple Account and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchase.",
+          "occurrences": 1
+        },
+        {
+          "text": "This offer is not available if you or your family have previously accepted an Apple One three-months-free offer.",
+          "occurrences": 1
+        },
+        {
+          "text": "Offer good for three months after eligible device activation.",
+          "occurrences": 1
+        },
+        {
+          "text": "** iPhone 8 or later or Apple Watch Series 3 or later paired with iPhone 6s or later required.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Try it free*",
+          "occurrences": 1
+        },
+        {
+          "text": "Find it in the Fitness app.",
+          "occurrences": 1
+        },
+        {
+          "text": "Try it free *",
+          "occurrences": 1
+        },
+        {
+          "text": "* iPhone 8 or later or Apple Watch Series 3 or later paired with iPhone 6s or later required.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 13,
+      "removed_total": 4
+    }
+  }
+}

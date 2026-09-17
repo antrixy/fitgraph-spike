@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:55:32.637Z",
+  "fetched_at": "2026-09-17T11:58:39.199Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 43548175,
-    "score": 4.4024143,
+    "score": 4.4048095,
     "scoreText": "4.4",
-    "ratings": 428697,
+    "ratings": 428859,
     "reviews": 2138,
     "histogram": {
-      "1": 37056,
-      "2": 11141,
-      "3": 13724,
-      "4": 46502,
-      "5": 319948
+      "1": 36916,
+      "2": 11147,
+      "3": 13732,
+      "4": 46367,
+      "5": 320533
     },
     "price": 0,
     "free": true,

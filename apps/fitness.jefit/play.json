@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:52:28.824Z",
+  "fetched_at": "2026-09-17T11:55:34.122Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9885816,
-    "score": 4.425532,
+    "score": 4.425631,
     "scoreText": "4.4",
-    "ratings": 89798,
+    "ratings": 89805,
     "reviews": 11717,
     "histogram": {
-      "1": 7043,
-      "2": 2326,
-      "3": 3880,
-      "4": 8656,
-      "5": 67884
+      "1": 7036,
+      "2": 2324,
+      "3": 3875,
+      "4": 8705,
+      "5": 67858
     },
     "price": 0,
     "free": true,
@@ -69,8 +69,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Sep 15, 2010",
-    "updated": 1788561037000,
-    "version": "17.4.4",
+    "updated": 1789491765000,
+    "version": "VARY",
     "recentChanges": "Tweaking your training plan just got smarter — delete, swap, or add an exercise and a suggestion prompt appears right away, so you can dial in your preferences on the spot instead of waiting for the post-workout nudge. Weight predictions now refresh every time you open the app, keeping recommendations fresh based on your latest logs and equipment. Plus snappier exercise animation loading throughout.",
     "comments": [],
     "preregister": false,

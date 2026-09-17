@@ -1,0 +1,30 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-09-17",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:54:06.327Z",
+      "curr_fetched_at": "2026-09-17T11:57:11.713Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "480.0.0",
+          "new": "481.0.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "New iOS lock screen widgets take you directly to your Home, Maps, or You tab, no digging through the app required.",
+          "new": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:54:08.465Z",
+      "curr_fetched_at": "2026-09-17T11:57:15.786Z",
+      "version_unreported": true
+    }
+  }
+}

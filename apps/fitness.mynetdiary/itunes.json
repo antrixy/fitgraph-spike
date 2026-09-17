@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-16T11:50:49.272Z",
+  "fetched_at": "2026-09-17T11:54:07.770Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=287529757&country=us",
   "result": {
-    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/70/1d/32701d1c-00b8-2901-5378-2a81554c79ae/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/70/1d/32701d1c-00b8-2901-5378-2a81554c79ae/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
+    ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
     ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -143,9 +143,6 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-    ],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/cf/ec/0bcfecae-6ffc-606e-f6a6-92232a1af6a2/Screen1.png/320x480bb.jpg",
@@ -173,25 +170,25 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/70/1d/32701d1c-00b8-2901-5378-2a81554c79ae/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
-    "contentAdvisoryRating": "12+",
-    "trackCensoredName": "Calorie Counter - MyNetDiary",
-    "averageUserRating": 4.80889,
-    "minimumOsVersion": "17.0",
-    "artistId": 287529760,
-    "artistName": "MyNetDiary Inc.",
+    "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
+    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/70/1d/32701d1c-00b8-2901-5378-2a81554c79ae/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/70/1d/32701d1c-00b8-2901-5378-2a81554c79ae/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
     "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
-    "bundleId": "com.mynetdiary.MyNetDiary",
-    "trackId": 287529757,
-    "trackName": "Calorie Counter - MyNetDiary",
+    "genres": [
+      "Health & Fitness",
+      "Lifestyle"
+    ],
     "genreIds": [
       "6013",
       "6012"
     ],
+    "price": 0,
+    "releaseDate": "2019-02-03T08:00:00Z",
+    "sellerName": "MyNetDiary Inc.",
     "primaryGenreName": "Health & Fitness",
     "primaryGenreId": 6013,
-    "sellerName": "MyNetDiary Inc.",
-    "isVppDeviceBasedLicensingEnabled": true,
+    "trackId": 287529757,
+    "trackName": "Calorie Counter - MyNetDiary",
     "currentVersionReleaseDate": "2026-09-08T12:13:17Z",
     "version": "10.35",
     "wrapperType": "software",
@@ -203,15 +200,18 @@
     ],
     "fileSizeBytes": "346741760",
     "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 165624,
+    "userRatingCountForCurrentVersion": 165720,
     "trackContentRating": "12+",
-    "averageUserRatingForCurrentVersion": 4.80889,
-    "releaseDate": "2019-02-03T08:00:00Z",
-    "price": 0,
-    "genres": [
-      "Health & Fitness",
-      "Lifestyle"
-    ],
-    "userRatingCount": 165624
+    "averageUserRating": 4.80873,
+    "trackCensoredName": "Calorie Counter - MyNetDiary",
+    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
+    "contentAdvisoryRating": "12+",
+    "averageUserRatingForCurrentVersion": 4.80873,
+    "minimumOsVersion": "17.0",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "bundleId": "com.mynetdiary.MyNetDiary",
+    "artistId": 287529760,
+    "artistName": "MyNetDiary Inc.",
+    "userRatingCount": 165720
   }
 }

@@ -1,0 +1,21 @@
+{
+  "claim_type": "price_changed",
+  "product": "fitness.alphaprogression",
+  "field": "iap_range",
+  "old_value": "$9.99 - $79.99 per item",
+  "new_value": "$9.99 - $89.99 per item",
+  "observed_at": "2026-09-17T11:56:31.426Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "play_listing",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

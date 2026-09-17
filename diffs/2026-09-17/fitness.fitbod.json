@@ -1,0 +1,30 @@
+{
+  "product": "fitness.fitbod",
+  "name": "Fitbod",
+  "date": "2026-09-17",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:52:36.551Z",
+      "curr_fetched_at": "2026-09-17T11:55:39.613Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.33.0",
+          "new": "8.34.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Release Notes for 8.33.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me",
+          "new": "Release Notes for 8.34.0\n\n- Bug fixes and improvements\n\nAs always, if you have any feedback or issues please let us know: support@fitbod.me"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "d77647cd54fe03373da6c0f12b3a7f480cdc4aa6",
+      "prev_fetched_at": "2026-09-16T11:52:40.558Z",
+      "curr_fetched_at": "2026-09-17T11:55:44.152Z",
+      "version_unreported": true
+    }
+  }
+}
