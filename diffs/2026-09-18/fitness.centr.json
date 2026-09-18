@@ -1,0 +1,69 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-09-18",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "prev_fetched_at": "2026-09-17T12:00:15.162Z",
+      "curr_fetched_at": "2026-09-18T11:36:37.173Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "curr_fetched_at": "2026-09-18T11:36:41.954Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "TRAIN LIKE YOU RACE",
+          "occurrences": 1
+        },
+        {
+          "text": "New official hyrox youngstars Equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Build confidence in young athletes by training on the exact equipment they’ll meet on race day.",
+          "occurrences": 1
+        },
+        {
+          "text": "Official Competition Equipment, made for HYROX Youngstars.",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Now",
+          "occurrences": 1
+        },
+        {
+          "text": "(20)",
+          "occurrences": 6
+        }
+      ],
+      "removed": [
+        {
+          "text": "STRONGER STARTS WITH A SYSTEM",
+          "occurrences": 1
+        },
+        {
+          "text": "The Home",
+          "occurrences": 1
+        },
+        {
+          "text": "of Strength",
+          "occurrences": 1
+        },
+        {
+          "text": "Equipment paired with expert coaching and personalized training plans designed to work together to help you build strength.",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore Training Essentials",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 6,
+      "removed_total": 5
+    }
+  }
+}

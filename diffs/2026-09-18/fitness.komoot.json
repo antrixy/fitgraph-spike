@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-09-18",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "prev_fetched_at": "2026-09-17T11:58:34.162Z",
+      "curr_fetched_at": "2026-09-18T11:34:46.511Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.37.2",
+          "new": "2026.38.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- The planner now remembers whether you chose \"Add to end\" or \"Add along the way\" for the next waypoint you add.\n- It's now easier to plan a route that retraces your steps.\n\nBug fixes\n- Fixed several translation and display issues.\n- Fixed an issue where the post-activity flow could become unresponsive.",
+          "new": "What's new?\n- Replace a waypoint: tap it in the waypoint list and search for a new place.\n- Copy and redeem prize codes from completed challenges.\n\nBug fixes\n- Fixed a crash after buying a subscription.\n- Fixed the extra free trial offer appearing after it had already been used."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "prev_fetched_at": "2026-09-17T11:58:39.199Z",
+      "curr_fetched_at": "2026-09-18T11:34:49.141Z",
+      "version_unreported": true
+    }
+  }
+}

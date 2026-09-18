@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T12:01:30.687Z",
+  "fetched_at": "2026-09-18T11:37:53.950Z",
   "source": "google_play_scraper",
   "appId": "com.elevatelabs.geonosis",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3671781,
-    "score": 4.6435833,
+    "score": 4.6440353,
     "scoreText": "4.6",
-    "ratings": 48539,
+    "ratings": 48542,
     "reviews": 3316,
     "histogram": {
-      "1": 2465,
+      "1": 2462,
       "2": 769,
       "3": 614,
-      "4": 3883,
-      "5": 40796
+      "4": 3880,
+      "5": 40809
     },
     "price": 0,
     "free": true,
@@ -81,7 +81,7 @@
     "adSupported": false,
     "released": "May 3, 2021",
     "updated": 1789393654000,
-    "version": "1.210.0",
+    "version": "1.211.0",
     "recentChanges": "We’ve fixed various bugs throughout the app.<br><br>For more product updates, mental wellness tips, and more, follow us on Instagram @balance, Facebook and X @balanceapp, and TikTok @balancemeditation.",
     "comments": [],
     "preregister": false,

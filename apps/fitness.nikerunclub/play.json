@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T11:57:35.623Z",
+  "fetched_at": "2026-09-18T11:33:46.559Z",
   "source": "google_play_scraper",
   "appId": "com.nike.plusgps",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 57310822,
-    "score": 4.210621,
+    "score": 4.209912,
     "scoreText": "4.2",
-    "ratings": 1112403,
-    "reviews": 69366,
+    "ratings": 1112438,
+    "reviews": 69365,
     "histogram": {
-      "1": 119142,
-      "2": 52484,
-      "3": 55077,
-      "4": 133911,
-      "5": 751775
+      "1": 119251,
+      "2": 52733,
+      "3": 54930,
+      "4": 133832,
+      "5": 751678
     },
     "price": 0,
     "free": true,
@@ -70,7 +70,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 21, 2012",
-    "updated": 1785875570000,
+    "updated": 1789676953000,
     "version": "VARY",
     "recentChanges": "Easily Re-Run Guided Runs: After you finish a run, your activity details now show which Guided Run you listened to. Tap on any of your runs in the Activity Tab to view the details, run it again, or save it for next time.",
     "comments": [],

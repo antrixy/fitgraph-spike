@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T11:59:20.326Z",
+  "fetched_at": "2026-09-18T11:35:33.079Z",
   "source": "google_play_scraper",
   "appId": "com.whoop.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1243179,
-    "score": 4.741342,
+    "score": 4.746479,
     "scoreText": "4.7",
-    "ratings": 28787,
-    "reviews": 1930,
+    "ratings": 28855,
+    "reviews": 1931,
     "histogram": {
-      "1": 745,
-      "2": 341,
+      "1": 717,
+      "2": 309,
       "3": 559,
-      "4": 2304,
-      "5": 24829
+      "4": 2374,
+      "5": 24883
     },
     "price": 0,
     "free": true,
@@ -68,7 +68,7 @@
     "adSupported": false,
     "released": "Aug 25, 2017",
     "updated": 1789154276000,
-    "version": "5.468.0",
+    "version": "5.469.0",
     "recentChanges": "Various bug fixes and performance improvements",
     "comments": [],
     "preregister": false,

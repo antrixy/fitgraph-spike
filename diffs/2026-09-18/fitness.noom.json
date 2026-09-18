@@ -1,0 +1,143 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-18",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "curr_fetched_at": "2026-09-18T11:30:40.394Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "MEDICARE GLP-1 COVERAGE",
+          "occurrences": 1
+        },
+        {
+          "text": "Can coffee improve your body composition?",
+          "occurrences": 2
+        },
+        {
+          "text": "What a new study found",
+          "occurrences": 2
+        },
+        {
+          "text": "How to prevent muscle loss on GLP-1 medications",
+          "occurrences": 2
+        },
+        {
+          "text": "What happens if you miss a dose of Zepbound®?",
+          "occurrences": 2
+        },
+        {
+          "text": "When does the Wegovy® pill start working?",
+          "occurrences": 2
+        },
+        {
+          "text": "A week-by-week timeline of what to expect",
+          "occurrences": 2
+        },
+        {
+          "text": "How long does Zepbound® stay in your system?",
+          "occurrences": 2
+        },
+        {
+          "text": "How it builds up and wears off",
+          "occurrences": 2
+        },
+        {
+          "text": "Can you take the Wegovy® pill at night?",
+          "occurrences": 2
+        },
+        {
+          "text": "Why morning is best",
+          "occurrences": 2
+        },
+        {
+          "text": "Are scallops good for weight loss?",
+          "occurrences": 2
+        },
+        {
+          "text": "What to look for",
+          "occurrences": 2
+        },
+        {
+          "text": "Is Greek frozen yogurt healthy?",
+          "occurrences": 2
+        },
+        {
+          "text": "What to know about the high-protein froyo trend",
+          "occurrences": 2
+        },
+        {
+          "text": "Kiwi berries: The healthy fall fruit you need to try now",
+          "occurrences": 2
+        },
+        {
+          "text": "Medicare GLP-1 Coverage",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Personality Quiz",
+          "occurrences": 1
+        },
+        {
+          "text": "The 10 most common Wegovy side effects and how long they last",
+          "occurrences": 2
+        },
+        {
+          "text": "Is papaya good for weight loss?",
+          "occurrences": 2
+        },
+        {
+          "text": "What to know",
+          "occurrences": 2
+        },
+        {
+          "text": "How to take Wegovy pill: The best timing and tips for success",
+          "occurrences": 2
+        },
+        {
+          "text": "When does semaglutide start working?",
+          "occurrences": 2
+        },
+        {
+          "text": "A week-by-week weight loss timeline",
+          "occurrences": 2
+        },
+        {
+          "text": "Zepbound® vials: How to use them, costs, and how they compare",
+          "occurrences": 2
+        },
+        {
+          "text": "GLP-1 Companion and the Habit Window Hypothesis: Can Medication Help Make Healthy Habits Stick?",
+          "occurrences": 2
+        },
+        {
+          "text": "How long does it take Wegovy to work?",
+          "occurrences": 2
+        },
+        {
+          "text": "A week-by-week timeline",
+          "occurrences": 2
+        },
+        {
+          "text": "Is xylitol bad for your heart?",
+          "occurrences": 2
+        },
+        {
+          "text": "What the latest research says",
+          "occurrences": 2
+        },
+        {
+          "text": "Semaglutide cost: With and without insurance in 2026",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 17,
+      "removed_total": 14
+    }
+  }
+}

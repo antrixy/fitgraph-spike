@@ -1,0 +1,19 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-09-18",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "46cb119815eecb203aaf66e92dd1866a351dbcd4",
+      "prev_fetched_at": "2026-09-17T11:57:24.577Z",
+      "curr_fetched_at": "2026-09-18T11:33:35.756Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.54.0",
+          "new": "8.55.0"
+        }
+      ]
+    }
+  }
+}
