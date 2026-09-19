@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T11:34:28.944Z",
+  "fetched_at": "2026-09-19T11:18:14.827Z",
   "source": "google_play_scraper",
   "appId": "com.trainerroad.android.production",
   "result": {
@@ -10,7 +10,7 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 336485,
-    "score": 4.7389708,
+    "score": 4.739777,
     "scoreText": "4.7",
     "ratings": 9221,
     "reviews": 667,
@@ -18,8 +18,8 @@
       "1": 202,
       "2": 101,
       "3": 168,
-      "4": 948,
-      "5": 7796
+      "4": 924,
+      "5": 7813
     },
     "price": 0,
     "free": true,

@@ -1,0 +1,20 @@
+{
+  "product": "fitness.alltrails",
+  "name": "AllTrails",
+  "date": "2026-09-19",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "5d603a59036759cabbef57a5b98104637329cbfc",
+      "prev_fetched_at": "2026-09-18T11:34:58.388Z",
+      "curr_fetched_at": "2026-09-19T11:18:43.966Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "Thanks for using AllTrails! This update includes:<br>• Minor bug fixes",
+          "new": "Thanks for using AllTrails! This update includes:<br>• Updated the offline experience for members, with clearer messaging and consistency on map and feature availability.<br>• Introducing voice navigation for Plus members. Get audio cues for turn-by-turn directions and more.<br>• New challenge: Outside for Good. Join us and help raise $30k for public lands (US only)."
+        }
+      ]
+    }
+  }
+}

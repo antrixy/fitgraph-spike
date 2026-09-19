@@ -1,0 +1,24 @@
+{
+  "product": "fitness.gymaholic",
+  "name": "Gymaholic",
+  "date": "2026-09-19",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "5d603a59036759cabbef57a5b98104637329cbfc",
+      "prev_fetched_at": "2026-09-18T11:32:04.016Z",
+      "curr_fetched_at": "2026-09-19T11:16:01.468Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "16.5",
+          "new": "16.6"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Gymaholic is now smarter, faster, and ready for iOS 27.\n\nNEW: AI Workout Generator & Recommendations\nTell Gymaholic what you need and it can build a complete workout plan for you. You’ll also get intelligent exercise and set recommendations when you need them, including on Apple Watch.\nPowered by Apple Intelligence, so your personal data stays yours.\n\nNEW: Siri & Shortcuts, Spotlight\n“Hey Siri, start a workout in Gymaholic.”\nStart and stop workouts, find exercises, workouts, and create your own automations with Siri and Shortcuts — on iPhone and Apple Watch.\n\nNEW: 3D Exercise Guide\nOur 3D exercise experience has been improved with smoother, more natural movement, making it easier to see exactly how each exercise should be performed.\n\nNEW: Ready for iOS 27\nGymaholic is fully updated for the latest iOS experience.\n\nIMPROVED\n• Much faster and smarter exercise search, now typo-tolerant and accent-insensitive\n• Improved Home screen and stats layout\n• Drag and drop to reorder workouts, workout items, and Home screen content\n• Refreshed design throughout the app\n• Lots of bug fixes and performance improvements\n\nApple Watch now requires watchOS 10.0 or later.\n\nThanks for training with Gymaholic. Keep the feedback coming. Many of the improvements in this release came directly from your requests.",
+          "new": "Bug fixes and performance improvements to make your workouts smoother and the app more reliable."
+        }
+      ]
+    }
+  }
+}
