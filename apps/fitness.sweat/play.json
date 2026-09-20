@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T11:20:31.349Z",
+  "fetched_at": "2026-09-20T11:44:22.517Z",
   "source": "google_play_scraper",
   "appId": "com.kaylaitsines.sweatwithkayla",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 10177325,
     "score": 4.3829455,
     "scoreText": "4.4",
-    "ratings": 39373,
+    "ratings": 39372,
     "reviews": 3107,
     "histogram": {
       "1": 4026,
       "2": 792,
       "3": 1278,
       "4": 3234,
-      "5": 30031
+      "5": 30030
     },
     "price": 0,
     "free": true,

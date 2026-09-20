@@ -1,16 +1,8 @@
 {
-  "fetched_at": "2026-09-19T11:16:17.278Z",
+  "fetched_at": "2026-09-20T11:40:36.706Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1529354455&country=us",
   "result": {
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/60/82/576082c2-1c53-bc87-c54f-d952cee69241/Frame_1173.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/f1/0b/bcf10bfc-d5d8-5ada-7533-3c752f1f355d/Frame_1168__U00284_U0029.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7e/41/727e4150-8163-c76d-66b8-eb73eacb04fe/Frame_1169.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/46/83/5c4683ca-b845-ff65-7519-5c056f1cd638/Frame_1170__U00281_U0029.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/33/fe/4033fecc-01b3-70c5-507d-5023d9d3c221/Frame_1171.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/0a/0b/4b0a0b6c-1583-133a-37b2-19df11d36643/Frame_1172.png/576x768bb.png"
-    ],
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/cb/3a/69cb3a43-c195-9e66-2dc2-1dae4095d085/Frame_1153__U00281_U0029.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/88/f7/6188f7f3-f938-648d-8f5e-640580704de4/Frame_1148.png/392x696bb.png",
@@ -19,17 +11,20 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/2f/06/8a2f069f-c2c8-a51b-36bc-4a5a815084f7/Frame_1151.png/392x696bb.png",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/02/cd/3a02cd9c-abc7-a204-d0dd-509b99b77450/Frame_1152.png/392x696bb.png"
     ],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3f/d2/833fd250-b76f-c8bd-91df-88f31cf4ed2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "appletvScreenshotUrls": [],
-    "isGameCenterEnabled": false,
-    "advisories": [],
-    "kind": "software",
-    "features": [
-      "iosUniversal"
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/60/82/576082c2-1c53-bc87-c54f-d952cee69241/Frame_1173.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/f1/0b/bcf10bfc-d5d8-5ada-7533-3c752f1f355d/Frame_1168__U00284_U0029.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/7e/41/727e4150-8163-c76d-66b8-eb73eacb04fe/Frame_1169.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/46/83/5c4683ca-b845-ff65-7519-5c056f1cd638/Frame_1170__U00281_U0029.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/33/fe/4033fecc-01b3-70c5-507d-5023d9d3c221/Frame_1171.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/0a/0b/4b0a0b6c-1583-133a-37b2-19df11d36643/Frame_1172.png/576x768bb.png"
     ],
-    "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
+    "appletvScreenshotUrls": [],
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3f/d2/833fd250-b76f-c8bd-91df-88f31cf4ed2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3f/d2/833fd250-b76f-c8bd-91df-88f31cf4ed2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3f/d2/833fd250-b76f-c8bd-91df-88f31cf4ed2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "artistViewUrl": "https://apps.apple.com/us/developer/bpm-health-co/id1529354457?uo=4",
+    "isGameCenterEnabled": false,
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -162,45 +157,50 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
+    "advisories": [],
+    "kind": "software",
+    "features": [
+      "iosUniversal"
+    ],
+    "averageUserRatingForCurrentVersion": 4.84907,
+    "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
+    "trackContentRating": "4+",
     "sellerUrl": "https://www.boostcamp.app/",
+    "averageUserRating": 4.84907,
+    "fileSizeBytes": "307331072",
+    "formattedPrice": "Free",
+    "contentAdvisoryRating": "4+",
+    "userRatingCountForCurrentVersion": 10190,
+    "trackCensoredName": "Boostcamp: Workout Programs",
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "307331072",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 10180,
-    "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.84902,
+    "minimumOsVersion": "15.1",
+    "releaseNotes": "In this version, we're introducing some new features:\n- Improvements across the app: on the workout page, your current set stays highlighted, finished exercises collapse as you go, and the rest timer is rebuilt. In History, view your training by month. And smaller fixes throughout.\n- Photos in Community: add a photo and caption to your workout posts, and share more than just the numbers.\nPlus bug fixes and general improvements to the app for better user experience.",
     "artistId": 1529354457,
     "artistName": "BPM Health Co.",
     "genres": [
       "Health & Fitness",
       "Sports"
     ],
-    "isVppDeviceBasedLicensingEnabled": true,
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "sellerName": "BPM Health Co.",
-    "trackId": 1529354455,
-    "trackName": "Boostcamp: Workout Programs",
     "releaseDate": "2020-10-04T07:00:00Z",
     "genreIds": [
       "6013",
       "6004"
     ],
+    "trackId": 1529354455,
+    "trackName": "Boostcamp: Workout Programs",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "BPM Health Co.",
+    "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-09-05T20:22:04Z",
-    "releaseNotes": "In this version, we're introducing some new features:\n- Improvements across the app: on the workout page, your current set stays highlighted, finished exercises collapse as you go, and the rest timer is rebuilt. In History, view your training by month. And smaller fixes throughout.\n- Photos in Community: add a photo and caption to your workout posts, and share more than just the numbers.\nPlus bug fixes and general improvements to the app for better user experience.",
     "version": "265",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Trusted by over 1,300,000 lifters. 300M+ workouts logged. 4.8 stars.\n\nBoostcamp is a free workout tracker and gym logger with 11,000+ programs and an AI coach that builds a custom plan from your goal, schedule, and equipment. Log every set. Run nSuns, GZCLP, 5/3/1, Reddit PPL, PHUL, PHAT, or 130+ coach programs. No spreadsheet.\n\nGarage Gym Reviews named Boostcamp the Best Workout App Overall in 2026.\n\n\"I primarily train for strength and hypertrophy, and Boostcamp is the best app I’ve ever used. I love all the data it provides, and there are so many great programs to choose from within the workout library.\" – Matt Dustin, CSCS, PN1-NC, Garage Gym Reviews\n\nFeatured in Fortune’s 2026 trainer-approved Boostcamp review.\n\n\"Boostcamp has all the features of Strong and Hevy, but what puts Boostcamp decidedly #1 is that it features a library of programs from some of the most recognizable figures in fitness.\" – Alex Bromley, Professional Strongman\n\n\"Boostcamp puts all of Reddit's best free workouts in one slick app...give Boostcamp a try.\" – Lifehacker\n\nWHAT YOU GET\n\n• Workout Tracker – Log sets, reps, and weight with RPE, RIR, and e1RM. Auto-progression sets your next weights. Rest timer, plate calculator, supersets, drop sets, warmup templates, form videos, and mid-set exercise swaps that keep your numbers. PRs flag in-session. Weekly Sunday reports and year-end Wrapped. Offline. Live Activities put your set and rest timer on the Lock Screen and Dynamic Island. Syncs bodyweight with Apple Health.\n\n• AI Coach – Short questionnaire, then a customized multi-week program you log in the same tracker. Or pick a named coach program and start today. Fork any program, or build your own with no cap.\n\n• 11,000+ Programs – 130+ coach-designed plans with progressions, periodization, and deloads, plus a huge community library. Filter by goal, level, and days per week. The library is free. No ads.\n\n• Analytics – Volume, muscle-group engagement, PRs, and training history. Pro adds Strength Score (0–100 across the big lifts) and a per-muscle volume heatmap.\n\nPOPULAR PROGRAMS\n\nnSuns 5/3/1, GZCLP, 5/3/1 BBB, 5/3/1 for Beginners, Building the Monolith, Candito 6 Week, TSA, Bullmastiff, Greyskull LP, PHUL, PHAT, Reddit PPL, KONG, MASS IMPACT, Jacked and Tan 2.0, Strong Curves, Alberto Nuñez Upper Lower, Eric Helms Intermediate Bodybuilding, Greg Nuckols Beginner, Reddit Bodyweight Fitness RR, and thousands more.\n\nCOACHES\n\nDr. Eric Helms, Alex Bromley, Cody Lefever (GZCL), Geoffrey Verity Schofield, Alberto Nuñez, Bryce Lewis, Greg Nuckols, Jonnie Candito, Bald Omni-Man, Natural Hypertrophy, Basement Bodybuilding, Brandon Campbell (PHUL), Dr. Swole, Matt Vena, Menno Henselmans, Justina Ercole, Tiffany Ma, Rebecca Rouse, and 50+ more. Competitive athletes and researchers, not random influencers.\n\nWHO IT'S FOR\n\nBeginners who want a plan and a gym logger. Intermediate lifters done with spreadsheets. Anyone who wants an AI coach plus a real tracker. Men and women. Full gym, garage gym, or dumbbells at home. 2–6 days per week.\n\nABOUT\n\nBoostcamp started by putting Reddit’s best programs into a workout tracker that works. 1.3M+ lifters now log training, follow 11,000+ programs, and build custom plans with an AI coach. Free to start. No ads.\n\nQuestions? support@boostcamp.app",
-    "minimumOsVersion": "15.1",
     "bundleId": "com.bpmhealth.boostfitness",
-    "trackCensoredName": "Boostcamp: Workout Programs",
-    "trackViewUrl": "https://apps.apple.com/us/app/boostcamp-workout-programs/id1529354455?uo=4",
-    "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.84902,
     "price": 0,
-    "userRatingCount": 10180
+    "userRatingCount": 10190
   }
 }

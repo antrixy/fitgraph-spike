@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T11:18:24.871Z",
+  "fetched_at": "2026-09-20T11:42:32.118Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 2721247,
-    "score": 3.9417477,
+    "score": 3.9415584,
     "scoreText": "3.9",
-    "ratings": 26828,
+    "ratings": 26829,
     "reviews": 1350,
     "histogram": {
-      "1": 4856,
-      "2": 1033,
-      "3": 1728,
-      "4": 2337,
-      "5": 16837
+      "1": 4872,
+      "2": 1042,
+      "3": 1737,
+      "4": 2258,
+      "5": 16892
     },
     "price": 0,
     "free": true,
