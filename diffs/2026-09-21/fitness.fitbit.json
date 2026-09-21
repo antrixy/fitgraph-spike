@@ -1,0 +1,56 @@
+{
+  "product": "fitness.fitbit",
+  "name": "Fitbit",
+  "date": "2026-09-21",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7f6b1442de46ff72efa5d90dfbbc2c93a9a6a7dd",
+      "prev_fetched_at": "2026-09-20T11:43:13.009Z",
+      "curr_fetched_at": "2026-09-21T13:08:26.472Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "7f6b1442de46ff72efa5d90dfbbc2c93a9a6a7dd",
+      "curr_fetched_at": "2026-09-21T13:08:31.225Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Laptops",
+          "occurrences": 4
+        },
+        {
+          "text": "Lenovo Googlebook",
+          "occurrences": 2
+        },
+        {
+          "text": "XPS Googlebook",
+          "occurrences": 2
+        },
+        {
+          "text": "Acer",
+          "occurrences": 2
+        },
+        {
+          "text": "Googlebook",
+          "occurrences": 2
+        },
+        {
+          "text": "Browse all Laptops",
+          "occurrences": 2
+        },
+        {
+          "text": "Compare laptops",
+          "occurrences": 2
+        },
+        {
+          "text": "Laptop accessories",
+          "occurrences": 2
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 8,
+      "removed_total": 0
+    }
+  }
+}
