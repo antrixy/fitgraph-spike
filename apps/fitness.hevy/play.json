@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:04:21.709Z",
+  "fetched_at": "2026-09-22T11:54:41.956Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 8182955,
-    "score": 4.8765235,
+    "score": 4.8767962,
     "scoreText": "4.9",
-    "ratings": 267935,
-    "reviews": 6932,
+    "ratings": 268199,
+    "reviews": 6938,
     "histogram": {
-      "1": 1271,
-      "2": 703,
-      "3": 2413,
-      "4": 21011,
-      "5": 242512
+      "1": 1278,
+      "2": 711,
+      "3": 2421,
+      "4": 20907,
+      "5": 242858
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 29, 2019",
-    "updated": 1789062284000,
-    "version": "3.1.14",
+    "updated": 1789694869000,
+    "version": "3.1.15",
     "recentChanges": "What&#39;s new in this update:<br><br>You can now Send workouts to ChatGPT &amp; Claude directly from the finish workout screen!<br>Added support for 5 new languages across the app and hevy.com<br>Bug fixes and performance improvements!",
     "comments": [],
     "preregister": false,

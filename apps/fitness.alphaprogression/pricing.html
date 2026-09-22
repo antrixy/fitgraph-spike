@@ -46,10 +46,7 @@
     "@context": "https://schema.org",
     "@graph": [
         {
-            "@type": [
-                "Corporation",
-                "Organization"
-            ],
+            "@type": "Organization",
             "@id": "https://alphaprogression.com/#org",
             "name": "Alpha Progression",
             "legalName": "Alpha Progression GmbH",
@@ -165,6 +162,7 @@
             ],
             "@id": "https://alphaprogression.com/#app",
             "name": "Alpha Progression",
+            "description": "Build muscle with a smarter gym app: ✓ Training plan generator ✓ Progression recommendations for every set ✓ Charts ✓ Free on the App Store and Google Play!",
             "publisher": {
                 "@id": "https://alphaprogression.com/#org"
             },
@@ -259,29 +257,150 @@
                     "reviewBody": "I've had no problem getting into the gym and lifting weights, but since my trainer moved a couple years ago, I feel like I haven't actually been progressing. Thankfully I saw this app on Reddit and it's exactly what I've been searching for! Thank you 😊"
                 }
             ]
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://alphaprogression.com/#website",
+            "url": "https://alphaprogression.com",
+            "name": "Alpha Progression",
+            "publisher": {
+                "@id": "https://alphaprogression.com/#org"
+            }
+        },
+        {
+            "@type": "FAQPage",
+            "@id": "https://alphaprogression.com/#faq",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Can Alpha Progression create a workout plan tailored to me?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. Alpha Progression Pro builds a complete plan around your goal, experience, available equipment, training frequency and preferred workout duration. You can also prioritize specific muscles. The app selects your split, exercises, sets and rep targets, and you can adjust everything afterward. Whether you prefer full-body training, upper/lower or push/pull/legs, your plan can fit the way you want to train. Learn how the plan generator works."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How does Alpha Progression decide what weight and reps I should do?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alpha Progression Pro uses your previous performance, the sets you've completed in your current workout, your planned targets and your available weights to recommend a weight and rep count for each working set. If the next dumbbell is too big a jump, it can suggest more reps first. Recommendations adapt to what you actually log, including when you perform below expectations. They become available once you've recorded previous performance for that exercise. Learn how progression recommendations work."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How is Alpha Progression different from other workout apps?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alpha Progression combines a workout tracker, personalized training plans and specific weight and rep recommendations in one app built for muscle growth and strength. Your plan keeps a consistent exercise structure while weight and rep recommendations adapt to your performance. You can also build your own routine and choose which guidance to use. The focus is on making consistent training and measurable progress easier. Explore our workout-app comparisons."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is Alpha Progression suitable for beginners and experienced lifters?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. Beginners can use Pro to get a plan suited to their experience and follow exercise videos and step-by-step instructions as they learn. Experienced lifters can customize their training, prioritize muscles and use detailed progress charts and advanced programming tools. You can also start with free workout logging and add more guidance when you need it. Alpha Progression can grow with your training experience."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I follow my own workout plan and change exercises?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. You can build your own plan for free, recreate a coach's routine or edit a plan generated by Alpha Progression Pro. Change exercises, their order, sets and rep targets to suit you. If a machine is occupied, you can swap the exercise just for today's workout or keep the change in your plan. Pro's progression recommendations also work with manually created plans."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do I need to understand RIR or periodization to use Alpha Progression?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "No. With Pro, you can follow a generated plan and receive weight and rep recommendations without using either. RIR means \"reps in reserve\": how many more clean reps you think you could have completed. Periodization lets training targets vary across several weeks. Both are optional Pro features, along with deloads (easier phases of training). Start simple and enable them whenever you want more control."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I use Alpha Progression at home or in different gyms?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. Tell Alpha Progression which equipment you have, and the Pro plan generator will choose exercises for that setup. Configure your available weights so progression recommendations reflect the loads you can actually use. With Pro, you can save separate profiles for your regular gym, home gym or a gym you visit while traveling, each with its own equipment and weights."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I generate a single workout instead of a full plan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. Alpha Progression Pro can generate an individual workout for an extra session, a trip or a day when you want to train outside your usual plan. Choose a full-body, upper-body or lower-body workout and narrow the focus if you like, or let the app suggest a focus based on recent workouts. You can edit the result and use progression recommendations as usual."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Does Alpha Progression work offline?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. You can follow your plans, log workouts and, with Pro, receive progression recommendations without an internet connection. Exercise videos are also available offline in a lower resolution. An internet connection is needed to generate a new plan or individual workout. If you're signed into your Alpha Progression account, your training data syncs automatically when you're back online."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is Alpha Progression free, and what does Pro add?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. The permanent free version includes unlimited workout logging, manually created plans, exercise videos, a rest timer, body measurements and CSV export. All without ads. Pro adds personalized plan and workout generation, progression recommendations, charts, multiple gym profiles and advanced training tools. You don't need to start a trial to use the free version. Compare Free and Pro."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much does Alpha Progression Pro cost, and can I try it free?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Regular US pricing is $12.99 per month or $79.99 per year. The annual plan is billed in one payment. Eligible new customers can try the annual plan free for 14 days. The monthly plan has no free trial. The trial becomes a paid annual subscription unless canceled in time. Both subscriptions renew automatically until canceled. Prices and offers vary by region and purchase channel. Check your current price and subscription terms."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do I cancel Pro, and what can I use afterward?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cancel through the App Store or Google Play if you subscribed there. For a website subscription, use Update subscription. Canceling renewal keeps Pro active until your paid period ends. The trial access follows your provider's terms. After Pro expires, logging and manually created plans remain usable with the free features. Progression recommendations and starting generated workouts, whether standalone or part of a generated plan, require an active Pro subscription."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I get a refund if Pro isn't right for me?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes! We offer a full refund on request, including payments after a trial or subscription renewal. For website or Google Play purchases, email info@alphaprogression.com with your purchase details. For App Store purchases, request a refund through Apple first. If Apple declines, contact us so we can arrange your refund. Canceling renewal and requesting a refund are separate actions. More about refunds."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Who is behind Alpha Progression?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alpha Progression was founded by Benjamin Schnabel and Marwin Sinapius. Benjamin brings experience in personal training, strength training and sports nutrition. Marwin leads product, design and software development. We're a small, independent team based in Germany, building the app in close contact with our users. If you have a question or suggestion, email info@alphaprogression.com and you'll hear back from a real person."
+                    }
+                }
+            ]
         }
     ]
 }</script>
   
   <link rel="apple-touch-icon" sizes="152x152" href="img/icons/apple-touch-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon-180x180.png">
-  <link rel="shortcut icon" href="img/icons/favicon.ico" type="image/x-icon">
   <link rel="icon" href="img/icons/favicon.ico" type="image/x-icon">
   <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
   <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="48x48" href="img/icons/favicon-48x48.png">
-  <link rel="icon" type="image/png" sizes="57x57" href="img/icons/favicon-57x57.png">
   <link rel="icon" type="image/png" sizes="64x64" href="img/icons/favicon-64x64.png">
-  <link rel="icon" type="image/png" sizes="70x70" href="img/icons/favicon-70x70.png">
-  <link rel="icon" type="image/png" sizes="76x76" href="img/icons/favicon-76x76.png">
   <link rel="icon" type="image/png" sizes="96x96" href="img/icons/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="128x128" href="img/icons/favicon-128x128.png">
-  <link rel="icon" type="image/png" sizes="150x150" href="img/icons/favicon-150x150.png">
   <link rel="icon" type="image/png" sizes="192x192" href="img/icons/favicon-192x192.png">
-  <link rel="icon" type="image/png" sizes="228x228" href="img/icons/favicon-228x228.png">
   <link rel="icon" type="image/svg+xml" href="img/icons/favicon.svg">
 
-  <link rel="stylesheet" href="css/main2.css?version=9">
+  <link rel="stylesheet" href="css/main2.css?version=10">
   <link rel="preload" as="font" href="css/fonts/fa-solid-900.woff2" type="font/woff2" crossorigin>
   <link rel="preload" as="font" href="css/fonts/fa-regular-400.woff2" type="font/woff2" crossorigin>
   <link rel="preload" as="font" href="css/fonts/fa-brands-400.woff2" type="font/woff2" crossorigin>
@@ -337,11 +456,16 @@
         Stop guessing.<br>
         <span class="color-primary">Start progressing.</span>
       </h1>
-      <p>Build muscle faster with a training plan made for you. Know exactly what to lift, every set.</p>
-      <a href="https://alphaprogression.com/en/subscribe" class="button button-large button-primary">
-        <span>Try free for 14 days</span>
-        <i class="fa-solid fa-arrow-right"></i>
-      </a>
+      <p>Build muscle and strength with a plan made for you. Alpha Progression Pro recommends weights and reps based on your performance, whether you use a generated plan or your own.</p>
+      <div class="button-wrapper">
+        <a href="https://alphaprogression.com/en/subscribe" class="button button-large button-primary">
+          <span>Try Pro free for 14 days</span>
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+        <a href="https://alphaprogression.com/en#download" class="button button-large button-secondary">
+          <span>Download</span>
+        </a>
+      </div>
       <div class="trust-row">
         <div class="trust-item">
           <a href="https://alphaprogression.com/en#reviews">
@@ -362,8 +486,8 @@
           <div class="subtitle">App of the day</div>
         </div>
         <div class="trust-item">
-          <div class="title">25M+</div>
-          <div class="subtitle">Workouts completed</div>
+          <div class="title">5M+</div>
+          <div class="subtitle">Downloads</div>
         </div>
       </div>
     </div>
@@ -412,23 +536,23 @@
   <div class="container feature-strip">
     <a href="https://alphaprogression.com/en#plan-generator" class="feature-item animate animate-delay-1">
       <i class="fa-regular fa-clipboard-check"></i>
-      <div class="title">Smart plans</div>
-      <div class="subtitle">100% custom</div>
+      <div class="title">Your workout plan</div>
+      <div class="subtitle">Built around you</div>
     </a>
     <a href="https://alphaprogression.com/en#progression" class="feature-item animate animate-delay-2">
       <i class="fa-regular fa-bullseye-arrow"></i>
-      <div class="title">Progression recommendations</div>
-      <div class="subtitle">On every set</div>
+      <div class="title">Weights & reps</div>
+      <div class="subtitle">Based on your performance</div>
     </a>
     <a href="https://alphaprogression.com/en#exercises" class="feature-item animate animate-delay-3">
       <i class="fa-regular fa-video"></i>
-      <div class="title">795 exercises</div>
-      <div class="subtitle">All with video</div>
+      <div class="title">795 exercise videos</div>
+      <div class="subtitle">Clear instructions</div>
     </a>
     <a href="https://alphaprogression.com/en#analytics" class="feature-item animate animate-delay-4">
       <i class="fa-regular fa-arrow-trend-up"></i>
-      <div class="title">Deep analytics</div>
-      <div class="subtitle">See every gain</div>
+      <div class="title">Your progress</div>
+      <div class="subtitle">Made visible</div>
     </a>
   </div>
 </section>
@@ -440,12 +564,16 @@
         <i class="fa-regular fa-clipboard-check"></i>
         <span>Plan generator</span>
       </div>
-      <h2>A program built around your body.</h2>
+      <h2>A workout program built around your body.</h2>
       <p>Pick your goals, equipment, training frequency, and duration. The plan generator builds you a science-backed program from 795 exercises. Push Pull Legs, Upper Lower, Full Body, whatever fits your week. Customize anything.</p>
       <ul class="check-list">
         <li>
           <i class="fa-regular fa-check"></i>
-          <span>Tailored to your available equipment</span>
+          <span>Prioritize the muscles you want to focus on</span>
+        </li>
+        <li>
+          <i class="fa-regular fa-check"></i>
+          <span>Choose your split, or let the app choose</span>
         </li>
         <li>
           <i class="fa-regular fa-check"></i>
@@ -468,6 +596,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/tpg-muscles-en-240.webp 240w, img/mockups/generated/tpg-muscles-en-320.webp 320w, img/mockups/generated/tpg-muscles-en-400.webp 400w, img/mockups/generated/tpg-muscles-en-480.webp 480w, img/mockups/generated/tpg-muscles-en-560.webp 560w, img/mockups/generated/tpg-muscles-en-640.webp 640w, img/mockups/generated/tpg-muscles-en-720.webp 720w, img/mockups/generated/tpg-muscles-en-800.webp 800w, img/mockups/generated/tpg-muscles-en-880.webp 880w, img/mockups/generated/tpg-muscles-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/tpg-muscles-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -486,6 +616,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/editor-en-240.webp 240w, img/mockups/generated/editor-en-320.webp 320w, img/mockups/generated/editor-en-400.webp 400w, img/mockups/generated/editor-en-480.webp 480w, img/mockups/generated/editor-en-560.webp 560w, img/mockups/generated/editor-en-640.webp 640w, img/mockups/generated/editor-en-720.webp 720w, img/mockups/generated/editor-en-800.webp 800w, img/mockups/generated/editor-en-880.webp 880w, img/mockups/generated/editor-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/editor-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -508,6 +640,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/logger-en-240.webp 240w, img/mockups/generated/logger-en-320.webp 320w, img/mockups/generated/logger-en-400.webp 400w, img/mockups/generated/logger-en-480.webp 480w, img/mockups/generated/logger-en-560.webp 560w, img/mockups/generated/logger-en-640.webp 640w, img/mockups/generated/logger-en-720.webp 720w, img/mockups/generated/logger-en-800.webp 800w, img/mockups/generated/logger-en-880.webp 880w, img/mockups/generated/logger-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/logger-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -559,7 +693,7 @@
         </li>
         <li>
           <i class="fa-regular fa-check"></i>
-          <span>Or add your own exercises</span>
+          <span>Add custom exercises</span>
         </li>
       </ul>
     </div>
@@ -574,6 +708,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/exercise-bench-press-en-240.webp 240w, img/mockups/generated/exercise-bench-press-en-320.webp 320w, img/mockups/generated/exercise-bench-press-en-400.webp 400w, img/mockups/generated/exercise-bench-press-en-480.webp 480w, img/mockups/generated/exercise-bench-press-en-560.webp 560w, img/mockups/generated/exercise-bench-press-en-640.webp 640w, img/mockups/generated/exercise-bench-press-en-720.webp 720w, img/mockups/generated/exercise-bench-press-en-800.webp 800w, img/mockups/generated/exercise-bench-press-en-880.webp 880w, img/mockups/generated/exercise-bench-press-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/exercise-bench-press-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -592,6 +728,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/exercise-leg-press-en-240.webp 240w, img/mockups/generated/exercise-leg-press-en-320.webp 320w, img/mockups/generated/exercise-leg-press-en-400.webp 400w, img/mockups/generated/exercise-leg-press-en-480.webp 480w, img/mockups/generated/exercise-leg-press-en-560.webp 560w, img/mockups/generated/exercise-leg-press-en-640.webp 640w, img/mockups/generated/exercise-leg-press-en-720.webp 720w, img/mockups/generated/exercise-leg-press-en-800.webp 800w, img/mockups/generated/exercise-leg-press-en-880.webp 880w, img/mockups/generated/exercise-leg-press-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/exercise-leg-press-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -614,6 +752,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/charts-en-240.webp 240w, img/mockups/generated/charts-en-320.webp 320w, img/mockups/generated/charts-en-400.webp 400w, img/mockups/generated/charts-en-480.webp 480w, img/mockups/generated/charts-en-560.webp 560w, img/mockups/generated/charts-en-640.webp 640w, img/mockups/generated/charts-en-720.webp 720w, img/mockups/generated/charts-en-800.webp 800w, img/mockups/generated/charts-en-880.webp 880w, img/mockups/generated/charts-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/charts-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -632,6 +772,8 @@
           sizes="(max-width: 900px) 66vw, 45vw"
           srcset="img/mockups/generated/achievements-en-240.webp 240w, img/mockups/generated/achievements-en-320.webp 320w, img/mockups/generated/achievements-en-400.webp 400w, img/mockups/generated/achievements-en-480.webp 480w, img/mockups/generated/achievements-en-560.webp 560w, img/mockups/generated/achievements-en-640.webp 640w, img/mockups/generated/achievements-en-720.webp 720w, img/mockups/generated/achievements-en-800.webp 800w, img/mockups/generated/achievements-en-880.webp 880w, img/mockups/generated/achievements-en-960.webp 960w">
         <img
+          width="540"
+          height="960"
           src="img/mockups/generated/achievements-en-640.png"
           loading="lazy"
           fetchpriority="low"
@@ -790,7 +932,7 @@
     <header class="animate">
       <div class="label-button">
         <i class="fa-regular fa-tag"></i>
-        <span>Try Pro</span>
+        <span>Try Pro for free</span>
       </div>
       <h2>Unlock your full potential.</h2>
       <p><a href="https://alphaprogression.com/en/subscribe">Start your 14-day free trial.</a> Cancel anytime, no questions asked.</p>
@@ -803,11 +945,11 @@
         <ul class="check-list">
           <li>
             <i class="fa-regular fa-check"></i>
-            <span>Plans from scratch</span>
+            <span>Your own plans</span>
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
-            <span>Unlimited workouts</span>
+            <span>Unlimited workout logging</span>
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
@@ -817,21 +959,25 @@
             <i class="fa-regular fa-check"></i>
             <span>Body measurements</span>
           </li>
-          <li class="subtitle">
+          <li>
+            <i class="fa-regular fa-check"></i>
+            <span>Data export</span>
+          </li>
+          <li>
             <i class="fa-regular fa-x"></i>
             <span>No plan generator</span>
           </li>
-          <li class="subtitle">
+          <li>
             <i class="fa-regular fa-x"></i>
             <span>No recommendations</span>
           </li>
-          <li class="subtitle">
+          <li>
             <i class="fa-regular fa-x"></i>
             <span>No charts</span>
           </li>
-          <li class="subtitle">
+          <li>
             <i class="fa-regular fa-x"></i>
-            <span>No advanced tools and options</span>
+            <span>No advanced tools & options</span>
           </li>
         </ul>
       </div>
@@ -839,15 +985,15 @@
         <div class="highlight-badge">Recommended</div>
         <div class="title">Pro</div>
         <div class="subtitle">The full toolkit. Free to try.</div>
-        <a href="https://alphaprogression.com/en/subscribe" class="button">Try free for 14 days</a>
+        <a href="https://alphaprogression.com/en/subscribe" class="button">Try Pro free for 14 days</a>
         <ul class="check-list">
           <li>
             <i class="fa-regular fa-check"></i>
-            <span>Everything in free</span>
+            <span>Everything in Free, plus:</span>
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
-            <span>Custom plan generator</span>
+            <span>Plan & workout generator</span>
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
@@ -855,7 +1001,7 @@
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
-            <span>Charts</span>
+            <span>Detailed progress charts</span>
           </li>
           <li>
             <i class="fa-regular fa-check"></i>
@@ -894,97 +1040,121 @@
         <i class="fa-regular fa-circle-question"></i>
         <span>Questions</span>
       </div>
-      <h2>Everything you'd want to know.</h2>
-      <p>Got more questions? Email us at <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a>, or ask existing users on <a href="https://facebook.com/groups/alphaprogressionapp">Facebook</a> or <a href="https://reddit.com/r/alphaprogression">Reddit</a>.</p>
+      <h2>Questions about Alpha Progression?</h2>
+      <p>Still need help? Email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a>, or ask existing users on <a href="https://reddit.com/r/alphaprogression">Reddit</a> or <a href="https://facebook.com/groups/alphaprogressionapp">Facebook</a>.</p>
     </header>
     <div class="faq-list animate animate-delay-1">
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem1-answer" id="faqItem1-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Who is the app for?</span>
+            <span class="title">Can Alpha Progression create a workout plan tailored to me?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem1-answer" role="region" aria-labelledby="faqItem1-question">Anyone who wants to get stronger, build muscle, or just lift weights consistently. It works equally well for first-time gym-goers building a routine and ten-year veterans chasing the next PR. The training principles are also explicitly suitable for all genders and ages. For a broader overview, see our comparisons of <a href="https://alphaprogression.com/en/blog/best-strength-training-apps">strength training apps</a> and <a href="https://alphaprogression.com/en/blog/best-muscle-building-apps">muscle-building apps</a>.</p>
+          <p id="faqItem1-answer" role="region" aria-labelledby="faqItem1-question">Yes. Alpha Progression Pro builds a complete plan around your goal, experience, available equipment, training frequency and preferred workout duration. You can also prioritize specific muscles. The app selects your split, exercises, sets and rep targets, and you can adjust everything afterward. Whether you prefer full-body training, upper/lower or push/pull/legs, your plan can fit the way you want to train. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-workout-plan-generator">Learn how the plan generator works</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem2-answer" id="faqItem2-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Is the app for beginners, or just experienced lifters?</span>
+            <span class="title">How does Alpha Progression decide what weight and reps I should do?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem2-answer" role="region" aria-labelledby="faqItem2-question">Both equally. Beginners get a science-backed starter plan, sensible progression, and zero programming jargon to learn first. Experienced lifters get a customizable program that respects their level. Periodization, RIR, deloads. You don't grow out of the app as you grow stronger. Our app comparisons for <a href="https://alphaprogression.com/en/blog/best-beginner-strength-training-apps">beginners</a> and <a href="https://alphaprogression.com/en/blog/best-advanced-strength-training-apps">advanced lifters</a> explain the differences in guidance and flexibility.</p>
+          <p id="faqItem2-answer" role="region" aria-labelledby="faqItem2-question">Alpha Progression Pro uses your previous performance, the sets you've completed in your current workout, your planned targets and your available weights to recommend a weight and rep count for each working set. If the next dumbbell is too big a jump, it can suggest more reps first. Recommendations adapt to what you actually log, including when you perform below expectations. They become available once you've recorded previous performance for that exercise. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-progression-recommendations">Learn how progression recommendations work</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem3-answer" id="faqItem3-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Can I use it at home, or in a hotel gym?</span>
+            <span class="title">How is Alpha Progression different from other workout apps?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem3-answer" role="region" aria-labelledby="faqItem3-question">Yes. When you set up your plan, you tell us what equipment you have access to and we only program exercises you can actually do. You can also save multiple gym profiles, e.g. "Main gym", "Home", or "Hotel". When you switch gyms, the app knows what weights to recommend. Compare <a href="https://alphaprogression.com/en/blog/best-home-gym-strength-training-apps">strength training apps for home gyms</a>.</p>
+          <p id="faqItem3-answer" role="region" aria-labelledby="faqItem3-question">Alpha Progression combines a workout tracker, personalized training plans and specific weight and rep recommendations in one app built for muscle growth and strength. Your plan keeps a consistent exercise structure while weight and rep recommendations adapt to your performance. You can also build your own routine and choose which guidance to use. The focus is on making consistent training and measurable progress easier. <a target="_blank" href="https://alphaprogression.com/en/blog/best-strength-training-apps">Explore our workout-app comparisons</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem4-answer" id="faqItem4-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Are the plans and recommendations actually science-based?</span>
+            <span class="title">Is Alpha Progression suitable for beginners and experienced lifters?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem4-answer" role="region" aria-labelledby="faqItem4-question">Yes, and we take this seriously. As experienced lifters with academic backgrounds and trainer certifications, our founding team has been studying the relevant literature for years. Our algorithm is built on peer-reviewed exercise science. Meta-analyses on volume, intensity, RIR, frequency, and periodization, instead of bro-science or influencer trends.</p>
+          <p id="faqItem4-answer" role="region" aria-labelledby="faqItem4-question">Yes. Beginners can use Pro to get a plan suited to their experience and follow exercise videos and step-by-step instructions as they learn. Experienced lifters can customize their training, prioritize muscles and use detailed progress charts and advanced programming tools. You can also start with free workout logging and add more guidance when you need it. Alpha Progression can grow with your training experience.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem5-answer" id="faqItem5-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Can I build my own program?</span>
+            <span class="title">Can I follow my own workout plan and change exercises?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem5-answer" role="region" aria-labelledby="faqItem5-question">Yes, top to bottom. Use our plan generator as a starting point and edit anything, or build your plan from scratch. Choose your split, exercises, set and rep counts, RIR, and intensity techniques like dropsets or supersets. If you want to mix things up, you can also do one-off workouts. Our <a href="https://alphaprogression.com/en/blog/best-workout-planner-apps">workout planner comparison</a> covers both manual planning and <a href="https://alphaprogression.com/en/blog/best-workout-plan-generator">automated plan generation</a>.</p>
+          <p id="faqItem5-answer" role="region" aria-labelledby="faqItem5-question">Yes. You can build your own plan for free, recreate a coach's routine or edit a plan generated by Alpha Progression Pro. Change exercises, their order, sets and rep targets to suit you. If a machine is occupied, you can swap the exercise just for today's workout or keep the change in your plan. Pro's progression recommendations also work with manually created plans.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem6-answer" id="faqItem6-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">How's the algorithm different from Strong or Hevy?</span>
+            <span class="title">Do I need to understand RIR or periodization to use Alpha Progression?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem6-answer" role="region" aria-labelledby="faqItem6-question"><a href="https://alphaprogression.com/en/blog/alpha-progression-vs-strong">Strong</a> and <a href="https://alphaprogression.com/en/blog/alpha-progression-vs-hevy">Hevy</a> are capable workout trackers. Hevy Trainer also generates plans and increases weights based on your performance within prescribed rep ranges. Alpha Progression Pro recommends a specific weight and rep count for every set, based on your actual performance and the weights available in your gym. Our plan generator connects that progression with your muscle priorities, optional RIR targets, periodization, and deloads.</p>
+          <p id="faqItem6-answer" role="region" aria-labelledby="faqItem6-question">No. With Pro, you can follow a generated plan and receive weight and rep recommendations without using either. RIR means "reps in reserve": how many more clean reps you think you could have completed. Periodization lets training targets vary across several weeks. Both are optional Pro features, along with deloads (easier phases of training). Start simple and enable them whenever you want more control.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem7-answer" id="faqItem7-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">How does Alpha Progression compare to Fitbod?</span>
+            <span class="title">Can I use Alpha Progression at home or in different gyms?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem7-answer" role="region" aria-labelledby="faqItem7-question"><a href="https://alphaprogression.com/en/blog/alpha-progression-vs-fitbod">Fitbod</a> generates a fresh workout each session based on your recent training. Alpha Progression keeps a stable, structured plan, and progresses you set by set within it. The trade-off: Fitbod is more flexible day to day, AP gives you a program you can stick to for months and watch lifts climb. The structured approach is what most hypertrophy and strength research supports.</p>
+          <p id="faqItem7-answer" role="region" aria-labelledby="faqItem7-question">Yes. Tell Alpha Progression which equipment you have, and the Pro plan generator will choose exercises for that setup. Configure your available weights so progression recommendations reflect the loads you can actually use. With Pro, you can save separate profiles for your regular gym, home gym or a gym you visit while traveling, each with its own equipment and weights.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem8-answer" id="faqItem8-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Is the Free version usable, or just a teaser?</span>
+            <span class="title">Can I generate a single workout instead of a full plan?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem8-answer" role="region" aria-labelledby="faqItem8-question">Genuinely usable, forever, no card needed. You get full workout logging, the complete 795 exercises with form videos, and body measurement tracking. Pro then unlocks the parts of the app that take real engineering to provide: the algorithm, the custom plan generator, and the analytics. Our <a href="https://alphaprogression.com/en/blog/best-gym-tracker-apps">gym tracker comparison</a> also covers what other apps include for free.</p>
+          <p id="faqItem8-answer" role="region" aria-labelledby="faqItem8-question">Yes. Alpha Progression Pro can generate an individual workout for an extra session, a trip or a day when you want to train outside your usual plan. Choose a full-body, upper-body or lower-body workout and narrow the focus if you like, or let the app suggest a focus based on recent workouts. You can edit the result and use progression recommendations as usual.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem9-answer" id="faqItem9-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">Can I try the Pro version for free?</span>
+            <span class="title">Does Alpha Progression work offline?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem9-answer" role="region" aria-labelledby="faqItem9-question">Yes. The yearly Pro plan starts with a 14-day free trial. If you need more time, you can subscribe for a single month, and either cancel or upgrade to the cheaper yearly plan.</p>
+          <p id="faqItem9-answer" role="region" aria-labelledby="faqItem9-question">Yes. You can follow your plans, log workouts and, with Pro, receive progression recommendations without an internet connection. Exercise videos are also available offline in a lower resolution. An internet connection is needed to generate a new plan or individual workout. If you're signed into your Alpha Progression account, your training data syncs automatically when you're back online.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem10-answer" id="faqItem10-question">
             <i class="fa-regular fa-circle-question"></i>
-            <span class="title">How can I cancel?</span>
+            <span class="title">Is Alpha Progression free, and what does Pro add?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem10-answer" role="region" aria-labelledby="faqItem10-question">If you subscribed in the app, cancel from your App Store or Google Play subscription settings. If you subscribed on the website, head to our update subscription page and we'll email you a link to the customer portal. Either way you keep Pro until the end of your current period, with no immediate cutoff.</p>
+          <p id="faqItem10-answer" role="region" aria-labelledby="faqItem10-question">Yes. The permanent free version includes unlimited workout logging, manually created plans, exercise videos, a rest timer, body measurements and CSV export. All without ads. Pro adds personalized plan and workout generation, progression recommendations, charts, multiple gym profiles and advanced training tools. You don't need to start a trial to use the free version. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">Compare Free and Pro</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem11-answer" id="faqItem11-question">
             <i class="fa-regular fa-circle-question"></i>
+            <span class="title">How much does Alpha Progression Pro cost, and can I try it free?</span>
+            <i class="fa-regular fa-chevron-right"></i>
+          </button>
+          <p id="faqItem11-answer" role="region" aria-labelledby="faqItem11-question">Regular US pricing is $12.99 per month or $79.99 per year. The annual plan is billed in one payment. Eligible new customers can try the annual plan free for 14 days. The monthly plan has no free trial. The trial becomes a paid annual subscription unless canceled in time. Both subscriptions renew automatically until canceled. Prices and offers vary by region and purchase channel. <a target="_blank" href="https://alphaprogression.com/en/subscribe">Check your current price and subscription terms</a>.</p>
+        </div>
+              <div class="faq-item item" data-click="showItem">
+          <button type="button" aria-expanded="false" aria-controls="faqItem12-answer" id="faqItem12-question">
+            <i class="fa-regular fa-circle-question"></i>
+            <span class="title">How do I cancel Pro, and what can I use afterward?</span>
+            <i class="fa-regular fa-chevron-right"></i>
+          </button>
+          <p id="faqItem12-answer" role="region" aria-labelledby="faqItem12-question">Cancel through the App Store or Google Play if you subscribed there. For a website subscription, use <a target="_blank" href="https://alphaprogression.com/en/update-subscription">Update subscription</a>. Canceling renewal keeps Pro active until your paid period ends. The trial access follows your provider's terms. After Pro expires, logging and manually created plans remain usable with the free features. Progression recommendations and starting generated workouts, whether standalone or part of a generated plan, require an active Pro subscription.</p>
+        </div>
+              <div class="faq-item item" data-click="showItem">
+          <button type="button" aria-expanded="false" aria-controls="faqItem13-answer" id="faqItem13-question">
+            <i class="fa-regular fa-circle-question"></i>
+            <span class="title">Can I get a refund if Pro isn't right for me?</span>
+            <i class="fa-regular fa-chevron-right"></i>
+          </button>
+          <p id="faqItem13-answer" role="region" aria-labelledby="faqItem13-question">Yes! We offer a full refund on request, including payments after a trial or subscription renewal. For website or Google Play purchases, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> with your purchase details. For App Store purchases, <a target="_blank" href="https://reportaproblem.apple.com/">request a refund through Apple</a> first. If Apple declines, contact us so we can arrange your refund. Canceling renewal and requesting a refund are separate actions. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">More about refunds</a>.</p>
+        </div>
+              <div class="faq-item item" data-click="showItem">
+          <button type="button" aria-expanded="false" aria-controls="faqItem14-answer" id="faqItem14-question">
+            <i class="fa-regular fa-circle-question"></i>
             <span class="title">Who is behind Alpha Progression?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem11-answer" role="region" aria-labelledby="faqItem11-question">The founding team has years in personal training experience, and even some in competitive bodybuilding. With academic background, we are well-versed interpreting the latest exercise research. We started Alpha Progression to bring this knowledge to as many lifters as possible for a small price compared to one-on-one coaching. We are an agile small team with no VC pressure, focused on supporting your training journey, instead of growth at all cost. You can reach us anytime at info@alphaprogression.com and a human will write back.</p>
+          <p id="faqItem14-answer" role="region" aria-labelledby="faqItem14-question">Alpha Progression was founded by <a target="_blank" href="https://alphaprogression.com/en/blog/authors/benjamin-schnabel">Benjamin Schnabel</a> and <a target="_blank" href="https://alphaprogression.com/en/blog/authors/marwin-sinapius">Marwin Sinapius</a>. Benjamin brings experience in personal training, strength training and sports nutrition. Marwin leads product, design and software development. We're a small, independent team based in Germany, building the app in close contact with our users. If you have a question or suggestion, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> and you'll hear back from a real person.</p>
         </div>
           </div>
   </div>
@@ -997,7 +1167,7 @@
         <i class="fa-regular fa-bolt"></i>
         <span>Get started</span>
       </div>
-      <h2>Start progressing. Stop guessing.</h2>
+      <h2>Make your next workout count.</h2>
       <p><a href="https://alphaprogression.com/en/subscribe">Try Pro free for 14 days.</a> Cancel anytime.</p>
     </header>
     <div class="store-row animate animate-delay-1">
@@ -1025,7 +1195,7 @@
       <a href="https://alphaprogression.com/en" class="logo">
         <img width="44" height="44" class="logo" src="img/alpha-progression-logo.svg" alt="Alpha Progression logo">
       </a>
-      <div class="subtitle">&copy; 2026 Alpha Progression</div>
+      <div>&copy; 2026 Alpha Progression</div>
       <div class="language-switcher">
         <a href="https://alphaprogression.com/en" class="button button-small selected">EN</a>
         <a href="https://alphaprogression.com/de" class="button button-small ">DE</a>
@@ -1043,7 +1213,7 @@
       <ul class="footer-links">
         <li class="header">Content</li>
         <li><a href="https://alphaprogression.com/en/blog">Blog</a></li>
-        <li><a href="https://alphaprogression.com/en/podcast">Podcast</a></li>
+        <li><a href="https://alphaprogression.com/en/blog/topics/podcast">Podcast</a></li>
         <li><a href="https://alphaprogression.com/en/glossary">Glossary</a></li>
         <li><a href="https://alphaprogression.com/en/tools">Tools</a></li>
       </ul>

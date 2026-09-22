@@ -1,0 +1,659 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-22",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "curr_fetched_at": "2026-09-22T11:56:03.323Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Build muscle and strength with a plan made for you.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro recommends weights and reps based on your performance, whether you use a generated plan or your own.",
+          "occurrences": 1
+        },
+        {
+          "text": "Try Pro free for 14 days",
+          "occurrences": 2
+        },
+        {
+          "text": "5M+",
+          "occurrences": 1
+        },
+        {
+          "text": "Downloads",
+          "occurrences": 1
+        },
+        {
+          "text": "Your workout plan",
+          "occurrences": 1
+        },
+        {
+          "text": "Built around you",
+          "occurrences": 1
+        },
+        {
+          "text": "Weights & reps",
+          "occurrences": 1
+        },
+        {
+          "text": "Based on your performance",
+          "occurrences": 1
+        },
+        {
+          "text": "795 exercise videos",
+          "occurrences": 1
+        },
+        {
+          "text": "Clear instructions",
+          "occurrences": 1
+        },
+        {
+          "text": "Your progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Made visible",
+          "occurrences": 1
+        },
+        {
+          "text": "A workout program built around your body.",
+          "occurrences": 1
+        },
+        {
+          "text": "Prioritize the muscles you want to focus on",
+          "occurrences": 1
+        },
+        {
+          "text": "Choose your split, or let the app choose",
+          "occurrences": 1
+        },
+        {
+          "text": "Add custom exercises",
+          "occurrences": 1
+        },
+        {
+          "text": "Try Pro for free",
+          "occurrences": 1
+        },
+        {
+          "text": "Your own plans",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlimited workout logging",
+          "occurrences": 1
+        },
+        {
+          "text": "Data export",
+          "occurrences": 1
+        },
+        {
+          "text": "No advanced tools & options",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything in Free, plus:",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan & workout generator",
+          "occurrences": 1
+        },
+        {
+          "text": "Detailed progress charts",
+          "occurrences": 1
+        },
+        {
+          "text": "Questions about Alpha Progression?",
+          "occurrences": 1
+        },
+        {
+          "text": "Still need help?",
+          "occurrences": 1
+        },
+        {
+          "text": "Email info@alphaprogression.com , or ask existing users on Reddit or Facebook .",
+          "occurrences": 1
+        },
+        {
+          "text": "Can Alpha Progression create a workout plan tailored to me?",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro builds a complete plan around your goal, experience, available equipment, training frequency and preferred workout duration.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can also prioritize specific muscles.",
+          "occurrences": 1
+        },
+        {
+          "text": "The app selects your split, exercises, sets and rep targets, and you can adjust everything afterward.",
+          "occurrences": 1
+        },
+        {
+          "text": "Whether you prefer full-body training, upper/lower or push/pull/legs, your plan can fit the way you want to train.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn how the plan generator works .",
+          "occurrences": 1
+        },
+        {
+          "text": "How does Alpha Progression decide what weight and reps I should do?",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro uses your previous performance, the sets you've completed in your current workout, your planned targets and your available weights to recommend a weight and rep count for each working set.",
+          "occurrences": 1
+        },
+        {
+          "text": "If the next dumbbell is too big a jump, it can suggest more reps first.",
+          "occurrences": 1
+        },
+        {
+          "text": "Recommendations adapt to what you actually log, including when you perform below expectations.",
+          "occurrences": 1
+        },
+        {
+          "text": "They become available once you've recorded previous performance for that exercise.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn how progression recommendations work .",
+          "occurrences": 1
+        },
+        {
+          "text": "How is Alpha Progression different from other workout apps?",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression combines a workout tracker, personalized training plans and specific weight and rep recommendations in one app built for muscle growth and strength.",
+          "occurrences": 1
+        },
+        {
+          "text": "Your plan keeps a consistent exercise structure while weight and rep recommendations adapt to your performance.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can also build your own routine and choose which guidance to use.",
+          "occurrences": 1
+        },
+        {
+          "text": "The focus is on making consistent training and measurable progress easier.",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore our workout-app comparisons .",
+          "occurrences": 1
+        },
+        {
+          "text": "Is Alpha Progression suitable for beginners and experienced lifters?",
+          "occurrences": 1
+        },
+        {
+          "text": "Beginners can use Pro to get a plan suited to their experience and follow exercise videos and step-by-step instructions as they learn.",
+          "occurrences": 1
+        },
+        {
+          "text": "Experienced lifters can customize their training, prioritize muscles and use detailed progress charts and advanced programming tools.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can also start with free workout logging and add more guidance when you need it.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression can grow with your training experience.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I follow my own workout plan and change exercises?",
+          "occurrences": 1
+        },
+        {
+          "text": "You can build your own plan for free, recreate a coach's routine or edit a plan generated by Alpha Progression Pro.",
+          "occurrences": 1
+        },
+        {
+          "text": "Change exercises, their order, sets and rep targets to suit you.",
+          "occurrences": 1
+        },
+        {
+          "text": "If a machine is occupied, you can swap the exercise just for today's workout or keep the change in your plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pro's progression recommendations also work with manually created plans.",
+          "occurrences": 1
+        },
+        {
+          "text": "Do I need to understand RIR or periodization to use Alpha Progression?",
+          "occurrences": 1
+        },
+        {
+          "text": "No.",
+          "occurrences": 1
+        },
+        {
+          "text": "With Pro, you can follow a generated plan and receive weight and rep recommendations without using either.",
+          "occurrences": 1
+        },
+        {
+          "text": "RIR means \"reps in reserve\": how many more clean reps you think you could have completed.",
+          "occurrences": 1
+        },
+        {
+          "text": "Periodization lets training targets vary across several weeks.",
+          "occurrences": 1
+        },
+        {
+          "text": "Both are optional Pro features, along with deloads (easier phases of training).",
+          "occurrences": 1
+        },
+        {
+          "text": "Start simple and enable them whenever you want more control.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I use Alpha Progression at home or in different gyms?",
+          "occurrences": 1
+        },
+        {
+          "text": "Tell Alpha Progression which equipment you have, and the Pro plan generator will choose exercises for that setup.",
+          "occurrences": 1
+        },
+        {
+          "text": "Configure your available weights so progression recommendations reflect the loads you can actually use.",
+          "occurrences": 1
+        },
+        {
+          "text": "With Pro, you can save separate profiles for your regular gym, home gym or a gym you visit while traveling, each with its own equipment and weights.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I generate a single workout instead of a full plan?",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro can generate an individual workout for an extra session, a trip or a day when you want to train outside your usual plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "Choose a full-body, upper-body or lower-body workout and narrow the focus if you like, or let the app suggest a focus based on recent workouts.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can edit the result and use progression recommendations as usual.",
+          "occurrences": 1
+        },
+        {
+          "text": "Does Alpha Progression work offline?",
+          "occurrences": 1
+        },
+        {
+          "text": "You can follow your plans, log workouts and, with Pro, receive progression recommendations without an internet connection.",
+          "occurrences": 1
+        },
+        {
+          "text": "Exercise videos are also available offline in a lower resolution.",
+          "occurrences": 1
+        },
+        {
+          "text": "An internet connection is needed to generate a new plan or individual workout.",
+          "occurrences": 1
+        },
+        {
+          "text": "If you're signed into your Alpha Progression account, your training data syncs automatically when you're back online.",
+          "occurrences": 1
+        },
+        {
+          "text": "Is Alpha Progression free, and what does Pro add?",
+          "occurrences": 1
+        },
+        {
+          "text": "The permanent free version includes unlimited workout logging, manually created plans, exercise videos, a rest timer, body measurements and CSV export.",
+          "occurrences": 1
+        },
+        {
+          "text": "All without ads.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pro adds personalized plan and workout generation, progression recommendations, charts, multiple gym profiles and advanced training tools.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Build muscle faster with a training plan made for you.",
+          "occurrences": 1
+        },
+        {
+          "text": "Know exactly what to lift, every set.",
+          "occurrences": 1
+        },
+        {
+          "text": "Try free for 14 days",
+          "occurrences": 2
+        },
+        {
+          "text": "25M+",
+          "occurrences": 1
+        },
+        {
+          "text": "Workouts completed",
+          "occurrences": 1
+        },
+        {
+          "text": "Smart plans",
+          "occurrences": 1
+        },
+        {
+          "text": "100% custom",
+          "occurrences": 1
+        },
+        {
+          "text": "On every set",
+          "occurrences": 1
+        },
+        {
+          "text": "795 exercises",
+          "occurrences": 1
+        },
+        {
+          "text": "All with video",
+          "occurrences": 1
+        },
+        {
+          "text": "Deep analytics",
+          "occurrences": 1
+        },
+        {
+          "text": "See every gain",
+          "occurrences": 1
+        },
+        {
+          "text": "A program built around your body.",
+          "occurrences": 1
+        },
+        {
+          "text": "Tailored to your available equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Or add your own exercises",
+          "occurrences": 1
+        },
+        {
+          "text": "Try Pro",
+          "occurrences": 1
+        },
+        {
+          "text": "Plans from scratch",
+          "occurrences": 1
+        },
+        {
+          "text": "Unlimited workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "No advanced tools and options",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything in free",
+          "occurrences": 1
+        },
+        {
+          "text": "Custom plan generator",
+          "occurrences": 1
+        },
+        {
+          "text": "Charts",
+          "occurrences": 1
+        },
+        {
+          "text": "Everything you'd want to know.",
+          "occurrences": 1
+        },
+        {
+          "text": "Got more questions?",
+          "occurrences": 1
+        },
+        {
+          "text": "Email us at info@alphaprogression.com , or ask existing users on Facebook or Reddit .",
+          "occurrences": 1
+        },
+        {
+          "text": "Who is the app for?",
+          "occurrences": 1
+        },
+        {
+          "text": "Anyone who wants to get stronger, build muscle, or just lift weights consistently.",
+          "occurrences": 1
+        },
+        {
+          "text": "It works equally well for first-time gym-goers building a routine and ten-year veterans chasing the next PR.",
+          "occurrences": 1
+        },
+        {
+          "text": "The training principles are also explicitly suitable for all genders and ages.",
+          "occurrences": 1
+        },
+        {
+          "text": "For a broader overview, see our comparisons of strength training apps and muscle-building apps .",
+          "occurrences": 1
+        },
+        {
+          "text": "Is the app for beginners, or just experienced lifters?",
+          "occurrences": 1
+        },
+        {
+          "text": "Both equally.",
+          "occurrences": 1
+        },
+        {
+          "text": "Beginners get a science-backed starter plan, sensible progression, and zero programming jargon to learn first.",
+          "occurrences": 1
+        },
+        {
+          "text": "Experienced lifters get a customizable program that respects their level.",
+          "occurrences": 1
+        },
+        {
+          "text": "Periodization, RIR, deloads.",
+          "occurrences": 1
+        },
+        {
+          "text": "You don't grow out of the app as you grow stronger.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our app comparisons for beginners and advanced lifters explain the differences in guidance and flexibility.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I use it at home, or in a hotel gym?",
+          "occurrences": 1
+        },
+        {
+          "text": "When you set up your plan, you tell us what equipment you have access to and we only program exercises you can actually do.",
+          "occurrences": 1
+        },
+        {
+          "text": "You can also save multiple gym profiles, e.g.",
+          "occurrences": 1
+        },
+        {
+          "text": "\"Main gym\", \"Home\", or \"Hotel\".",
+          "occurrences": 1
+        },
+        {
+          "text": "When you switch gyms, the app knows what weights to recommend.",
+          "occurrences": 1
+        },
+        {
+          "text": "Compare strength training apps for home gyms .",
+          "occurrences": 1
+        },
+        {
+          "text": "Are the plans and recommendations actually science-based?",
+          "occurrences": 1
+        },
+        {
+          "text": "Yes, and we take this seriously.",
+          "occurrences": 1
+        },
+        {
+          "text": "As experienced lifters with academic backgrounds and trainer certifications, our founding team has been studying the relevant literature for years.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our algorithm is built on peer-reviewed exercise science.",
+          "occurrences": 1
+        },
+        {
+          "text": "Meta-analyses on volume, intensity, RIR, frequency, and periodization, instead of bro-science or influencer trends.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I build my own program?",
+          "occurrences": 1
+        },
+        {
+          "text": "Yes, top to bottom.",
+          "occurrences": 1
+        },
+        {
+          "text": "Use our plan generator as a starting point and edit anything, or build your plan from scratch.",
+          "occurrences": 1
+        },
+        {
+          "text": "Choose your split, exercises, set and rep counts, RIR, and intensity techniques like dropsets or supersets.",
+          "occurrences": 1
+        },
+        {
+          "text": "If you want to mix things up, you can also do one-off workouts.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our workout planner comparison covers both manual planning and automated plan generation .",
+          "occurrences": 1
+        },
+        {
+          "text": "How's the algorithm different from Strong or Hevy?",
+          "occurrences": 1
+        },
+        {
+          "text": "Strong and Hevy are capable workout trackers.",
+          "occurrences": 1
+        },
+        {
+          "text": "Hevy Trainer also generates plans and increases weights based on your performance within prescribed rep ranges.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression Pro recommends a specific weight and rep count for every set, based on your actual performance and the weights available in your gym.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our plan generator connects that progression with your muscle priorities, optional RIR targets, periodization, and deloads.",
+          "occurrences": 1
+        },
+        {
+          "text": "How does Alpha Progression compare to Fitbod?",
+          "occurrences": 1
+        },
+        {
+          "text": "Fitbod generates a fresh workout each session based on your recent training.",
+          "occurrences": 1
+        },
+        {
+          "text": "Alpha Progression keeps a stable, structured plan, and progresses you set by set within it.",
+          "occurrences": 1
+        },
+        {
+          "text": "The trade-off: Fitbod is more flexible day to day, AP gives you a program you can stick to for months and watch lifts climb.",
+          "occurrences": 1
+        },
+        {
+          "text": "The structured approach is what most hypertrophy and strength research supports.",
+          "occurrences": 1
+        },
+        {
+          "text": "Is the Free version usable, or just a teaser?",
+          "occurrences": 1
+        },
+        {
+          "text": "Genuinely usable, forever, no card needed.",
+          "occurrences": 1
+        },
+        {
+          "text": "You get full workout logging, the complete 795 exercises with form videos, and body measurement tracking.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pro then unlocks the parts of the app that take real engineering to provide: the algorithm, the custom plan generator, and the analytics.",
+          "occurrences": 1
+        },
+        {
+          "text": "Our gym tracker comparison also covers what other apps include for free.",
+          "occurrences": 1
+        },
+        {
+          "text": "Can I try the Pro version for free?",
+          "occurrences": 1
+        },
+        {
+          "text": "The yearly Pro plan starts with a 14-day free trial.",
+          "occurrences": 1
+        },
+        {
+          "text": "If you need more time, you can subscribe for a single month, and either cancel or upgrade to the cheaper yearly plan.",
+          "occurrences": 1
+        },
+        {
+          "text": "How can I cancel?",
+          "occurrences": 1
+        },
+        {
+          "text": "If you subscribed in the app, cancel from your App Store or Google Play subscription settings.",
+          "occurrences": 1
+        },
+        {
+          "text": "If you subscribed on the website, head to our update subscription page and we'll email you a link to the customer portal.",
+          "occurrences": 1
+        },
+        {
+          "text": "Either way you keep Pro until the end of your current period, with no immediate cutoff.",
+          "occurrences": 1
+        },
+        {
+          "text": "The founding team has years in personal training experience, and even some in competitive bodybuilding.",
+          "occurrences": 1
+        },
+        {
+          "text": "With academic background, we are well-versed interpreting the latest exercise research.",
+          "occurrences": 1
+        },
+        {
+          "text": "We started Alpha Progression to bring this knowledge to as many lifters as possible for a small price compared to one-on-one coaching.",
+          "occurrences": 1
+        },
+        {
+          "text": "We are an agile small team with no VC pressure, focused on supporting your training journey, instead of growth at all cost.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": true,
+      "added_total": 112,
+      "removed_total": 81
+    }
+  }
+}

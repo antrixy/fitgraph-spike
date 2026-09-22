@@ -1,0 +1,35 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-09-22",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "curr_fetched_at": "2026-09-22T11:57:55.904Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Shop No pain cave is ever complete",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Shop No pain cave is ever complete.",
+          "occurrences": 1
+        },
+        {
+          "text": "USA English",
+          "occurrences": 1
+        },
+        {
+          "text": "Shop Zwift Shop Orders & Billing Returns Shop FAQ",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 3
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:07:07.035Z",
+  "fetched_at": "2026-09-22T11:57:20.908Z",
   "source": "google_play_scraper",
   "appId": "com.mapmyrun.android2",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 17728930,
     "score": 4.7707562,
     "scoreText": "4.8",
-    "ratings": 455575,
-    "reviews": 66590,
+    "ratings": 455581,
+    "reviews": 66592,
     "histogram": {
       "1": 7718,
       "2": 3242,
       "3": 6159,
-      "4": 51498,
-      "5": 386948
+      "4": 51499,
+      "5": 386953
     },
     "price": 0,
     "free": true,

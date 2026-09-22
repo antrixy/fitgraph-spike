@@ -1,0 +1,24 @@
+{
+  "product": "fitness.sweat",
+  "name": "Sweat",
+  "date": "2026-09-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "prev_fetched_at": "2026-09-21T13:09:39.018Z",
+      "curr_fetched_at": "2026-09-22T11:59:52.714Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.0.1",
+          "new": "8.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n\n• Introducing design updates to make the app easier to navigate at a glance\n\nLove Sweat? Rate us 5 stars and share your love with the community!",
+          "new": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update:\n\n• New education videos to complement your workouts launching October\n\nLove Sweat? Rate us 5 stars and share your love with the community!"
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:07:21.491Z",
+  "fetched_at": "2026-09-22T11:57:31.047Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 1879134,
     "score": 4.189189,
     "scoreText": "4.2",
-    "ratings": 33415,
+    "ratings": 33416,
     "reviews": 2024,
     "histogram": {
       "1": 3282,
       "2": 1720,
       "3": 2211,
-      "4": 4348,
-      "5": 21834
+      "4": 4349,
+      "5": 21835
     },
     "price": 0,
     "free": true,

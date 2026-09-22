@@ -1,0 +1,338 @@
+{
+  "product": "fitness.noom",
+  "name": "Noom",
+  "date": "2026-09-22",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "curr_fetched_at": "2026-09-22T11:53:54.937Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Noom: Lose weight and keep it off.",
+          "occurrences": 1
+        },
+        {
+          "text": "NEW: Discover our new dual-pathway Microdose GLP-1Rx option.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn more",
+          "occurrences": 1
+        },
+        {
+          "text": "For Individuals",
+          "occurrences": 2
+        },
+        {
+          "text": "Noom Med",
+          "occurrences": 2
+        },
+        {
+          "text": "Lose Weight",
+          "occurrences": 2
+        },
+        {
+          "text": "Menopause &#038; HRT",
+          "occurrences": 1
+        },
+        {
+          "text": "Calorie Calculator",
+          "occurrences": 2
+        },
+        {
+          "text": "Macro Calculator",
+          "occurrences": 2
+        },
+        {
+          "text": "GLP-1 Insurance Checker",
+          "occurrences": 2
+        },
+        {
+          "text": "MEDICARE GLP-1 COVERAGE",
+          "occurrences": 1
+        },
+        {
+          "text": "For Organizations",
+          "occurrences": 2
+        },
+        {
+          "text": "Employers",
+          "occurrences": 2
+        },
+        {
+          "text": "Health Plans",
+          "occurrences": 2
+        },
+        {
+          "text": "Health Systems",
+          "occurrences": 2
+        },
+        {
+          "text": "Resources",
+          "occurrences": 3
+        },
+        {
+          "text": "Company",
+          "occurrences": 2
+        },
+        {
+          "text": "About Us",
+          "occurrences": 2
+        },
+        {
+          "text": "Careers",
+          "occurrences": 2
+        },
+        {
+          "text": "Our Approach",
+          "occurrences": 1
+        },
+        {
+          "text": "Research",
+          "occurrences": 2
+        },
+        {
+          "text": "Press",
+          "occurrences": 2
+        },
+        {
+          "text": "Blog",
+          "occurrences": 2
+        },
+        {
+          "text": "Investors",
+          "occurrences": 2
+        },
+        {
+          "text": "Noom Books",
+          "occurrences": 1
+        },
+        {
+          "text": "Meds to lose the weight.",
+          "occurrences": 2
+        },
+        {
+          "text": "Noom to keep it off.",
+          "occurrences": 2
+        },
+        {
+          "text": "Weight-loss",
+          "occurrences": 1
+        },
+        {
+          "text": "medication and",
+          "occurrences": 1
+        },
+        {
+          "text": "more.",
+          "occurrences": 1
+        },
+        {
+          "text": "See if you qualify",
+          "occurrences": 4
+        },
+        {
+          "text": "Psychology-based",
+          "occurrences": 1
+        },
+        {
+          "text": "weight loss.",
+          "occurrences": 1
+        },
+        {
+          "text": "Start your trial",
+          "occurrences": 4
+        },
+        {
+          "text": "Weight-loss medication and more.",
+          "occurrences": 1
+        },
+        {
+          "text": "Psychology-based weight loss.",
+          "occurrences": 1
+        },
+        {
+          "text": "An Advanced GLP-1 Program",
+          "occurrences": 2
+        },
+        {
+          "text": "A dual-pathway GLP-1 to lose the weight and a personalized plan to keep it off.",
+          "occurrences": 2
+        },
+        {
+          "text": "SEE IF YOU QUALIFY",
+          "occurrences": 7
+        },
+        {
+          "text": "More Low-Dose",
+          "occurrences": 1
+        },
+        {
+          "text": "Way To Start",
+          "occurrences": 1
+        },
+        {
+          "text": "A smaller dose for an easy,",
+          "occurrences": 1
+        },
+        {
+          "text": "low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "A Preventive Health Program",
+          "occurrences": 2
+        },
+        {
+          "text": "Improve your health and see it in your biomarkers.",
+          "occurrences": 2
+        },
+        {
+          "text": "More Low-Dose Way To Start",
+          "occurrences": 1
+        },
+        {
+          "text": "A smaller dose for an easy, low-cost start.",
+          "occurrences": 1
+        },
+        {
+          "text": "We&#8217;re changing the way the world thinks about weight loss.",
+          "occurrences": 2
+        },
+        {
+          "text": "FIND YOUR PLAN",
+          "occurrences": 2
+        },
+        {
+          "text": "Access to trusted, powerful weight-loss medications with Noom Med.",
+          "occurrences": 2
+        },
+        {
+          "text": "Noom Med, featuring our GLP-1 Companion, is designed to maximize your success with medications while helping you develop sustainable habits to live better, longer.",
+          "occurrences": 2
+        },
+        {
+          "text": "37 %",
+          "occurrences": 2
+        },
+        {
+          "text": "more weight lost with",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom + GLP-1 than",
+          "occurrences": 1
+        },
+        {
+          "text": "with medication alone.",
+          "occurrences": 1
+        },
+        {
+          "text": "more weight lost with Noom + GLP-1 than with medication alone.",
+          "occurrences": 1
+        },
+        {
+          "text": "Personalized weight-loss plans to change your life",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom&#8217;s customized plans harness the power of psychology and biology for weight-loss results that last.",
+          "occurrences": 1
+        },
+        {
+          "text": "Don&#8217;t just lose weight—keep it off",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom helps you learn the “why” behind your habits and teaches you healthier routines, because you deserve results that last.",
+          "occurrences": 1
+        },
+        {
+          "text": "Get access to expert coaching",
+          "occurrences": 1
+        },
+        {
+          "text": "You&#8217;ll receive access to some of the best coaches in the industry to guide you through every step of your weight-loss journey plus cutting edge AI support—all right there in the app.",
+          "occurrences": 1
+        },
+        {
+          "text": "test123",
+          "occurrences": 1
+        },
+        {
+          "text": "Powerful GLP-1s and more to help you lose weight and keep it off.",
+          "occurrences": 1
+        },
+        {
+          "text": "Weight-loss medication (incl.",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1s) shipped to your door, if prescribed*",
+          "occurrences": 1
+        },
+        {
+          "text": "100% online access to coaches and doctors",
+          "occurrences": 2
+        },
+        {
+          "text": "Lose the fat, keep the muscle with our GLP-1 Muscle Defense program",
+          "occurrences": 1
+        },
+        {
+          "text": "Tools to support healthy habits and track your progress",
+          "occurrences": 2
+        },
+        {
+          "text": "A vast, supportive community",
+          "occurrences": 2
+        },
+        {
+          "text": "Weight-loss medication (including GLP-1s) shipped to your door, if prescribed*",
+          "occurrences": 1
+        },
+        {
+          "text": "Get life-changing weight-loss results from Noom GLP-1 Rx Program as well as access to brand-name drugs like Ozempic®, Wegovy®, and Mounjaro.*",
+          "occurrences": 1
+        },
+        {
+          "text": "🚚 Medication shipped to your door in just 7 days 4",
+          "occurrences": 1
+        },
+        {
+          "text": "On-demand 1:1 support and coaching, unlimited chat with our doctors, and personalized action plans to help you reach your goals.",
+          "occurrences": 1
+        },
+        {
+          "text": "Lose the fat, keep the muscle with our GLP-1 Muscle Defense™ program.",
+          "occurrences": 1
+        },
+        {
+          "text": "Noom GLP-1 Companion with Muscle Defense™ provides the protein tracking, high-protein recipes, and accessible on-demand workouts to keep the muscle and lose the fat.",
+          "occurrences": 1
+        },
+        {
+          "text": "Learn healthier habits through our proven, psychology-based behavior-change program to help prepare you for success before, during, and when you&#8217;re ready to live your life med-free.",
+          "occurrences": 1
+        },
+        {
+          "text": "Inspire and get inspired by an enthusiastic community of Noomers just like you with Noom Circles, Noom Vibe, and more.",
+          "occurrences": 1
+        },
+        {
+          "text": "*Medications require consultation and prescription by clinician through Noom platform.",
+          "occurrences": 1
+        },
+        {
+          "text": "Not all customers will qualify for a prescription.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": true,
+      "added_total": 0,
+      "removed_total": 198
+    }
+  }
+}

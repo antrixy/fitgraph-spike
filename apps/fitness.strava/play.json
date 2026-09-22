@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:06:19.135Z",
+  "fetched_at": "2026-09-22T11:56:42.597Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "100,000,000+",
     "minInstalls": 100000000,
     "maxInstalls": 133548667,
-    "score": 4.5959306,
+    "score": 4.596794,
     "scoreText": "4.6",
-    "ratings": 1186067,
-    "reviews": 34332,
+    "ratings": 1186563,
+    "reviews": 34335,
     "histogram": {
-      "1": 65729,
-      "2": 16871,
-      "3": 30935,
-      "4": 103778,
-      "5": 968721
+      "1": 65603,
+      "2": 16801,
+      "3": 30959,
+      "4": 103646,
+      "5": 969532
     },
     "price": 0,
     "free": true,
@@ -67,7 +67,7 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 9, 2011",
-    "updated": 1789416560000,
+    "updated": 1790016378000,
     "version": "VARY",
     "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
     "comments": [],

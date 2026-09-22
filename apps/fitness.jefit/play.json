@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:04:30.689Z",
+  "fetched_at": "2026-09-22T11:54:51.658Z",
   "source": "google_play_scraper",
   "appId": "je.fit",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9885816,
-    "score": 4.4270415,
+    "score": 4.4278073,
     "scoreText": "4.4",
-    "ratings": 89808,
+    "ratings": 89811,
     "reviews": 11721,
     "histogram": {
-      "1": 6972,
-      "2": 2343,
-      "3": 3966,
-      "4": 8595,
-      "5": 67924
+      "1": 6963,
+      "2": 2339,
+      "3": 3961,
+      "4": 8583,
+      "5": 67956
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "adSupported": false,
     "released": "Sep 15, 2010",
     "updated": 1789491765000,
-    "version": "VARY",
-    "recentChanges": "Tweaking your training plan just got smarter — delete, swap, or add an exercise and a suggestion prompt appears right away, so you can dial in your preferences on the spot instead of waiting for the post-workout nudge. Weight predictions now refresh every time you open the app, keeping recommendations fresh based on your latest logs and equipment. Plus snappier exercise animation loading throughout.",
+    "version": "17.4.5",
+    "recentChanges": "Exercise history and charts are now one page — tap any point on the chart to instantly see that day&#39;s logs. Deload weeks in your Adaptive Plan now correctly lighten your working weight. Post-workout summaries and share cards got a fresh redesign, with cardio counting toward your muscle body map. Private newsfeed posts now show a clear privacy label, and we squashed a handful of bugs along the way.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

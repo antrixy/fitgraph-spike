@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T13:04:12.125Z",
+  "fetched_at": "2026-09-22T11:54:31.031Z",
   "source": "google_play_scraper",
   "appId": "io.strongapp.strong",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 4294222,
     "score": 4.295302,
     "scoreText": "4.3",
-    "ratings": 42717,
+    "ratings": 42718,
     "reviews": 4328,
     "histogram": {
-      "1": 4043,
+      "1": 4044,
       "2": 1399,
-      "3": 2481,
+      "3": 2482,
       "4": 4743,
-      "5": 30035
+      "5": 30036
     },
     "price": 0,
     "free": true,

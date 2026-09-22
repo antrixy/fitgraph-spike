@@ -1,0 +1,19 @@
+{
+  "product": "fitness.yazio",
+  "name": "Yazio",
+  "date": "2026-09-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "prev_fetched_at": "2026-09-21T13:03:11.205Z",
+      "curr_fetched_at": "2026-09-22T11:53:26.868Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "26.37.1",
+          "new": "26.38.0"
+        }
+      ]
+    }
+  }
+}

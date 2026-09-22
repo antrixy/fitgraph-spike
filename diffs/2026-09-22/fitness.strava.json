@@ -1,0 +1,121 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-09-22",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "prev_fetched_at": "2026-09-21T13:06:19.135Z",
+      "curr_fetched_at": "2026-09-22T11:56:42.597Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "curr_fetched_at": "2026-09-22T11:56:44.575Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "CA$16.67",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at CA$199.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "CA$8.33",
+          "occurrences": 1
+        },
+        {
+          "text": "30-day trial for CA$0",
+          "occurrences": 2
+        },
+        {
+          "text": "Billed at CA$99.99/year + tax",
+          "occurrences": 1
+        },
+        {
+          "text": "CA$3.54",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at CA$169.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "CA$4.17",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at CA$49.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "CA$8.33 /mo after 30 days.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "$12.50",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at $149.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "$6.67",
+          "occurrences": 1
+        },
+        {
+          "text": "30-day trial for $0",
+          "occurrences": 2
+        },
+        {
+          "text": "Billed at $79.99/year + tax",
+          "occurrences": 1
+        },
+        {
+          "text": "$2.92",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at $139.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "$3.33",
+          "occurrences": 1
+        },
+        {
+          "text": "Billed at $39.99/year + tax.",
+          "occurrences": 1
+        },
+        {
+          "text": "P.S.",
+          "occurrences": 1
+        },
+        {
+          "text": "– if you’re a teacher, military member, or medical professional, you get 25% off a Strava subscription.",
+          "occurrences": 1
+        },
+        {
+          "text": "For individual plans only – discounts cannot be combined.",
+          "occurrences": 1
+        },
+        {
+          "text": "Teachers Military members Medical professionals",
+          "occurrences": 1
+        },
+        {
+          "text": "$6.67 /mo after 30 days.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 10,
+      "removed_total": 14
+    }
+  }
+}

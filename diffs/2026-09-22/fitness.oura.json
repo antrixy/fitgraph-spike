@@ -1,0 +1,79 @@
+{
+  "product": "fitness.oura",
+  "name": "Oura",
+  "date": "2026-09-22",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "prev_fetched_at": "2026-09-21T13:08:45.930Z",
+      "curr_fetched_at": "2026-09-22T11:58:53.978Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.24.0",
+          "new": "7.25.0"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "prev_fetched_at": "2026-09-21T13:08:48.524Z",
+      "curr_fetched_at": "2026-09-22T11:58:56.307Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.24.0",
+          "new": "7.25.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "73e7566187acab4980ac4440a2f59cdea382f00d",
+      "curr_fetched_at": "2026-09-22T11:59:00.349Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Take control of your health for just $5.99 /month.",
+          "occurrences": 1
+        },
+        {
+          "text": "Available",
+          "occurrences": 2
+        },
+        {
+          "text": "Klarna",
+          "occurrences": 6
+        }
+      ],
+      "removed": [
+        {
+          "text": "Take control of your health for just $5.99 /month (HSA/FSA eligible).",
+          "occurrences": 1
+        },
+        {
+          "text": "FSA or HSA HSA/FSA",
+          "occurrences": 2
+        },
+        {
+          "text": "eligible",
+          "occurrences": 2
+        },
+        {
+          "text": "HSA/FSA",
+          "occurrences": 1
+        },
+        {
+          "text": "HSA/FSA Eligible",
+          "occurrences": 1
+        },
+        {
+          "text": "FCC Compliance",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 6
+    }
+  }
+}
