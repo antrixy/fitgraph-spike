@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "We’re excited to announce that our app is now available in Brazilian Portuguese. We’ve also fixed bugs affecting our Health Connect integration.",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "ad369466c1b50447d20595baf4a1fb7ad997fdc1",
       "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948"
     }
   ],
