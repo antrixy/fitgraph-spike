@@ -1,0 +1,20 @@
+{
+  "product": "fitness.cronometer",
+  "name": "Cronometer",
+  "date": "2026-09-23",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948",
+      "prev_fetched_at": "2026-09-22T11:52:45.039Z",
+      "curr_fetched_at": "2026-09-23T11:52:16.252Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "We’re excited to announce that our app is now available in Brazilian Portuguese. We’ve also fixed bugs affecting our Health Connect integration.",
+          "new": "Bug fixes and general improvements for a smoother experience."
+        }
+      ]
+    }
+  }
+}

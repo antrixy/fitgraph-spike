@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:57:53.147Z",
+  "fetched_at": "2026-09-23T11:57:09.634Z",
   "source": "google_play_scraper",
   "appId": "com.zwift.zwiftgame",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 2721247,
     "score": 3.9415584,
     "scoreText": "3.9",
-    "ratings": 26830,
+    "ratings": 26833,
     "reviews": 1350,
     "histogram": {
-      "1": 4872,
+      "1": 4873,
       "2": 1042,
       "3": 1737,
       "4": 2258,
-      "5": 16893
+      "5": 16895
     },
     "price": 0,
     "free": true,
@@ -73,7 +73,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 13, 2019",
-    "updated": 1788479067000,
+    "updated": 1789751351000,
     "version": "1.121.0 (165303)",
     "recentChanges": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events.<br>Select running routes now have achievement badges and completion XP available.<br>Select event-only routes now have achievement badges and completion XP available.<br>Route completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.",
     "comments": [],

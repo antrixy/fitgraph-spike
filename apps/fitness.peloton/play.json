@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:59:26.183Z",
+  "fetched_at": "2026-09-23T11:58:53.599Z",
   "source": "google_play_scraper",
   "appId": "com.onepeloton.callisto",
   "result": {
@@ -13,7 +13,7 @@
     "score": 4.034342,
     "scoreText": "4.0",
     "ratings": 15343,
-    "reviews": 5747,
+    "reviews": 5748,
     "histogram": {
       "1": 2320,
       "2": 839,

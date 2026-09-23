@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.strava",
+  "integration": "strava",
+  "direction": "added",
+  "observed_at": "2026-09-23T11:56:04.266Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "– if you’re a teacher, military member, or medical professional, you get 25% off a Strava subscription.",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

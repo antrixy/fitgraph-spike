@@ -1,0 +1,37 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-23",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948",
+      "prev_fetched_at": "2026-09-22T11:53:17.702Z",
+      "curr_fetched_at": "2026-09-23T11:52:46.676Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948",
+      "curr_fetched_at": "2026-09-23T11:52:49.569Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Tips for editing and customizing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "What 7 days of using a food calorie tracker teaches you that the scale never will",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 1
+    }
+  }
+}

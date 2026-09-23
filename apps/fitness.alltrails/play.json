@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:58:12.137Z",
+  "fetched_at": "2026-09-23T11:57:30.527Z",
   "source": "google_play_scraper",
   "appId": "com.alltrails.alltrails",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 51576963,
-    "score": 4.552678,
+    "score": 4.5528917,
     "scoreText": "4.6",
-    "ratings": 387296,
+    "ratings": 387301,
     "reviews": 25585,
     "histogram": {
-      "1": 24824,
-      "2": 7129,
+      "1": 24820,
+      "2": 7109,
       "3": 8292,
-      "4": 35959,
-      "5": 311083
+      "4": 35954,
+      "5": 311117
     },
     "price": 0,
     "free": true,
@@ -70,7 +70,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Sep 13, 2011",
-    "updated": 1789513836000,
+    "updated": 1790033043000,
     "version": "VARY",
     "recentChanges": "Thanks for using AllTrails! This update includes:<br>• Updated the offline experience for members, with clearer messaging and consistency on map and feature availability.<br>• Introducing voice navigation for Plus members. Get audio cues for turn-by-turn directions and more.<br>• New challenge: Outside for Good. Join us and help raise $30k for public lands (US only).",
     "comments": [],

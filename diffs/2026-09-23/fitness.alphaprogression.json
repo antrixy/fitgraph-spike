@@ -1,0 +1,27 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-23",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "7d8582e2a06ca422e37e38a0dcb9922a0f864948",
+      "curr_fetched_at": "2026-09-23T11:55:27.179Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Weight & reps",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Weights & reps",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

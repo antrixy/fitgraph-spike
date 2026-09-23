@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:59:56.889Z",
+  "fetched_at": "2026-09-23T11:59:28.590Z",
   "source": "google_play_scraper",
   "appId": "com.kaylaitsines.sweatwithkayla",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 10177325,
     "score": 4.3829455,
     "scoreText": "4.4",
-    "ratings": 39372,
+    "ratings": 39374,
     "reviews": 3107,
     "histogram": {
       "1": 4026,
       "2": 792,
       "3": 1278,
       "4": 3234,
-      "5": 30030
+      "5": 30031
     },
     "price": 0,
     "free": true,
@@ -73,8 +73,8 @@
     "adSupported": false,
     "released": "Apr 28, 2016",
     "updated": 1789974234000,
-    "version": "8.0",
-    "recentChanges": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update: <br><br>Introducing Guided Runs on Sweat. Lock your screen during our new running workouts without pausing your session, and let guided audio coach you through every interval.<br><br>Love Sweat? Rate us 5 stars and share your love with the community!",
+    "version": "8.1",
+    "recentChanges": "Thanks to your feedback, the Sweat Community can now enjoy continued updates throughout the app to make it even better. New to Sweat with this update: <br><br>- Bug fixes and experience improvements<br><br>Love Sweat? Rate us 5 stars and share your love with the community!",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
