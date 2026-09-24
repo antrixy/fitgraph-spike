@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T11:57:20.230Z",
+  "fetched_at": "2026-09-24T12:04:36.059Z",
   "source": "google_play_scraper",
   "appId": "de.komoot.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "10,000,000+",
     "minInstalls": 10000000,
     "maxInstalls": 43548175,
-    "score": 4.406,
+    "score": 4.4068136,
     "scoreText": "4.4",
-    "ratings": 430732,
+    "ratings": 430983,
     "reviews": 2138,
     "histogram": {
-      "1": 36130,
+      "1": 36211,
       "2": 12043,
-      "3": 13740,
-      "4": 47365,
-      "5": 321290
+      "3": 13741,
+      "4": 46638,
+      "5": 322105
     },
     "price": 0,
     "free": true,
@@ -77,9 +77,9 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Jun 10, 2014",
-    "updated": 1789723976000,
+    "updated": 1790167368000,
     "version": "VARY",
-    "recentChanges": "What&#39;s new?<br>•   The planner now remembers whether you chose &quot;Add to end&quot; or &quot;Add along the way&quot; for the next waypoint you add.<br>•   It&#39;s now easier to plan a route that retraces your steps.<br><br>Bug fixes<br>•   Fixed several translation and display issues.<br>•   Fixed an issue where the post-activity flow could become unresponsive.",
+    "recentChanges": "What&#39;s new?<br>- Long-press the komoot app icon to plan a route, open saved routes, or start recording.<br>- Double-tap an activity to like it.<br>- Replace a waypoint: tap it in the waypoint list and search, or pick a new spot on the map.<br><br>Bug fixes<br>- Fixed navigation not starting on routes with multiple restrictions.<br>- Fixed a crash loop on startup.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

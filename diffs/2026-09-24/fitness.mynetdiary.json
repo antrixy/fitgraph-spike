@@ -1,0 +1,61 @@
+{
+  "product": "fitness.mynetdiary",
+  "name": "MyNetDiary",
+  "date": "2026-09-24",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "ad369466c1b50447d20595baf4a1fb7ad997fdc1",
+      "prev_fetched_at": "2026-09-23T11:52:46.676Z",
+      "curr_fetched_at": "2026-09-24T12:00:00.969Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "ad369466c1b50447d20595baf4a1fb7ad997fdc1",
+      "curr_fetched_at": "2026-09-24T12:00:05.484Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "MyNetDiary: The most accurate, user-friendly macronutrient tracker available",
+          "occurrences": 1
+        },
+        {
+          "text": "7 Reasons using a food and exercise tracker app helps you get the best weight-loss results",
+          "occurrences": 1
+        },
+        {
+          "text": "Use the \"My Diet Trends\" report to understand the story of your weight-loss progress",
+          "occurrences": 1
+        },
+        {
+          "text": "Using Siri with MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Tips for editing and customizing recipes in MyNetDiary",
+          "occurrences": 1
+        },
+        {
+          "text": "How to stay motivated and avoid food-log fatigue",
+          "occurrences": 1
+        },
+        {
+          "text": "Does calorie counting work to lose weight?",
+          "occurrences": 1
+        },
+        {
+          "text": "Science says, \"Yes\"",
+          "occurrences": 1
+        },
+        {
+          "text": "Important Tips for Calories Tracking Using MyNetDiary",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 5
+    }
+  }
+}

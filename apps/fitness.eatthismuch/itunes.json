@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-23T11:53:34.448Z",
+  "fetched_at": "2026-09-24T12:00:50.220Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=981637806&country=us",
   "result": {
-    "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/eat-this-much-inc/id981637805?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/3d/38043d88-e2d2-711c-dae4-f72138c1c863/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/3d/38043d88-e2d2-711c-dae4-f72138c1c863/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
     ],
@@ -162,31 +162,32 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/3d/38043d88-e2d2-711c-dae4-f72138c1c863/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "bundleId": "EatThisMuch.com.ETM-iOS-App",
+    "averageUserRating": 4.71589,
     "trackCensoredName": "Eat This Much - Meal Planner",
     "trackViewUrl": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
     "contentAdvisoryRating": "4+",
-    "averageUserRating": 4.71586,
-    "artistId": 981637805,
-    "artistName": "Eat This Much Inc.",
+    "minimumOsVersion": "15.5",
+    "releaseNotes": "This latest release adds considerably more options for grocery delivery in the US and Canada.",
     "genres": [
       "Health & Fitness",
       "Food & Drink"
     ],
     "price": 0,
-    "sellerName": "Eat This Much Inc.",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
+    "artistId": 981637805,
+    "artistName": "Eat This Much Inc.",
+    "releaseDate": "2015-06-15T22:01:30Z",
+    "bundleId": "EatThisMuch.com.ETM-iOS-App",
+    "trackId": 981637806,
+    "trackName": "Eat This Much - Meal Planner",
     "genreIds": [
       "6013",
       "6023"
     ],
-    "trackId": 981637806,
-    "trackName": "Eat This Much - Meal Planner",
-    "releaseDate": "2015-06-15T22:01:30Z",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "sellerName": "Eat This Much Inc.",
     "isVppDeviceBasedLicensingEnabled": true,
     "currentVersionReleaseDate": "2026-09-05T20:29:23Z",
-    "releaseNotes": "This latest release adds considerably more options for grocery delivery in the US and Canada.",
     "version": "2.0.167",
     "wrapperType": "software",
     "currency": "USD",
@@ -195,12 +196,11 @@
     "languageCodesISO2A": [
       "EN"
     ],
-    "fileSizeBytes": "91109376",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 22112,
+    "userRatingCountForCurrentVersion": 22115,
     "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.71586,
-    "minimumOsVersion": "15.5",
-    "userRatingCount": 22112
+    "averageUserRatingForCurrentVersion": 4.71589,
+    "formattedPrice": "Free",
+    "fileSizeBytes": "91109376",
+    "userRatingCount": 22115
   }
 }

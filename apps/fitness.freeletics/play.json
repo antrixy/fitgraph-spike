@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T11:59:46.991Z",
+  "fetched_at": "2026-09-24T12:06:47.754Z",
   "source": "google_play_scraper",
   "appId": "com.freeletics.lite",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 38766079,
     "score": 4.158273,
     "scoreText": "4.2",
-    "ratings": 260488,
+    "ratings": 260500,
     "reviews": 4464,
     "histogram": {
-      "1": 37160,
-      "2": 8731,
+      "1": 37162,
+      "2": 8732,
       "3": 8423,
-      "4": 27484,
-      "5": 178650
+      "4": 27486,
+      "5": 178659
     },
     "price": 0,
     "free": true,

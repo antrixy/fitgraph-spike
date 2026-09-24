@@ -1,0 +1,19 @@
+{
+  "product": "fitness.downdog",
+  "name": "Down Dog",
+  "date": "2026-09-24",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "ad369466c1b50447d20595baf4a1fb7ad997fdc1",
+      "prev_fetched_at": "2026-09-23T12:00:07.294Z",
+      "curr_fetched_at": "2026-09-24T12:07:06.186Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.3.1",
+          "new": "8.4.0"
+        }
+      ]
+    }
+  }
+}

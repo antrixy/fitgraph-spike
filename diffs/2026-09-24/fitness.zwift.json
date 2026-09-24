@@ -1,0 +1,24 @@
+{
+  "product": "fitness.zwift",
+  "name": "Zwift",
+  "date": "2026-09-24",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "ad369466c1b50447d20595baf4a1fb7ad997fdc1",
+      "prev_fetched_at": "2026-09-23T11:57:05.093Z",
+      "curr_fetched_at": "2026-09-24T12:04:22.612Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.121.0",
+          "new": "1.122.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Cycling routes from the Makuri Madness ZRacing series are now available for free rides, meetups, clubs, and events: Mech Isle Mayhem, Urumaze, WhatYumeziWe'reLost?, and Twilight Crit.\nThe following running routes now have achievement badges and completion XP available: Jungle Circuit Run in Watopia (310 XP), Jungle Circuit Reverse Run in Watopia (310 XP), Whole Lotta Lava Run in Watopia (490 XP), Hilltop Hustle Run in Watopia (550 XP), Going Coastal Run in Watopia (660 XP), Road to Sky Run in Watopia (690 XP), and Seaside Sprint Run in Watopia (250 XP). \nThe following event-only routes now have achievement badges and completion XP available: Downtown Dolphin in Crit City (40 XP), LaGuardia Loop in New York (60 XP), The 6 Train Reverse in New York (130 XP), Glasgow Reverse in Scotland (60 XP)and ZG25 Climb Champs in London (100 XP).\nFixed an issue that could cause the virtual shifting style to change after disconnecting and reconnecting to a trainer.\nThe post-activity streak report now shows the correct running level after the first run of the week.\nRoute completion badges are now awarded after teleporting to a friend or RoboPacer and completing a full route lap from the official start of the route.\nFixed an issue that could cause Zwifters to face backwards in pre-event and race paddocks.",
+          "new": "Removed level restrictions from routes and route intersections, making all routes available to Zwifters at any level.\nBackground Device Pairing is now live! Zwifters will bypass the Pairing Screen and be taken directly to the Home screen while your devices connect.\nThe new theatre card puts Challenges front and center on the Home screen.\nPersonalized Recommendations are now only visible in the ‘For You’ row.\nNew Progress Widget on the Homescreen makes levels, achievement counts, and route completion more visible, giving Zwifters something to chase every time they log in.\nThe 'For You' row now uses ribbons to show when planned activities are due, e.g. today, tomorrow, and day-of-week labels.\nEstimated duration now shown on route cards when selecting a workout from the Home screen."
+        }
+      ]
+    }
+  }
+}

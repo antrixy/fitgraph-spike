@@ -1,8 +1,36 @@
 {
-  "fetched_at": "2026-09-23T11:52:23.176Z",
+  "fetched_at": "2026-09-24T11:59:33.382Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=1553503471&country=us",
   "result": {
+    "ipadScreenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/d3/89/76d389d6-9707-3e97-18f5-f148d7b527ab/147e0e46-08ae-40bb-a891-01d70282bffb_12.9.1.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/d7/94/23d794dd-9f71-a006-e1b2-e86852c84dbd/93374863-68c6-4796-bf62-70adbd6a7cd2_12.9.2.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b3/9f/9db39f90-6c7e-7b69-6466-e874be88fa88/8b2938e7-2608-4169-a9c1-e3e8ab6ea576_12.9.3.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/47/0e/3e470e7f-dcb0-dddd-0278-7ccbb6060536/646606ac-2e72-4da0-ab41-13efe9a0f062_12.9.4.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9e/30/dd9e30ce-eb1d-efb3-ce11-4de5a64f5c4d/6998ee25-ef70-4e42-9f84-5c6856d9050b_12.9.5.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/9f/66/6c9f66c4-4df9-47b4-caa5-646f1c89b62e/9031c19a-f4e7-42be-83df-edf0b239cad3_12.9.6.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cb/b2/facbb2e4-e433-0b11-182c-ab8f1b115d8f/17a1195f-dd57-4660-848b-5988e35420f9_12.9.7.png/576x768bb.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1d/e0/841de05d-9765-3907-fc95-15178c9f9b62/b83062bf-6980-4aeb-b019-1be7553ac2b5_12.9.8.png/576x768bb.png"
+    ],
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/19/aa/7719aad3-6b85-8813-d5aa-ba99367c7bcc/MacroFactorAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+    "screenshotUrls": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/41/1f/4a411fb2-0586-dec3-7af3-2313dfafcf77/iPhone_14_Plus_-_13.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/ab/2c/2bab2c02-31f5-3b53-59df-6d47d2f75dcf/iPhone_14_Plus_-_22.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/76/c7/9976c705-afb7-92f0-9258-21862fbecf3d/iPhone_14_Plus_-_21.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/33/da/f633da25-9857-c034-ecf7-52d62e046477/iPhone_14_Plus_-_20.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/e6/52/91e65257-0877-83a8-9b73-cc6b8f4a404c/iPhone_14_Plus_-_17.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/99/83/179983be-ad4d-fde4-db72-638694706602/iPhone_14_Plus_-_18.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/3c/6f/053c6fd4-71ce-21b8-fa40-eb2e6e33ea03/iPhone_14_Plus_-_19.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/ed/d0/f1edd0fd-ace5-a8a9-b136-34b974ba33c6/iPhone_14_Plus_-_16.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/06/f7/8c06f7a6-b675-45f3-856f-1a0829834286/iPhone_14_Plus_-_15.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/3e/68/333e68d4-a04a-a4c1-e6ea-d71d17716f91/iPhone_14_Plus_-_14.png/320x480bb.jpg"
+    ],
+    "advisories": [
+      "Infrequent/Mild Profanity or Crude Humor",
+      "Infrequent/Mild Mature/Suggestive Themes"
+    ],
     "isGameCenterEnabled": false,
     "features": [
       "iosUniversal"
@@ -140,58 +168,35 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
-    "advisories": [
-      "Infrequent/Mild Profanity or Crude Humor",
-      "Infrequent/Mild Mature/Suggestive Themes"
-    ],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/stronger-by-science-technologies-llc/id1553503473?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/19/aa/7719aad3-6b85-8813-d5aa-ba99367c7bcc/MacroFactorAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/19/aa/7719aad3-6b85-8813-d5aa-ba99367c7bcc/MacroFactorAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg",
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/19/aa/7719aad3-6b85-8813-d5aa-ba99367c7bcc/MacroFactorAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-    "screenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/41/1f/4a411fb2-0586-dec3-7af3-2313dfafcf77/iPhone_14_Plus_-_13.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/ab/2c/2bab2c02-31f5-3b53-59df-6d47d2f75dcf/iPhone_14_Plus_-_22.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/76/c7/9976c705-afb7-92f0-9258-21862fbecf3d/iPhone_14_Plus_-_21.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/33/da/f633da25-9857-c034-ecf7-52d62e046477/iPhone_14_Plus_-_20.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/e6/52/91e65257-0877-83a8-9b73-cc6b8f4a404c/iPhone_14_Plus_-_17.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/99/83/179983be-ad4d-fde4-db72-638694706602/iPhone_14_Plus_-_18.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/3c/6f/053c6fd4-71ce-21b8-fa40-eb2e6e33ea03/iPhone_14_Plus_-_19.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/ed/d0/f1edd0fd-ace5-a8a9-b136-34b974ba33c6/iPhone_14_Plus_-_16.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/06/f7/8c06f7a6-b675-45f3-856f-1a0829834286/iPhone_14_Plus_-_15.png/320x480bb.jpg",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/3e/68/333e68d4-a04a-a4c1-e6ea-d71d17716f91/iPhone_14_Plus_-_14.png/320x480bb.jpg"
+    "averageUserRatingForCurrentVersion": 4.8353,
+    "sellerUrl": "https://macrofactorapp.com/macrofactor/",
+    "languageCodesISO2A": [
+      "EN",
+      "JA"
     ],
-    "ipadScreenshotUrls": [
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/d3/89/76d389d6-9707-3e97-18f5-f148d7b527ab/147e0e46-08ae-40bb-a891-01d70282bffb_12.9.1.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/d7/94/23d794dd-9f71-a006-e1b2-e86852c84dbd/93374863-68c6-4796-bf62-70adbd6a7cd2_12.9.2.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b3/9f/9db39f90-6c7e-7b69-6466-e874be88fa88/8b2938e7-2608-4169-a9c1-e3e8ab6ea576_12.9.3.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/47/0e/3e470e7f-dcb0-dddd-0278-7ccbb6060536/646606ac-2e72-4da0-ab41-13efe9a0f062_12.9.4.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9e/30/dd9e30ce-eb1d-efb3-ce11-4de5a64f5c4d/6998ee25-ef70-4e42-9f84-5c6856d9050b_12.9.5.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/9f/66/6c9f66c4-4df9-47b4-caa5-646f1c89b62e/9031c19a-f4e7-42be-83df-edf0b239cad3_12.9.6.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cb/b2/facbb2e4-e433-0b11-182c-ab8f1b115d8f/17a1195f-dd57-4660-848b-5988e35420f9_12.9.7.png/576x768bb.png",
-      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1d/e0/841de05d-9765-3907-fc95-15178c9f9b62/b83062bf-6980-4aeb-b019-1be7553ac2b5_12.9.8.png/576x768bb.png"
-    ],
-    "appletvScreenshotUrls": [],
-    "minimumOsVersion": "15.6",
+    "fileSizeBytes": "227829760",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 22507,
+    "trackContentRating": "9+",
+    "isVppDeviceBasedLicensingEnabled": true,
+    "sellerName": "Stronger By Science Technologies LLC",
+    "currentVersionReleaseDate": "2026-09-03T20:54:00Z",
+    "releaseNotes": "* UI optimization for large screen sizes\n* Bug fixes and performance improvements",
+    "releaseDate": "2021-09-15T07:00:00Z",
     "artistId": 1553503473,
     "artistName": "Stronger By Science Technologies LLC",
-    "genres": [
-      "Health & Fitness"
-    ],
     "price": 0,
-    "bundleId": "com.sbs.diet",
-    "releaseNotes": "* UI optimization for large screen sizes\n* Bug fixes and performance improvements",
+    "trackId": 1553503471,
+    "trackName": "MacroFactor - Macro Tracker",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013"
     ],
-    "sellerName": "Stronger By Science Technologies LLC",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "releaseDate": "2021-09-15T07:00:00Z",
-    "isVppDeviceBasedLicensingEnabled": true,
-    "trackId": 1553503471,
-    "trackName": "MacroFactor - Macro Tracker",
-    "currentVersionReleaseDate": "2026-09-03T20:54:00Z",
     "version": "5.8.8",
     "wrapperType": "software",
     "currency": "USD",
@@ -199,17 +204,12 @@
     "trackCensoredName": "MacroFactor - Macro Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/macrofactor-macro-tracker/id1553503471?uo=4",
     "contentAdvisoryRating": "9+",
-    "averageUserRatingForCurrentVersion": 4.83561,
-    "languageCodesISO2A": [
-      "EN",
-      "JA"
+    "averageUserRating": 4.8353,
+    "minimumOsVersion": "15.6",
+    "bundleId": "com.sbs.diet",
+    "genres": [
+      "Health & Fitness"
     ],
-    "fileSizeBytes": "227829760",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 22465,
-    "trackContentRating": "9+",
-    "sellerUrl": "https://macrofactorapp.com/macrofactor/",
-    "averageUserRating": 4.83561,
-    "userRatingCount": 22465
+    "userRatingCount": 22507
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T11:59:16.591Z",
+  "fetched_at": "2026-09-24T12:06:12.145Z",
   "source": "google_play_scraper",
   "appId": "com.centr.app",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 2161469,
     "score": 4.3528304,
     "scoreText": "4.4",
-    "ratings": 17339,
+    "ratings": 17341,
     "reviews": 2468,
     "histogram": {
       "1": 1831,
       "2": 456,
       "3": 489,
       "4": 1536,
-      "5": 13019
+      "5": 13020
     },
     "price": 0,
     "free": true,
@@ -87,7 +87,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Dec 15, 2019",
-    "updated": 1786990946000,
+    "updated": 1790098762000,
     "version": "VARY",
     "recentChanges": "This release brings a smoother Search &amp; Filter experience and a more stable app:<br>Search and filters now stay anchored at the top of the screen while your results scroll underneath.<br>After updating your equipment from Search &amp; Filter, you&#39;re taken straight back to your filter.<br>Fixed workout logging where values could carry over between exercises in landscape mode.<br>Fixed several crashes.<br>Need a hand or have feedback? Reach our team anytime at hello@centr.com.",
     "comments": [],
