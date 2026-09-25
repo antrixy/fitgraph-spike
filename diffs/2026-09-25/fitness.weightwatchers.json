@@ -1,0 +1,163 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-09-25",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "5cb5fd6ad1963ac0ddbb0f1acec71f9c39202d44",
+      "curr_fetched_at": "2026-09-25T12:01:41.295Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Unable to load plan comparison data.",
+          "occurrences": 1
+        },
+        {
+          "text": "Please try again later.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "SEE WHAT’S INCLUDED IN YOUR MEMBERSHIP",
+          "occurrences": 1
+        },
+        {
+          "text": "CORE",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $12 /month*",
+          "occurrences": 1
+        },
+        {
+          "text": "A proven program to lose weight that fits your life—without giving up the good stuff.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto renews at the end of the plan term for another 12 month period at $12 a month unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "CORE+",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $20 /month†",
+          "occurrences": 1
+        },
+        {
+          "text": "More support.",
+          "occurrences": 1
+        },
+        {
+          "text": "More results—on medication or not.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto renews at the end of the plan term for another 12 month period at $22 a month unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "MED+",
+          "occurrences": 1
+        },
+        {
+          "text": "Starting at $25 /first month^",
+          "occurrences": 1
+        },
+        {
+          "text": "Then, $74/month.",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 meds cost not included",
+          "occurrences": 1
+        },
+        {
+          "text": "Access to medication, clinical care, and comprehensive support.",
+          "occurrences": 1
+        },
+        {
+          "text": "Points® program",
+          "occurrences": 1
+        },
+        {
+          "text": "12,000 healthy recipes",
+          "occurrences": 1
+        },
+        {
+          "text": "Macro tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Members-only social network",
+          "occurrences": 1
+        },
+        {
+          "text": "Activity integration New",
+          "occurrences": 1
+        },
+        {
+          "text": "Sleep tracking New",
+          "occurrences": 1
+        },
+        {
+          "text": "Weight Health Score New",
+          "occurrences": 1
+        },
+        {
+          "text": "Modes New",
+          "occurrences": 1
+        },
+        {
+          "text": "AI Body Scanner New",
+          "occurrences": 1
+        },
+        {
+          "text": "Fitness Content",
+          "occurrences": 1
+        },
+        {
+          "text": "GLP-1 Success Program New",
+          "occurrences": 1
+        },
+        {
+          "text": "Menopause Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Diabetes Program",
+          "occurrences": 1
+        },
+        {
+          "text": "Postpartum Nursing Program New",
+          "occurrences": 1
+        },
+        {
+          "text": "Coaching & Workshops New",
+          "occurrences": 1
+        },
+        {
+          "text": "2 free weeks^^",
+          "occurrences": 1
+        },
+        {
+          "text": "Join CORE",
+          "occurrences": 2
+        },
+        {
+          "text": "Join CORE+",
+          "occurrences": 2
+        },
+        {
+          "text": "Join MED+",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 34
+    }
+  }
+}

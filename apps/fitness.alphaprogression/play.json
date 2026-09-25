@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T12:02:33.762Z",
+  "fetched_at": "2026-09-25T12:03:31.573Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -12,14 +12,14 @@
     "maxInstalls": 2011987,
     "score": 4.8361444,
     "scoreText": "4.8",
-    "ratings": 21113,
+    "ratings": 21122,
     "reviews": 1644,
     "histogram": {
       "1": 403,
       "2": 250,
       "3": 96,
       "4": 862,
-      "5": 19480
+      "5": 19488
     },
     "price": 0,
     "free": true,
@@ -65,8 +65,8 @@
     "adSupported": false,
     "released": "Dec 16, 2019",
     "updated": 1790178198000,
-    "version": "7.5",
-    "recentChanges": "Japanese<br>• We have added another new language.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+    "version": "7.6",
+    "recentChanges": "Changes<br>• You now have more options to export your data. In addition to having it sent via email, you can download the .csv directly, or copy it to the clipboard.<br>• Various smaller changes.<br><br>Bugfixes<br>• Fixed a bug where achievements were not displayed correctly for Norwegian users.<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

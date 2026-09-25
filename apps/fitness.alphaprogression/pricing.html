@@ -22,7 +22,7 @@
   <meta name="twitter:card" content="summary_large_image">
 
   
-<base href="https://alphaprogression.com/">
+  <base href="https://alphaprogression.com/">
   <link rel="canonical" href="https://alphaprogression.com/en">
   <link rel="alternate" hreflang="x-default" href="https://alphaprogression.com/en">
   <link rel="alternate" hreflang="en" href="https://alphaprogression.com/en">
@@ -31,12 +31,11 @@
   <style>
     body {
       opacity: 0;
-      transition: opacity 1.6s;
     }
   </style>
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      requestAnimationFrame(function() {
+    document.addEventListener('DOMContentLoaded', () => {
+      document.fonts.ready.then(() => {
         document.body.style.opacity = '1';
       });
     });
@@ -107,7 +106,7 @@
                     "name": "Benjamin Schnabel",
                     "givenName": "Benjamin",
                     "familyName": "Schnabel",
-                    "jobTitle": "Co-Founder · BSA Personal Trainer · Strength Training & Sports Nutrition",
+                    "jobTitle": "Co-founder · BSA personal trainer · Strength training & sports nutrition",
                     "sameAs": [
                         "https://reddit.com/user/benjamin_ap",
                         "https://instagram.com/benjamin.alphaprogression",
@@ -133,7 +132,7 @@
                     "name": "Marwin Sinapius",
                     "givenName": "Marwin",
                     "familyName": "Sinapius",
-                    "jobTitle": "Co-Founder · Product, Design & Software Development",
+                    "jobTitle": "Co-founder · Product, design & software development",
                     "sameAs": [
                         "https://reddit.com/user/marwin_ap",
                         "https://instagram.com/marwin.alphaprogression",
@@ -392,10 +391,10 @@
   <link rel="icon" href="/img/icons/favicon.ico">
   <link rel="icon" type="image/svg+xml" sizes="any" href="/img/icons/favicon.svg">
 
-  <link rel="stylesheet" href="/css/main2.css?version=17">
-  <link rel="preload" as="font" href="/css/fonts/fa-solid-900.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="/css/fonts/fa-regular-400.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="/css/fonts/fa-brands-400.woff2" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/css/main2.css?version=25">
+  <link rel="preload" as="font" href="/css/fonts/fa-solid-900.woff2?version=3" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/fa-regular-400.woff2?version=3" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="/css/fonts/fa-brands-400.woff2?version=3" type="font/woff2" crossorigin>
   <link rel="preload" as="font" href="/css/fonts/Rubik-Regular.ttf" type="font/ttf" crossorigin>
   <link rel="preload" as="font" href="/css/fonts/Rubik-SemiBold.ttf" type="font/ttf" crossorigin>
 
@@ -405,14 +404,14 @@
 
 <nav class="nav">
   <a href="https://alphaprogression.com/en" class="logo">
-    <img width="44" height="44" class="logo" src="/img/alpha-progression-logo.svg?version=1" alt="Alpha Progression logo">
+    <img width="44" height="44" class="logo" src="/img/alpha-progression-logo.svg?version=2" alt="Alpha Progression logo">
     <span class="app-name">Alpha Progression</span>
   </a>
   <div class="nav-links">
     <a href="https://alphaprogression.com/en#features">Features</a>
     <a href="https://alphaprogression.com/en#reviews">Ratings</a>
-    <a href="https://alphaprogression.com/en/subscribe">Pricing</a>
     <a href="https://alphaprogression.com/en#faq">FAQ</a>
+    <a href="https://alphaprogression.com/en/subscribe">Pricing</a>
   </div>
   <div class="nav-cta">
     <a href="https://alphaprogression.com/en#download" class="download button button-secondary">Download</a>
@@ -1044,7 +1043,7 @@
             <span class="title">Can Alpha Progression create a workout plan tailored to me?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem1-answer" role="region" aria-labelledby="faqItem1-question">Yes. Alpha Progression Pro builds a complete plan around your goal, experience, available equipment, training frequency and preferred workout duration. You can also prioritize specific muscles. The app selects your split, exercises, sets and rep targets, and you can adjust everything afterward. Whether you prefer full-body training, upper/lower or push/pull/legs, your plan can fit the way you want to train. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-workout-plan-generator">Learn how the plan generator works</a>.</p>
+          <p id="faqItem1-answer" role="region" aria-labelledby="faqItem1-question">Yes. Alpha Progression Pro builds a complete plan around your goal, experience, available equipment, training frequency and preferred workout duration. You can also prioritize specific muscles. The app selects your split, exercises, sets and rep targets, and you can adjust everything afterward. Whether you prefer full-body training, upper/lower or push/pull/legs, your plan can fit the way you want to train. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/alpha-progression-workout-plan-generator">Learn how the plan generator works</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem2-answer" id="faqItem2-question">
@@ -1052,7 +1051,7 @@
             <span class="title">How does Alpha Progression decide what weight and reps I should do?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem2-answer" role="region" aria-labelledby="faqItem2-question">Alpha Progression Pro uses your previous performance, the sets you've completed in your current workout, your planned targets and your available weights to recommend a weight and rep count for each working set. If the next dumbbell is too big a jump, it can suggest more reps first. Recommendations adapt to what you actually log, including when you perform below expectations. They become available once you've recorded previous performance for that exercise. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-progression-recommendations">Learn how progression recommendations work</a>.</p>
+          <p id="faqItem2-answer" role="region" aria-labelledby="faqItem2-question">Alpha Progression Pro uses your previous performance, the sets you've completed in your current workout, your planned targets and your available weights to recommend a weight and rep count for each working set. If the next dumbbell is too big a jump, it can suggest more reps first. Recommendations adapt to what you actually log, including when you perform below expectations. They become available once you've recorded previous performance for that exercise. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/alpha-progression-progression-recommendations">Learn how progression recommendations work</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem3-answer" id="faqItem3-question">
@@ -1060,7 +1059,7 @@
             <span class="title">How is Alpha Progression different from other workout apps?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem3-answer" role="region" aria-labelledby="faqItem3-question">Alpha Progression combines a workout tracker, personalized training plans and specific weight and rep recommendations in one app built for muscle growth and strength. Your plan keeps a consistent exercise structure while weight and rep recommendations adapt to your performance. You can also build your own routine and choose which guidance to use. The focus is on making consistent training and measurable progress easier. <a target="_blank" href="https://alphaprogression.com/en/blog/best-strength-training-apps">Explore our workout-app comparisons</a>.</p>
+          <p id="faqItem3-answer" role="region" aria-labelledby="faqItem3-question">Alpha Progression combines a workout tracker, personalized training plans and specific weight and rep recommendations in one app built for muscle growth and strength. Your plan keeps a consistent exercise structure while weight and rep recommendations adapt to your performance. You can also build your own routine and choose which guidance to use. The focus is on making consistent training and measurable progress easier. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/best-strength-training-apps">Explore our workout-app comparisons</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem4-answer" id="faqItem4-question">
@@ -1116,7 +1115,7 @@
             <span class="title">Is Alpha Progression free, and what does Pro add?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem10-answer" role="region" aria-labelledby="faqItem10-question">Yes. The permanent free version includes unlimited workout logging, manually created plans, exercise videos, a rest timer, body measurements and CSV export. All without ads. Pro adds personalized plan and workout generation, progression recommendations, charts, multiple gym profiles and advanced training tools. You don't need to start a trial to use the free version. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">Compare Free and Pro</a>.</p>
+          <p id="faqItem10-answer" role="region" aria-labelledby="faqItem10-question">Yes. The permanent free version includes unlimited workout logging, manually created plans, exercise videos, a rest timer, body measurements and CSV export. All without ads. Pro adds personalized plan and workout generation, progression recommendations, charts, multiple gym profiles and advanced training tools. You don't need to start a trial to use the free version. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">Compare Free and Pro</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem11-answer" id="faqItem11-question">
@@ -1124,7 +1123,7 @@
             <span class="title">How much does Alpha Progression Pro cost, and can I try it free?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem11-answer" role="region" aria-labelledby="faqItem11-question">Regular US pricing is $12.99 per month or $79.99 per year. The annual plan is billed in one payment. Eligible new customers can try the annual plan free for 14 days. The monthly plan has no free trial. The trial becomes a paid annual subscription unless canceled in time. Both subscriptions renew automatically until canceled. Prices and offers vary by region and purchase channel. <a target="_blank" href="https://alphaprogression.com/en/subscribe">Check your current price and subscription terms</a>.</p>
+          <p id="faqItem11-answer" role="region" aria-labelledby="faqItem11-question">Regular US pricing is $12.99 per month or $79.99 per year. The annual plan is billed in one payment. Eligible new customers can try the annual plan free for 14 days. The monthly plan has no free trial. The trial becomes a paid annual subscription unless canceled in time. Both subscriptions renew automatically until canceled. Prices and offers vary by region and purchase channel. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/subscribe">Check your current price and subscription terms</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem12-answer" id="faqItem12-question">
@@ -1132,7 +1131,7 @@
             <span class="title">How do I cancel Pro, and what can I use afterward?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem12-answer" role="region" aria-labelledby="faqItem12-question">Cancel through the App Store or Google Play if you subscribed there. For a website subscription, use <a target="_blank" href="https://alphaprogression.com/en/update-subscription">Update subscription</a>. Canceling renewal keeps Pro active until your paid period ends. The trial access follows your provider's terms. After Pro expires, logging and manually created plans remain usable with the free features. Progression recommendations and starting generated workouts, whether standalone or part of a generated plan, require an active Pro subscription.</p>
+          <p id="faqItem12-answer" role="region" aria-labelledby="faqItem12-question">Cancel through the App Store or Google Play if you subscribed there. For a website subscription, use <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/update-subscription">Update subscription</a>. Canceling renewal keeps Pro active until your paid period ends. The trial access follows your provider's terms. After Pro expires, logging and manually created plans remain usable with the free features. Progression recommendations and starting generated workouts, whether standalone or part of a generated plan, require an active Pro subscription.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem13-answer" id="faqItem13-question">
@@ -1140,7 +1139,7 @@
             <span class="title">Can I get a refund if Pro isn't right for me?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem13-answer" role="region" aria-labelledby="faqItem13-question">Yes! We offer a full refund on request, including payments after a trial or subscription renewal. For website or Google Play purchases, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> with your purchase details. For App Store purchases, <a target="_blank" href="https://reportaproblem.apple.com/">request a refund through Apple</a> first. If Apple declines, contact us so we can arrange your refund. Canceling renewal and requesting a refund are separate actions. <a target="_blank" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">More about refunds</a>.</p>
+          <p id="faqItem13-answer" role="region" aria-labelledby="faqItem13-question">Yes! We offer a full refund on request, including payments after a trial or subscription renewal. For website or Google Play purchases, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> with your purchase details. For App Store purchases, <a target="_blank" rel="noopener" href="https://reportaproblem.apple.com/">request a refund through Apple</a> first. If Apple declines, contact us so we can arrange your refund. Canceling renewal and requesting a refund are separate actions. <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/alpha-progression-pro-worth-it">More about refunds</a>.</p>
         </div>
               <div class="faq-item item" data-click="showItem">
           <button type="button" aria-expanded="false" aria-controls="faqItem14-answer" id="faqItem14-question">
@@ -1148,7 +1147,7 @@
             <span class="title">Who is behind Alpha Progression?</span>
             <i class="fa-regular fa-chevron-right"></i>
           </button>
-          <p id="faqItem14-answer" role="region" aria-labelledby="faqItem14-question">Alpha Progression was founded by <a target="_blank" href="https://alphaprogression.com/en/blog/authors/benjamin-schnabel">Benjamin Schnabel</a> and <a target="_blank" href="https://alphaprogression.com/en/blog/authors/marwin-sinapius">Marwin Sinapius</a>. Benjamin brings experience in personal training, strength training and sports nutrition. Marwin leads product, design and software development. We're a small, independent team based in Germany, building the app in close contact with our users. If you have a question or suggestion, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> and you'll hear back from a real person.</p>
+          <p id="faqItem14-answer" role="region" aria-labelledby="faqItem14-question">Alpha Progression was founded by <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/authors/benjamin-schnabel">Benjamin Schnabel</a> and <a target="_blank" rel="noopener" href="https://alphaprogression.com/en/blog/authors/marwin-sinapius">Marwin Sinapius</a>. Benjamin brings experience in personal training, strength training and sports nutrition. Marwin leads product, design and software development. We're a small, independent team based in Germany, building the app in close contact with our users. If you have a question or suggestion, email <a href="mailto:info@alphaprogression.com">info@alphaprogression.com</a> and you'll hear back from a real person.</p>
         </div>
           </div>
   </div>
@@ -1165,10 +1164,10 @@
       <p><a href="https://alphaprogression.com/en/subscribe">Try Pro free for 14 days.</a> Cancel anytime.</p>
     </header>
     <div class="store-row animate animate-delay-1">
-      <a class="is-android-hide" href="https://apps.apple.com/app/alpha-progression/id1462277793" target="_blank" rel="noopener noreferrer">
+      <a class="is-android-hide" href="https://apps.apple.com/app/alpha-progression/id1462277793" target="_blank" rel="noopener">
         <img height="60" src="/img/download-alpha-progression-app-store-en.svg" alt="Download on the App Store">
       </a>
-      <a class="is-ios-hide" href="https://play.google.com/store/apps/details?id=com.alphaprogression.alphaprogression" target="_blank" rel="noopener noreferrer">
+      <a class="is-ios-hide" href="https://play.google.com/store/apps/details?id=com.alphaprogression.alphaprogression" target="_blank" rel="noopener">
         <img height="60" src="/img/download-alpha-progression-play-store-en.svg" alt="Get it on Google Play">
       </a>
     </div>
@@ -1210,21 +1209,22 @@
         <li><a href="https://alphaprogression.com/en/blog/topics/podcast">Podcast</a></li>
         <li><a href="https://alphaprogression.com/en/glossary">Glossary</a></li>
         <li><a href="https://alphaprogression.com/en/tools">Tools</a></li>
+        <li><a href="https://alphaprogression.com/en/press">Press</a></li>
       </ul>
       <ul class="footer-links">
         <li class="header">Support</li>
         <li><a href="https://alphaprogression.com/en/support">Contact us</a></li>
         <li><a href="https://alphaprogression.com/en#faq">FAQ</a></li>
-        <li><a href="https://alphaprogression.com/en/terms-of-service">Terms</a></li>
+         <li><a href="https://alphaprogression.com/en/terms-of-service">Terms</a></li>
         <li><a href="https://alphaprogression.com/en/privacy-policy">Privacy</a></li>
         <li><a href="https://alphaprogression.com/en/legal-notice">Legal notice</a></li>
       </ul>
       <ul class="footer-links">
         <li class="header">Connect</li>
-        <li><a href="https://instagram.com/alphaprogression" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
-        <li><a href="https://reddit.com/r/alphaprogression" target="_blank" rel="noopener noreferrer" aria-label="Reddit"><i class="fa-brands fa-reddit"></i></a></li>
-        <li><a href="https://facebook.com/groups/alphaprogressionapp" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="fa-brands fa-facebook"></i></a></li>
-        <li><a href="https://tiktok.com/@alphaprogression" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><i class="fa-brands fa-tiktok"></i></a></li>
+        <li><a href="https://instagram.com/alphaprogression" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a></li>
+        <li><a href="https://reddit.com/r/alphaprogression" target="_blank" rel="noopener" aria-label="Reddit"><i class="fa-brands fa-reddit"></i></a></li>
+        <li><a href="https://facebook.com/groups/alphaprogressionapp" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-facebook"></i></a></li>
+        <li><a href="https://tiktok.com/@alphaprogression" target="_blank" rel="noopener" aria-label="TikTok"><i class="fa-brands fa-tiktok"></i></a></li>
       </ul>
     </div>
   </div>
@@ -1251,7 +1251,7 @@
     document.body.classList.add('is-android');
   }
 </script>
-<script src="/js/main2.js?version=8" async defer></script>
+<script src="/js/main2.js?version=9" async defer></script>
 
 </body>
 </html>

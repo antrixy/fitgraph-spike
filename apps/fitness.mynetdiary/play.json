@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T12:00:00.969Z",
+  "fetched_at": "2026-09-25T12:00:57.858Z",
   "source": "google_play_scraper",
   "appId": "com.fourtechnologies.mynetdiary.ad",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 9551400,
-    "score": 4.6658144,
+    "score": 4.6656175,
     "scoreText": "4.7",
-    "ratings": 116893,
-    "reviews": 18065,
+    "ratings": 116947,
+    "reviews": 18068,
     "histogram": {
-      "1": 3401,
-      "2": 1286,
-      "3": 3287,
-      "4": 15013,
-      "5": 93900
+      "1": 3403,
+      "2": 1309,
+      "3": 3264,
+      "4": 15020,
+      "5": 93942
     },
     "price": 0,
     "free": true,
@@ -88,7 +88,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Sep 17, 2010",
-    "updated": 1789658812000,
+    "updated": 1790263719000,
     "version": "VARY",
     "recentChanges": "AI Coach answers now include interactive Timelines. See how your weight, calories, exercise, and more change together, spot patterns at a glance, and tap any chart to dig into the details.",
     "comments": [],
