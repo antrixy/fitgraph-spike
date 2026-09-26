@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-09-25T12:00:55.695Z",
+  "fetched_at": "2026-09-26T11:35:51.017Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=287529757&country=us",
   "result": {
+    "isGameCenterEnabled": false,
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/cf/ec/0bcfecae-6ffc-606e-f6a6-92232a1af6a2/Screen1.png/320x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d7/10/57d710e1-22d3-d1a1-9eec-f68ef3ae9dc4/Screen2.png/320x480bb.jpg",
@@ -27,9 +28,10 @@
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/8d/c6/898dc69e-3963-a289-be40-22e606d06ce0/Screen9.png/360x480bb.jpg",
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/cc/8f/96cc8fd8-904a-4959-2461-da7379fbea46/Screen10.png/360x480bb.jpg"
     ],
-    "isGameCenterEnabled": false,
-    "advisories": [
-      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+    "appletvScreenshotUrls": [],
+    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/6e/22/936e22ad-9fd7-d1a6-0552-48f547dc3126/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "features": [
+      "iosUniversal"
     ],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
@@ -164,18 +166,26 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
+    "advisories": [
+      "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+    ],
     "kind": "software",
     "artistViewUrl": "https://apps.apple.com/us/developer/mynetdiary-inc/id287529760?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/6e/22/936e22ad-9fd7-d1a6-0552-48f547dc3126/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/6e/22/936e22ad-9fd7-d1a6-0552-48f547dc3126/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
-    "appletvScreenshotUrls": [],
-    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/6e/22/936e22ad-9fd7-d1a6-0552-48f547dc3126/AppIconFree-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "bundleId": "com.mynetdiary.MyNetDiary",
+    "trackCensoredName": "Calorie Counter - MyNetDiary",
+    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
+    "currentVersionReleaseDate": "2026-09-24T15:29:49Z",
+    "averageUserRatingForCurrentVersion": 4.80842,
     "sellerUrl": "https://www.mynetdiary.com/iPhone.html",
-    "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
-    "minimumOsVersion": "17.0",
+    "languageCodesISO2A": [
+      "EN"
+    ],
+    "fileSizeBytes": "346790912",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 166695,
+    "trackContentRating": "12+",
     "artistId": 287529760,
     "artistName": "MyNetDiary Inc.",
     "genres": [
@@ -183,35 +193,25 @@
       "Lifestyle"
     ],
     "price": 0,
+    "releaseNotes": "Bug Fixes and Improvements! We've tackled several bugs and polished the app for a smoother, more reliable experience.\n\nHappy tracking and stay healthy!\n\nThank you for updating the app.\n\nAlways yours,\nThe MyNetDiary Team",
+    "releaseDate": "2019-02-03T08:00:00Z",
+    "trackName": "Calorie Counter - MyNetDiary",
+    "trackId": 287529757,
+    "sellerName": "MyNetDiary Inc.",
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
     "genreIds": [
       "6013",
       "6012"
     ],
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
     "isVppDeviceBasedLicensingEnabled": true,
-    "currentVersionReleaseDate": "2026-09-24T15:29:49Z",
-    "sellerName": "MyNetDiary Inc.",
-    "releaseDate": "2019-02-03T08:00:00Z",
-    "trackName": "Calorie Counter - MyNetDiary",
-    "trackId": 287529757,
     "version": "10.36",
     "wrapperType": "software",
     "currency": "USD",
     "description": "MyNetDiary is the calorie tracker you'll actually stick with: fast, accurate, and ad-free. Log meals in seconds with the free barcode scanner, Meal Scan (just photograph your plate), or quick search. Then get on with your day.\n\nTrusted by 32 million people. Named the top weight loss app by Forbes Health (2025). Scored highest of 30 apps for behavioral strategies in the American Journal of Preventive Medicine. The New York Times called it simpler, quicker, and better-looking than the competition. Featured in Today's Dietitian.\n\nWHY PEOPLE SWITCH\n\nAccuracy: MyNetDiary runs on a staff-verified food database of over 2 million foods with up to 108 nutrients per entry, built on USDA and NCC research-grade sources, the same databases used in clinical research. Most apps rely on crowdsourced data full of duplicates and errors. Our team reviews and updates 2,500-3,500 foods every day. An independent 2026 study in Nutrition and Health found MyNetDiary's calorie totals within 5 calories of the reference records and rated it highest of 17 apps for overall quality.\n\nSpeed: In our January 2026 test, we logged the same 127 foods in every major app over a week. MyNetDiary took 31% fewer taps than the most popular calorie tracker.\n\nResults: In a peer-reviewed JMIR study of 5,132 MyNetDiary users (2026), those who tracked food 6-7 days a week lost 11.33% of body weight on average over 6 months.\n\nValue: The free version is generous, with barcode scanning, full macro tracking, 108 nutrients, and water tracking. No ads, no account required, no paywall tricks.\n\nWHAT YOU GET FOR FREE\n\n• Unlimited food diary with search, favorites, recent meals, and copy-from-day.\n• Free barcode scanner with accurate nutrition data from the verified food database.\n• Voice logging.\n• Macro tracking, planning, and protein tracking.\n• 108 nutrients - deep, accurate nutrition tracking (vitamins, minerals, omegas, amino acids).\n• Exercise tracking.\n• Water tracking.\n• Calorie calculator.\n• Customizable dashboard.\n• Weight loss progress charts and reports - no chart caps.\n• Custom foods and recipes.\n• Food sharing with friends and family.\n• Apple Watch app and widgets.\n• Apple Health sync: writes 51 data types, reads 14.\n• Coaching tips, meal reminders, shopping list.\n• Logging streaks to keep you going.\n• Professional Connect: share your diary with a dietitian, coach, or doctor. Used by dietitians and health professionals at no cost.\n• In-app Community.\n• Articles by Registered Dietitians.\n• Works offline.\n\nPREMIUM\n\n• Meal Scan: snap your plate and log it, matched against the staff-verified database.\n• GLP-1 Companion: nutrition-first support for Ozempic, Wegovy, Mounjaro, Zepbound, and other semaglutide or tirzepatide medications, with protein targets and muscle protection while you lose weight.\n• Calorie and macro cycling.\n• Autologging: your regular meals logged automatically.\n• Intermittent fasting.\n• Advanced Autopilot, adaptive TDEE: estimates your actual energy expenditure from logged food, exercise, and Trending Weight and updates calories and macros weekly.\n• Health tracking: measurements, blood pressure, blood glucose, A1C, ketones, and more.\n• Medications and diabetes tracking.\n• Sync with Fitbit, Garmin, and Withings.\n• Trend Analysis to spot patterns and optimize.\n• Meal Planner.\n• Recipe import.\n• 600+ recipes and diet plans by Registered Dietitians: High-Protein, Low-Carb, Keto, and more.\n\nPREMIUM PLUS: AI COACH\n\nAI Coach is built on 20 years of nutrition expertise.\n• Daily guidance based on what you actually ate, not just what you planned.\n• AI voice logging: describe your meal out loud.\n• Meal suggestions matched to your calorie budget and preferences.\n• AI Restaurant Menu Scan: find the best options when eating out.\n\nResults may vary. MyNetDiary does not provide medical advice.\n\nAll product names, logos, and brands are the property of their respective owners.\n\nResearch: www.mynetdiary.com/research.html\nTerms of Use: www.mynetdiary.com/terms.html",
-    "trackCensoredName": "Calorie Counter - MyNetDiary",
-    "trackViewUrl": "https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?uo=4",
+    "minimumOsVersion": "17.0",
     "contentAdvisoryRating": "12+",
-    "averageUserRating": 4.80835,
-    "bundleId": "com.mynetdiary.MyNetDiary",
-    "averageUserRatingForCurrentVersion": 4.80835,
-    "languageCodesISO2A": [
-      "EN"
-    ],
-    "fileSizeBytes": "346790912",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 166529,
-    "trackContentRating": "12+",
-    "userRatingCount": 166529
+    "averageUserRating": 4.80842,
+    "userRatingCount": 166695
   }
 }

@@ -1,0 +1,13 @@
+{
+  "product": "fitness.lifesum",
+  "name": "Lifesum",
+  "date": "2026-09-26",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "be443c276e962d03ffb4ad50c7a0dfcd3efabbc7",
+      "prev_fetched_at": "2026-09-25T12:01:16.849Z",
+      "curr_fetched_at": "2026-09-26T11:36:16.077Z",
+      "version_unreported": true
+    }
+  }
+}

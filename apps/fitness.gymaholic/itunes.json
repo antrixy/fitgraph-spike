@@ -1,15 +1,13 @@
 {
-  "fetched_at": "2026-09-25T12:02:48.365Z",
+  "fetched_at": "2026-09-26T11:37:55.104Z",
   "source": "itunes_lookup",
   "url": "https://itunes.apple.com/lookup?id=648518560&country=us",
   "result": {
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/40/dc/f140dccf-8b35-212a-ff1f-a74f40462d8b/GymaholicIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
     "isGameCenterEnabled": false,
     "artistViewUrl": "https://apps.apple.com/us/developer/devenyi-gabor/id648518563?uo=4",
     "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/40/dc/f140dccf-8b35-212a-ff1f-a74f40462d8b/GymaholicIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/40/dc/f140dccf-8b35-212a-ff1f-a74f40462d8b/GymaholicIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-    "features": [
-      "iosUniversal"
-    ],
+    "advisories": [],
     "supportedDevices": [
       "iPhone5s-iPhone5s",
       "iPadAir-iPadAir",
@@ -143,7 +141,6 @@
       "iPhone18ProMax-iPhone18ProMax",
       "iPhoneDuo-iPhoneDuo"
     ],
-    "advisories": [],
     "kind": "software",
     "screenshotUrls": [
       "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/77/eb/fd77ebeb-6230-d771-5e14-091c840e082e/Slice_2.png/320x480bb.jpg",
@@ -161,35 +158,27 @@
     ],
     "appletvScreenshotUrls": [],
     "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/40/dc/f140dccf-8b35-212a-ff1f-a74f40462d8b/GymaholicIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-    "releaseNotes": "Bug fixes and performance improvements to make your workouts smoother and the app more reliable.",
-    "averageUserRating": 4.57915,
+    "features": [
+      "iosUniversal"
+    ],
+    "averageUserRating": 4.57927,
     "trackCensoredName": "Gymaholic: Workout Tracker",
     "trackViewUrl": "https://apps.apple.com/us/app/gymaholic-workout-tracker/id648518560?uo=4",
     "contentAdvisoryRating": "4+",
+    "price": 0,
     "artistId": 648518563,
     "artistName": "Devenyi Gabor",
-    "genreIds": [
-      "6013"
-    ],
-    "genres": [
-      "Health & Fitness"
-    ],
-    "bundleId": "mportal.Gymaholic",
-    "primaryGenreName": "Health & Fitness",
-    "primaryGenreId": 6013,
-    "currentVersionReleaseDate": "2026-09-18T16:53:30Z",
-    "trackName": "Gymaholic: Workout Tracker",
+    "releaseNotes": "Bug fixes and performance improvements to make your workouts smoother and the app more reliable.",
+    "releaseDate": "2013-07-03T03:46:34Z",
     "trackId": 648518560,
-    "isVppDeviceBasedLicensingEnabled": true,
+    "trackName": "Gymaholic: Workout Tracker",
+    "currentVersionReleaseDate": "2026-09-18T16:53:30Z",
     "version": "16.6",
     "wrapperType": "software",
     "currency": "USD",
     "description": "Log every set from your Apple Watch. No phone, no fumbling.\n\nBuild muscle, gain strength, and track every workout. Log every rep, every plate, and every personal record across 850+ exercises with interactive 3D animations. Used by serious lifters for over a decade.\n\nAPPLE WATCH — YOUR WRIST IS ENOUGH\n\nStart, track, and log workouts directly from your Apple Watch. Record sets, reps, weight, heart rate, and calories without taking your phone out of your pocket.\n\nTRACK EVERY SET, OWN EVERY PR\n\nSmart progress charts show your strength gains and personal records over time. Monitor workout volume, training history, and performance trends with a clean, distraction-free interface built for the gym floor.\n\n850+ EXERCISES WITH 3D ANIMATIONS\n\nExplore a complete exercise library covering every major muscle group. Learn proper form with detailed instructions and interactive 3D animations available on iPhone, Apple Watch, Mac, Apple TV, and Vision Pro.\n\nPLANS THAT FIT YOUR TRAINING\n\n• Pre-made programs created by a competitive bodybuilding champion\n• Build your own routines from scratch\n• Modify any workout plan to match your goals\n• Train at the gym or at home\n• Strength training, bodybuilding, powerlifting, and functional fitness\n\nBUILT FOR THE ENTIRE APPLE ECOSYSTEM\n\n• iPhone for planning workouts and tracking progress\n• Apple Watch for logging workouts in the gym\n• Mac for analyzing your training history\n• Apple TV for following workouts on a bigger screen\n• Vision Pro for immersive fitness experiences\n\nEVERYTHING ELSE\n\n• Voice guidance to keep you focused during workouts\n• Rest timers and HIIT interval timers\n• Body metrics tracking including weight, body fat, and measurements\n• Apple Health integration for workouts, calories, and body metrics\n\nTry Gymaholic free for 7 days. No commitment.\n\nPremium is available as a monthly or annual subscription. Payment is charged to your Apple ID at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in App Store Account Settings.\n\nTerms of Use: https://www.gymaholic.app/termsofuse.html\nPrivacy Policy: https://www.gymaholic.app/privacypolicy.html",
-    "minimumOsVersion": "27.0",
-    "formattedPrice": "Free",
-    "userRatingCountForCurrentVersion": 3462,
-    "trackContentRating": "4+",
-    "averageUserRatingForCurrentVersion": 4.57915,
+    "averageUserRatingForCurrentVersion": 4.57927,
+    "sellerUrl": "https://www.gymaholic.app",
     "languageCodesISO2A": [
       "AR",
       "NL",
@@ -208,10 +197,21 @@
       "TR"
     ],
     "fileSizeBytes": "180083712",
-    "sellerUrl": "https://www.gymaholic.app",
+    "formattedPrice": "Free",
+    "userRatingCountForCurrentVersion": 3463,
+    "trackContentRating": "4+",
+    "bundleId": "mportal.Gymaholic",
+    "minimumOsVersion": "27.0",
+    "genreIds": [
+      "6013"
+    ],
+    "isVppDeviceBasedLicensingEnabled": true,
     "sellerName": "Devenyi Gabor",
-    "releaseDate": "2013-07-03T03:46:34Z",
-    "price": 0,
-    "userRatingCount": 3462
+    "primaryGenreName": "Health & Fitness",
+    "primaryGenreId": 6013,
+    "genres": [
+      "Health & Fitness"
+    ],
+    "userRatingCount": 3463
   }
 }

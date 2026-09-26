@@ -1,0 +1,26 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-26",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "be443c276e962d03ffb4ad50c7a0dfcd3efabbc7",
+      "curr_fetched_at": "2026-09-26T11:38:27.302Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "English",
+          "occurrences": 1
+        },
+        {
+          "text": "Deutsch",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 2,
+      "removed_total": 0
+    }
+  }
+}
