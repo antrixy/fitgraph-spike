@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-09-27",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "34bd0965ae6133f58581c09b89e924d5414f5327",
+      "prev_fetched_at": "2026-09-26T11:40:33.008Z",
+      "curr_fetched_at": "2026-09-27T12:19:22.571Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.38.2",
+          "new": "2026.39.2"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "What's new?\n- Replace a waypoint: tap it in the waypoint list and search for a new place.\n- Copy and redeem prize codes from completed challenges.\n\nBug fixes\n- Fixed a crash after buying a subscription.\n- Fixed the extra free trial offer appearing after it had already been used.",
+          "new": "Bug fixes\n- Fixed an issue where music stayed at a lower volume after voice navigation instructions.\n- Fixed several bugs and improved app stability and performance."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "34bd0965ae6133f58581c09b89e924d5414f5327",
+      "prev_fetched_at": "2026-09-26T11:40:37.585Z",
+      "curr_fetched_at": "2026-09-27T12:19:25.017Z",
+      "version_unreported": true
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T11:39:22.012Z",
+  "fetched_at": "2026-09-27T12:18:18.424Z",
   "source": "google_play_scraper",
   "appId": "com.nike.plusgps",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "50,000,000+",
     "minInstalls": 50000000,
     "maxInstalls": 57310822,
-    "score": 4.2167087,
+    "score": 4.2166696,
     "scoreText": "4.2",
-    "ratings": 1112761,
+    "ratings": 1112806,
     "reviews": 69374,
     "histogram": {
-      "1": 117660,
-      "2": 52602,
-      "3": 55014,
-      "4": 133120,
-      "5": 754351
+      "1": 117642,
+      "2": 52593,
+      "3": 55005,
+      "4": 133301,
+      "5": 754246
     },
     "price": 0,
     "free": true,

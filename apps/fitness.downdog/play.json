@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T11:43:17.639Z",
+  "fetched_at": "2026-09-27T12:22:24.406Z",
   "source": "google_play_scraper",
   "appId": "com.downdogapp",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "5,000,000+",
     "minInstalls": 5000000,
     "maxInstalls": 7829158,
-    "score": 4.8653316,
+    "score": 4.8651686,
     "scoreText": "4.9",
-    "ratings": 378069,
-    "reviews": 14671,
+    "ratings": 378086,
+    "reviews": 14672,
     "histogram": {
-      "1": 5608,
-      "2": 2281,
+      "1": 5620,
+      "2": 2287,
       "3": 2608,
-      "4": 16382,
-      "5": 351175
+      "4": 16401,
+      "5": 351155
     },
     "price": 0,
     "free": true,
