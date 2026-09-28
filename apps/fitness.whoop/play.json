@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T12:20:13.751Z",
+  "fetched_at": "2026-09-28T14:18:44.852Z",
   "source": "google_play_scraper",
   "appId": "com.whoop.android",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 1243179,
-    "score": 4.7258406,
+    "score": 4.7348886,
     "scoreText": "4.7",
-    "ratings": 29456,
+    "ratings": 29525,
     "reviews": 1942,
     "histogram": {
-      "1": 770,
-      "2": 337,
-      "3": 802,
-      "4": 2349,
-      "5": 25183
+      "1": 751,
+      "2": 312,
+      "3": 780,
+      "4": 2314,
+      "5": 25360
     },
     "price": 0,
     "free": true,

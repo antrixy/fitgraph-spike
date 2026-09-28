@@ -1,0 +1,52 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-28",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "4d3631bd9237c984c1fa36e0d4be79fb4023630b",
+      "prev_fetched_at": "2026-09-27T12:17:18.807Z",
+      "curr_fetched_at": "2026-09-28T14:15:51.965Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.6",
+          "new": "7.5"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Changes<br>• You now have more options to export your data. In addition to having it sent via email, you can download the .csv directly, or copy it to the clipboard.<br>• Various smaller changes.<br><br>Bugfixes<br>• Fixed a bug where achievements were not displayed correctly for Norwegian users.<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+          "new": "Japanese<br>• We have added another new language.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "4d3631bd9237c984c1fa36e0d4be79fb4023630b",
+      "curr_fetched_at": "2026-09-28T14:15:54.997Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "RIR , periodization and deloads are optional Pro features.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "RIR means \"reps in reserve\": how many more clean reps you think you could have completed.",
+          "occurrences": 1
+        },
+        {
+          "text": "Periodization lets training targets vary across several weeks.",
+          "occurrences": 1
+        },
+        {
+          "text": "Both are optional Pro features, along with deloads (easier phases of training).",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 3
+    }
+  }
+}

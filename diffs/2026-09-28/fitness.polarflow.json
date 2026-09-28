@@ -1,0 +1,41 @@
+{
+  "product": "fitness.polarflow",
+  "name": "Polar Flow",
+  "date": "2026-09-28",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "4d3631bd9237c984c1fa36e0d4be79fb4023630b",
+      "prev_fetched_at": "2026-09-27T12:20:32.865Z",
+      "curr_fetched_at": "2026-09-28T14:19:06.506Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.36.4",
+          "new": "7.37.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "We've improved support for resolving Polar Loop Gen 2 connection issues.",
+          "new": "Introducing Trends in Diary. Get a clear overview of your data from the previous two weeks. Customize Trends from the settings menu in Diary.\nWe've also fixed bugs and made performance improvements."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "4d3631bd9237c984c1fa36e0d4be79fb4023630b",
+      "prev_fetched_at": "2026-09-27T12:20:37.626Z",
+      "curr_fetched_at": "2026-09-28T14:19:08.666Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.36.2",
+          "new": "7.37.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "This update fixes connectivity issues. ",
+          "new": "Introducing Trends in Diary. Get a clear overview of your data from the previous two weeks. Customize Trends from the settings menu in Diary.<br>We&#39;ve also made substantial improvements to connection reliability."
+        }
+      ]
+    }
+  }
+}

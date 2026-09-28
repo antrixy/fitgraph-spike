@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T12:19:02.774Z",
+  "fetched_at": "2026-09-28T14:17:39.070Z",
   "source": "google_play_scraper",
   "appId": "com.trainerroad.android.production",
   "result": {
@@ -9,7 +9,7 @@
     "summary": "Get faster with science-backed cycling training.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 336485,
+    "maxInstalls": 336834,
     "score": 4.739777,
     "scoreText": "4.7",
     "ratings": 9221,
@@ -79,8 +79,8 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Sep 22, 2016",
-    "updated": 1789672172000,
-    "version": "2026.37.0.92791",
+    "updated": 1790275958000,
+    "version": "2026.38.0.92793",
     "recentChanges": "• Various under-the-hood improvements.",
     "comments": [],
     "preregister": false,

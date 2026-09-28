@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T12:17:18.807Z",
+  "fetched_at": "2026-09-28T14:15:51.965Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout planner &amp; lifting log: strength training &amp; muscle building workout plans",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2018664,
-    "score": 4.8357487,
+    "maxInstalls": 2019789,
+    "score": 4.8236713,
     "scoreText": "4.8",
-    "ratings": 21131,
+    "ratings": 21142,
     "reviews": 1645,
     "histogram": {
-      "1": 403,
-      "2": 250,
-      "3": 97,
-      "4": 862,
-      "5": 19497
+      "1": 459,
+      "2": 255,
+      "3": 102,
+      "4": 918,
+      "5": 19401
     },
     "price": 0,
     "free": true,
@@ -65,8 +65,8 @@
     "adSupported": false,
     "released": "Dec 16, 2019",
     "updated": 1790178198000,
-    "version": "7.6",
-    "recentChanges": "Changes<br>• You now have more options to export your data. In addition to having it sent via email, you can download the .csv directly, or copy it to the clipboard.<br>• Various smaller changes.<br><br>Bugfixes<br>• Fixed a bug where achievements were not displayed correctly for Norwegian users.<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+    "version": "7.5",
+    "recentChanges": "Japanese<br>• We have added another new language.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

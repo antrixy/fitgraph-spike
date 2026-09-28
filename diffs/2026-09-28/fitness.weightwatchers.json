@@ -1,0 +1,39 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-09-28",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "4d3631bd9237c984c1fa36e0d4be79fb4023630b",
+      "curr_fetched_at": "2026-09-28T14:14:06.345Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "LIMITED TIME ONLY: Save 72% on Core+ plans!",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $12/month for your first 12, 3, or 1 months when you purchase a 12., 3, or 1-month Weight Watchers Core+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews for another 12, 3, or 1-month period at the regular price at the end of each plan term unless canceled.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "LIMITED TIME ONLY: Save 54% on a 12-month Core+ plan!",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $20/month for your first 12 months when you purchase a 12-month Weight Watchers Core+ membership.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 2
+    }
+  }
+}
