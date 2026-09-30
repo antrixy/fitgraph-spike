@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T14:17:30.624Z",
+  "fetched_at": "2026-09-30T12:53:10.172Z",
   "source": "google_play_scraper",
   "appId": "com.peaksware.trainingpeaks",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Training plans and workout tracking for triathlon, cycling, running, &amp; marathon.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1883312,
+    "maxInstalls": 1884509,
     "score": 4.187192,
     "scoreText": "4.2",
-    "ratings": 33428,
+    "ratings": 33436,
     "reviews": 2022,
     "histogram": {
       "1": 3290,
-      "2": 1726,
-      "3": 2217,
+      "2": 1727,
+      "3": 2218,
       "4": 4362,
-      "5": 21813
+      "5": 21820
     },
     "price": 0,
     "free": true,
@@ -55,7 +55,7 @@
       "https://play-lh.googleusercontent.com/qtt1BLKdDQZfAA3N6Q-PAaTPuTrHmzBMjA2N1CLlQ0FjioG8iwFsbBhA5UKXjD1WW89RAWmSM20orcfJqRJEUA",
       "https://play-lh.googleusercontent.com/86HqDidF3SW2tJXUIXRhEFV56QbUsPBsf8y9c6v8dHm1uu-cSJ1KTEWMAJO58HhovPBLp1ZBZWxWOQfNRRQKQA",
       "https://play-lh.googleusercontent.com/Lh8OirDLg-LMSVIpj03npEamr96eaBTUNh1ZV9XIYilhvMYB8m51VpykT4JshGzXGd12T5AKBn1X1L1sXe1iMQ",
-      "https://play-lh.googleusercontent.com/E2oxvlyipTgAo8p4FsR4JQGxp3q9BmBzS_P72gX3P5gKmy_9aO4qoggK3YriboPCQ-vCZMkj3sIQNUDhVWGKtw",
+      "https://play-lh.googleusercontent.com/J8ta6qr6S4jubblq11oSAI-R9N0H8Or4L2NM0htMD1W5hXVAq56ZzhnPNqTnGgm12zYPUnNodNfQg0au6ujn",
       "https://play-lh.googleusercontent.com/Wzol2DPBWUj9TB1TVEVzu0IUpFBlrhSsHnQ7T65Yb9Y2oeip1TPDuNUq1b4QzuWvXd4pVjVPSLWa3_BiwDhJIQ",
       "https://play-lh.googleusercontent.com/V4kxH3MKbSGWWQagsU5SxGjabjHFeOBNC2otTe8Adm6OZBuW_Dl9g7miZ2Pk9vQ8qYf9Fb6HiqVkvZol46PGyw",
       "https://play-lh.googleusercontent.com/ay_XOZwzfa0eBOXYUu0I9cdrWuUqI42pFhe5cd3oC6hKNr9ISBRe-GvQV9CKuJ1UoCTfvr9bymnVzEuCpszUzA"
@@ -63,7 +63,7 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "May 4, 2011",
-    "updated": 1788477563000,
+    "updated": 1790285186000,
     "version": "12.114.0",
     "recentChanges": "Bug fixes and behind-the-scenes work to prep for what&#39;s coming.<br><br>Thanks for training with TrainingPeaks.<br>",
     "comments": [],

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.runna",
+  "name": "Runna",
+  "date": "2026-09-30",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "prev_fetched_at": "2026-09-28T14:16:45.714Z",
+      "curr_fetched_at": "2026-09-30T12:52:26.226Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.56.0",
+          "new": "8.57.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Like finally syncing your watch after a long run: satisfying, clean, right on track.",
+          "new": "This update is nothing flashy, but it will make everything feel more dialed in. Kinda like when your pace is bang on without checking your watch."
+        }
+      ]
+    }
+  }
+}

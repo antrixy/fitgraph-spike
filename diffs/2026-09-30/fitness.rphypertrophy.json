@@ -1,0 +1,24 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-09-30",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "prev_fetched_at": "2026-09-28T14:16:01.923Z",
+      "curr_fetched_at": "2026-09-30T12:51:47.426Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.5.0",
+          "new": "1.6.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Behind-the-scenes improvements and groundwork for upcoming features.",
+          "new": "Fixes some style issues on the login screen."
+        }
+      ]
+    }
+  }
+}

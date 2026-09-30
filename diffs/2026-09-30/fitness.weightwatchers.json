@@ -1,0 +1,27 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-09-30",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "curr_fetched_at": "2026-09-30T12:49:45.045Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Ends today: Save 72% on Core+ plans!",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "LIMITED TIME ONLY: Save 72% on Core+ plans!",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-09-30",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "prev_fetched_at": "2026-09-28T14:19:52.681Z",
+      "curr_fetched_at": "2026-09-30T12:55:36.074Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "This release brings a smoother Search &amp; Filter experience and a more stable app:<br>Search and filters now stay anchored at the top of the screen while your results scroll underneath.<br>After updating your equipment from Search &amp; Filter, you&#39;re taken straight back to your filter.<br>Fixed workout logging where values could carry over between exercises in landscape mode.<br>Fixed several crashes.<br>Need a hand or have feedback? Reach our team anytime at hello@centr.com.",
+          "new": "We&#39;ve made your big-screen workouts better this release: when you cast or mirror, you&#39;ll see your progress and current exercise, and the progress bar keeps pace as you go. We also cleared up a few issues so your music and your login behave the way they should.<br><br>Questions, feedback, or need help? We&#39;re here: hello@centr.com."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "curr_fetched_at": "2026-09-30T12:55:39.466Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "(25)",
+          "occurrences": 3
+        }
+      ],
+      "removed": [
+        {
+          "text": "(24)",
+          "occurrences": 3
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

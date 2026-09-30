@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T14:19:52.681Z",
+  "fetched_at": "2026-09-30T12:55:36.074Z",
   "source": "google_play_scraper",
   "appId": "com.centr.app",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Fitness tracking, personal training, core workouts for your daily fitness goals",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2161469,
+    "maxInstalls": 2162007,
     "score": 4.3603773,
     "scoreText": "4.4",
-    "ratings": 17345,
+    "ratings": 17350,
     "reviews": 2468,
     "histogram": {
-      "1": 1799,
+      "1": 1800,
       "2": 456,
       "3": 489,
-      "4": 1536,
-      "5": 13056
+      "4": 1537,
+      "5": 13060
     },
     "price": 0,
     "free": true,
@@ -89,7 +89,7 @@
     "released": "Dec 15, 2019",
     "updated": 1790098762000,
     "version": "VARY",
-    "recentChanges": "This release brings a smoother Search &amp; Filter experience and a more stable app:<br>Search and filters now stay anchored at the top of the screen while your results scroll underneath.<br>After updating your equipment from Search &amp; Filter, you&#39;re taken straight back to your filter.<br>Fixed workout logging where values could carry over between exercises in landscape mode.<br>Fixed several crashes.<br>Need a hand or have feedback? Reach our team anytime at hello@centr.com.",
+    "recentChanges": "We&#39;ve made your big-screen workouts better this release: when you cast or mirror, you&#39;ll see your progress and current exercise, and the progress bar keeps pace as you go. We also cleared up a few issues so your music and your login behave the way they should.<br><br>Questions, feedback, or need help? We&#39;re here: hello@centr.com.",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

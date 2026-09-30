@@ -1,0 +1,19 @@
+{
+  "product": "fitness.fitbod",
+  "name": "Fitbod",
+  "date": "2026-09-30",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "prev_fetched_at": "2026-09-28T14:14:59.164Z",
+      "curr_fetched_at": "2026-09-30T12:50:41.080Z",
+      "field_changes": [
+        {
+          "field": "IAPRange",
+          "old": "$9.99 - $129.99 per item",
+          "new": "$9.99 - $179.99 per item"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "claim_type": "price_changed",
+  "product": "fitness.fitbod",
+  "field": "iap_range",
+  "old_value": "$9.99 - $129.99 per item",
+  "new_value": "$9.99 - $179.99 per item",
+  "observed_at": "2026-09-30T12:50:41.080Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "play_listing",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

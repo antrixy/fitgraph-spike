@@ -1,0 +1,24 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-09-30",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "82478b8f5b7805f8e6cd5f2bab09ed94c5d6a5a4",
+      "prev_fetched_at": "2026-09-28T14:15:51.965Z",
+      "curr_fetched_at": "2026-09-30T12:51:32.246Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "7.5",
+          "new": "7.6.2"
+        },
+        {
+          "field": "recentChanges",
+          "old": "Japanese<br>• We have added another new language.<br>• If you notice any mistranslations, please tell us at info@alphaprogression.com.<br><br>Changes<br>• Various smaller changes.<br><br>Bugfixes<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com",
+          "new": "Changes<br>• You now have more options to export your data. In addition to having it sent via email, you can download the .csv directly, or copy it to the clipboard.<br>• Various smaller changes.<br><br>Bugfixes<br>• Fixed a bug where achievements were not displayed correctly for Norwegian users.<br>• Various minor bugfixes.<br><br>Questions about the update? Send us an email at info@alphaprogression.com"
+        }
+      ]
+    }
+  }
+}
