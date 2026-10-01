@@ -1,0 +1,63 @@
+{
+  "product": "fitness.weightwatchers",
+  "name": "WeightWatchers",
+  "date": "2026-10-01",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "curr_fetched_at": "2026-10-01T13:35:52.977Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "50% off with a 12-month plan",
+          "occurrences": 1
+        },
+        {
+          "text": "*Pricing based on a 12-month commitment.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews at the end of each plan term for another 12-month period unless canceled.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "Ends today: Save 72% on Core+ plans!",
+          "occurrences": 1
+        },
+        {
+          "text": "*Pay $12/month for your first 12 months when you purchase a 12-month Weight Watchers Core membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews for another 12-month period at the regular price at the end of each plan term unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "Excludes all other Weight Watchers plans, packages and services.",
+          "occurrences": 1
+        },
+        {
+          "text": "†Offer ends 9/30/26.",
+          "occurrences": 1
+        },
+        {
+          "text": "Pay $12/month for your first 12, 3, or 1 months when you purchase a 12., 3, or 1-month Weight Watchers Core+ membership.",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan auto-renews for another 12, 3, or 1-month period at the regular price at the end of each plan term unless canceled.",
+          "occurrences": 1
+        },
+        {
+          "text": "Offer available in participating areas only .",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 3,
+      "removed_total": 8
+    }
+  }
+}

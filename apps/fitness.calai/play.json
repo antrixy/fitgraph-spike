@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T12:50:00.882Z",
+  "fetched_at": "2026-10-01T13:36:11.012Z",
   "source": "google_play_scraper",
   "appId": "com.viraldevelopment.calai",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "#1 calorie counter &amp; nutrition tracker - snap a photo &amp; track calories easily",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4465376,
-    "score": 4.5590835,
+    "maxInstalls": 4468814,
+    "score": 4.552932,
     "scoreText": "4.6",
-    "ratings": 272096,
-    "reviews": 1697,
+    "ratings": 272123,
+    "reviews": 1696,
     "histogram": {
-      "1": 12790,
-      "2": 4152,
-      "3": 11258,
-      "4": 33785,
-      "5": 210086
+      "1": 13073,
+      "2": 4206,
+      "3": 11409,
+      "4": 33894,
+      "5": 209516
     },
     "price": 0,
     "free": true,

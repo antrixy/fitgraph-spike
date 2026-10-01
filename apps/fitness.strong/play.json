@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T12:50:13.510Z",
+  "fetched_at": "2026-10-01T13:36:20.890Z",
   "source": "google_play_scraper",
   "appId": "io.strongapp.strong",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "The cleanest, most intuitive, and easy-to-use workout tracker.",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4302849,
+    "maxInstalls": 4306180,
     "score": 4.2963514,
     "scoreText": "4.3",
-    "ratings": 42732,
+    "ratings": 42734,
     "reviews": 4326,
     "histogram": {
-      "1": 4038,
+      "1": 4039,
       "2": 1399,
       "3": 2479,
       "4": 4738,
-      "5": 30065
+      "5": 30066
     },
     "price": 0,
     "free": true,
@@ -63,8 +63,8 @@
     "contentRating": "Everyone",
     "adSupported": false,
     "released": "Apr 9, 2017",
-    "updated": 1786375215000,
-    "version": "v6.2.4",
+    "updated": 1790791799000,
+    "version": "v6.2.5",
     "recentChanges": "What’s new in Strong 6.2<br>• Live Updates<br>• Other bug fixes and improvements",
     "comments": [],
     "preregister": false,

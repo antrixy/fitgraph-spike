@@ -1,0 +1,27 @@
+{
+  "product": "fitness.setgraph",
+  "name": "Setgraph",
+  "date": "2026-10-01",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "curr_fetched_at": "2026-10-01T13:38:21.978Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Progress in Every Exercise",
+          "occurrences": 3
+        }
+      ],
+      "removed": [
+        {
+          "text": "Progress in Every Exericse",
+          "occurrences": 3
+        }
+      ],
+      "truncated": false,
+      "added_total": 1,
+      "removed_total": 1
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T12:53:58.032Z",
+  "fetched_at": "2026-10-01T13:40:08.802Z",
   "source": "google_play_scraper",
   "appId": "com.alltrails.alltrails",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Explore the outdoors: hiking trail maps, bike trails, camping &amp; backpacking maps",
     "installs": "50,000,000+",
     "minInstalls": 50000000,
-    "maxInstalls": 51769644,
-    "score": 4.5510936,
+    "maxInstalls": 51786180,
+    "score": 4.5509453,
     "scoreText": "4.6",
-    "ratings": 387505,
-    "reviews": 25621,
+    "ratings": 387557,
+    "reviews": 25626,
     "histogram": {
-      "1": 25023,
-      "2": 7123,
-      "3": 8301,
-      "4": 35872,
-      "5": 311176
+      "1": 25039,
+      "2": 7118,
+      "3": 8314,
+      "4": 35880,
+      "5": 311199
     },
     "price": 0,
     "free": true,
@@ -70,7 +70,7 @@
     "contentRating": "Everyone",
     "adSupported": true,
     "released": "Sep 13, 2011",
-    "updated": 1790033043000,
+    "updated": 1790644810000,
     "version": "VARY",
     "recentChanges": "Thanks for using AllTrails! This update includes:<br>• Updated the offline experience for members, with clearer messaging and consistency on map and feature availability.<br>• Introducing voice navigation for Plus members. Get audio cues for turn-by-turn directions and more.<br>• New challenge: Outside for Good. Join us and help raise $30k for public lands (US only).",
     "comments": [],

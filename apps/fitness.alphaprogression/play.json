@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T12:51:32.246Z",
+  "fetched_at": "2026-10-01T13:37:50.176Z",
   "source": "google_play_scraper",
   "appId": "com.alphaprogression.alphaprogression",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Workout planner &amp; lifting log: strength training &amp; muscle building workout plans",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 2021886,
-    "score": 4.8168674,
+    "maxInstalls": 2022878,
+    "score": 4.8173075,
     "scoreText": "4.8",
-    "ratings": 21154,
-    "reviews": 1646,
+    "ratings": 21170,
+    "reviews": 1648,
     "histogram": {
       "1": 454,
       "2": 301,
       "3": 97,
-      "4": 913,
-      "5": 19366
+      "4": 914,
+      "5": 19387
     },
     "price": 0,
     "free": true,
@@ -49,7 +49,7 @@
         "id": "HEALTH_AND_FITNESS"
       }
     ],
-    "icon": "https://play-lh.googleusercontent.com/Qx-OcOxvjDeyw3bE7EwegVc_EEieX3LsmusYnMq9JU9l86nWhRtnJMWkE1Wr78PVHSR4y66J2nyad1ooaNLB0g",
+    "icon": "https://play-lh.googleusercontent.com/4BwmeuF3Ek4jxoIBnRpycvjLLmQsfVRI--WHze_lt6RWLH2f6cNEwluEIbAc-yDUOMPvEKR2n-PQGgw4iMZFNQ",
     "headerImage": "https://play-lh.googleusercontent.com/gXy1J-XO5tARdmPcyn3Sdj9w_PNKBtNwFQO9g2b_sZBeAuQYvMvfPj8NzNmdp3Ukg_ld_8Yrb_jJoTXG-j9t",
     "screenshots": [
       "https://play-lh.googleusercontent.com/8yRKZ_bs3I6FPVR_L4oRbRBuVLsq7zf3logfUKWEPGdRh5zj-PXG1jo8PrSvoEI51ZozlkDc2pNPOiPXgcxi",

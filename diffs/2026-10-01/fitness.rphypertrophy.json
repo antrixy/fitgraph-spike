@@ -1,0 +1,39 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-10-01",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "prev_fetched_at": "2026-09-30T12:51:42.781Z",
+      "curr_fetched_at": "2026-10-01T13:37:56.908Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.5.0",
+          "new": "1.6.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Behind-the-scenes improvements and groundwork for upcoming features.",
+          "new": "Small style improvements on the login screen."
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "curr_fetched_at": "2026-10-01T13:38:02.633Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "&ndash; RP Strength",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 1
+    }
+  }
+}

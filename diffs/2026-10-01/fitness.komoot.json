@@ -1,0 +1,20 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-10-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "prev_fetched_at": "2026-09-30T12:53:49.337Z",
+      "curr_fetched_at": "2026-10-01T13:39:59.036Z",
+      "version_unreported": true,
+      "field_changes": [
+        {
+          "field": "recentChanges",
+          "old": "What&#39;s new?<br>- Long-press the komoot app icon to plan a route, open saved routes, or start recording.<br>- Double-tap an activity to like it.<br>- Replace a waypoint: tap it in the waypoint list and search, or pick a new spot on the map.<br><br>Bug fixes<br>- Fixed navigation not starting on routes with multiple restrictions.<br>- Fixed a crash loop on startup.",
+          "new": null
+        }
+      ]
+    }
+  }
+}

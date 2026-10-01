@@ -1,0 +1,13 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-10-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "prev_fetched_at": "2026-09-30T12:52:21.335Z",
+      "curr_fetched_at": "2026-10-01T13:38:29.523Z",
+      "version_unreported": true
+    }
+  }
+}

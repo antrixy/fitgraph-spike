@@ -1,0 +1,38 @@
+{
+  "product": "fitness.headspace",
+  "name": "Headspace",
+  "date": "2026-10-01",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "prev_fetched_at": "2026-09-30T12:56:37.717Z",
+      "curr_fetched_at": "2026-10-01T13:42:57.113Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "8.33.0",
+          "new": "8.34.0"
+        }
+      ]
+    },
+    "pricing_page": {
+      "prev_ok_commit": "3cdf5622454640e3a874cd4e724b713d82befe8c",
+      "curr_fetched_at": "2026-10-01T13:43:01.285Z",
+      "granularity": "sentence",
+      "added": [],
+      "removed": [
+        {
+          "text": "Leadership",
+          "occurrences": 2
+        },
+        {
+          "text": "Careers",
+          "occurrences": 2
+        }
+      ],
+      "truncated": false,
+      "added_total": 0,
+      "removed_total": 2
+    }
+  }
+}
