@@ -1,0 +1,30 @@
+{
+  "product": "fitness.komoot",
+  "name": "Komoot",
+  "date": "2026-10-02",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:39:54.279Z",
+      "curr_fetched_at": "2026-10-02T12:57:48.209Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "2026.39.2",
+          "new": "2026.40.1"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Bug fixes\n- Fixed an issue where music stayed at a lower volume after voice navigation instructions.\n- Fixed several bugs and improved app stability and performance.",
+          "new": "What's new?\n- Quickly start recording, plan a route or open Offline from your iPhone home screen or Spotlight.\n- Swipe right on Apple Watch stats screen to quickly pause or stop your activity.\n\nBug fixes\n- Fixed a crash when opening some saved routes.\n- Improved login speed and reliability."
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:39:59.036Z",
+      "curr_fetched_at": "2026-10-02T12:57:50.766Z",
+      "version_unreported": true
+    }
+  }
+}

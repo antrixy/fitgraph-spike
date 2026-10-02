@@ -1,0 +1,51 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-10-02",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "curr_fetched_at": "2026-10-02T12:56:00.635Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "How much does Alpha Progression Pro cost, and how does the free trial work?",
+          "occurrences": 1
+        },
+        {
+          "text": "When the trial ends, the annual price shown at sign-up is charged in one payment unless you cancel before your provider's deadline.",
+          "occurrences": 1
+        },
+        {
+          "text": "With a free Alpha Progression account, your training data syncs to the cloud when you're signed in and back online.",
+          "occurrences": 1
+        },
+        {
+          "text": "Guest-account data is stored only on your device.",
+          "occurrences": 1
+        }
+      ],
+      "removed": [
+        {
+          "text": "If you're signed into your Alpha Progression account, your training data syncs automatically when you're back online.",
+          "occurrences": 1
+        },
+        {
+          "text": "How much does Alpha Progression Pro cost, and can I try it free?",
+          "occurrences": 1
+        },
+        {
+          "text": "The annual plan is billed in one payment.",
+          "occurrences": 1
+        },
+        {
+          "text": "The trial becomes a paid annual subscription unless canceled in time.",
+          "occurrences": 1
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 4
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "product": "fitness.strava",
+  "name": "Strava",
+  "date": "2026-10-02",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:38:26.412Z",
+      "curr_fetched_at": "2026-10-02T12:56:42.093Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "482.0.0",
+          "new": "483.0.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!",
+          "new": "Fresh Strava stickers just dropped. Head to your latest activity, tap the share button, and pick your favorite from the new grid view to post straight to your socials. How will you share your story?"
+        }
+      ]
+    },
+    "play": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:38:29.523Z",
+      "curr_fetched_at": "2026-10-02T12:56:44.657Z",
+      "version_unreported": true
+    }
+  }
+}

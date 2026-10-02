@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.strava",
+  "integration": "strava",
+  "direction": "added",
+  "observed_at": "2026-10-02T12:56:42.093Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "release_notes",
+      "excerpt": "Fresh Strava stickers just dropped. Head to your latest activity, tap the share button, and pick your favorite from the new grid vie",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

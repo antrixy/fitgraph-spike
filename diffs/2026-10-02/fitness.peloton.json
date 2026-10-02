@@ -1,0 +1,24 @@
+{
+  "product": "fitness.peloton",
+  "name": "Peloton",
+  "date": "2026-10-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:41:30.035Z",
+      "curr_fetched_at": "2026-10-02T12:59:11.335Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "3.77.0",
+          "new": "3.78.0"
+        },
+        {
+          "field": "recentChanges",
+          "old": null,
+          "new": "This release includes under-the-hood improvements to make the Peloton App faster, more reliable, and power future features."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "product": "fitness.rphypertrophy",
+  "name": "RP Hypertrophy",
+  "date": "2026-10-02",
+  "sources": {
+    "itunes": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:37:56.908Z",
+      "curr_fetched_at": "2026-10-02T12:56:04.960Z",
+      "field_changes": [
+        {
+          "field": "version",
+          "old": "1.6.0",
+          "new": "1.7.0"
+        },
+        {
+          "field": "releaseNotes",
+          "old": "Small style improvements on the login screen.",
+          "new": "Bug fixes and performance improvements."
+        }
+      ]
+    }
+  }
+}

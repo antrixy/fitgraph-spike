@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T13:41:07.241Z",
+  "fetched_at": "2026-10-02T12:58:51.660Z",
   "source": "google_play_scraper",
   "appId": "fi.polar.polarflow",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "The exclusive app designed to maximize the potential of your Polar devices.",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 8276244,
-    "score": 2.8380744,
+    "maxInstalls": 8280324,
+    "score": 2.8355262,
     "scoreText": "2.8",
-    "ratings": 181492,
+    "ratings": 181537,
     "reviews": 3294,
     "histogram": {
-      "1": 68301,
-      "2": 22615,
-      "3": 15873,
-      "4": 19457,
-      "5": 55187
+      "1": 68051,
+      "2": 23072,
+      "3": 15903,
+      "4": 19487,
+      "5": 54936
     },
     "price": 0,
     "free": true,

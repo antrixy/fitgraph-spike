@@ -1,0 +1,89 @@
+{
+  "product": "fitness.centr",
+  "name": "Centr",
+  "date": "2026-10-02",
+  "sources": {
+    "play": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "prev_fetched_at": "2026-10-01T13:41:51.554Z",
+      "curr_fetched_at": "2026-10-02T12:59:33.237Z",
+      "version_unreported": true
+    },
+    "pricing_page": {
+      "prev_ok_commit": "c1b849c4ac5aa445a73143bde5f88ddfee1731f2",
+      "curr_fetched_at": "2026-10-02T12:59:36.618Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "GET CENTR COACH APP",
+          "occurrences": 1
+        },
+        {
+          "text": "Personalized workouts built around your goals and your equipment.",
+          "occurrences": 3
+        },
+        {
+          "text": "Get 7 Days Free",
+          "occurrences": 9
+        },
+        {
+          "text": "Explore",
+          "occurrences": 2
+        }
+      ],
+      "removed": [
+        {
+          "text": "GET CENTR COACH",
+          "occurrences": 1
+        },
+        {
+          "text": "programs for every goal",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore the app",
+          "occurrences": 1
+        },
+        {
+          "text": "A connected system",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore workouts for your Centr equipment",
+          "occurrences": 1
+        },
+        {
+          "text": "Your plan",
+          "occurrences": 1
+        },
+        {
+          "text": "Get your personalized plan",
+          "occurrences": 1
+        },
+        {
+          "text": "(39)",
+          "occurrences": 3
+        },
+        {
+          "text": "Centr 5-25 Lb Dumbbell Weight Set with Rack",
+          "occurrences": 3
+        },
+        {
+          "text": "$439",
+          "occurrences": 3
+        },
+        {
+          "text": "explore the centr coach app",
+          "occurrences": 1
+        },
+        {
+          "text": "Explore the Centr Coach app",
+          "occurrences": 4
+        }
+      ],
+      "truncated": false,
+      "added_total": 4,
+      "removed_total": 12
+    }
+  }
+}
