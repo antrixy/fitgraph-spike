@@ -9,7 +9,7 @@
       "tier": "vendor_asserted",
       "source": "release_notes",
       "excerpt": "Fresh Strava stickers just dropped. Head to your latest activity, tap the share button, and pick your favorite and post straight to",
-      "snapshot_commit": "PENDING_COMMIT",
+      "snapshot_commit": "27ce1c8467dc9846f4c2fa644805e0fbb739ca15",
       "prev_ok_commit": "15daf4eecd4caf605032243637c4500b88c6211f"
     }
   ],
