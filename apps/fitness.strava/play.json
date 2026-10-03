@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T12:56:44.657Z",
+  "fetched_at": "2026-10-03T11:54:05.220Z",
   "source": "google_play_scraper",
   "appId": "com.strava",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Track your active life in one place and share the journey with friends.",
     "installs": "100,000,000+",
     "minInstalls": 100000000,
-    "maxInstalls": 134629160,
-    "score": 4.5979114,
+    "maxInstalls": 134972869,
+    "score": 4.5981135,
     "scoreText": "4.6",
-    "ratings": 1192565,
-    "reviews": 34377,
+    "ratings": 1193190,
+    "reviews": 34378,
     "histogram": {
-      "1": 64938,
-      "2": 17489,
-      "3": 31871,
-      "4": 103494,
-      "5": 974750
+      "1": 64855,
+      "2": 17614,
+      "3": 31834,
+      "4": 103508,
+      "5": 975335
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "released": "Jun 9, 2011",
     "updated": 1790764132000,
     "version": "VARY",
-    "recentChanges": "Hi there. We fixed a couple bugs and made some performance improvements, so the app should now be almost as speedy as you. Have fun out there!<br>",
+    "recentChanges": "Fresh Strava stickers just dropped. Head to your latest activity, tap the share button, and pick your favorite and post straight to your socials. How will you share your story?<br>",
     "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,

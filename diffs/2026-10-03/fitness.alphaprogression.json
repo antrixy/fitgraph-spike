@@ -1,0 +1,170 @@
+{
+  "product": "fitness.alphaprogression",
+  "name": "Alpha Progression",
+  "date": "2026-10-03",
+  "sources": {
+    "pricing_page": {
+      "prev_ok_commit": "15daf4eecd4caf605032243637c4500b88c6211f",
+      "curr_fetched_at": "2026-10-03T11:53:31.593Z",
+      "granularity": "sentence",
+      "added": [
+        {
+          "text": "Features at a glance",
+          "occurrences": 1
+        },
+        {
+          "text": "Workout generator",
+          "occurrences": 1
+        },
+        {
+          "text": "Muscle priorities",
+          "occurrences": 1
+        },
+        {
+          "text": "Split selection",
+          "occurrences": 1
+        },
+        {
+          "text": "Weight & rep recommendations",
+          "occurrences": 1
+        },
+        {
+          "text": "795 exercises",
+          "occurrences": 1
+        },
+        {
+          "text": "Videos & instructions",
+          "occurrences": 1
+        },
+        {
+          "text": "Manual plans",
+          "occurrences": 1
+        },
+        {
+          "text": "Standalone workouts",
+          "occurrences": 1
+        },
+        {
+          "text": "RIR tracking",
+          "occurrences": 1
+        },
+        {
+          "text": "Periodi&shy;zation",
+          "occurrences": 1
+        },
+        {
+          "text": "Deloads",
+          "occurrences": 1
+        },
+        {
+          "text": "Warm-up calculator",
+          "occurrences": 1
+        },
+        {
+          "text": "Rest timer with alarm",
+          "occurrences": 1
+        },
+        {
+          "text": "Supersets",
+          "occurrences": 1
+        },
+        {
+          "text": "Dropsets",
+          "occurrences": 1
+        },
+        {
+          "text": "Estimated 10RM & 1RM",
+          "occurrences": 1
+        },
+        {
+          "text": "Notes",
+          "occurrences": 1
+        },
+        {
+          "text": "Offline logging",
+          "occurrences": 1
+        },
+        {
+          "text": "Plan & workout sharing",
+          "occurrences": 1
+        },
+        {
+          "text": "CSV export",
+          "occurrences": 1
+        },
+        {
+          "text": "Multiple gym profiles",
+          "occurrences": 1
+        },
+        {
+          "text": "Custom exercises",
+          "occurrences": 1
+        },
+        {
+          "text": "Progress charts",
+          "occurrences": 1
+        },
+        {
+          "text": "Personal records",
+          "occurrences": 1
+        },
+        {
+          "text": "Training streaks",
+          "occurrences": 1
+        },
+        {
+          "text": "Achievements",
+          "occurrences": 1
+        },
+        {
+          "text": "Training reports",
+          "occurrences": 1
+        },
+        {
+          "text": "13 languages",
+          "occurrences": 1
+        },
+        {
+          "text": "Cross-device sync",
+          "occurrences": 1
+        },
+        {
+          "text": "Apple Health & Health Connect",
+          "occurrences": 1
+        },
+        {
+          "text": "iOS Live Activity",
+          "occurrences": 1
+        },
+        {
+          "text": "Android live notifications",
+          "occurrences": 1
+        },
+        {
+          "text": "Light and dark mode",
+          "occurrences": 1
+        },
+        {
+          "text": "No account required",
+          "occurrences": 1
+        },
+        {
+          "text": "Forever free version",
+          "occurrences": 1
+        },
+        {
+          "text": "No ads",
+          "occurrences": 1
+        },
+        {
+          "text": "Free Pro trial",
+          "occurrences": 1
+        }
+      ],
+      "removed": [],
+      "truncated": false,
+      "added_total": 38,
+      "removed_total": 0
+    }
+  }
+}

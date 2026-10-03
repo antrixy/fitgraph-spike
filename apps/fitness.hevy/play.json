@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T12:54:41.179Z",
+  "fetched_at": "2026-10-03T11:52:19.292Z",
   "source": "google_play_scraper",
   "appId": "com.hevy",
   "result": {
@@ -9,17 +9,17 @@
     "summary": "Gym Log &amp; Workout Tracker | Fitness Journal, Training &amp; Weight Lifting Planner",
     "installs": "5,000,000+",
     "minInstalls": 5000000,
-    "maxInstalls": 8324314,
-    "score": 4.883567,
+    "maxInstalls": 8365991,
+    "score": 4.884818,
     "scoreText": "4.9",
-    "ratings": 272793,
-    "reviews": 7003,
+    "ratings": 273272,
+    "reviews": 7006,
     "histogram": {
       "1": 1220,
       "2": 498,
-      "3": 2375,
-      "4": 20568,
-      "5": 248102
+      "3": 2303,
+      "4": 20450,
+      "5": 248777
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "contentRating": "Teen",
     "adSupported": false,
     "released": "Jun 29, 2019",
-    "updated": 1789694869000,
-    "version": "3.1.15",
+    "updated": 1790859976000,
+    "version": "3.1.16",
     "recentChanges": "What&#39;s new in this update:<br><br>You can now Send workouts to ChatGPT &amp; Claude directly from the finish workout screen!<br>Added support for 5 new languages across the app and hevy.com<br>Bug fixes and performance improvements!",
     "comments": [],
     "preregister": false,

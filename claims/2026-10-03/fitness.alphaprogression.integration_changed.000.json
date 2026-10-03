@@ -1,0 +1,21 @@
+{
+  "claim_type": "integration_changed",
+  "product": "fitness.alphaprogression",
+  "integration": "apple_health",
+  "direction": "added",
+  "observed_at": "2026-10-03T11:53:31.593Z",
+  "evidence": [
+    {
+      "tier": "vendor_asserted",
+      "source": "pricing_page",
+      "excerpt": "Apple Health & Health Connect",
+      "snapshot_commit": "PENDING_COMMIT",
+      "prev_ok_commit": "15daf4eecd4caf605032243637c4500b88c6211f"
+    }
+  ],
+  "source_count": 1,
+  "review": {
+    "verdict": null,
+    "reviewed_at": null
+  }
+}

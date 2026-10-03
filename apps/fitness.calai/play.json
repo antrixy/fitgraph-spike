@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T12:54:21.677Z",
+  "fetched_at": "2026-10-03T11:51:58.899Z",
   "source": "google_play_scraper",
   "appId": "com.viraldevelopment.calai",
   "result": {
@@ -10,16 +10,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 4474437,
-    "score": 4.552984,
+    "score": 4.5536222,
     "scoreText": "4.6",
-    "ratings": 272106,
+    "ratings": 272107,
     "reviews": 1695,
     "histogram": {
-      "1": 13026,
-      "2": 4194,
-      "3": 11483,
-      "4": 33907,
-      "5": 209460
+      "1": 12988,
+      "2": 4181,
+      "3": 11446,
+      "4": 34018,
+      "5": 209437
     },
     "price": 0,
     "free": true,
